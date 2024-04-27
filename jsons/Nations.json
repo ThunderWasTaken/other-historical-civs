@@ -1,1 +1,31 @@
+[
+	{
+		"name": "Norway",
+		"leaderName": "Ragnar Lodbrok",
+		"adjective": ["Norwegian"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Domination",
 
+		"startIntroPart1": "Ragnar Lodbrok, a legendary viking leader during the viking ages that has lead the petty kingdoms of Norway into prosperity, and caused great chaos to those unfortunate enough to be victim of your vikingry. Oh Ragnar, the world has changed so much and now we require your great strength once again, will you guide us into prosperity once more in the cold winters of scandinavia? Can you successfuly strike fear into the hearts of your enemies? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "We have landed on their shores! Strike fear into their hearts! RAHHH!!",
+		"attacked": "We will warm ourselves with the skin of your soldiers.",
+		"defeated": "Urk... You have defeated me... I applaud you for your skills.",
+		"introduction": "Friend or foe? You wouldn't want to be the latter!",
+
+		"neutralHello": "Hello!",
+		"hateHello": "Come to get pillaged?",
+
+		"tradeRequest": "Us vikings try to be self sufficient, but it doesn't hurt to have some trade!",
+
+		"outerColor": [186, 12, 47],
+		"innerColor": [0, 32, 91],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Berserkers of Norse",
+		"uniques":["[Land] units gain [+3 Movement] from [Pillaging]","Gain 20% of an enemy [sea] units [cost] whenever you [destroy] them with a [sea] unit."]
+		"cities":["Oslo","Bergen","Stavanger","Trondheim","Drammen","Fredrikstad","Skien","Kristiansand","Tonsberg","Alesund",
+			"Moss","Sandefjord","Haugesund","Arendal","Bodo","Tromso","Hamar","Gjovik","Larvik","Halden",
+			"Askoy","Jessheim","Kongsberg","Molde","Ski","Harstad","Lillehammer","Horten","Korsvik","Mo i Rana","Tromsdalen",
+			"Honefoss","Alta","Elverum","Raholt","Askim", "Osoyro","Leirvik","Grimstad","Narvik","Venessla","Drobak"]
+        },
+]
