@@ -12,5 +12,21 @@
 		"upgradesTo": "Caravel",
 		"uniques": ["[+20]% Strength <vs [Water] units>"],
 		"attackSound": "nonmetalhit"
-    },
+    	},
+	{
+		"name": "Horon Swordsman",
+		"unitType": "Sword",
+		"uniqueTo": "Mali",
+		"replaces": "Swordsman",
+		"movement": 2,
+		"strength": 16,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"uniques": ["[-25]% maintenance costs"],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	},
   ]
