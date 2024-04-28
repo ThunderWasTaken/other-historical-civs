@@ -1,1 +1,16 @@
-
+[
+	  {
+		"name": "Drakkar",
+		"unitType": "Melee Water",
+		"uniqueTo": "Norway",
+		"replaces": "Trireme",
+		"movement": 4,
+		"strength": 11,
+		"cost": 45,
+		"requiredTech": "Sailing",
+		"obsoleteTech": "Astronomy",
+		"upgradesTo": "Caravel",
+		"uniques": ["[+20]% Strength <vs [Water] units>"],
+		"attackSound": "nonmetalhit"
+    },
+  ]
