@@ -22,7 +22,7 @@
 		"innerColor": [0, 32, 91],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Berserkers of Norse",
-		"uniques":"["Earn [20]% of killed [Water] unit's [Cost] as [Gold],"No movement cost to pillage <for [Melee] units>"]"
+		"uniques":["Earn [20]% of killed [Water] unit's [Cost] as [Gold],"No movement cost to pillage <for [Melee] units>"]
 		"cities":["Oslo","Bergen","Stavanger","Trondheim","Drammen","Fredrikstad","Skien","Kristiansand","Tonsberg","Alesund",
 			"Moss","Sandefjord","Haugesund","Arendal","Bodo","Tromso","Hamar","Gjovik","Larvik","Halden",
 			"Askoy","Jessheim","Kongsberg","Molde","Ski","Harstad","Lillehammer","Horten","Korsvik","Mo i Rana","Tromsdalen",
