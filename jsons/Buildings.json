@@ -10,5 +10,17 @@
 		"requiredBuilding": "Shrine",
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy"
-      },
+	},
+	{
+		"name": "Gold Mine",
+		"maintenance": 0,
+		"requiredNearbyImprovedResources": ["Gold Ore", "Silver"],
+		"replaces": "Mint",
+		"uniqueTo": "Mali",
+		"production": 1,
+		"gold": 1,
+		"uniques": ["[+2 Gold] from [Gold Ore] tiles [in this city]", "[+2 Gold] from [Silver] tiles [in this city]"],
+		"hurryCostModifier": 25,
+		"requiredTech": "Currency"
+	},
 ]
