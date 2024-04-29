@@ -57,4 +57,33 @@
 			"Koury","Massigui","Tonka","Kadiolo","Wassoulou-Balle","Kaladougou","Koumantou","Ouelessebougou","Kita","Koulikoro","Nioro",
 			"Djenne","Douentza","Bourem","Kidal","Bandiagara", "Dire","Goundam","Toya","Troungoumbe","Tenenkou","Fatao"]
         },
+	{
+		"name": "Holy Romans",
+		"leaderName": "Otto I",
+		"adjective": ["Holy Roman"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Otto the Great, king of Italy, Germany and Saxony, a great military commander who have managed to ressurect the Holy Roman Empire and claimed title as the successor of Charlemagne and the Carolingian Empire. Oh Otto, the world now needs your military greatness once more. Can you create a great catholic nation once more? Can you lead this civilization into lasting dominance in history? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "The will of God is on our side! Surrender now!",
+		"attacked": "You are a spawn of the devil! My crusaders will vanquish you!",
+		"defeated": "God! I have failed you...",
+		"introduction": "Praise the lord, fellow man.",
+
+		"neutralHello": "Hello.",
+		"hateHello": "What is it?",
+
+		"tradeRequest": "May this trade bless both of our nations into prosperity.",
+
+		"outerColor": [255, 204, 25],
+		"innerColor": [168, 11, 22],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Deus Vult",
+		"uniques": ["[+100]% [Faith] [in all cities] <when at war>", "[+50]% of excess happiness converted to [Faith]", "Free [Great Prophet] appears <after founding a religion>"]
+		"cities":["Prague","Milan","Vienna","Augsburg","Cologne","Nuremberg","Hamburg","Magdeburg","Breslau","Strasburg",
+			"Lubeck","Ulm","Regensburg","Frankfurt am Main","Munchen","Roma","Mainz","Speyer","Trier","Worms",
+			"Lyon","Verona","Metz","Florence","Genoa","Marseille","Padua","Metz","Aachen","Danzig","Piedmont-Savoy",
+			"Tuscany","Parma-Piacenza","Modena-Reggio","Gorizia and Gradisca","Lucca", "Saxony","Germans","East Francia","Bavaria","Luxembourg","Italia"]
+	},
 ]
