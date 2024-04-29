@@ -34,7 +34,7 @@
 		"faith": 2,
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Walls",
-		"uniques": ["[+3 Faith] [in this city] <after discovering [Archeology]>", "Destroyed when the city is captured"],
+		"uniques": ["[+3 Faith] [in this city] <after discovering [Archaeology]>", "Destroyed when the city is captured"],
 		"requiredTech": "Chivalry"
 	}
 ]
