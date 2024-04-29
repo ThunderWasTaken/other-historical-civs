@@ -29,4 +29,17 @@
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	},
+	{
+		"name": "Crusader",
+		"unitType": "Sword",
+		"uniques": ["Can remove other religions from cities <once> <after which this unit is consumed>"]
+		"movement": 2,
+		"strength": 23,
+		"cost": 125,
+		"requiredTech": "Steel",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"attackSound": "metalhit"
+	}
   ]
