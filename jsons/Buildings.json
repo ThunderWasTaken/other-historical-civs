@@ -23,4 +23,18 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Currency"
 	},
+	{
+		"name": "Holy Order Castle",
+		"cost": 150,
+		"replaces": "Castle",
+		"uniqueTo": "Holy Romans",
+		"cityStrength": 7,
+		"cityHealth": 25,
+		"culture": 1,
+		"faith": 2,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"uniques": ["[+3 Faith] [in this city] <after discovering [Archeology]>", "Destroyed when the city is captured"],
+		"requiredTech": "Chivalry"
+	}
 ]
