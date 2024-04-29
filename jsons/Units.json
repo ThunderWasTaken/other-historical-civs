@@ -32,6 +32,7 @@
 	{
 		"name": "Crusader",
 		"unitType": "Sword",
+		"uniqueTo": "Holy Romans",
 		"uniques": ["Can remove other religions from cities <once> <after which this unit is consumed>"]
 		"movement": 2,
 		"strength": 23,
