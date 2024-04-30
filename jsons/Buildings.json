@@ -27,7 +27,7 @@
 		"name": "Holy Order Castle",
 		"cost": 150,
 		"replaces": "Castle",
-		"uniqueTo": "Holy Romans",
+		"uniqueTo": "The Holy Romans",
 		"cityStrength": 7,
 		"cityHealth": 25,
 		"culture": 1,
