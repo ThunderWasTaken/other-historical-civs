@@ -22,7 +22,7 @@
 		"innerColor": [0, 32, 91],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Berserkers of Norse",
-		"uniques":["Earn [20]% of killed [Water] unit's [Cost] as [Gold]", "No movement cost to pillage <for [Melee] units>"]
+		"uniques":["Earn [50]% of killed [Water] unit's [Cost] as [Gold]", "No movement cost to pillage <for [Melee] units>"]
 		"cities":["Oslo","Bergen","Stavanger","Trondheim","Drammen","Fredrikstad","Skien","Kristiansand","Tonsberg","Alesund",
 			"Moss","Sandefjord","Haugesund","Arendal","Bodo","Tromso","Hamar","Gjovik","Larvik","Halden",
 			"Askoy","Jessheim","Kongsberg","Molde","Ski","Harstad","Lillehammer","Horten","Korsvik","Mo i Rana","Tromsdalen",
@@ -80,7 +80,7 @@
 		"innerColor": [168, 11, 22],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Deus Vult",
-		"uniques": ["[+100]% [Faith] [in all cities] <when at war>", "[+50]% of excess happiness converted to [Faith]", "Free [Great Prophet] appears <after founding a religion>"]
+		"uniques": ["[+100]% [Faith] [in all cities] <when at war>", "[+20]% of excess happiness converted to [Faith]", "Free [Great Prophet] appears <after founding a religion>"]
 		"cities":["Prague","Milan","Vienna","Augsburg","Cologne","Nuremberg","Hamburg","Magdeburg","Breslau","Strasburg",
 			"Lubeck","Ulm","Regensburg","Frankfurt am Main","Munchen","Roma","Mainz","Speyer","Trier","Worms",
 			"Lyon","Verona","Metz","Florence","Genoa","Marseille","Padua","Metz","Aachen","Danzig","Piedmont-Savoy",
