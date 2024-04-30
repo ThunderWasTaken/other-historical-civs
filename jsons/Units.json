@@ -32,11 +32,11 @@
 	{
 		"name": "Crusader",
 		"unitType": "Sword",
-		"uniqueTo": "Holy Romans",
+		"uniqueTo": "The Holy Romans",
 		"uniques": ["Can remove other religions from cities <once> <after which this unit is consumed>"]
 		"movement": 2,
-		"strength": 23,
-		"cost": 125,
+		"strength": 20,
+		"cost": 135,
 		"requiredTech": "Steel",
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Gunpowder",
