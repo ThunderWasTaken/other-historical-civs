@@ -105,8 +105,8 @@
 
 		"tradeRequest": "We shall share our goods to make sure we both prosper.",
 
-		"outerColor": [213, 55, 47],
-		"innerColor": [188, 160, 1],
+		"outerColor": [155, 26, 26],
+		"innerColor": [255, 235, 103],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Enduring The Tough Times",
 		"uniques": ["[+20]% Strength for cities", "Enemy [Wounded] units must spend [1] extra movement points when inside your territory", "[+10]% to Flank Attack bonuses"]
