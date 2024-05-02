@@ -42,5 +42,19 @@
 		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Bucellarii",
+		"unitType": "Sword",
+		"replaces": "Spearman",
+		"uniqueTo": "The Western Romans",
+		"movement": 2,
+		"strength": 12,
+		"cost": 50,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[-20]% maintenance costs"],
+		"attackSound": "metalhit"
 	}
   ]
