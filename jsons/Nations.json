@@ -115,4 +115,33 @@
 			"Leptis Magna","Burdigala","Lutetia","Londinium","Colonia Agrippina","Nova Carthrage","Tingis","Genua","Sirmium","Serdica","Caralis",
 			"Neapolis","Toletum","Bracara","Narbo","Augusta Treverorum", "Eburacum","Dyrrachium","Mauretania","Tarraconensis","Aquitania","Italia"]
 	},
+        {
+		"name": "Wales",
+		"leaderName": "Owain Gwynedd",
+		"adjective": ["Welsh"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Cultural",
+
+		"startIntroPart1": "Owain Gwynedd, the self-proclaimed Prince of Wales and true King of Powys, you captured many lands east pushing into the territories of the large nation of England. You gained many victories in the wars you've been waged against and ended up above your contemporaries, your kingdom needs you once more, oh great Owain. Can you withstand the pressure from foreign forces once more? Can you withstand the perils of the world? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "Your lands are very plenty, I will be taking them.",
+		"attacked": "This is not my first time on the battlefield, don't underestimate me!",
+		"defeated": "I have lost, I surrender my kingdom to you, oh mighty ruler.",
+		"introduction": "I say hello to you, stranger.",
+
+		"neutralHello": "Hello.",
+		"hateHello": "Got something to say?",
+
+		"tradeRequest": "My kingdom offers you this trade deal, it shall be best for you to accept.",
+
+		"outerColor": [101, 14, 1],
+		"innerColor": [255, 191, 1],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Red Dragon of Wales",
+		"uniques":["May buy [Melee] units with [Culture] for [2] times their normal Production cost", "Earn [15]% of the damage done to [Melee] units as [Culture]"]
+		"cities":["Cardiff","Swansea","Newport","Barry","Bridgend","Cwmbrand","Wrexham","Llanelli","Neath","Merthyr Tydfil",
+			"Aberdare","Caerphilly","Pontypridd","Talbot","Colwyn","Pontypool","Penarth","Rhyl","Ebbw Vale","Maesteg",
+			"Tonypandy","Bangor","Connah's Quay","Prestatyn","Carmarthen","Porthcawl","Conwy","Risca","Llandudno","Aberystwyth","Tredegar",
+			"Hawarden","Milford Haven","Church Village","Gorseinon","Pyle", "Abergavenny","Buckley","Porth","Rhondda","Rhosllanerchrugog","Flint"]
+	},
 ]
