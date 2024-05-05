@@ -36,5 +36,16 @@
 		"requiredBuilding": "Walls",
 		"uniques": ["[+3 Faith] [in this city] <after discovering [Archaeology]>", "Destroyed when the city is captured"],
 		"requiredTech": "Chivalry"
+	},
+	{
+		"name": "Earth Hillfort",
+		"replaces": "Walls",
+		"cost": 50,
+		"uniqueTo": "Wales",
+		"cityStrength": 5,
+		"cityHealth": 65,
+		"hurryCostModifier": 20,
+		"requiredTech": "Masonry",
+		"uniques": ["Destroyed when the city is captured"]
 	}
 ]
