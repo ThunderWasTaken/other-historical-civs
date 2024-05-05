@@ -71,5 +71,19 @@
 			"Can be earned through combat",
             "Great Person - [War]", "Unbuildable"],
 		"movement": 2
+	},
+	{
+		"name": "Culture Warrior",
+		"unitType": "Sword",
+		"replaces": "Spearman",
+		"uniqueTo": "Wales",
+		"movement": 2,
+		"strength": 10,
+		"cost": 50,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Culture]"],
+		"attackSound": "metalhit"
 	}
   ]
