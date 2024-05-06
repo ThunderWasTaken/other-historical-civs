@@ -51,7 +51,7 @@
 		"innerColor": [121, 110, 0],
 		"favoredReligion": "Islam",
 		"uniqueName": "Worlds Wealthiest Man",
-		"uniques":["[+1 Gold] from [Desert] tiles [in all cities]", "[+100]% [Gold] from every [Mine]", "[+1 Gold] from each Trade Route"]
+		"uniques":["[+1 Gold] from [Desert] tiles [in all cities]", "[+100]% [Gold] from every [Mine]", "[+2 Gold] from each Trade Route"]
 		"cities":["Bamako","Sikasso","Kalabancoro","Koutiala","Segou","Kayes","Kati","Mopti","Niono","Gao",
 			"San","Koro","Bla","Bougouni","Mande","Baguineda-Camp","Kolondieba","Kolokani","Pelengana","Timbuktu",
 			"Koury","Massigui","Tonka","Kadiolo","Wassoulou-Balle","Kaladougou","Koumantou","Ouelessebougou","Kita","Koulikoro","Nioro",
@@ -109,7 +109,7 @@
 		"innerColor": [255, 235, 103],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Enduring The Tough Times",
-		"uniques": ["[+20]% Strength for cities", "Enemy [Wounded] units must spend [1] extra movement points when inside your territory", "[+10]% to Flank Attack bonuses"]
+		"uniques": ["[+25]% Strength for cities", "Enemy [Wounded] units must spend [1] extra movement points when inside your territory", "[+10]% to Flank Attack bonuses"]
 		"cities":["Rome","Ravenna","Vivarium","Syracuse","Aquileia","Salonae","Carthrage","Mediolanum","Lugdunum","Massilia",
 			"Barcino","Caesaraugusta","Valentia","Braga","Conimbra","Emirita Augusta","Hispalis","Tipasa","Dougga","El Djem",
 			"Leptis Magna","Burdigala","Lutetia","Londinium","Colonia Agrippina","Nova Carthrage","Tingis","Genua","Sirmium","Serdica","Caralis",
@@ -138,7 +138,7 @@
 		"innerColor": [255, 191, 1],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Red Dragon of Wales",
-		"uniques":["May buy [Melee] units with [Culture] for [2] times their normal Production cost", "Earn [15]% of the damage done to [Melee] units as [Culture]"]
+		"uniques":["May buy [Melee] units with [Culture] for [2] times their normal Production cost", "Earn [20]% of the damage done to [Melee] units as [Culture]"]
 		"cities":["Cardiff","Swansea","Newport","Barry","Bridgend","Cwmbrand","Wrexham","Llanelli","Neath","Merthyr Tydfil",
 			"Aberdare","Caerphilly","Pontypridd","Talbot","Colwyn","Pontypool","Penarth","Rhyl","Ebbw Vale","Maesteg",
 			"Tonypandy","Bangor","Connah's Quay","Prestatyn","Carmarthen","Porthcawl","Conwy","Risca","Llandudno","Aberystwyth","Tredegar",
