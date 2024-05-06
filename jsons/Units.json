@@ -78,12 +78,12 @@
 		"replaces": "Spearman",
 		"uniqueTo": "Wales",
 		"movement": 2,
-		"strength": 10,
+		"strength": 11,
 		"cost": 50,
 		"requiredTech": "Bronze Working",
-		"obsoleteTech": "Civil Service",
+		"obsoleteTech": "Metallurgy",
 		"upgradesTo": "Pikeman",
-		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Culture]"],
+		"promotions": ["Cultured"]
 		"attackSound": "metalhit"
 	}
   ]
