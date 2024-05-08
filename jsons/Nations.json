@@ -138,7 +138,7 @@
 		"innerColor": [255, 191, 1],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Red Dragon of Wales",
-		"uniques":["May buy [Melee] units with [Culture] for [2] times their normal Production cost", "Earn [20]% of the damage done to [Melee] units as [Culture]"]
+		"uniques": ["Enables conversion of city production to [Culture]", "Each city founded increases culture cost of policies [+10]% less than normal"]
 		"cities":["Cardiff","Swansea","Newport","Barry","Bridgend","Cwmbrand","Wrexham","Llanelli","Neath","Merthyr Tydfil",
 			"Aberdare","Caerphilly","Pontypridd","Talbot","Colwyn","Pontypool","Penarth","Rhyl","Ebbw Vale","Maesteg",
 			"Tonypandy","Bangor","Connah's Quay","Prestatyn","Carmarthen","Porthcawl","Conwy","Risca","Llandudno","Aberystwyth","Tredegar",
