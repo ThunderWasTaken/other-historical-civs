@@ -75,15 +75,15 @@
 	{
 		"name": "Culture Warrior",
 		"unitType": "Sword",
-		"replaces": "Spearman",
+		"replaces": "Lancer",
 		"uniqueTo": "Wales",
 		"movement": 2,
-		"strength": 11,
-		"cost": 50,
-		"requiredTech": "Bronze Working",
-		"obsoleteTech": "Metallurgy",
-		"upgradesTo": "Pikeman",
+		"strength": 25,
+		"cost": 175,
+		"requiredTech": "Metallurgy",
 		"promotions": ["Cultured"]
+		"upgradesTo": "Anti-Tank Gun",
+		"obsoleteTech": "Combined Arms",
 		"attackSound": "metalhit"
 	}
   ]
