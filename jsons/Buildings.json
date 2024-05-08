@@ -44,6 +44,7 @@
 		"uniqueTo": "Wales",
 		"cityStrength": 5,
 		"cityHealth": 65,
+		"culture": 2,
 		"hurryCostModifier": 20,
 		"requiredTech": "Masonry",
 		"uniques": ["Destroyed when the city is captured"]
