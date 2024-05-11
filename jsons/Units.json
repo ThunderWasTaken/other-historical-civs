@@ -94,7 +94,7 @@
 		"movement": 2,
 		"strength": 27,
 		"cost": 140,
-		"uniques": "Earn [50]% of killed [Land] unit's [Cost] as [Gold]"
+		"uniques": "Earn [50]% of killed [Gunpowder] unit's [Cost] as [Gold]"
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Replaceable Parts",
