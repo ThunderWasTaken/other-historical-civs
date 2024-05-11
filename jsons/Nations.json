@@ -143,5 +143,34 @@
 			"Aberdare","Caerphilly","Pontypridd","Talbot","Colwyn","Pontypool","Penarth","Rhyl","Ebbw Vale","Maesteg",
 			"Tonypandy","Bangor","Connah's Quay","Prestatyn","Carmarthen","Porthcawl","Conwy","Risca","Llandudno","Aberystwyth","Tredegar",
 			"Hawarden","Milford Haven","Church Village","Gorseinon","Pyle", "Abergavenny","Buckley","Porth","Rhondda","Rhosllanerchrugog","Flint"]
+        },
+	{
+		"name": "Switzerland",
+		"leaderName": "Henry Dunant",
+		"adjective": ["Swiss"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": "Henry Dunant, Swiss Humanitarian, businessman, and co-founder of the red cross, your humanitarian efforts won you the first noble peace prize in 1901. Your kindness is unmatched as seen from your efforts within the early days of the red cross, but you managed to endure and became a hero to many. Oh, Mr. Dunant, we need your kindness in our world once more. Can you safe the lives of many once more? Can you become the paragon of good to the eyes of many once more? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "I am sorry... This is for the greater good!",
+		"attacked": "I understand... Come at me if it makes you feel better.",
+		"defeated": "Have mercy and atleast let me continue my efforts... Please...",
+		"introduction": "Hello, do you require any assistance?",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "Are you hurt?",
+
+		"tradeRequest": "This exchange will benefit us both.",
+
+		"outerColor": [172, 255, 151],
+		"innerColor": [255, 0, 0],
+		"favoredReligion": "Christianity",
+		"uniqueName": "The Red Cross",
+		"uniques": ["[+5] HP when healing", "[+25]% Production when constructing [Food] buildings [in all cities]"]
+		"cities":["Bern","Zurich","Geneve","Basel","Lausanne","Winterthur","Sankt Gallen","Lugano","Luzern","Biel",
+			"Thun","Koniz","La Chaux-de-Fonds","Rapperswil","Schaffhausen","Fribourg","Chur","Neuchatel","Vernier","Sitten",
+			"Lancey","Emmen","Kriens","Yverdon-les-Bains","Zug","Uster","Montreux","Frauenfeld","Dietikon","Baar","Riehen",
+			"Dubendorf","Meyrin","Carouge","Wettingen","Allschwil", "Renens","Kreuzlingen","Jona","Onex","Gossau","Muttenz"]
 	},
 ]
