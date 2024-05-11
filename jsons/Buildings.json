@@ -48,5 +48,15 @@
 		"hurryCostModifier": 20,
 		"requiredTech": "Masonry",
 		"uniques": ["Destroyed when the city is captured"]
+	},
+	{
+		"name": "Red Cross Hospital",
+		"replaces": "Hospital"
+		"uniqueTo": "Switzerland"
+		"food": 8,
+		"requiredBuilding": "Aqueduct",
+		"maintenance": 2,
+		"hurryCostModifier": 0,
+		"requiredTech": "Biology"
 	}
 ]
