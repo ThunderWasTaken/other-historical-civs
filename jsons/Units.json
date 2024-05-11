@@ -85,5 +85,19 @@
 		"upgradesTo": "Anti-Tank Gun",
 		"obsoleteTech": "Combined Arms",
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Mercenary",
+		"unitType": "Gunpowder",
+		"replaces": "Musketman",
+		"uniqueTo": "Switzerland",
+		"movement": 2,
+		"strength": 27,
+		"cost": 140,
+		"uniques": "Earn [50]% of killed [Military] unit's [Cost] as [Gold]"
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Replaceable Parts",
+		"attackSound": "shot"
 	}
   ]
