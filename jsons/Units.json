@@ -87,7 +87,7 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Mercenary",
+		"name": "Musket Mercenary",
 		"unitType": "Gunpowder",
 		"replaces": "Musketman",
 		"uniqueTo": "Switzerland",
