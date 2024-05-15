@@ -173,4 +173,33 @@
 			"Lancey","Emmen","Kriens","Yverdon-les-Bains","Zug","Uster","Montreux","Frauenfeld","Dietikon","Baar","Riehen",
 			"Dubendorf","Meyrin","Carouge","Wettingen","Allschwil", "Renens","Kreuzlingen","Jona","Onex","Gossau","Muttenz"]
 	},
+        {
+		"name": "Aragon",
+		"leaderName": "James II",
+		"adjective": ["Aragonian"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": "Oh, James II... King of Aragon, Valencia, Sardinia and Corsica, along with the Count of Barcelona, you conquered the lands of Sardinia in 1324, and created another kingdom to put into your collection. The world needs you once more, Can you conquer your enemies again? Can you create multiple large prosperous kingdoms? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "Another kingdom to my collection!",
+		"attacked": "You will pay!",
+		"defeated": "Nooo!! I... I have failed...",
+		"introduction": "Hello there, are you interested in becoming a vassal?",
+
+		"neutralHello": "Hello!",
+		"hateHello": "What is it?!",
+
+		"tradeRequest": "My vast realm has offered you this exchange!",
+
+		"outerColor": [17, 67, 204],
+		"innerColor": [247, 183, 45],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Crown of Aragon",
+		"uniques":["May not annex cities", "[-25]% [Culture] [in puppeted cities]", "[-25]% [Gold] [in puppeted cities]", "[-25]% [Production] [in puppeted cities]", "[-25]% [Science] [in puppeted cities]", "[+1 Happiness] per [1] population [in puppeted cities]", "Defense bonus when embarked", "[+10]% Strength <for [Water] units>"]
+		"cities":["Zaragoza","Palermo","Catania","Messina","Siracusa","Marsala","Gela","Huesca","Teruel","Calatayud",
+			"Utebo","Monzon","Barbastro","Ejea de los Caballeros","Alcaniz","Fraga","Cuarte de Huerva","Jaca","Tarazona","Caspe","Binefar","Sabinanigo",
+			"Zuera","La Almunia de Doña Godina","Andorra","Alagon","Tauste","La Puebla de Alfindén","María de Huerva","La Muela","Borja","Villanueva de Gállego",
+			"Fuentes de Ebro","Calamocha","Epila","Cadetre","Floresta","Condro","Sclafani Bagni","Gallodro","Roccafioritra","Campofelice di Fitalia", "Bompensiere","Scillato"]
+	},
 ]
