@@ -109,6 +109,7 @@
 		"cost": 125,
 		"requiredTech": "Astronomy",
 		"upgradesTo": "Ironclad",
+		"uniques": ["May create improvements on water resources", "[+1] Sight", "May withdraw before melee ([80]%)"]
 		"obsoleteTech": "Combustion",
 		"hurryCostModifier": 30,
 		"attackSound": "cannon"
