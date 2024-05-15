@@ -1,8 +1,8 @@
 this mod will add new historical civs into unciv.
 
-Some planned civilizations (in no order): Prussia, Croatia
+Some planned civilizations (in no order): Prussia, Croatia, Kushan, Alans
 
-Finished: Norway, Mali, Holy Romans, Western Romans, Wales
+Finished: Norway, Mali, Holy Romans, Western Romans, Wales, Aragon
 
 
 
