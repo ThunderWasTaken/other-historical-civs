@@ -196,7 +196,7 @@
 		"innerColor": [247, 183, 45],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Crown of Aragon",
-		"uniques":["May not annex cities", "[-25]% [Culture] [in puppeted cities]", "[-25]% [Gold] [in puppeted cities]", "[-25]% [Production] [in puppeted cities]", "[-25]% [Science] [in puppeted cities]", "[+1 Happiness] per [1] population [in puppeted cities]", "Defense bonus when embarked", "[+10]% Strength <for [Water] units>"]
+		"uniques":["May not annex cities", "[-25]% [Culture] [in puppeted cities]", "[-25]% [Gold] [in puppeted cities]", "[-25]% [Production] [in puppeted cities]", "[-25]% [Science] [in puppeted cities]", "[+2 Happiness] per [1] population [in puppeted cities]", "Defense bonus when embarked", "[+10]% Strength <for [Water] units>"]
 		"cities":["Zaragoza","Palermo","Catania","Messina","Siracusa","Marsala","Gela","Huesca","Teruel","Calatayud",
 			"Utebo","Monzon","Barbastro","Ejea de los Caballeros","Alcaniz","Fraga","Cuarte de Huerva","Jaca","Tarazona","Caspe","Binefar","Sabinanigo",
 			"Zuera","La Almunia de Doña Godina","Andorra","Alagon","Tauste","La Puebla de Alfindén","María de Huerva","La Muela","Borja","Villanueva de Gállego",
