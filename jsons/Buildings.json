@@ -62,6 +62,7 @@
 	{
 		"name": "Galleon's Harbor",
 		"replaces": "Harbor"
+		"uniqueTo": "Aragon"
 		"cost": 120,
 		"production": 1,
 		"gold": 1,
