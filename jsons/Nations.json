@@ -226,7 +226,7 @@
 		"favoredReligion": "Buddhism",
 		"uniqueName": "Pax Kushanica",
 		"uniques": ["[+2 Faith, +2 Culture] [in all cities] <when not at war> <starting from the [Classical era]>", "Gain [100] [Gold] <upon conquering a city> <starting from the [Medieval era]>", "Gain [200] [Faith] <upon conquering a city> <starting from the [Medieval era]>", "Gain [150] [Culture] <upon conquering a city> <starting from the [Medieval era]>"]
-		"cities"["Peshawar","Lahore","Faisalabad","Rawalpindi","Multan","Hyderabad","Gujranwala","Karachi","Quetta","Islamabad",
+		"cities": ["Peshawar","Lahore","Faisalabad","Rawalpindi","Multan","Hyderabad","Gujranwala","Karachi","Quetta","Islamabad",
 			"Srinagar","Kabul","Kandahar","Herat","Mazar-i-Sharif","Kunduz","Dushanbe","Khujand","Kulob","Tashkent",
 			"Samarkand","Bukhara","Nukus","Namangan","Andijan","Fergana","Urgench","Qarshi","Termez","Jizzakh",
 			"Zahedan","Mashhad","Kerman","Ahvaz","Birjand","Qazvin","Rasht","Chabahar","Yazd","Shiraz","Esfahan",
