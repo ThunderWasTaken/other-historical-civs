@@ -167,7 +167,7 @@
 		"innerColor": [255, 0, 0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "The Red Cross",
-		"uniques": ["[+5] HP when healing", "[+25]% Production when constructing [Food] buildings [in all cities]"]
+		"uniques": ["All newly-trained [Melee] units [in all cities] receive the [Medic] promotion", "[+25]% Production when constructing [Food] buildings [in all cities]"]
 		"cities":["Bern","Zurich","Geneve","Basel","Lausanne","Winterthur","Sankt Gallen","Lugano","Luzern","Biel",
 			"Thun","Koniz","La Chaux-de-Fonds","Rapperswil","Schaffhausen","Fribourg","Chur","Neuchatel","Vernier","Sitten",
 			"Lancey","Emmen","Kriens","Yverdon-les-Bains","Zug","Uster","Montreux","Frauenfeld","Dietikon","Baar","Riehen",
@@ -201,5 +201,35 @@
 			"Utebo","Monzon","Barbastro","Ejea de los Caballeros","Alcaniz","Fraga","Cuarte de Huerva","Jaca","Tarazona","Caspe","Binefar","Sabinanigo",
 			"Zuera","La Almunia de Doña Godina","Andorra","Alagon","Tauste","La Puebla de Alfindén","María de Huerva","La Muela","Borja","Villanueva de Gállego",
 			"Fuentes de Ebro","Calamocha","Epila","Cadetre","Floresta","Condro","Sclafani Bagni","Gallodro","Roccafioritra","Campofelice di Fitalia", "Bompensiere","Scillato"]
+        },
+	{
+		"name": "Kushan",
+		"leaderName": "Kanishka I",
+		"adjective": ["Kushan"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": "Kanishka I, the emperor of the Kushan Empire at its zenith, famous for your military, diplomatic, and spiritual advancements, your patronage of buddhist religions was a major part of the creation of the silk road. Oh, great Kanisha I, we the world once again needs your skills once more. Can you once again swiftly defeat your enemies? Can you once again diplomatically charm your contemporaries?  Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "You are in the way of my ambitions! Begone!",
+		"attacked": "You are a fool, and will be remembered in history as such!",
+		"defeated": "My empire! Nooo!!",
+		"introduction": "Greetings, are you a friend, or a foe?",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "Make it quick.",
+
+		"tradeRequest": "I patronize you to accept this trade.",
+
+		"outerColor": [255, 220, 47],
+		"innerColor": [0, 90, 0],
+		"favoredReligion": "Buddhism",
+		"uniqueName": "Pax Kushanica",
+		"uniques": ["[+2 Faith, +2 Culture] [in all cities] <when not at war> <starting from the [Classical era]>", "Gain [100] [Gold] <upon conquering a city> <starting from the [Medieval era]>", "Gain [200] [Faith] <upon conquering a city> <starting from the [Medieval era]>", "Gain [150] [Culture] <upon conquering a city> <starting from the [Medieval era]>"]
+		"cities"["Peshawar","Lahore","Faisalabad","Rawalpindi","Multan","Hyderabad","Gujranwala","Karachi","Quetta","Islamabad",
+			"Srinagar","Kabul","Kandahar","Herat","Mazar-i-Sharif","Kunduz","Dushanbe","Khujand","Kulob","Tashkent",
+			"Samarkand","Bukhara","Nukus","Namangan","Andijan","Fergana","Urgench","Qarshi","Termez","Jizzakh",
+			"Zahedan","Mashhad","Kerman","Ahvaz","Birjand","Qazvin","Rasht","Chabahar","Yazd","Shiraz","Esfahan",
+			"Lucknow","Amritsar","Chandigarh","Jammu","Ludhiana"]
 	},
 ]
