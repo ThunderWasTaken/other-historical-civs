@@ -221,8 +221,8 @@
 
 		"tradeRequest": "I patronize you to accept this trade.",
 
-		"outerColor": [255, 220, 47],
-		"innerColor": [0, 90, 0],
+		"outerColor": [102, 255, 46],
+		"innerColor": [105, 52, 0],
 		"favoredReligion": "Buddhism",
 		"uniqueName": "Pax Kushanica",
 		"uniques": ["[+2 Faith, +2 Culture] [in all cities] <when not at war> <starting from the [Classical era]>", "Gain [100] [Gold] <upon conquering a city> <starting from the [Medieval era]>", "Gain [200] [Faith] <upon conquering a city> <starting from the [Medieval era]>", "Gain [150] [Culture] <upon conquering a city> <starting from the [Medieval era]>"]
