@@ -113,5 +113,21 @@
 		"obsoleteTech": "Combustion",
 		"hurryCostModifier": 30,
 		"attackSound": "cannon"
+	},
+	{
+		"name": "Koshano Horseman",
+		"unitType": "Mounted",
+		"uniqueTo": "Kushan",
+		"replaces": "Horseman",
+		"movement": 5,
+		"strength": 14,
+		"cost": 60,
+		"requiredTech": "Horseback Riding",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>"],
+		"hurryCostModifier": 20,
+		"attackSound": "horse"
 	}
   ]
