@@ -73,6 +73,8 @@
 	},
 	{
 		"name": "Kushana Stone Works",
+		"replaces": "Stone Works"
+		"uniqueTo": "Kushan"
 		"happiness": 1,
 		"production": 1,
 		"culture": 1,
