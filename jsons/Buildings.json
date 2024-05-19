@@ -87,7 +87,7 @@
 	{
 		"name": "Alan Courthouse",
 		"replaces": "Courthouse"
-		"uniqueTo": "Vandals"
+		"uniqueTo": "The Vandals"
 		"maintenance": 1,
 		"happiness": 1,
 		"hurryCostModifier": 50,

@@ -134,7 +134,7 @@
 		"name": "Pillager",
 		"unitType": "Sword",
 		"replaces": "Spearman",
-		"uniqueTo": "Vandals",
+		"uniqueTo": "The Vandals",
 		"movement": 2,
 		"strength": 12,
 		"cost": 56,
