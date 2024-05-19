@@ -55,7 +55,7 @@
 		"uniqueTo": "Switzerland"
 		"food": 8,
 		"requiredBuilding": "Aqueduct",
-		"maintenance": 2,
+		"maintenance": 1,
 		"hurryCostModifier": 0,
 		"requiredTech": "Biology"
 	},
@@ -83,5 +83,16 @@
 		"hurryCostModifier": 0,
 		"uniques": ["[+1 Production] from [Stone] tiles [in this city]", "[+1 Production] from [Marble] tiles [in this city]"],
 		"requiredTech": "Calendar"
+	},
+	{
+		"name": "Alan Courthouse",
+		"replaces": "Courthouse"
+		"uniqueTo": "Vandals"
+		"maintenance": 1,
+		"happiness": 1,
+		"hurryCostModifier": 50,
+		"uniques": ["Remove extra unhappiness from annexed cities",
+			"Can only be built <in [Annexed] cities>"],
+		"requiredTech": "Mathematics"
 	}
 ]
