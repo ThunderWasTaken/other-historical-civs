@@ -91,7 +91,7 @@
 		"leaderName": "Valentinian III",
 		"adjective": ["Western Roman"],
 		"startBias": ["Coast"],
-		"preferredVictoryType": "Domination",
+		"preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": "Valentinian III of the Western Roman Empire, your reign over the empire was one of the longest, but it was filled with great perils and challenges. Even then so, you managed to stand your ground, while you lost many land to the hispanic conquest in the west, you still managed to defeat the hunnic invaders. Oh Valentinian III, the world needs a ruler of your integrity and endurance once more. Can you survive the harsh battles ahead? Can you repel and defeat all invaders who have come for your throne? Can you build a civilization that will stand the test of time?",
 
@@ -207,7 +207,7 @@
 		"leaderName": "Kanishka I",
 		"adjective": ["Kushan"],
 		"startBias": ["Plains"],
-		"preferredVictoryType": "Diplomatic",
+		"preferredVictoryType": "Cultural",
 
 		"startIntroPart1": "Kanishka I, the emperor of the Kushan Empire at its zenith, famous for your military, diplomatic, and spiritual advancements, your patronage of buddhist religions was a major part of the creation of the silk road. Oh, great Kanisha I, we the world once again needs your skills once more. Can you once again swiftly defeat your enemies? Can you once again diplomatically charm your contemporaries?  Can you build a civilization that will stand the test of time?",
 
@@ -231,5 +231,35 @@
 			"Samarkand","Bukhara","Nukus","Namangan","Andijan","Fergana","Urgench","Qarshi","Termez","Jizzakh",
 			"Zahedan","Mashhad","Kerman","Ahvaz","Birjand","Qazvin","Rasht","Chabahar","Yazd","Shiraz","Esfahan",
 			"Lucknow","Amritsar","Chandigarh","Jammu","Ludhiana"]
+        },
+	{
+		"name": "Vandals",
+		"leaderName": "Gaiseric",
+		"adjective": ["Vandal"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Gaiseric of the Vandal Kingdom, when Valentinian III was murdered and the next emperor cancelled the marriage between your child and theirs, you invaded Italy and commited the great act of the Sacking of Rome. You made many conquests in northern africa and turned a small germanic tribe into a large mediterranian power. Gaiseric, can you repeat your great conquests once more? Can you strike deep into the hearts of your enemies? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "You wish to have seen this coming!",
+		"attacked": "Foolish!",
+		"defeated": "You have defeated me, but know that you will defeated too.",
+		"introduction": "I greet you, stranger.",
+
+		"neutralHello": "Hello.",
+		"hateHello": "Go away.",
+
+		"tradeRequest": "May I offer you this trade?",
+
+		"outerColor": [32, 31, 0],
+		"innerColor": [36, 153, 0],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Regnum Vandalorum et Alanorum",
+		"uniques": ["Units in cities cost no Maintenance", "Gain [250] [Gold] <upon conquering a city>"]
+		"cities": ["Alania","Alan Hippo Regius","Hadrumetum","Utica","Cirta","Thapsus","Tunis","Leptis Magna","Sabratha","Gafsa",
+			"Vaga","Theveste","Lambaesis","Bulla Regia","Thugga","Thysdrus","Sufetula","Clupea","Carthago Nova","Calama",
+			"Vescera","Timgad","Sitifis","Sicca Veneria","Rusadir","Capsa","Pupianum","Tacapae","Auzia","Tipasa",
+			"Caesarea","Igilgili","Saldae","Rusguniae","Volubilis","Tingis","Zilil","Banasa","Sala Colonia","Tocolosida",
+			"Rusucurru","Tubusuptu","Icosium","Rapidum","Pomaria"]
 	},
 ]
