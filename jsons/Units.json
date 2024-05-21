@@ -143,5 +143,19 @@
 		"upgradesTo": "Pikeman",
 		"uniques": ["Earn [250]% of killed [Military] unit's [Strength] as [Gold]"],
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Buccaneer",
+		"unitType": "Melee Water",
+		"replaces": "Privateer",
+		"uniqueTo": "The Pirate Republic",
+		"movement": 5,
+		"strength": 25,
+		"cost": 145,
+		"requiredTech": "Navigation",
+		"upgradesTo": "Destroyer",
+		"promotions": ["Coastal Raider I", "Coastal Raider II", "Pirate"],
+		"uniques": ["May capture killed [Water] units"],
+		"attackSound": "cannon"
 	}
   ]
