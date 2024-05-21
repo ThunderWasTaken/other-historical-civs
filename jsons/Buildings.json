@@ -94,5 +94,18 @@
 		"uniques": ["Remove extra unhappiness from annexed cities",
 			"Can only be built <in [Annexed] cities>"],
 		"requiredTech": "Mathematics"
+	},
+	{
+		"name": "Pirate Bay",
+		"replaces": "Harbor"
+		"uniqueTo": "The Pirate Republic"
+		"cost": 120,
+		"production": 1,
+		"food": 1,
+		"happiness": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Production] from [Water resource] tiles [in this city]",
+			"Connects trade routes over water","Must be next to [Coast]"],
+		"requiredTech": "Compass"
 	}
 ]
