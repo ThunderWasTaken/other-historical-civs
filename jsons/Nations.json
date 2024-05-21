@@ -261,5 +261,35 @@
 			"Vescera","Timgad","Sitifis","Sicca Veneria","Rusadir","Capsa","Pupianum","Tacapae","Auzia","Tipasa",
 			"Caesarea","Igilgili","Saldae","Rusguniae","Volubilis","Tingis","Zilil","Banasa","Sala Colonia","Tocolosida",
 			"Rusucurru","Tubusuptu","Icosium","Rapidum","Pomaria"]
+        },
+	{
+		"name": "The Pirate Republic",
+		"leaderName": "Blackbeard",
+		"adjective": ["Pirate"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Edward Teach, better known as Blackbeard, you are a vicious and one of the most well known pirates of all time, being the final ruler of the Pirate Republic. You plundered many ships, leaving fear within the hearts of many merchants and sailors alike. Oh, Blackbeard, can you once again terrorize the sea with your terrifying strength? Can you plunder the cities of the foes who dare to oppose you? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "Zehahahaha! Get em' boys!",
+		"attacked": "You'll never take me alive!",
+		"defeated": "You will regret this! I have associates everywhere!",
+		"introduction": "Zehahaha! Hello there!",
+
+		"neutralHello": "Aye?",
+		"hateHello": "Nay!",
+
+		"tradeRequest": "These goods may or may not have been stolen.",
+
+		"outerColor": ["0, 0, 0],
+		"innerColor": [255, 255, 255],
+		"favoredReligion": "Christianity",
+		"uniqueName": "The Pirate Code",
+		"uniques": ["All newly-trained [Water] units [in all cities] receive the [Pirate] promotion", "No movement cost to pillage <for [Water] units>"]
+		"cities": ["Nassau","Freeport","Marsh Harbour","West End","Cooper's Town","Alice Town","Spanish Wells","Dunmore Town","George Town","Rock Sound",
+			"Matthew Town","Hope Town","Nicholls Town","Arthur's Town","Kemps Bay","Clarence Town","Stella Maris","Salt Pond","High Rock","Governor's Harbour",
+			"Port Nelson","Deadman's Cay","Cockburn Town","Snug Corner","Kensington","Rocky Creek","Hard Bargain","Chesters","Colonel Hill","Fairfield",
+			"Seahorse Village","Bullocks Harbour","Great Harbour Cay","Duncan Town","Andros Town","New Bight","Steventon","William's Town","Old Bight","Mangrove Cay",
+			"Sandy Point","Driggs Hill","Cat Cay","Black Point","Staniard Creek","Moore's Island"]
 	},
 ]
