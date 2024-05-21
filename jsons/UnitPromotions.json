@@ -2,5 +2,9 @@
       	{
         	"name": "Cultured",
 		"uniques": ["Earn [20]% of killed [Wounded] unit's [Cost] as [Culture]"]
+	},
+      	{
+        	"name": "Pirate",
+		"uniques": ["May enter foreign tiles without open borders", "May withdraw before melee ([50]%)"]
       	},
 ]
