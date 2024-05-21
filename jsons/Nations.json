@@ -281,7 +281,7 @@
 
 		"tradeRequest": "These goods may or may not have been stolen.",
 
-		"outerColor": ["0, 0, 0],
+		"outerColor": [0, 0, 0],
 		"innerColor": [255, 255, 255],
 		"favoredReligion": "Christianity",
 		"uniqueName": "The Pirate Code",
