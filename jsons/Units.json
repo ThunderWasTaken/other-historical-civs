@@ -157,5 +157,21 @@
 		"promotions": ["Coastal Raider I", "Coastal Raider II", "Pirate"],
 		"uniques": ["May capture killed [Water] units"],
 		"attackSound": "cannon"
+	},
+	{
+		"name": "Fryske Grynder",
+		"unitType": "Mounted",
+		"replaces": "Knight",
+		"uniqueTo": "Frisia",
+		"movement": 4,
+		"strength": 21,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"requiredResource": "Horses",
+		"upgradesTo": "Cavalry",
+		"obsoleteTech": "Military Science",
+		"promotions": ["Amphibious"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus"],
+		"attackSound": "horse"
 	}
   ]
