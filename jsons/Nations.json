@@ -291,5 +291,35 @@
 			"Port Nelson","Deadman's Cay","Cockburn Town","Snug Corner","Kensington","Rocky Creek","Hard Bargain","Chesters","Colonel Hill","Fairfield",
 			"Seahorse Village","Bullocks Harbour","Great Harbour Cay","Duncan Town","Andros Town","New Bight","Steventon","William's Town","Old Bight","Mangrove Cay",
 			"Sandy Point","Driggs Hill","Cat Cay","Black Point","Staniard Creek","Moore's Island"]
+        },
+	{
+		"name": "Frisia",
+		"leaderName": "Aldgisl",
+		"adjective": ["Frisian"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": "Aldgisl, the first verifiable king of Frisia, there are many mysteries about you, you harboured and protected the famous saint Wilfrid and brought Christianity to the Frisian region. I have no more information about you, but can you forge your name into the annals of history? Can you bolden your name on the texts of old? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "Your lands will be put into good use, do not worry.",
+		"attacked": "Ah... I assure you that your greed will be your downfall.",
+		"defeated": "Heh... You have won, I applaud you for your victory.",
+		"introduction": "Salutations, I am Aldgisl. Welcome to MY realm.",
+
+		"neutralHello": "Hello.",
+		"hateHello": "It would be best for you to leave.",
+
+		"tradeRequest": "May this trade bring prosperity to our nation.",
+
+		"outerColor": [1, 49, 141],
+		"innerColor": [250,210,0],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Frisia Magna",
+		"uniques": ["[+1 Gold] from every [Pasture]", "[+1 Food] from every [Pasture]", "[+1 Gold] from every [Fishing Boat]", "[+1 Food] from every [Fishing Boat]", "[+3 Gold] <in cities connected to the capital> <when not at war>"]
+		"cities": ["Leeuwarden","Drachten","Sneek","Heerenveen","Harlingen","Franeker","Dokkum","Wolvega","Joure","Bolsward",
+			"Burgum","Koudum","Lemmer","Workum","Stiens","IJlst","Stavoren","Hindeloopen","Akkrum","Grou",
+			"Dronryp","Hallum","Buitenpost","Surhuisterveen","Gorredijk","Kollum","Ferwert","Damwâld","Eastermar","Garyp",
+			"Beetsterzwaag","Makkum","Winsum","Berltsum","Ferwerd","Gaastmeer","Bakhuizen","Echten","Exmorra","Boazum",
+			"De Westereen","Deinum","Ee","Anjum","Hemelum","Frieschepalen","Gauw"]
 	},
 ]
