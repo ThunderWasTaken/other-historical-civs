@@ -315,7 +315,7 @@
 		"innerColor": [250,210,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Frisia Magna",
-		"uniques": ["[+1 Gold] from every [Pasture]", "[+1 Food] from every [Pasture]", "[+1 Gold] from every [Fishing Boats]", "[+1 Food] from every [Fishing Boats]", "[+3 Gold] <in cities connected to the capital> <when not at war>"]
+		"uniques": ["[+1 Gold] from every [Pasture] <starting from the [Classical era]>", "[+1 Food] from every [Pasture] <starting from the [Classical era]>", "[+1 Gold] from every [Fishing Boats]", "[+1 Food] from every [Fishing Boats]", "[+3 Gold] <in cities connected to the capital> <when not at war> <starting from the [Classical era]>"]
 		"cities": ["Leeuwarden","Drachten","Sneek","Heerenveen","Harlingen","Franeker","Dokkum","Wolvega","Joure","Bolsward",
 			"Burgum","Koudum","Lemmer","Workum","Stiens","IJlst","Stavoren","Hindeloopen","Akkrum","Grou",
 			"Dronryp","Hallum","Buitenpost","Surhuisterveen","Gorredijk","Kollum","Ferwert","Damwâld","Eastermar","Garyp",
