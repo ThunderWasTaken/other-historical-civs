@@ -345,7 +345,7 @@
 		"innerColor": [11, 26, 0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Land Without Evil",
-		"uniques": ["[Great Prophet] is earned [+100]% faster <when at war>", "[+3 Faith, +3 Production, +3 Culture] from [Holy Site] tiles [in all cities]"]
+		"uniques": ["[-25]% Faith cost of generating Great Prophet equivalents", "[+3 Faith, +3 Production, +3 Culture] from [Holy Site] tiles [in all cities]"]
 		"cities": ["Asunción","Ciudad del Este","San Lorenzo","Capiatá","Lambaré","Fernando de la Mora","Limpio","Ñemby","Encarnación","Mariano Roque Alonso",
 			"Pedro Juan Caballero","Itauguá","Villa Elisa","San Antonio","Caaguazú","Coronel Oviedo","Concepción","Pilar","Caacupé","Villarrica",
 			"Santa Rita","Presidente Franco","Hernandarias","Luque","San Ignacio","Ayolas","Ypacaraí","Areguá","Paraguarí","San Juan Bautista",
