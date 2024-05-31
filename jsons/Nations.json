@@ -321,5 +321,35 @@
 			"Dronryp","Hallum","Buitenpost","Surhuisterveen","Gorredijk","Kollum","Ferwert","Damwâld","Eastermar","Garyp",
 			"Beetsterzwaag","Makkum","Winsum","Berltsum","Ferwerd","Gaastmeer","Bakhuizen","Echten","Exmorra","Boazum",
 			"De Westereen","Deinum","Ee","Anjum","Hemelum","Frieschepalen","Gauw"]
+        },
+	{
+		"name": "Guarani",
+		"leaderName": "Sepe Tiaraju",
+		"adjective": ["Guarani"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Sepe Tiaraju of the Guarani People, you are a hero and saint of the Guarani people, you led the fight against the Portuguese and Spanish colonial powers in the 18th century earning you the title of 'Servant of God'. Oh Sepe Tiaraju, the world once again needs you, can you use your great military prowess to change the world? Can fight off threats in the name of your people and god as you have before? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "You are occupying our lands, and we are taking them back!",
+		"attacked": "Colonizer scum! The devil shall reap your soul!",
+		"defeated": "I faught hard... I know that my attempts are not futile, and that you will soon fall yourself.",
+		"introduction": "Hello, I am Sepe Tiaraju, pleased to meet you.",
+
+		"neutralHello": "Hello.",
+		"hateHello": "Out from my lands, NOW!",
+
+		"tradeRequest": "I offer you this exchange.",
+
+		"outerColor": [173, 255, 236],
+		"innerColor": [11, 26, 0],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Land Without Evil",
+		"uniques": ["[Great Prophet] is earned [+100]% faster <when at war>", "[+3 Faith, +3 Production, +3 Culture] from [Holy Site] tiles [in all cities]"]
+		"cities": ["Asunción","Ciudad del Este","San Lorenzo","Capiatá","Lambaré","Fernando de la Mora","Limpio","Ñemby","Encarnación","Mariano Roque Alonso",
+			"Pedro Juan Caballero","Itauguá","Villa Elisa","San Antonio","Caaguazú","Coronel Oviedo","Concepción","Pilar","Caacupé","Villarrica",
+			"Santa Rita","Presidente Franco","Hernandarias","Luque","San Ignacio","Ayolas","Ypacaraí","Areguá","Paraguarí","San Juan Bautista",
+			"Horqueta","Caazapá","Santa Rosa","Curuguaty","Eusebio Ayala","Colonia Yguazú","Carapeguá","San Pedro","Tobatí","Yaguarón",
+			"San Estanislao","Itá","Coronel Bogado","Cerrito","Piribebuy","Nueva Italia","Quiindy"]
 	},
 ]
