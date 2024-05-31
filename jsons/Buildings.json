@@ -119,5 +119,16 @@
 			"[+1 Food] from [Bananas] tiles [in this city]",
 			"[+1 Food] from [Wheat] tiles [in this city]"],
 		"requiredTech": "Pottery"
+	},
+	{
+		"name": "Reduction",
+		"replaces": "Temple",
+		"uniqueTo": "Guarani",
+		"maintenance": 1,
+		"uniques": ["[+2 Faith, +1 Culture] from [Plantation] tiles <in this city>"],
+		"faith": 2,
+		"requiredBuilding": "Shrine",
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy"
 	}
 ]
