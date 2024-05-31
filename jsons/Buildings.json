@@ -125,10 +125,10 @@
 		"replaces": "Temple",
 		"uniqueTo": "Guarani",
 		"maintenance": 1,
-		"uniques": ["[+2 Faith, +1 Culture] from [Plantation] tiles <in this city>"],
-		"faith": 2,
+		"culture": 1,
+		"faith": 3,
 		"requiredBuilding": "Shrine",
-		"hurryCostModifier": 25,
+		"hurryCostModifier": 30,
 		"requiredTech": "Philosophy"
 	}
 ]
