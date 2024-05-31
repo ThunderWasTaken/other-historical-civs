@@ -178,6 +178,7 @@
 		"name": "Caaigua",
 		"unitType": "Archery",
 		"replaces": "Scout",
+		"uniqueTo": "Guarani"
 		"movement": 2,
 		"strength": 5,
 		"rangedStrength": 6,
