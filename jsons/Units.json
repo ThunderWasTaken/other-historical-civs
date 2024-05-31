@@ -173,5 +173,17 @@
 		"promotions": ["Amphibious"],
 		"uniques": ["Can move after attacking","No defensive terrain bonus"],
 		"attackSound": "horse"
+	},
+	{
+		"name": "Caaigua",
+		"unitType": "Archery",
+		"replaces": "Scout",
+		"movement": 2,
+		"strength": 5,
+		"rangedStrength": 6,
+		"cost": 25,
+		"uniques": ["Double movement in [Jungle]", "Double movement in [Forest]"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "arrow"
 	}
   ]
