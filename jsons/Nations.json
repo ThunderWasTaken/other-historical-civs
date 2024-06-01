@@ -294,17 +294,17 @@
         },
 	{
 		"name": "Frisia",
-		"leaderName": "Aldgisl",
+		"leaderName": "Pier Gerlofs Donia",
 		"adjective": ["Frisian"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Diplomatic",
 
-		"startIntroPart1": "Aldgisl, the first verifiable king of Frisia, there are many mysteries about you, you harboured and protected the famous saint Wilfrid and brought Christianity to the Frisian region. I have no more information about you, but can you forge your name into the annals of history? Can you bolden your name on the texts of old? Can you build a civilization that will stand the test of time?",
+		"startIntroPart1": "Pier Gerlofs Donia, you are a peasant leader of a revolt. You owned a farm which was destroyed with many of your kin killed by the Habsburg Authorities, you gathered many disgrunted citizens and petty nobles and launched a revolt! Can you rise up against those stronger than you? Can you destroy those who dare hurt your kin? Can you build a civilization that will stand the test of time?",
 
 		"declaringWar": "Your lands will be put into good use, do not worry.",
 		"attacked": "Ah... I assure you that your greed will be your downfall.",
 		"defeated": "Heh... You have won, I applaud you for your victory.",
-		"introduction": "Salutations, I am Aldgisl. Welcome to MY realm.",
+		"introduction": "Salutations, I am Pier Gerlofs Donia.",
 
 		"neutralHello": "Hello.",
 		"hateHello": "It would be best for you to leave.",
