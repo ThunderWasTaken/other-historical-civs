@@ -375,7 +375,7 @@
 		"innerColor": [158, 146, 150],
 		"favoredReligion": "Buddhism",
 		"uniqueName": "Bod Chen Po",
-		"uniques": ["Empire enters golden age <upon conquering a city>", "[+100]% [Faith] [in all cities] <during a Golden Age>", "[+5 Happiness] <during a Golden Age>"]
+		"uniques": ["Empire enters golden age <upon conquering a city>", "[+75]% [Faith] [in all cities] <during a Golden Age>", "[+3 Happiness] <during a Golden Age>"]
 		"cities": ["Lhasa","Shigatse","Gyantse","Chamdo","Nagqu","Nyingchi","Garze","Ngari","Xigazê","Lhünzê",
 			"Tsetang","Bayi","Nyingchi County","Nagchu","Lhorong","Rikaze","Nangqên","Barkam","Qamdo","Litang",
 			"Nagchu County","Zogang","Bomi","Dêngqên","Shannan","Rutog","Nyemo","Lhatse","Dinggyê","Saga",
