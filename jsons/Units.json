@@ -186,5 +186,21 @@
 		"uniques": ["Double movement in [Jungle]", "Double movement in [Forest]"],
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "arrow"
+	},
+	{
+		"name": "Rtakhrab Pai' dpung",
+		"unitType": "Mounted",
+		"replaces": "Knight",
+		"uniqueTo": "Tibet",
+		"movement": 4,
+		"strength": 21,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"requiredResource": "Horses",
+		"upgradesTo": "Cavalry",
+		"obsoleteTech": "Military Science",
+		"promotions": ["Ignores terrain cost"],
+		"uniques": ["Can move after attacking","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"attackSound": "horse"
 	}
   ]
