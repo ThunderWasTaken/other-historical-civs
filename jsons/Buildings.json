@@ -130,5 +130,14 @@
 		"requiredBuilding": "Shrine",
 		"hurryCostModifier": 30,
 		"requiredTech": "Philosophy"
+	},
+	{
+		"name": "Gompas",
+		"uniqueTo": "Tibet",
+		"maintenance": 1,
+		"culture": 1,
+		"faith": 4,
+		"hurryCostModifier": 40,
+		"requiredTech": "Philosophy"
 	}
 ]
