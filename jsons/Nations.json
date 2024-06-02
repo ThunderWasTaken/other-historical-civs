@@ -351,5 +351,35 @@
 			"Santa Rita","Presidente Franco","Hernandarias","Luque","San Ignacio","Ayolas","Ypacaraí","Areguá","Paraguarí","San Juan Bautista",
 			"Horqueta","Caazapá","Santa Rosa","Curuguaty","Eusebio Ayala","Colonia Yguazú","Carapeguá","San Pedro","Tobatí","Yaguarón",
 			"San Estanislao","Itá","Coronel Bogado","Cerrito","Piribebuy","Nueva Italia","Quiindy"]
+        },
+	{
+		"name": "Tibet",
+		"leaderName": "Songtsän Gampo",
+		"adjective": ["Tibetan"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Diplomacy",
+
+		"startIntroPart1": "Songtsan Gampo, the 33rd king and first emperor of the great Tibetan Empire, you formally let buddhism into your empire, you unified many tibetan kingdoms and expanded your lands vastly. Oh great Songtsen Gampo, the world needs your military and stewardship expertise once more. Can you expand your great empire into greatness? Can you unite cities of others into one once more? you are Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "It is time to expand my empire, do not resist.",
+		"attacked": "You are making a fatal mistake!",
+		"defeated": "I faught hard to build my empire, and you destroyed it... Why?",
+		"introduction": "Greetings outsider, I am Songtsan Gampo, emperor of the Tibetan Empire.",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "You are not welcome here.",
+
+		"tradeRequest": "Trading brings prosperity to all lands.",
+
+		"outerColor": [240, 163, 171],
+		"innerColor": [158, 146, 151],
+		"favoredReligion": "Buddhism",
+		"uniqueName": "Bod Chen Po",
+		"uniques": ["Empire enters golden age <upon conquering a city>", "[+100]% [Faith] [in all cities] <during a Golden Age>", "[+5 Happiness] <during a Golden Age>"]
+		"cities": ["Lhasa","Shigatse","Gyantse","Chamdo","Nagqu","Nyingchi","Garze","Ngari","Xigazê","Lhünzê",
+			"Tsetang","Bayi","Nyingchi County","Nagchu","Lhorong","Rikaze","Nangqên","Barkam","Qamdo","Litang",
+			"Nagchu County","Zogang","Bomi","Dêngqên","Shannan","Rutog","Nyemo","Lhatse","Dinggyê","Saga",
+			"Coqên","Tingri","Yadong","Zanda","Nyainrong","Sog","Jomda","Gyangzê","Baingoin","Amdo",
+			"Damxung","Drayab","Zhanang","Gonjo","Lülong","Dinggye","Qonggyai"]
 	},
 ]
