@@ -142,8 +142,8 @@
 	},
 	{
 		"name": "Baray Reservoir",
-		"replaces:" "Aqueduct",
-		"uniqueTo:" "Funan",
+		"replaces": "Aqueduct",
+		"uniqueTo": "Funan",
 		"maintenance": 1,
 		"greatPersonPoints": {"Great Engineer": 1},
 		"hurryCostModifier": 0,
