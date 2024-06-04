@@ -202,5 +202,20 @@
 		"promotions": ["Ignore terrain cost"],
 		"uniques": ["Can move after attacking","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
 		"attackSound": "horse"
+    	},
+	{
+		"name": "Boita",
+		"unitType": "Melee Water",
+		"uniqueTo": "Funan",
+		"replaces": "Trireme",
+		"movement": 4,
+		"strength": 11,
+		"cost": 44,
+		"requiredTech": "Sailing",
+		"obsoleteTech": "Astronomy",
+		"upgradesTo": "Caravel",
+		"promotions": ["Supply"],
+		"uniques": ["Can move immediately once bought"],
+		"attackSound": "nonmetalhit"
 	}
   ]
