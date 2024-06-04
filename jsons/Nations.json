@@ -357,7 +357,7 @@
 		"leaderName": "Songtsän Gampo",
 		"adjective": ["Tibetan"],
 		"startBias": ["Hill"],
-		"preferredVictoryType": "Diplomatic",
+		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "Songtsan Gampo, the 33rd king and first emperor of the great Tibetan Empire, you formally let buddhism into your empire, you unified many tibetan kingdoms and expanded your lands vastly. Oh great Songtsen Gampo, the world needs your military and stewardship expertise once more. Can you expand your great empire into greatness? Can you unite cities of others into one once more? you are Can you build a civilization that will stand the test of time?",
 
@@ -381,5 +381,31 @@
 			"Nagchu County","Zogang","Bomi","Dêngqên","Shannan","Rutog","Nyemo","Lhatse","Dinggyê","Saga",
 			"Coqên","Tingri","Yadong","Zanda","Nyainrong","Sog","Jomda","Gyangzê","Baingoin","Amdo",
 			"Damxung","Drayab","Zhanang","Gonjo","Lülong","Dinggye","Qonggyai"]
+        },
+	{
+		"name": "Funan",
+		"leaderName": "Soma",
+		"adjective": ["Funanese"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": "Great Queen Soma, you are the first monarch of the Funan State. You were first a pirate which attacked an indian merchant ship, there you found Kaundinya, a man who faught greatly which impressed you with his bravery, you married him and ended up creating one of the most concrete dynasties within south east asian history and created the Funan State. Oh great Queen Soma, the world once again needs your greatness. Can you create an empire to surpass yours? Can you vanquish those in your way? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "Hu hu hu... It is time for you to die!",
+		"attacked": "Hmph! Your arrogance shall be paid in blood!",
+		"defeated": "I bravely faught for my nation, and that is all that matters.",
+		"introduction": "I greet you, stranger. I am Queen Soma of the Funan State.",
+
+		"neutralHello": "Hello.",
+		"hateHello": "To come here after what you've done takes bravery, I applaud you of that, atleast.",
+
+		"tradeRequest": "I offer these for that!",
+
+		"outerColor": [255, 254, 1],
+		"innerColor": [1, 37, 150],
+		"favoredReligion": "Hinduism",
+		"uniqueName": "Lords of Great Glass River",
+		"uniques": ["Militaristic City-States grant units [2] times as fast when you are at war with a common nation", "[+1 Gold, +2 Production] from [Mountain] tiles [in all cities]"]
+		"cities": placeholder
 	},
 ]
