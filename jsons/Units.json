@@ -215,7 +215,7 @@
 		"obsoleteTech": "Astronomy",
 		"upgradesTo": "Caravel",
 		"promotions": ["Supply"],
-		"uniques": ["Can move immediately once bought"],
+		"uniques": ["Can move immediately once bought", "Cannot enter ocean tiles"],
 		"attackSound": "nonmetalhit"
 	}
   ]
