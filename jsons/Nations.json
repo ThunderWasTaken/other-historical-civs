@@ -406,6 +406,10 @@
 		"favoredReligion": "Hinduism",
 		"uniqueName": "Lords of Great Glass River",
 		"uniques": ["Militaristic City-States grant units [2] times as fast when you are at war with a common nation", "[+1 Gold, +2 Production] from [Mountain] tiles [in all cities]"]
-		"cities": placeholder
+		"cities": ["PLACEHOLDER","THIS","IS","A","PLACEHOLDERFORMAT","Nyingchi","Garze","Ngari","Xigazê","Lhünzê",
+			"Tsetang","Bayi","Nyingchi County","Nagchu","Lhorong","Rikaze","Nangqên","Barkam","Qamdo","Litang",
+			"Nagchu County","Zogang","Bomi","Dêngqên","Shannan","Rutog","Nyemo","Lhatse","Dinggyê","Saga",
+			"Coqên","Tingri","Yadong","Zanda","Nyainrong","Sog","Jomda","Gyangzê","Baingoin","Amdo",
+			"Damxung","Drayab","Zhanang","Gonjo","Lülong","Dinggye","Qonggyai"]
 	},
 ]
