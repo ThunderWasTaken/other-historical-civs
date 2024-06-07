@@ -405,7 +405,7 @@
 		"innerColor": [1, 37, 150],
 		"favoredReligion": "Hinduism",
 		"uniqueName": "Lords of Great Glass River",
-		"uniques": ["Militaristic City-States grant units [2] times as fast when you are at war with a common nation", "[+1 Gold, +2 Production] from [Mountain] tiles [in all cities]"]
+		"uniques": ["Militaristic City-States grant units [2] times as fast when you are at war with a common nation", "[+1 Gold, +1 Production] from [Mountain] tiles [in all cities]", "[+1 Gold, +1 Food] from [Mountain] tiles [in all cities] <starting from the [Medieval era]>"]
 		"cities": ["Vyadhapura","Oc Eo","Angkor Borei","Ba Phnom","Phnom Penh","Takeo","Kampong Cham","Kampot","Kampong Thom","Prey Veng",
 			"Sihanoukville","Kampong Speu","Battambang","Banteay Meanchey","Pursat","Svay Rieng","Kratie","Stung Treng","Ratanakiri","Mondulkiri",
 			"Tbong Khmum","Pailin","Koh Kong","Kep","Siem Reap","Preah Vihear","Prey Veng","Moc Hoa","Long Xuyen","Can Tho",
