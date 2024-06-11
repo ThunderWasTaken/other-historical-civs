@@ -160,5 +160,16 @@
 		"percentStatBonus": {"gold": 25},
 		"uniques": ["[+1 Production] from [Desert] tiles [in this city]", "[+2 Food] from [Oasis] tiles [in this city]"],
 		"requiredTech": "Currency"
+	},
+	{
+		"name": "Sandstone Mausoleum",
+		"replaces": "Garden"
+		"uniqueTo": "The Nabataeans"
+		"culture": 1,
+		"faith": 1,
+		"uniques": ["[+25]% Great Person generation [in this city]"],
+		"hurryCostModifier": 25,
+		"maintenance": 2,
+		"requiredTech": "Theology"
 	}
 ]
