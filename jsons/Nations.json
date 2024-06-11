@@ -411,5 +411,35 @@
 			"Tbong Khmum","Pailin","Koh Kong","Kep","Siem Reap","Preah Vihear","Prey Veng","Moc Hoa","Long Xuyen","Can Tho",
 			"Vinh Long","My Tho","Rach Gia","Soc Trang","Ca Mau","Bac Lieu","Tra Vinh","Ben Tre","Chau Doc","Tan An",
 			"Ha Tien","Sa Dec","Go Cong","Dong Thap","Tay Ninh","Phu Quoc","Vung Tau"]
+        },
+	{
+		"name": "The Nabataeans",
+		"leaderName": "Aretas IV",
+		"adjective": ["Nabataean"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Culture",
+
+		"startIntroPart1": "Aretas, King of the Nabataeans, Friend of his People, your rule was the zenith of the Nabataean civilization as your capital, Petra was one of the largest economical hubs and cities in the world at that time. Art and culture flourished while under your rule, and the culture that has grown during your rule is still being felt till today. Can you once again strike the world in awe with your culture? Can you create an economy that can eclipse your last achievements? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "Apologies, friend. But you must die!",
+		"attacked": "Darn you!",
+		"defeated": "You will be cursed for eternity for what you've done! You will pay!",
+		"introduction": "I am Aretas IV, friend of his people.",
+
+		"neutralHello": "Yes?",
+		"hateHello": "If I knew magic, I would've cursed you by now.",
+
+		"tradeRequest": "Shall we trade our wealth?",
+
+		"outerColor": [160, 82, 45],
+		"innerColor": [218, 145, 0],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Ancient Sandstone Geniuses",
+		"uniques": ["[+5 Culture] <in cities connected to the capital> <starting from the [Medieval era]>", "[+1 Gold, +1 Production] from [Desert] tiles [in all cities] <starting from the [Classical era]>"]
+		"cities": ["Petra","Hegra","Bosra","Avdat","Sela","Madain Saleh","Dumatha","Aila","Jauf","Rekem",
+			"Raqmu","Oboda","Hijr","Egra","Kadesh","Humeima","Philoteria","Al-`Ula","Gerasa","Gaulane",
+			"Rabathmoba","Zoara","Mecca","Dedan","Edom","Moab","Tafila","Amman","Yotvata","Humayma",
+			"Tayma","Tabuk","Wadi Rum","Qasr al-Bint","Mampsis","Kurnub","Halasa","Aslah","Jauf","Negev",
+			"Shobak","Kadesh","Aretas","Bir Madhkur","Qasr Usaykhim","Al-Hijr"]
 	},
 ]
