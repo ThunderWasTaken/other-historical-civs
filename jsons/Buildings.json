@@ -149,5 +149,16 @@
 		"hurryCostModifier": 0,
 		"uniques": ["[50]% Food is carried over after population increases [in this city]"],
 		"requiredTech": "Engineering"
+	},
+	{
+		"name": "Caravanserai",
+		"replaces": "Market",
+		"uniqueTo": "The Nabataeans",
+		"gold": 3,
+		"specialistSlots": {"Merchant": 2},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+		"uniques": ["[+1 Production] from [Desert] tiles [in this city]", "[+2 Food] from [Oasis] tiles [in this city]"],
+		"requiredTech": "Currency"
 	}
 ]
