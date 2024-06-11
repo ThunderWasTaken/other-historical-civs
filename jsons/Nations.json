@@ -431,8 +431,8 @@
 
 		"tradeRequest": "Shall we trade our wealth?",
 
-		"outerColor": [160, 82, 45],
-		"innerColor": [218, 145, 0],
+		"outerColor": [112, 30, 4],
+		"innerColor": [218, 145, 38],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Ancient Sandstone Geniuses",
 		"uniques": ["[+5 Culture] <in cities connected to the capital> <starting from the [Medieval era]>", "[+1 Gold, +1 Production] from [Desert] tiles [in all cities] <starting from the [Classical era]>"]
