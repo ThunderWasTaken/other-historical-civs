@@ -217,5 +217,21 @@
 		"promotions": ["Supply"],
 		"uniques": ["Can move immediately once bought", "Cannot enter ocean tiles"],
 		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Druzhina Cavalry",
+		"unitType": "Mounted",
+		"replaces": "Knight",
+		"uniqueTo": "Lithuania",
+		"movement": 4,
+		"strength": 22,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"requiredResource": "Horses",
+		"upgradesTo": "Cavalry",
+		"obsoleteTech": "Military Science",
+		"promotions": ["Shock I"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
+		"attackSound": "horse"
 	}
   ]
