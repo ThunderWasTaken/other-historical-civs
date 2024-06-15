@@ -465,7 +465,7 @@
 		"innerColor": [237, 215, 182],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Grand Resilience",
-		"uniques": ["[+20]% City Strength from defensive buildings", "[+2 Happiness] from all [Castle] buildings", "[+2 Happiness] from all [Arsenal] buildings"]
+		"uniques": ["[+20]% City Strength from defensive buildings", "[+2 Happiness] from all [Walls] buildings", "[+2 Happiness] from all [Arsenal] buildings"]
 		"cities": ["Vilnius","Kaunas","Trakai","Grodno","Minsk","Klaipeda","Hrodna","Polotsk","Navahrudak","Pinsk",
 			"Slonim","Vitebsk","Lida","Brest","Smolensk","Turov","Novogrudok","Kernavė","Ukmergė",
 			"Tartu","Riga","Daugavpils","Zhmud","Volokolamsk","Mstislavl","Ovruch","Jieznas","Zarasai",
