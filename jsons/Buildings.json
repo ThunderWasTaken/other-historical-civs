@@ -171,5 +171,18 @@
 		"hurryCostModifier": 25,
 		"maintenance": 2,
 		"requiredTech": "Theology"
+	},
+	{
+		"name": "Trakai Castle",
+		"cost": 150,
+		"replaces": "Castle",
+		"uniqueTo": "Lithuania",
+		"cityStrength": 8,
+		"cityHealth": 30,
+		"happiness": 2,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"uniques": ["Destroyed when the city is captured"],
+		"requiredTech": "Chivalry"
 	}
 ]
