@@ -441,5 +441,35 @@
 			"Rabathmoba","Zoara","Mecca","Dedan","Edom","Moab","Tafila","Amman","Yotvata","Humayma",
 			"Tayma","Tabuk","Wadi Rum","Qasr al-Bint","Mampsis","Kurnub","Halasa","Aslah","Jauf","Negev",
 			"Shobak","Kadesh","Aretas","Bir Madhkur","Qasr Usaykhim","Al-Hijr"]
+        },
+	{
+		"name": "Lithuania",
+		"leaderName": "Vytautas the Great",
+		"adjective": ["Lithuanian"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": "Vytautas the Great, Grand Duke of Lithuania, your people have thrived in the dense forests and vast marshlands of Eastern Europe. You defended against the Teutonic Order, Mongols, and Polish forces and even managed to expand your lands, your diplomatic skills formed great bonds with your neighbours. Oh, Vytautas the great, can you turn Lithuania into great state once more? Can you extinguish any attempts to destroy your mighty civilization? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "Death awaits you!",
+		"attacked": "What the hell?!",
+		"defeated": "My allies will destroy you, monster!",
+		"introduction": "Let me introduce myself, Vytautas the Great.",
+
+		"neutralHello": "Hm?",
+		"hateHello": "Begone!",
+
+		"tradeRequest": "My generous trade should tickle your fancy.",
+
+		"outerColor": [229, 41, 5],
+		"innerColor": [237, 215, 182],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Grand Resilience",
+		"uniques": ["[+20]% City Strength from defensive buildings", "[+2 Happiness] from all [Castle] buildings", "[+2 Happiness] from all [Arsenal] buildings",]
+		"cities": ["Vilnius","Kaunas","Trakai","Grodno","Minsk","Klaipeda","Hrodna","Polotsk","Navahrudak","Pinsk",
+			"Slonim","Vitebsk","Lida","Brest","Smolensk","Turov","Novogrudok","Kernavė","Ukmergė",
+			"Tartu","Riga","Daugavpils","Zhmud","Volokolamsk","Mstislavl","Ovruch","Jieznas","Zarasai",
+			"Livonia","Sakiai","Salaspils","Gorodishche","Kėdainiai","Medininkai","Zemgale","Naumiestis",
+			"Tauragė","Prussia","Slutsk","Mogilev","Babruysk","Zemaitija","Baltai","Valozhyn","Narach","Nyasvizh"]
 	},
 ]
