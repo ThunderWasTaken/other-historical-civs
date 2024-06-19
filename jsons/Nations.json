@@ -495,7 +495,7 @@
 		"innerColor": [53, 53, 53],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Irminsul",
-		"uniques": ["[+25]% Strength <in cities following our religion>", "[-15]% Strength for enemy [Land] units in adjacent [Forest] tiles"]
+		"uniques": ["[+25]% Strength <in cities following our religion>", "[+15]% Strength <when fighting in [Forest] tiles>"]
 		"cities": ["Verden","Minden","Osnabrück","Paderborn","Bremen","Halberstadt","Hildesheim","Merseburg","Goslar","Stade",
 			"Zeitz","Quedlinburg","Nienburg","Magdeburg","Heiligenstadt","Quakenbrück","Wolfenbüttel","Lübeck","Celle",
 			"Einbeck","Ratzeburg","Lüneburg","Hameln","Brunswiek","Hammaburg","Havelberg","Elten","Scharnebeck",
