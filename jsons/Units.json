@@ -247,7 +247,7 @@
 		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
 		"promotions": ["Besiege"],
-		"uniques": ["No Movement Cost to Pillage"],
+		"uniques": ["No movement cost to pillage"],
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	}
