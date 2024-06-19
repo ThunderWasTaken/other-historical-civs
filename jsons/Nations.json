@@ -471,5 +471,35 @@
 			"Tartu","Riga","Daugavpils","Zhmud","Volokolamsk","Mstislavl","Ovruch","Jieznas","Zarasai",
 			"Livonia","Sakiai","Salaspils","Gorodishche","Kėdainiai","Medininkai","Zemgale","Naumiestis",
 			"Tauragė","Prussia","Slutsk","Mogilev","Babruysk","Zemaitija","Baltai","Valozhyn","Narach","Nyasvizh"]
+        },
+	{
+		"name": "Saxony",
+		"leaderName": "Widukind",
+		"adjective": ["Saxon"],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Widukind the Great, ruler of the Saxons during the attacks of Charlemagne. Your efforts to resist the christian forces and the wrath of Charlemagne is remarkable, whilst your nation eventually fell to the greater and more well equipped Frankish forces, your efforts to defend the old faith has not gone unnoticed. Oh Widukind, can you once again reject the unworthy faith of others? Can you defend your great homeland from foreign invaders once more? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "For Odin!",
+		"attacked": "Demon! Thor shall smite you!",
+		"defeated": "You were right... The old gods are too weak...",
+		"introduction": "I am Widukind of the Saxons, and you are?",
+
+		"neutralHello": "Speak.",
+		"hateHello": "Out!",
+
+		"tradeRequest": "Interested in some barter?",
+
+		"outerColor": [255, 207, 1],
+		"innerColor": [53, 53, 53],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Irminsul",
+		"uniques": ["[+25]% Strength <in cities following our religion>", "[-15]% Strength for enemy [Land] units in adjacent [Forest] tiles"]
+		"cities": ["Verden","Minden","Osnabrück","Paderborn","Bremen","Halberstadt","Hildesheim","Merseburg","Goslar","Stade",
+			"Zeitz","Quedlinburg","Nienburg","Magdeburg","Heiligenstadt","Quakenbrück","Wolfenbüttel","Lübeck","Celle",
+			"Einbeck","Ratzeburg","Lüneburg","Hameln","Brunswiek","Hammaburg","Havelberg","Elten","Scharnebeck",
+			"Itzehoe","Neustadt-Glewe","Oldenburg","Lüneburg","Helmstedt","Bardowick","Salzwedel","Fritzlar","Herford",
+			"Gandersheim","Jüterbog","Bützow","Plön","Eutin","Rheda","Wiedenbrück","Burg","Perleberg","Lenzen"]
 	},
 ]
