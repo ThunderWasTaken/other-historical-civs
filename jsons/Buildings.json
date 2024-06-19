@@ -184,5 +184,17 @@
 		"requiredBuilding": "Walls",
 		"uniques": ["Destroyed when the city is captured"],
 		"requiredTech": "Chivalry"
+	},
+	{
+		"name": "Thingstead",
+		"replaces": "Courthouse"
+		"uniqueTo": "Saxony"
+		"maintenance": 2,
+		"happiness": 1,
+		"culture": 2,
+		"faith": 1,
+		"hurryCostModifier": 50,
+		"uniques": ["Remove extra unhappiness from annexed cities"],
+		"requiredTech": "Mathematics"
 	}
 ]
