@@ -233,5 +233,22 @@
 		"promotions": ["Shock I"],
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
 		"attackSound": "horse"
+    	},
+	{
+		"name": "Fyrd",
+		"unitType": "Sword",
+		"uniqueTo": "Saxony",
+		"replaces": "Swordsman",
+		"movement": 2,
+		"strength": 14,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"promotions": ["Besiege"],
+		"uniques": ["No Movement Cost to Pillage"],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
 	}
   ]
