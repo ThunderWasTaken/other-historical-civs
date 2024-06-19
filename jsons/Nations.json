@@ -461,8 +461,8 @@
 
 		"tradeRequest": "My generous trade should tickle your fancy.",
 
-		"outerColor": [229, 41, 5],
-		"innerColor": [237, 215, 182],
+		"outerColor": [184, 32, 12],
+		"innerColor": [253, 160, 134],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Grand Resilience",
 		"uniques": ["[+20]% City Strength from defensive buildings", "[+2 Happiness] from all [Walls] buildings", "[+2 Happiness] from all [Arsenal] buildings"]
