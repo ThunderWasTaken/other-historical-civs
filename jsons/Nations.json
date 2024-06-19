@@ -491,8 +491,8 @@
 
 		"tradeRequest": "Interested in some barter?",
 
-		"outerColor": [255, 207, 1],
-		"innerColor": [53, 53, 53],
+		"outerColor": [53, 53, 53],
+		"innerColor": [255, 207, 1],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Irminsul",
 		"uniques": ["[+25]% Strength <in cities following our religion>", "[+15]% Strength <when fighting in [Forest] tiles>"]
