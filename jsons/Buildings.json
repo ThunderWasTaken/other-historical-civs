@@ -196,5 +196,17 @@
 		"hurryCostModifier": 50,
 		"uniques": ["Remove extra unhappiness from annexed cities"],
 		"requiredTech": "Mathematics"
+	},
+	{
+		"name": "Nuraghe",
+		"replaces": "Walls",
+		"cost": 45,
+		"uniqueTo": "The Sea People",
+		"cityStrength": 7,
+		"cityHealth": 50,
+		"production": 2,
+		"hurryCostModifier": 20,
+		"requiredTech": "Masonry",
+		"uniques": ["Destroyed when the city is captured"]
 	}
 ]
