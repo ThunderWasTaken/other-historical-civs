@@ -501,5 +501,35 @@
 			"Einbeck","Ratzeburg","Lüneburg","Hameln","Brunswiek","Hammaburg","Havelberg","Elten","Scharnebeck",
 			"Itzehoe","Neustadt-Glewe","Oldenburg","Lüneburg","Helmstedt","Bardowick","Salzwedel","Fritzlar","Herford",
 			"Gandersheim","Jüterbog","Bützow","Plön","Eutin","Rheda","Wiedenbrück","Burg","Perleberg","Lenzen"]
+        },
+	{
+		"name": "The Sea People",
+		"leaderName": "Sisera",
+		"adjective": ["Sea"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Sisera, a commander of the Canaanite army of King Jabin of Hazor, who is mentioned in Judges 4–5 of the Hebrew Bible. After being defeated by the forces of the Israelite tribes of Zebulun and Naphtali under the command of Barak and Deborah, you were killed. You were tied to the Sea People by your ancestry and is thus chosen as their ruler. Can you wreak havoc upon greater nations once more? Can you sail the seas for greater conquest? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "Face our wrath!",
+		"attacked": "Good luck with that!",
+		"defeated": "No! Noo!",
+		"introduction": "Call me Sisera, of the Sea People.",
+
+		"neutralHello": "What is it?",
+		"hateHello": "Do you have a death wish?!",
+
+		"tradeRequest": "Offering you this trade is generous enough already.",
+
+		"outerColor": [1, 42, 123],
+		"innerColor": [1, 188, 255],
+		"favoredReligion": "Islam",
+		"uniqueName": "Pirates of the Great Green",
+		"uniques": ["Starts with [Sailing]", "[+1] Movement <for [Embarked] units>"]
+		"cities": ["Dor","Gaza","Ashkelon","Ashdod","Ekron","Paphos","Enkomi","Byblos","Kition","Sidon",
+			"Arvad","Tyre","Ugarit","Ras Shamra","Caria","Myra","Alashiya","Tel Lachish","Megiddo","Joppa",
+			"Gath","Tarsus","Salamis","Hattusa","Kadesh","Aphrodisias","Miletus","Karkemish","Halicarnassus",
+			"Ura","Attaleia","Adana","Aspendos","Phaselis","Patara","Iasos","Tlos","Kaunos","Histria",
+			"Myrina","Cyzicus","Lampsacus","Phocaea","Pergamum","Chios","Rhodes","Knossos","Phaistos","Zakros"]
 	},
 ]
