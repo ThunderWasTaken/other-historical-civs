@@ -208,5 +208,20 @@
 		"hurryCostModifier": 20,
 		"requiredTech": "Masonry",
 		"uniques": ["Destroyed when the city is captured"]
+	},
+	{
+		"name": "Literary School",
+		"replaces": "University",
+		"uniqueTo": "Bulgaria",
+		"maintenance": 2,
+		"happiness": 1,
+		"hurryCostModifier": 15,
+		"greatPersonPoints": {"Great Writer": 1},
+		"percentStatBonus": {"science": 33},
+		"specialistSlots": {"Scientist": 2},
+		"culture": 3,
+		"requiredBuilding": "Library",
+		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]"],
+		"requiredTech": "Education"
 	}
 ]
