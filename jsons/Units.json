@@ -265,5 +265,20 @@
 		"promotions": ["Coastal Raider I"],
 		"uniques": ["Cannot enter ocean tiles", "[-25]% production cost"],
 		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Tsar Guard",
+		"unitType": "Sword",
+		"replaces": "Longswordsman",
+		"uniqueTo": "Bulgaria",
+		"movement": 2,
+		"strength": 23,
+		"cost": 125,
+		"requiredTech": "Steel",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"promotions": ["Morale", "Great Generals II"],
+		"attackSound": "metalhit"
 	}
   ]
