@@ -216,7 +216,7 @@
 		"maintenance": 2,
 		"happiness": 1,
 		"hurryCostModifier": 15,
-		"greatPersonPoints": {"Great Writer": 1},
+		"greatPersonPoints": {"Great Artist": 1},
 		"percentStatBonus": {"science": 33},
 		"specialistSlots": {"Scientist": 2},
 		"culture": 3,
