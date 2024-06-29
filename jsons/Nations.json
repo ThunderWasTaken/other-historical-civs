@@ -551,8 +551,8 @@
 
 		"tradeRequest": "I shall offer you this fine trade.",
 
-		"outerColor": [212, 2, 75],
-		"innerColor": [2, 146, 84],
+		"outerColor": [142, 0, 29],
+		"innerColor": [93, 191, 2],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Southeastern Cultural Prosperity",
 		"uniques": ["[+2 Culture] from all [Library] buildings", "[+2 Culture] from all [University] buildings", "[Great Artist] is earned [+20]% faster"]
