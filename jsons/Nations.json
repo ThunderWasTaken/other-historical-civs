@@ -531,5 +531,35 @@
 			"Gath","Tarsus","Salamis","Hattusa","Kadesh","Aphrodisias","Miletus","Karkemish","Halicarnassus",
 			"Ura","Attaleia","Adana","Aspendos","Phaselis","Patara","Iasos","Tlos","Kaunos","Histria",
 			"Myrina","Cyzicus","Lampsacus","Phocaea","Pergamum","Chios","Rhodes","Knossos","Phaistos","Zakros"]
+        },
+	{
+		"name": "Bulgaria",
+		"leaderName": "Simeon I",
+		"adjective": ["Bulgarian"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Cultural",
+
+		"startIntroPart1": "Tsar Simeon I of the First Bulgarian Empire. You ruled over Bulgaria from 893 to 927 where you lead successful campaigns against the Byzantines, Magyars and Serbs led Bulgaria to its greatest territorial expansion, making it the most powerful state in contemporary Eastern and Southeast Europe. Oh, Simeon I the Great, can you lead your civilization into its golden age once more? Can you gain cultural dominance over all your contemporaries? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "It is time for you to join us.",
+		"attacked": "You will regret this decision for the rest of your lives.",
+		"defeated": "Son of a- Ngh... Well played.",
+		"introduction": "I am Simeon I of Bulgaria, nice to meet you.",
+
+		"neutralHello": "May I be of help?",
+		"hateHello": "You got a problem?",
+
+		"tradeRequest": "I shall offer you this fine trade.",
+
+		"outerColor": [187, 16, 51],
+		"innerColor": [34, 139, 34],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Southeastern Cultural Prosperity",
+		"uniques": ["[+2 Culture] from all [Library] buildings", "[+2 Culture] from all [University] buildings", "[Great Writer] is earned [+20]% faster"]
+		"cities": ["Pliska","Preslav","Ohrid","Skopje","Bitola","Beroe","Sofia","Shumen","Varna","Veliko Tarnovo",
+			"Vidin","Nis","Pleven","Kavarna","Dobrich","Silistra","Kyustendil","Yambol","Haskovo","Blagoevgrad",
+			"Montana","Gabrovo","Pernik","Razgrad","Sliven","Burgas","Ruse","Stara Zagora","Kardzhali","Asenovgrad",
+			"Pazardzhik","Smolyan","Targovishte","Lovech","Svishtov","Samokov","Dupnitsa","Sopot","Karlovo","Teteven",
+			"Tryavna","Koprivshtitsa","Etropole","Elena","Balchik","Aytos","Pomorie","Provadia","Kazanlak"]
 	},
 ]
