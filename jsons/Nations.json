@@ -585,7 +585,7 @@
 		"innerColor": [1, 42, 101],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Highland Spirit",
-		"uniques": ["[+15]% Strength <when fighting in [Hill] tiles>", "Double movement in [Hill]", "[+1 Happiness, +1 Culture] from every [Luxury resource]"]
+		"uniques": ["[+15]% Strength <when fighting in [Hill] tiles>", "All newly-trained [Land] units [in all cities] receive the [Highlands] promotion", "[+1 Happiness, +1 Culture] from every [Luxury resource]"]
 		"cities": ["Edinburgh","Glasgow","Aberdeen","Dundee","Inverness","Stirling","Perth","Dumfries","Ayr","Inveraray",
 			"Falkirk","Paisley","Kilmarnock","Elgin","Dunfermline","Fort William","Oban","St. Andrews","Kirkwall","Lerwick",
 			"Brechin","Forfar","Melrose","Kelso","Peebles","Selkirk","Dornoch","Stranraer","Campbeltown","Thurso",
