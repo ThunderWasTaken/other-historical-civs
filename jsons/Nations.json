@@ -564,7 +564,7 @@
         },
 	{
 		"name": "Scotland",
-		"leaderName": "William Wallance",
+		"leaderName": "William Wallace",
 		"adjective": ["Scottish"],
 		"startBias": ["Hill"],
 		"preferredVictoryType": "Domination",
