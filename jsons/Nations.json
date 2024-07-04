@@ -561,5 +561,35 @@
 			"Montana","Gabrovo","Pernik","Razgrad","Sliven","Burgas","Ruse","Stara Zagora","Kardzhali","Asenovgrad",
 			"Pazardzhik","Smolyan","Targovishte","Lovech","Svishtov","Samokov","Dupnitsa","Sopot","Karlovo","Teteven",
 			"Tryavna","Koprivshtitsa","Etropole","Elena","Balchik","Aytos","Pomorie","Provadia","Kazanlak"]
+        },
+	{
+		"name": "Scotland",
+		"leaderName": "William Wallance",
+		"adjective": ["Scottish"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Sir William Wallace, knight of the Kingdom of Scotland and soon one of its great leaders during the first war of scottish independence. You defeated an English army at the Battle of Stirling Bridge, then you were appointed Guardian of Scotland and served until your defeat at the Battle of Falkirk. Oh Sir William, can you lead Scotland back into greatness? Can you rise against those who threaten your freedom? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "Your existance is a threat to our freedom! Prepare to die!",
+		"attacked": "Your tyranny won't last long, I will make sure of that!",
+		"defeated": "Another will take my place, you WILL fall.",
+		"introduction": "I am Sir William Wallance, a knight of the great nation of Scotland.",
+
+		"neutralHello": "Yes?",
+		"hateHello": "We don't want the likes of you here.",
+
+		"tradeRequest": "We require some of your resources, and thus I will exchange some of mine for yours.",
+
+		"outerColor": [174, 213, 255],
+		"innerColor": [1, 42, 101],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Highland Spirit",
+		"uniques": ["[+15]% Strength <when fighting in [Hill] tiles>", "Double movement in [Hill]", "[+1 Happiness, +1 Culture] from every [Luxury resource]"]
+		"cities": ["Edinburgh","Glasgow","Aberdeen","Dundee","Inverness","Stirling","Perth","Dumfries","Ayr","Inveraray",
+			"Falkirk","Paisley","Kilmarnock","Elgin","Dunfermline","Fort William","Oban","St. Andrews","Kirkwall","Lerwick",
+			"Brechin","Forfar","Melrose","Kelso","Peebles","Selkirk","Dornoch","Stranraer","Campbeltown","Thurso",
+			"Stonehaven","Montrose","Haddington","Linlithgow","Motherwell","Greenock","Alloa","Crieff","Nairn","Dunbar",
+			"Wick","Largs","Duns","Burntisland","Tain","Cupar","Callander"]
 	},
 ]
