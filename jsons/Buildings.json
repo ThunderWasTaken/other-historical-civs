@@ -226,6 +226,7 @@
 	},
 	{
 		"name": "Distillery",
+		"replaces": "Windmill",
 		"uniqueTo": "Scotland",
 		"production": 2,
 		"gold": 2,
