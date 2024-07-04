@@ -6,5 +6,9 @@
       	{
         	"name": "Pirate",
 		"uniques": ["May enter foreign tiles without open borders", "May withdraw before melee ([50]%)"]
+	},
+      	{
+        	"name": "Highlands",
+		"uniques": ["Double movement in [Hill]"]
       	},
 ]
