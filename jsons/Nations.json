@@ -645,7 +645,7 @@
 		"innerColor": [255, 248, 233],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Free City",
-		"uniques": ["[+999999]% Culture cost of natural border growth [in all cities]", "[+999999]% Gold cost of acquiring tiles [in all cities]", "[+3 Happiness] [in all cities]", "[+20]% [Science] [in all cities]", "[+20]% [Gold] [in all cities]", "[+20]% [Culture] [in all cities]", "[+20]% [Production] [in all cities]"]
+		"uniques": ["[+999999]% Culture cost of natural border growth [in all cities]", "[+999999]% Gold cost of acquiring tiles [in all cities]", "[+1 Happiness] [in all cities]", "May not annex cities", "[+20]% [Science] [in all cities]", "[+20]% [Gold] [in all cities]", "[+20]% [Culture] [in all cities]", "[+20]% [Production] [in all cities]"]
 		"cities": ["Danzig","Gdynia","Sopot","Westerplatte","Oliva","Langfuhr","Neufahrwasser","Ohra","Schidlitz","St. Albrecht",
 			"Schönfeld","Neugarten","Heubude","Emaus","Petershagen","Heiligenbrunn","Langgarten","Neuschottland",
 			"Saspe","Praust","Tiegenhof","Neuteich","Frauendorf","Schönbaum","Marienburg","Elbing","Zoppot",
