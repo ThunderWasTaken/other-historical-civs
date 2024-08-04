@@ -641,8 +641,8 @@
 
 		"tradeRequest": "This is necessary for the presevation of both of our nations.",
 
-		"outerColor": [255, 248, 233],
-		"innerColor": [24, 79, 138],
+		"outerColor": [24, 79, 138],
+		"innerColor": [255, 248, 233],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Free City",
 		"uniques": ["[+999999]% Culture cost of natural border growth [in all cities]", "[+3 Happiness] [in all cities]", "[+20]% [Science] [in all cities]", "[+20]% [Gold] [in all cities]", "[+20]% [Culture] [in all cities]", "[+20]% [Production] [in all cities]"]
