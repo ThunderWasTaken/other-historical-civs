@@ -621,5 +621,36 @@
 			"Hpa-An","Dawei","Sittwe","Thayet","Lashio","Mogok","Pyin Oo Lwin","Hakha","Kalaw","Loikaw",
 			"Kengtung","Myeik","Myawaddy","Tachileik","Naypyidaw","Sagaing","Shan","Kawthoung","Bago","Yenangyaung",
 			"Thibaw","Wuntho","Namhkam","Mandalay","Myanaung","Pakokku","Tiddim","Haka","Ngapali"]
+        },
+	{
+		"name": "Danzig",
+		"leaderName": "Carl Jacob Burckhardt",
+		"adjective": ["Danzigian"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": "Bayyinnaung, king of the Toungoo Dynasty of Myanmar from 1550 to 1581. During your 31-year reign, which has been called the 'greatest explosion of human energy ever seen in Burma', You assembled the largest empire in the history of Southeast Asia, which included much of modern-day Myanmar, the Chinese Shan states, Lan Na, Lan Xang, Manipur and Siam. Oh Bayinnaung, we once again require your greatness. Can you create another great empire? Can you become the top of the world? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "It has been agreed that this is necessary!",
+		"attacked": "The League of Nations will prevent this aggression! I know it!",
+		"defeated": "Go ahead and take it.",
+		"introduction": "Griezi, I am Carl Jacob Burckhardt, High Commissioner for the Free City of Danzig."
+
+		"neutralHello": "Griezi.",
+		"hateHello": "...",
+
+		"tradeRequest": "This is necessary for the presevation of both of our nations.",
+
+		"outerColor": [255, 248, 233],
+		"innerColor": [24, 79, 138],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Free City",
+		"uniques": ["[+999999]% Culture cost of natural border growth [in all cities]", "[+3 Happiness] [in all cities]", "[+20]% [Science] [in all cities]", "[+20]% [Gold] [in all cities]", "[+20]% [Culture] [in all cities]", "[+20]% [Production] [in all cities]"]
+		"cities": ["Danzig","Gdynia","Sopot","Westerplatte","Oliva","Langfuhr","Neufahrwasser","Ohra","Schidlitz","St. Albrecht",
+			"Schönfeld","Neugarten","Heubude","Emaus","Petershagen","Heiligenbrunn","Langgarten","Neuschottland",
+			"Saspe","Praust","Tiegenhof","Neuteich","Frauendorf","Schönbaum","Marienburg","Elbing","Zoppot",
+			"Brösen","Stolzenberg","Mattenbuden","Schönfelde","Pillau","Brösen","Heubude","Nickelswalde","Kahlbude",
+			"Altschottland","Reinhardtsdorf","Bohnsack","Krampitz","Scharfenberg","Neuteich","Oliva","Praust",
+			"Langfuhr","Neufahrwasser"]
 	},
 ]
