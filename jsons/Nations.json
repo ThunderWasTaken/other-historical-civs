@@ -672,8 +672,8 @@
 
 		"tradeRequest": "Hello, what is this 'pasta' you speak of? I want some!",
 
-		"outerColor": [196, 255, 98],
-		"innerColor": [140, 45, 7],
+		"outerColor": [140, 45, 7],
+		"innerColor": [196, 255, 98],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Cultural Exchange",
 		"uniques": ["[+1 Culture] from each Trade Route", "[+50]% Production when constructing [Culture] buildings [in all cities]"]
