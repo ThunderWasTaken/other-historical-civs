@@ -629,7 +629,7 @@
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Diplomatic",
 
-		"startIntroPart1": "Bayyinnaung, king of the Toungoo Dynasty of Myanmar from 1550 to 1581. During your 31-year reign, which has been called the 'greatest explosion of human energy ever seen in Burma', You assembled the largest empire in the history of Southeast Asia, which included much of modern-day Myanmar, the Chinese Shan states, Lan Na, Lan Xang, Manipur and Siam. Oh Bayinnaung, we once again require your greatness. Can you create another great empire? Can you become the top of the world? Can you build a civilization that will stand the test of time?",
+		"startIntroPart1": "Carl Jaco Burckhardt, a Swiss diplomat and historian. Your career alternated between periods of academic historical research and diplomatic postings; the most prominent of the latter were League of Nations High Commissioner for the Free City of Danzig (1937–39) and President of the International Committee of the Red Cross (1945–48). Oh, Carl. Can you once again become a great leader? Can you spread your prosperity throughout the world? Can you build a civilization that will stand the test of time?",
 
 		"declaringWar": "It has been agreed that this is necessary!",
 		"attacked": "The League of Nations will prevent this aggression! I know it!",
@@ -645,12 +645,42 @@
 		"innerColor": [255, 248, 233],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Free City",
-		"uniques": ["[+999999]% Culture cost of natural border growth [in all cities]", "[+999999]% Gold cost of acquiring tiles [in all cities]", "[+1 Happiness] [in all cities]", "May not annex cities", "[+20]% [Science] [in all cities]", "[+20]% [Gold] [in all cities]", "[+20]% [Culture] [in all cities]", "[+20]% [Production] [in all cities]"]
+		"uniques": ["[+999999]% Culture cost of natural border growth [in all cities]", "[+999999]% Gold cost of acquiring tiles [in all cities]", "[+2 Happiness] [in all cities]", "[+50]% Unhappiness from [Population] [in all cities]", "May not annex cities", "[+20]% [Science] [in all cities]", "[+20]% [Gold] [in all cities]", "[+20]% [Culture] [in all cities]", "[+20]% [Production] [in all cities]"]
 		"cities": ["Danzig","Gdynia","Sopot","Westerplatte","Oliva","Langfuhr","Neufahrwasser","Ohra","Schidlitz","St. Albrecht",
 			"Schönfeld","Neugarten","Heubude","Emaus","Petershagen","Heiligenbrunn","Langgarten","Neuschottland",
 			"Saspe","Praust","Tiegenhof","Neuteich","Frauendorf","Schönbaum","Marienburg","Elbing","Zoppot",
 			"Brösen","Stolzenberg","Mattenbuden","Schönfelde","Pillau","Brösen","Heubude","Nickelswalde","Kahlbude",
 			"Altschottland","Reinhardtsdorf","Bohnsack","Krampitz","Scharfenberg","Neuteich","Oliva","Praust",
 			"Langfuhr","Neufahrwasser"]
+        },
+	{
+		"name": "Kongo",
+		"leaderName": "Nzinga a Nkuwu",
+		"adjective": ["Kongoan"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Cultural",
+
+		"startIntroPart1": "Nzinga a Nkuwu, the 5th ManiKongo of the Kingdom of Kongo between 1470 and 1509. You voluntarily converted to Roman Catholicism and were baptized on 3 May 1491 and took the Christian name of João. Soon after, you abandoned the new faith for a number of reasons, one of them being the Roman Catholic Church's requirement of monogamy. Oh, Nzinga a Nkuwu. Can you rule your kingdom once more? Can you once again strike peace with those stronger than you? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "You are doomed! I know it!",
+		"attacked": "The gods- erm- God smite you!",
+		"defeated": "You- I- No!!!",
+		"introduction": "Hello, traveller, may I interest you in our local cuisine?"
+
+		"neutralHello": "Hi!",
+		"hateHello": "Why are you here?!",
+
+		"tradeRequest": "Hello, what is this 'pasta' you speak of? I want some!",
+
+		"outerColor": [196, 255, 98],
+		"innerColor": [140, 45, 7],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Cultural Exchange",
+		"uniques": ["[+1 Culture] from each Trade Route", "[+50]% Production when constructing [Culture] buildings [in all cities]"]
+		"cities": ["Kongo","Luanda","Ngoyo","Soyo","Ndongo","Matamba","Malebo","Mpemba","Kipala","Kanda",
+			"Yaka","Nsundi","Teke","Mbata","Loango","Kwango","Kwanza","Mbamba","Ngongo","Malange",
+			"Kasanje","Moxico","Lunda","Kuba","Benguela","Namibe","Zombo","Mwenemutapa","Nampula","Lobito",
+			"Huambo","Uíge","Cabinda","Chibuto","Massangano","Zamfara","Kalemie","Kinshasa","Lubumbashi",
+			"Goma","Bukavu","Kisangani","Mbandaka","Matadi","Kolwezi","Likasi","Tshikapa","Kananga"]
 	},
 ]
