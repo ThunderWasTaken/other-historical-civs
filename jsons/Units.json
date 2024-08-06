@@ -322,5 +322,20 @@
 		"upgradesTo": "Destroyer",
 		"promotions": ["Coastal Raider I", "[Privateer] ability"],
 		"attackSound": "cannon"
+	},
+	{
+		"name": "Ngola Warrior",
+		"unitType": "Sword",
+		"replaces": "Pikeman",
+		"uniqueTo": "Kongo",
+		"movement": 2,
+		"strength": 18,
+		"cost": 90,
+		"requiredTech": "Civil Service",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"upgradesTo": "Lancer",
+		"promotions": ["Drill I", "Drill II"],
+		"obsoleteTech": "Metallurgy",
+		"attackSound": "metalhit"
 	}
   ]
