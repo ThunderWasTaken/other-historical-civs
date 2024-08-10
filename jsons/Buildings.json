@@ -269,5 +269,14 @@
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"gold": 25},
 		"requiredTech": "Currency"
+	},
+	{
+		"name": "Sapitu",
+		"replaces": "Barracks",
+		"uniqueTo": "Akkad"
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured", "[+25]% Production when constructing [All] units [in this city]"],
+		"requiredTech": "Bronze Working"
 	}
 ]
