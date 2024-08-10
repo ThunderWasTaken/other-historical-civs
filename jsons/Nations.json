@@ -702,8 +702,8 @@
 
 		"tradeRequest": "This is NOT a request, it is an ORDER!",
 
-		"outerColor": [76, 1, 1],
-		"innerColor": [205, 127, 50],
+		"outerColor": [205, 127, 50],
+		"innerColor": [76, 1, 1],
 		"favoredReligion": "Zoroastrianism",
 		"uniqueName": "First Empire",
 		"uniques": ["[+1 Food] from each Trade Route", "[+50]% construction time for [Farm] improvements"]
