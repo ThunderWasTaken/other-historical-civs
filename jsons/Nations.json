@@ -682,5 +682,35 @@
 			"Kasanje","Moxico","Lunda","Kuba","Benguela","Namibe","Zombo","Mwenemutapa","Nampula","Lobito",
 			"Huambo","Uíge","Cabinda","Chibuto","Massangano","Zamfara","Kalemie","Kinshasa","Lubumbashi",
 			"Goma","Bukavu","Kisangani","Mbandaka","Matadi","Kolwezi","Likasi","Tshikapa","Kananga"]
+        },
+	{
+		"name": "Akkad",
+		"leaderName": "Sargon",
+		"adjective": ["Akkadian"],
+		"startBias": ["River"],
+		"preferredVictoryType": "Cultural",
+
+		"startIntroPart1": "Sargon, also known as Sargon the Great, you were the first ruler of the Akkadian Empire, known for your conquests of the Sumerian city-states in the 24th to 23rd centuries BC. You are have been identified as the first person in recorded history to rule over an empire, a legendary feat. Oh, Sargon. The world needs your greatness once more. Can you rebuild your Great Empire once more? Can you be the first to do a great feat that will immortalize your name for eternity? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "I shall carve my empire through yours!",
+		"attacked": "You can not defeat me! I WILL KILL YOU!",
+		"defeated": "My Kingdom... My Empire! My Nation! Nooo!",
+		"introduction": "I am Sargon the Great of the Akkadian Empire, bow before me!"
+
+		"neutralHello": "Welcome to my court.",
+		"hateHello": "Bow you insignificant fool!",
+
+		"tradeRequest": "This is NOT a request, it is an ORDER!",
+
+		"outerColor": [76, 1, 1],
+		"innerColor": [205, 127, 50],
+		"favoredReligion": "Zoroastrianism",
+		"uniqueName": "First Empire",
+		"uniques": ["[+1 Food] from each Trade Route", "[+50]% construction time for [Farm] improvements"]
+		"cities": [["Akkad","Akkadian Babylon","Eshnunna","Sippar","Larak","Adab","Isin","Kish","Nippur","Larsa",
+			"Eridu","Shuruppak","Lagash","Akkadian Ur","Uruk","Bad-tibira","Umma","Zabala","Awan","Hamazi",
+			"Assur","Mari","Der","Gasur","Susa","Nagar","Harran","Nineveh","Ekallatum","Arbela",
+			"Shaduppum","Akkadian Dur-Kurigalzu","Tuttul","Urkish","Elam","Ebla","Girsu","Tigris","Euphrates","Mashkan-shapir",
+			"Ubaid","Nuzi","Qattara","Kutha","Kazallu","Opis","Tilmun","Dilbat"]]
 	},
 ]
