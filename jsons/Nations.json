@@ -706,7 +706,7 @@
 		"innerColor": [76, 1, 1],
 		"favoredReligion": "Zoroastrianism",
 		"uniqueName": "First Empire",
-		"uniques": ["[+1 Food] from each Trade Route", "[+50]% construction time for [Farm] improvements"]
+		"uniques": ["[+1 Food] from each Trade Route", "[+10]% construction time for [Farm] improvements"]
 		"cities": ["Akkad","Akkadian Babylon","Eshnunna","Sippar","Larak","Adab","Isin","Kish","Nippur","Larsa",
 			"Eridu","Shuruppak","Lagash","Akkadian Ur","Uruk","Bad-tibira","Umma","Zabala","Awan","Hamazi",
 			"Assur","Mari","Der","Gasur","Susa","Nagar","Harran","Nineveh","Ekallatum","Arbela",
