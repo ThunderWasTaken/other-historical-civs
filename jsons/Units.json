@@ -345,11 +345,11 @@
 		"uniqueTo": "Akkad",
 		"movement": 2,
 		"strength": 13,
-		"cost": 50,
+		"cost": 55,
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"uniques": ["[+100]% Strength <vs [Mounted] units>"],
+		"uniques": ["[+66]% Strength <vs [Mounted] units>"],
 		"attackSound": "metalhit"
 	}
   ]
