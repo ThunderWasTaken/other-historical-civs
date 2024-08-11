@@ -712,5 +712,35 @@
 			"Assur","Mari","Der","Gasur","Susa","Nagar","Harran","Nineveh","Ekallatum","Arbela",
 			"Shaduppum","Akkadian Dur-Kurigalzu","Tuttul","Urkish","Elam","Ebla","Girsu","Tigris","Euphrates","Mashkan-shapir",
 			"Ubaid","Nuzi","Qattara","Kutha","Kazallu","Opis","Tilmun","Dilbat"]
+        },
+	{
+		"name": "Croatia",
+		"leaderName": "Tomislav",
+		"adjective": ["Croatian"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": "Tomislav, the first king of Croatia. You became Duke of Croatia sometime in 910 and was crowned king in 925, reigning until 928. During your rule, you forged an alliance with the Byzantine Empire against Bulgaria. In the north, Croatia often clashed with the Principality of Hungary; the state retained its borders and, to some extent, expanded with the disintegrated Lower Pannonia. Oh, Tomislav. Can you turn a small nation into a kingdom once again? Can you forge alliances that will leave your nation with great prosperity? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "Things have gotten far too rough between us, prepare for war!",
+		"attacked": "You shall strike first, but ill deal the last blow.",
+		"defeated": "I... am defeated.",
+		"introduction": "Who might you be, stranger? I am Tomislav."
+
+		"neutralHello": "Hello.",
+		"hateHello": "What?!",
+
+		"tradeRequest": "May this trade bring prosperity to us both.",
+
+		"outerColor": [23, 23, 150],
+		"innerColor": [254, 255, 254],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Hrvatska",
+		"uniques": ["[+10]% Production when constructing [All] units [in all coastal cities]", "[+20]% Strength <for [Land] units> <when fighting in [Coastal] tiles>"]
+		"cities": ["Zagreb","Split","Dubrovnik","Zadar","Rijeka","Osijek","Varazdin","Sibenik","Pula","Karlovac",
+			"Knin","Sinj","Trogir","Makarska","Porec","Bjelovar","Sisak","Vukovar","Metkovic","Koprivnica",
+			"Samobor","Cakovec","Virovitica","Slavonski Brod","Solin","Daruvar","Gospic","Benkovac","Ilok","Zupanja",
+			"Umag","Novigrad","Pakrac","Imotski","Kastela","Beli Manastir","Slunj","Omis","Senj","Vrbovec",
+			"Nin","Krapina","Vodice","Crikvenica","Dugopolje","Biograd na Moru","Rovinj","Ludbreg","Pag"]
 	},
 ]
