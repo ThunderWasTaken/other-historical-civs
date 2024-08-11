@@ -351,5 +351,21 @@
 		"upgradesTo": "Pikeman",
 		"uniques": ["[+66]% Strength <vs [Mounted] units>"],
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Poljska Konjica",
+		"unitType": "Mounted",
+		"replaces": "Knight",
+		"uniqueTo": "Croatia",
+		"movement": 4,
+		"strength": 20,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"promotions": ["Shock I"],
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking", "Never appears as a Barbarian unit"],
+		"attackSound": "horse"
 	}
   ]
