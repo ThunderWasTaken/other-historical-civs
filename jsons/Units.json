@@ -382,7 +382,7 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Can build [Pasture] improvements on tiles", "Can build [Camp] improvements on tiles"],
+		"uniques": ["No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Can build [Pasture] improvements on tiles", "Can build [Camp] improvements on tiles"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	}
