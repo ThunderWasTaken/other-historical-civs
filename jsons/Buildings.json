@@ -297,7 +297,7 @@
 		"food": 2,
 		"maintenance": 2,
 		"hurryCostModifier": 25,
-		"uniques": ["[+1 Food] from [Deer] tiles [in this city]", "[+1 Food] from [Bananas] tiles [in this city]", "[+1 Food] from [Wheat] tiles [in this city]", "[+1 Production] from [Pasture] tiles [in this city]", "[+1 Production] from [Camp] tiles [in this city]"],
+		"uniques": ["[+1 Food] from [Deer] tiles [in this city]", "[+1 Food] from [Bananas] tiles [in this city]", "[+1 Food] from [Wheat] tiles [in this city]", "[+1 Production] from [Camp] tiles [in this city]"],
 		"requiredTech": "Pottery"
 	}
 ]
