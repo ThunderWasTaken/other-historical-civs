@@ -762,8 +762,8 @@
 
 		"tradeRequest": "Consider this a mutual tribute... Wait that's just called a Trade...",
 
-		"outerColor": [249, 221, 60],
-		"innerColor": [55, 52, 23],
+		"outerColor": [55, 52, 23],
+		"innerColor": [249, 221, 60],
 		"favoredReligion": "Tengriism",
 		"uniqueName": "Nomadic Confederation",
 		"uniques": ["[+1] Movement <for [Settler] units>", "[+1] Movement <for [Scout] units>", "[+1] Movement <for [Worker] units>"]
