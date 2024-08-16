@@ -367,5 +367,23 @@
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking", "Never appears as a Barbarian unit"],
 		"attackSound": "horse"
+	},
+	{
+		"name": "Stringdrawer",
+		"unitType": "Archery",
+		"replaces": "Horseman",
+		"uniqueTo": "Xiongnu",
+		"movement": 4,
+		"range": 2,
+		"strength": 10,
+		"rangedStrength": 10,
+		"cost": 75,
+		"requiredTech": "Horseback Riding",
+		"requiredResource": "Horses",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Can build [Pasture] improvements on tiles", "Can build [Camp] improvements on tiles"],
+		"hurryCostModifier": 20,
+		"attackSound": "horse"
 	}
   ]
