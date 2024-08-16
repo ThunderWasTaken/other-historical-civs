@@ -273,7 +273,7 @@
 	{
 		"name": "Sapitu",
 		"replaces": "Barracks",
-		"uniqueTo": "Akkad"
+		"uniqueTo": "Akkad",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured", "[+15]% Production when constructing [All] units [in this city]"],
@@ -281,13 +281,23 @@
 	},
 	{
 		"name": "Glagolitic School",
-		"replaces": "Library"
-		"uniqueTo": "Croatia"
+		"replaces": "Library",
+		"uniqueTo": "Croatia",
 		"science": 1,
 		"culture": 1,
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"uniques": ["[+1 Science] per [2] population [in this city]"],
 		"requiredTech": "Writing"
+	},
+	{
+		"name": "Mili",
+		"replaces": "Granary",
+		"uniqueTo": "Xiongnu",
+		"food": 2,
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food] from [Deer] tiles [in this city]", "[+1 Food] from [Bananas] tiles [in this city]", "[+1 Food] from [Wheat] tiles [in this city]", "[+1 Production] from [Pasture] tiles [in this city]", "[+1 Production] from [Camp] tiles [in this city]"],
+		"requiredTech": "Pottery"
 	}
 ]
