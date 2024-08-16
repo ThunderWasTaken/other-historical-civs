@@ -706,7 +706,7 @@
 		"innerColor": [76, 1, 1],
 		"favoredReligion": "Zoroastrianism",
 		"uniqueName": "First Empire",
-		"uniques": ["[+1 Food] from each Trade Route", "[+10]% construction time for [Farm] improvements"]
+		"uniques": ["[+1 Food] from each Trade Route", "[-10]% construction time for [Farm] improvements"]
 		"cities": ["Akkad","Akkadian Babylon","Eshnunna","Sippar","Larak","Adab","Isin","Kish","Nippur","Larsa",
 			"Eridu","Shuruppak","Lagash","Akkadian Ur","Uruk","Bad-tibira","Umma","Zabala","Awan","Hamazi",
 			"Assur","Mari","Der","Gasur","Susa","Nagar","Harran","Nineveh","Ekallatum","Arbela",
@@ -742,5 +742,35 @@
 			"Samobor","Cakovec","Virovitica","Slavonski Brod","Solin","Daruvar","Gospic","Benkovac","Ilok","Zupanja",
 			"Umag","Novigrad","Pakrac","Imotski","Kastela","Beli Manastir","Slunj","Omis","Senj","Vrbovec",
 			"Nin","Krapina","Vodice","Crikvenica","Dugopolje","Biograd na Moru","Rovinj","Ludbreg","Pag"]
+        },
+	{
+		"name": "Xiongnu",
+		"leaderName": "Modu Chanyu",
+		"adjective": ["Xiongnuan"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Midu Chanyu, the creator first emperor of the Empire of Xiongnu. You were the son of Touman and to power by ordering your men to overthrow your father in 209 BCE and successfully unified the tribes of the Mongolian-Manchurian grassland and invaded the Qin Dynasty, severely disrupting and weakening the dynasty for years to come. Oh Modu, can you create a new great empire once more? Can you unite the cities of many into one? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "This is all your fault, I shall call my men into battle!",
+		"attacked": "You can not defeat me, many have tried and failed!",
+		"defeated": "Urk... You... Heh... Good work.",
+		"introduction": "Careful! I nearly mistook you for game!"
+
+		"neutralHello": "Hi!",
+		"hateHello": "I hate you!",
+
+		"tradeRequest": "Consider this a mutual tribute... Wait that's just called a Trade...",
+
+		"outerColor": [249, 221, 60],
+		"innerColor": [55, 52, 23],
+		"favoredReligion": "Tengriism",
+		"uniqueName": "Nomadic Confederation",
+		"uniques": ["[+1] Movement <for [Settler] units>", "[+1] Movement <for [Scout] units>", "[+1] Movement <for [Worker] units>"]
+		"cities": ["Otuken","Ordos","Yinshan","Xiyu","Alxa","Dunhuang","Hami","Gaochang","Yuezhi","Wusun",
+			"Jinshan","Heishui","Lingwu","Jiuyuan","Tianshan","Yanghai","Zhaowu","Chifeng","Bayan","Zhangye",
+			"Ulaangom","Karakorum","Altai","Erdene","Naiman","Olonkho","Gobi","Khalkha","Buryat","Tuva",
+			"Hulunbuir","Barkol","Kumul","Juyan","Zungaria","Qilian","Khorchin","Khentii","Darhan","Mongke",
+			"Yarkand","Turpan","Kashgar","Altyn","Fergana","Ili","Tarim","Jie","Yueban"]
 	},
 ]
