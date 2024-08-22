@@ -306,7 +306,7 @@
 		"uniqueTo": "The Rashidun"
 		"faith": 3,
 		"culture": 2,
-		"happiness" 1,
+		"happiness": 1,
 		"requiredBuilding": "Shrine",
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy",
