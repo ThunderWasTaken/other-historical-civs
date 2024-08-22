@@ -10,5 +10,9 @@
       	{
         	"name": "Highlands",
 		"uniques": ["Double movement in [Hill]"]
+	},
+      	{
+        	"name": "Muzakka",
+		"uniques": ["[+35]% Strength <in cities following our religion>"]
       	},
 ]
