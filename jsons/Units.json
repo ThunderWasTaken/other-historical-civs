@@ -385,5 +385,21 @@
 		"uniques": ["No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Can build [Pasture] improvements on tiles", "Can build [Camp] improvements on tiles"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
+	},
+	{
+		"name": "Sayf",
+		"unitType": "Sword",
+		"replaces": "Swordsman",
+		"uniqueTo": "The Rashidun",
+		"movement": 2,
+		"strength": 15,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Steel",
+		"promotions": ["Muzakka"],
+		"requiredResource": "Iron",
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
 	}
   ]
