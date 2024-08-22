@@ -772,5 +772,35 @@
 			"Ulaangom","Karakorum","Altai","Erdene","Naiman","Olonkho","Gobi","Khalkha","Buryat","Tuva",
 			"Hulunbuir","Barkol","Kumul","Juyan","Zungaria","Qilian","Khorchin","Khentii","Darhan","Mongke",
 			"Yarkand","Turpan","Kashgar","Altyn","Fergana","Ili","Tarim","Jie","Yueban"]
+        },
+	{
+		"name": "The Rashidun",
+		"leaderName": "Abu Bakr",
+		"adjective": ["Rashidi"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Abu Bakr, the first Rashidun Caliph. A close companion and father-in-law of Muhammad, You are referred to with the honorific title al-Siddiq by Sunni Muslims. You were amongst the earliest converts to Islam and propagated dawah to the Mushrikites. You were considered the first Muslim missionary as several companions of Muhammad converted through you. Following Muhammad's death, You succeeded the leadership of the Muslim community as the first caliph. Oh Abu Bakr, the world needs your holiness once more. Can you guide your people to greatness once more? Can you repel the attacks of the non-believers and create a mighty caliphate? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "I am very sorry, but this is necesarry.",
+		"attacked": "Good luck, as Allah is not on your side.",
+		"defeated": "Congratulations... Please lead my people into greatness and do not let them fall into darkness...",
+		"introduction": "As-salamu alaykum, I am Abu Bakr. It is very nice to meet you, friend."
+
+		"neutralHello": "Hello, do you need something?",
+		"hateHello": "Oh... Greetings.",
+
+		"tradeRequest": "Let us bring prosperity to both of our people, friend.",
+
+		"outerColor": [255, 255, 255],
+		"innerColor": [1, 78, 3],
+		"favoredReligion": "Islam",
+		"uniqueName": "Rightly Guided",
+		"uniques": ["[+4] Movement <for [Missionary] units>", "Empire enters golden age <after generating a Great Prophet>", "[+2 Faith] <in cities following our religion>"]
+		"cities": ["Rashidun Medina","Kufa","Basra","Fustat","Rashidun Damascus","Ctesiphon","Rashidun Jerusalem","Rashidun Cairo","Rashidun Alexandria","Mosul",
+			"Rashidun Baghdad","Aleppo","Tripoli","Aden","Rashidun Mecca","Sana'a","Homs","Amman","Beirut","Harran",
+			"Tiberias","Tarsus","Antioch","Palmyra","Qadisiyah","Homs","Diyar Bakr","Ramla","Hama",
+			"Najaf","Karbala","Yamama","Yathrib","Tabuk","Al-Ubulla","Bukhara","Samarqand","Merv","Nishapur",
+			"Herat","Qandahar","Ghazni","Multan","Isfahan","Rayy","Kerman","Gorgan","Tus"]
 	},
 ]
