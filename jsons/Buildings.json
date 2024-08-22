@@ -304,9 +304,9 @@
 		"name": "Masjid",
 		"replaces": "Temple"
 		"uniqueTo": "The Rashidun"
-		"faith": 3,
-		"culture": 2,
-		"happiness": 1,
+		"faith": 2,
+		"culture": 1,
+		"happiness": 2,
 		"requiredBuilding": "Shrine",
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy",
