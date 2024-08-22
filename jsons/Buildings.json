@@ -299,5 +299,17 @@
 		"hurryCostModifier": 25,
 		"uniques": ["[+1 Food] from [Deer] tiles [in this city]", "[+1 Food] from [Bananas] tiles [in this city]", "[+1 Food] from [Wheat] tiles [in this city]", "[+1 Production] from [Camp] tiles [in this city]"],
 		"requiredTech": "Pottery"
+	},
+	{
+		"name": "Masjid",
+		"replaces": "Temple"
+		"uniqueTo": "The Rashidun"
+		"faith": 3,
+		"culture": 2,
+		"happiness" 1,
+		"requiredBuilding": "Shrine",
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["Hidden when religion is disabled"]
 	}
 ]
