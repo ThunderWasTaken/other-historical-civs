@@ -833,4 +833,53 @@
 			"Margat","Chastel Blanc","Krak des Chevaliers","Quneitra","Baalbek","Arwad","Homs","Crusader Aleppo","Ma'arrat al-Nu'man","Crusader Edessa", 
 			"Amman","Ajloun","Zara","Bosra","Pella","Gibelet","Laodicea","Marqab","Rafah"]
 	},
+	// City-States, continue from above if you want to add new civs, not below!
+	{
+		"name": "Edessa",
+		"adjective": ["Edessan"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You have angered me, God, and everything else!",
+		"attacked": "How dare you?!",
+		"defeated": "Noo! Ahhh!!!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255,238,147],
+		"cities": ["Edessa"]
+	},
+	{
+		"name": "Antioch",
+		"adjective": ["Antiochian"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "In the name of God, Christ, and the Holy Spirit, I SHALL RIP YOU APART!",
+		"attacked": "YOU INSIGNIFICANT HEATHEN!",
+		"defeated": "May your woes be many, and your days few.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [173,0,17],
+		"cities": ["Antioch"]
+	},
+	{
+		"name": "Tripoli",
+		"adjective": ["Tripolitan"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "Hahaha! Time for war!",
+		"attacked": "Hold on a minute!",
+		"defeated": "I have fallen and I can't get up!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [173,86,0],
+		"cities": ["Tripoli"]
+	},
+	{
+		"name": "San Marino",
+		"adjective": ["San Marinoan"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You can't treat us like this, you shall pay!",
+		"attacked": "What?! Help!",
+		"defeated": "You are a monster!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [146,234,255],
+		"cities": ["San Marino"]
+	},
 ]
