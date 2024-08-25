@@ -401,5 +401,21 @@
 		"requiredResource": "Iron",
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Knights Hospitaller",
+		"unitType": "Sword",
+		"replaces": "Swordsman",
+		"uniqueTo": "Jerusalem",
+		"movement": 2,
+		"strength": 14,
+		"cost": 65,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Faith]"],
+		"obsoleteTech": "Steel",
+		"requiredResource": "Iron",
+		"hurryCostModifier": 10,
+		"attackSound": "metalhit"
 	}
   ]
