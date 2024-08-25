@@ -311,5 +311,17 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy",
 		"uniques": ["Hidden when religion is disabled"]
+	},
+	{
+		"name": "Commandery",
+		"replaces": "Armory",
+		"uniqueTo": "Jerusalem",
+		"hurryCostModifier": 25,
+		"faith": 1,
+		"maintenance": 1,
+		"requiredBuilding": "Barracks",
+		"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured", "[+2 Gold] from [Holy Site] tiles [in this city]"],
+		"requiredTech": "Steel"
+	},
 	}
 ]
