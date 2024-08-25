@@ -322,6 +322,5 @@
 		"requiredBuilding": "Barracks",
 		"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured", "[+2 Gold] from [Holy Site] tiles [in this city]"],
 		"requiredTech": "Steel"
-	},
 	}
 ]
