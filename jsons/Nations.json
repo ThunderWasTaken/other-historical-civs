@@ -802,5 +802,35 @@
 			"Tiberias","Tarsus","Antioch","Palmyra","Qadisiyah","Homs","Diyar Bakr","Ramla","Hama",
 			"Najaf","Karbala","Yamama","Yathrib","Tabuk","Al-Ubulla","Bukhara","Samarqand","Merv","Nishapur",
 			"Herat","Qandahar","Ghazni","Multan","Isfahan","Rayy","Kerman","Gorgan","Tus"]
+        },
+	{
+		"name": "Jerusalem",
+		"leaderName": "Baldwin IV",
+		"adjective": ["Jerusalemite"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Baldwin IV, the Leper King. You were the king of Jerusalem from 1174 until his death in 1185. Admired by your contemporaries, and later by historians for your willpower and dedication to the Latin Kingdom in the face of debilitating leprosy. Choosing competent advisers, you ruled a thriving crusader state and succeeded in protecting it from the Muslim ruler Saladin. Oh, Baldwin IV, the faith needs you once more. Can you defend against your rampaging enemies? Can you protect your faith from those looking to vanquish it? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "For God!",
+		"attacked": "I know you will not succeed, but I aplaud you for trying.",
+		"defeated": "The kingdom of god may have fallen, but not his people.",
+		"introduction": "I welcome you to my Kingdom, friend."
+
+		"neutralHello": "Good morning.",
+		"hateHello": "Make it quick.",
+
+		"tradeRequest": "God wants this trade to happen, I am sure of it.",
+
+		"outerColor": [255, 255, 255],
+		"innerColor": [255, 208, 1],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Crusader Kings",
+		"uniques": ["[+50]% Natural religion spread [in all cities]", "[+3 Gold] <in cities following our religion> <starting from the [Medieval era]>", "[+2 Culture] <in cities following our religion>"]
+		"cities": ["Jerusalem","Crusader Acre","Jaffa","Crusader Tyre","Ascalon","Crusader Nazareth","Bethlehem","Ramla","Beirut","Sidon", 
+			"Caesarea","Tiberias","Hebron","Gaza","Safed","Nablus","Arsuf","Ibelin","Kerak","Montreal", 
+			"Belvoir","Haifa","Sepphoris","Tantura","Lydda","Emmaus","Crusader Antioch","Crusader Tripoli","Tortosa","Baghras", 
+			"Margat","Chastel Blanc","Krak des Chevaliers","Quneitra","Baalbek","Arwad","Homs","Crusader Aleppo","Ma'arrat al-Nu'man","Crusader Edessa", 
+			"Amman","Ajloun","Zara","Bosra","Pella","Gibelet","Laodicea","Marqab","Rafah"]
 	},
 ]
