@@ -832,6 +832,36 @@
 			"Belvoir","Haifa","Sepphoris","Tantura","Lydda","Emmaus","Crusader Antioch","Crusader Tripoli","Tortosa","Baghras", 
 			"Margat","Chastel Blanc","Krak des Chevaliers","Quneitra","Baalbek","Arwad","Homs","Crusader Aleppo","Ma'arrat al-Nu'man","Crusader Edessa", 
 			"Amman","Ajloun","Zara","Bosra","Pella","Gibelet","Laodicea","Marqab","Rafah"]
+        },
+	{
+		"name": "Seljuk",
+		"leaderName": "Alp Arslan",
+		"adjective": ["Seljuk"],
+		"startBias": ["River"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Alp Arslan, the second Sultan of the Seljuk Turks. You greatly expanded the Seljuk territory and consolidated your power, defeating rivals to the south, east and northwest, and your victory over the Byzantines at the Battle of Manzikert, in 1071, ushered in the Turkmen settlement of Anatolia. Oh, Alp Arslan, the world needs you once more. Can you expand your lands to the edges of the world? Can you topple large empires and usurp their throne? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "My empire shall expand to the edges of the world with you on the ground!",
+		"attacked": "Hah! A futile attempt, you will not defeat me!",
+		"defeated": "Ahh... My ambitions seem to have lead me to my own bitter end.",
+		"introduction": "I am Alp Arslan of the Seljuks, we come in peace... For now."
+
+		"neutralHello": "Hey.",
+		"hateHello": "Bha! Who let this insolent scum in?!",
+
+		"tradeRequest": "Come on now, you know you want this trade.",
+
+		"outerColor": [64, 224, 208],
+		"innerColor": [133, 1, 1],
+		"favoredReligion": "Islam",
+		"uniqueName": "Invaders from the Unknown",
+		"uniques": ["[+1] Sight <in [Desert] tiles>", "Free [Horseman] appears <during the [Classical era]> <upon conquering a city>", "Free [Knight] appears <during the [Medieval era]> <upon conquering a city>", "Free [Cavalry] appears <starting from the [Industrial era]> <upon conquering a city>"]
+		"cities": ["Seljuk Merv","Nishapur","Rayy","Seljuk Hamadan","Tabriz","Isfahan","Kashgar","Herat","Bukhara","Seljuk Samarkand",
+                        "Mosul","Seljuk Aleppo","Seljuk Baghdad","Seljuk Damascus","Seljuk Konya","Seljuk Ankara","Sivas","Bursa","Kermanshah","Tbilisi",
+                        "Shiraz","Kerman","Ardabil","Khiva","Balkh","Amol","Bistam","Qazvin","Ganja",
+                        "Qom","Shamakhi","Fustat","Sari","Kufa","Basra","Mosul","Seljuk Aksaray","Urfa","Malatya",
+                        "Seljuk Antioch","Seljuk Edessa","Manzikert","Van","Ahlat","Bitlis","Khoy","Diyarbakır","Seljuk Erzurum"]
 	},
 	// City-States, continue from above if you want to add new civs, not below!
 	{
