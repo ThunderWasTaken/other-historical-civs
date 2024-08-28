@@ -417,5 +417,20 @@
 		"requiredResource": "Iron",
 		"hurryCostModifier": 10,
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Tumen",
+		"unitType": "Mounted",
+		"replaces": "Knight",
+		"uniqueTo": "Seljuk",
+		"movement": 3,
+		"strength": 26,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"attackSound": "horse"
 	}
   ]
