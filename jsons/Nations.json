@@ -852,8 +852,8 @@
 
 		"tradeRequest": "Come on now, you know you want this trade.",
 
-		"outerColor": [64, 224, 208],
-		"innerColor": [133, 1, 1],
+		"outerColor": [133, 1, 1],
+		"innerColor": [64, 224, 208],
 		"favoredReligion": "Islam",
 		"uniqueName": "Invaders from the Unknown",
 		"uniques": ["[+1] Sight <in [Desert] tiles>", "Free [Horseman] appears <during the [Classical era]> <upon conquering a city>", "Free [Knight] appears <during the [Medieval era]> <upon conquering a city>", "Free [Cavalry] appears <starting from the [Industrial era]> <upon conquering a city>"]
