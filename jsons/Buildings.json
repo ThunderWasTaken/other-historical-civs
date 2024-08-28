@@ -322,5 +322,19 @@
 		"requiredBuilding": "Barracks",
 		"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured", "[+2 Gold] from [Holy site] tiles [in this city]"],
 		"requiredTech": "Steel"
+	},
+	{
+		"name": "Medrese",
+		"replaces": "University",
+		"uniqueTo": "Seljuk",
+		"faith": 2,
+		"happiness": 1,
+		"maintenance": 2,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 33},
+		"specialistSlots": {"Scientist": 3},
+		"requiredBuilding": "Library",
+		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]"],
+		"requiredTech": "Education"
 	}
 ]
