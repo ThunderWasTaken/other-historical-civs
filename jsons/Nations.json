@@ -856,7 +856,7 @@
 		"innerColor": [64, 224, 208],
 		"favoredReligion": "Islam",
 		"uniqueName": "Invaders from the Unknown",
-		"uniques": ["[+1] Sight <in [Desert] tiles>", "Free [Horseman] appears <during the [Classical era]> <upon conquering a city>", "Free [Knight] appears <during the [Medieval era]> <upon conquering a city>", "Free [Cavalry] appears <starting from the [Industrial era]> <upon conquering a city>"]
+		"uniques": ["[+1] Sight <in [Desert] tiles>", "Free [Horseman] appears <during the [Classical era]> <upon conquering a city>", "Free [Knight] appears <during the [Medieval era]> <upon conquering a city>", "Free [Lancer] appears <during the [Renaissance era]> <upon conquering a city>", "Free [Cavalry] appears <starting from the [Industrial era]> <upon conquering a city>"]
 		"cities": ["Seljuk Merv","Nishapur","Rayy","Seljuk Hamadan","Tabriz","Isfahan","Kashgar","Herat","Bukhara","Seljuk Samarkand",
                         "Mosul","Seljuk Aleppo","Seljuk Baghdad","Seljuk Damascus","Seljuk Konya","Seljuk Ankara","Sivas","Bursa","Kermanshah","Tbilisi",
                         "Shiraz","Kerman","Ardabil","Khiva","Balkh","Amol","Bistam","Qazvin","Ganja",
