@@ -432,5 +432,19 @@
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
 		"attackSound": "horse"
+	},
+	{
+		"name": "Khwarazmiyya",
+		"unitType": "Sword",
+		"replaces": "Spearman",
+		"uniqueTo": "Khwarazm",
+		"movement": 2,
+		"strength": 11,
+		"cost": 40,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+10]% maintenance costs"],
+		"attackSound": "metalhit"
 	}
   ]
