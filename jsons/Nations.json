@@ -862,6 +862,36 @@
                         "Shiraz","Kerman","Ardabil","Khiva","Balkh","Amol","Bistam","Qazvin","Ganja",
                         "Qom","Shamakhi","Fustat","Sari","Kufa","Basra","Mosul","Seljuk Aksaray","Urfa","Malatya",
                         "Seljuk Antioch","Seljuk Edessa","Manzikert","Van","Ahlat","Bitlis","Khoy","Diyarbakır","Seljuk Erzurum"]
+        },
+	{
+		"name": "Khwarazm",
+		"leaderName": "Ala ad-Din Muhammad",
+		"adjective": ["Khwarazmite"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": "Ala ad-Din Muhammad, the Shah of the Khwarazmian Empire. You ruled from 1200 to 1220, during which you expanded your empire across Central Asia and Persia, making it one of the most powerful in the region. However, your reign ended in disaster when you mishandled relations with the Mongols by executing their envoys. Genghis Khan swiftly annihilated the Khwarazmian Empire, forcing you to flee and die in exile, marking the rapid collapse of your once-great empire. Oh, Muhammad II, the world now calls for you. Can you fix your mistakes to restore your empire? Can you redeem yourself by expanding your great empire once more? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "You are no use to use anymore, prepare for war!",
+		"attacked": "You will pay for this insolence! I will see your army burn!",
+		"defeated": "No! Not again!",
+		"introduction": "Call me the second Alexander as I will conquer the known world!"
+
+		"neutralHello": "Hi there.",
+		"hateHello": "How dare you come in here unannounced?!",
+
+		"tradeRequest": "Diplomacy is the meal that energizes an empire.",
+
+		"outerColor": [1, 48, 138],
+		"innerColor": [204, 190, 154],
+		"favoredReligion": "Islam",
+		"uniqueName": "Empire of the Sands",
+		"uniques": ["[+2 Science] from each Trade Route", "[-50]% construction time for [All Road] improvements"]
+		"cities": ["Urgench","Gurganj","Khiva","Nishapur","Khwarazm Samarkand","Khwarazm Bukhara","Khwarazm Merv","Kath","Hazārasp",
+			"Amul","Kunya-Urgench","Farab","Nasaf","Shahrisabz","Chach","Termez","Herat","Balkh","Sar-e Pol",
+			"Nisa","Rayy","Qazvin","Gurgan","Tus","Mashhad","Marv-Rud","Tabriz","Isfahan","Harat",
+			"Samarra","Qom","Hamadān","Ghazni","Kashgar","Balkhab","Baykand","Bistam","Andkhoy","Ghaznavid",
+			"Kash","Khwarazm Khotan","Taraz","Tirmidh","Jand","Otrar","Mangyshlak","Astarabad","Khwarazm Derbent"]
 	},
 	// City-States, continue from above if you want to add new civs, not below!
 	{
