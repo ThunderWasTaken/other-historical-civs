@@ -22,7 +22,7 @@
 		"innerColor": [0, 32, 91],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Berserkers of Norse",
-		"uniques":["Earn [50]% of killed [Water] unit's [Cost] as [Gold]", "No movement cost to pillage <for [Melee] units>"]
+		"uniques":["Earn [50]% of killed [Water] unit's [Cost] as [Gold]", "No movement cost to pillage <for [All] units>"]
 		"cities":["Oslo","Bergen","Stavanger","Trondheim","Drammen","Fredrikstad","Skien","Kristiansand","Tonsberg","Alesund",
 			"Moss","Sandefjord","Haugesund","Arendal","Bodo","Tromso","Hamar","Gjovik","Larvik","Halden",
 			"Askoy","Jessheim","Kongsberg","Molde","Ski","Harstad","Lillehammer","Horten","Korsvik","Mo i Rana","Tromsdalen",
@@ -80,7 +80,7 @@
 		"innerColor": [168, 11, 22],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Deus Vult",
-		"uniques": ["[+66]% [Faith] [in all cities] <when at war>", "[+10]% of excess happiness converted to [Faith]", "Free [Great Prophet] appears <after founding a religion>"]
+		"uniques": ["[+75]% [Faith] [in all cities] <when at war>", "[+10]% of excess happiness converted to [Faith]"]
 		"cities":["Prague","Milan","Vienna","Augsburg","Cologne","Nuremberg","Hamburg","Magdeburg","Breslau","Strasburg",
 			"Lubeck","Ulm","Regensburg","Frankfurt am Main","Munchen","Roma","Mainz","Speyer","Trier","Worms",
 			"Lyon","Verona","Metz","Florence","Genoa","Marseille","Padua","Metz","Aachen","Danzig","Piedmont-Savoy",
@@ -138,7 +138,7 @@
 		"innerColor": [255, 191, 1],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Red Dragon of Wales",
-		"uniques": ["Enables conversion of city production to [Culture]", "Each city founded increases culture cost of policies [+10]% less than normal"]
+		"uniques": ["Enables conversion of city production to [Culture]", "Each city founded increases culture cost of policies [+15]% less than normal"]
 		"cities":["Cardiff","Swansea","Newport","Barry","Bridgend","Cwmbrand","Wrexham","Llanelli","Neath","Merthyr Tydfil",
 			"Aberdare","Caerphilly","Pontypridd","Talbot","Colwyn","Pontypool","Penarth","Rhyl","Ebbw Vale","Maesteg",
 			"Tonypandy","Bangor","Connah's Quay","Prestatyn","Carmarthen","Porthcawl","Conwy","Risca","Llandudno","Aberystwyth","Tredegar",
@@ -196,7 +196,7 @@
 		"innerColor": [247, 183, 45],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Crown of Aragon",
-		"uniques":["May not annex cities", "[-25]% [Culture] [in puppeted cities]", "[-25]% [Gold] [in puppeted cities]", "[-25]% [Production] [in puppeted cities]", "[-25]% [Science] [in puppeted cities]", "[+2 Happiness] per [1] population [in puppeted cities]", "Defense bonus when embarked", "[+10]% Strength <for [Water] units>"]
+		"uniques":["May not annex cities", "[-25]% [Culture] [in puppeted cities]", "[-25]% [Gold] [in puppeted cities]", "[-25]% [Production] [in puppeted cities]", "[-25]% [Science] [in puppeted cities]", "[+1 Happiness] per [1] population [in puppeted cities]", "[+10]% Strength <for [Water] units>"]
 		"cities":["Zaragoza","Palermo","Catania","Messina","Siracusa","Marsala","Gela","Huesca","Teruel","Calatayud",
 			"Utebo","Monzon","Barbastro","Ejea de los Caballeros","Alcaniz","Fraga","Cuarte de Huerva","Jaca","Tarazona","Caspe","Binefar","Sabinanigo",
 			"Zuera","La Almunia de Doña Godina","Andorra","Alagon","Tauste","La Puebla de Alfindén","María de Huerva","La Muela","Borja","Villanueva de Gállego",
@@ -255,7 +255,7 @@
 		"innerColor": [36, 153, 0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Regnum Vandalorum et Alanorum",
-		"uniques": ["Units in cities cost no Maintenance", "Gain [300] [Gold] <upon conquering a city>"]
+		"uniques": ["Units in cities cost no Maintenance", "Gain [400] [Gold] <upon conquering a city>"]
 		"cities": ["Alania","Alan Hippo Regius","Hadrumetum","Utica","Cirta","Thapsus","Tunis","Leptis Magna","Sabratha","Gafsa",
 			"Vaga","Theveste","Lambaesis","Bulla Regia","Thugga","Thysdrus","Sufetula","Clupea","Carthago Nova","Calama",
 			"Vescera","Timgad","Sitifis","Sicca Veneria","Rusadir","Capsa","Pupianum","Tacapae","Auzia","Tipasa",
@@ -375,7 +375,7 @@
 		"innerColor": [158, 146, 150],
 		"favoredReligion": "Buddhism",
 		"uniqueName": "Bod Chen Po",
-		"uniques": ["Empire enters golden age <upon conquering a city>", "[+50]% [Faith] [in all cities] <during a Golden Age>", "[+2 Happiness] <during a Golden Age>"]
+		"uniques": ["Empire enters golden age <upon conquering a city>", "[+33]% [Faith] [in all cities] <during a Golden Age>", "[+2 Happiness] <during a Golden Age>"]
 		"cities": ["Lhasa","Shigatse","Gyantse","Chamdo","Nagqu","Nyingchi","Garze","Ngari","Xigazê","Lhünzê",
 			"Tsetang","Bayi","Nyingchi County","Nagchu","Lhorong","Rikaze","Nangqên","Barkam","Qamdo","Litang",
 			"Nagchu County","Zogang","Bomi","Dêngqên","Shannan","Rutog","Nyemo","Lhatse","Dinggyê","Saga",
@@ -495,7 +495,7 @@
 		"innerColor": [255, 207, 1],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Irminsul",
-		"uniques": ["[+25]% Strength <in cities following our religion>", "[+15]% Strength <when fighting in [Forest] tiles>"]
+		"uniques": ["[+20]% Strength <in cities following our religion>", "[+10% Strength <when fighting in [Forest] tiles>"]
 		"cities": ["Verden","Minden","Osnabrück","Paderborn","Bremen","Halberstadt","Hildesheim","Merseburg","Goslar","Stade",
 			"Zeitz","Quedlinburg","Nienburg","Magdeburg","Heiligenstadt","Quakenbrück","Wolfenbüttel","Lübeck","Celle",
 			"Einbeck","Ratzeburg","Lüneburg","Hameln","Brunswiek","Hammaburg","Havelberg","Elten","Scharnebeck",
@@ -555,7 +555,7 @@
 		"innerColor": [93, 191, 2],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Southeastern Cultural Prosperity",
-		"uniques": ["[+2 Culture] from all [Library] buildings", "[+2 Culture] from all [University] buildings", "[Great Artist] is earned [+20]% faster"]
+		"uniques": ["[+2 Culture] from all [Library] buildings", "[+2 Culture] from all [University] buildings", "[Great Artist] is earned [+25]% faster"]
 		"cities": ["Pliska","Preslav","Ohrid","Skopje","Bitola","Beroe","Sofia","Shumen","Varna","Veliko Tarnovo",
 			"Vidin","Nis","Pleven","Kavarna","Dobrich","Silistra","Kyustendil","Yambol","Haskovo","Blagoevgrad",
 			"Montana","Gabrovo","Pernik","Razgrad","Sliven","Burgas","Ruse","Stara Zagora","Kardzhali","Asenovgrad",
@@ -615,7 +615,7 @@
 		"innerColor": [236, 255, 233],
 		"favoredReligion": "Buddhism",
 		"uniqueName": "Empire of Kings",
-		"uniques": ["[+25]% Production when constructing [All] units [in all cities]", "[+1 Happiness, +1 Production] [in puppeted cities]"]
+		"uniques": ["[+20]% Production when constructing [All] units [in all cities]", "[+1 Happiness, +1 Production] [in puppeted cities]"]
 		"cities": ["Toungoo","Prome","Bago","Taungoo","Mandalay","Monywa","Sagaing","Mingun","Pyay","Amarapura",
 			"Shwebo","Yamethin","Nyaung-U","Pakokku","Meiktila","Myitkyina","Pathein","Hinthada","Bhamo","Mawlamyine",
 			"Hpa-An","Dawei","Sittwe","Thayet","Lashio","Mogok","Pyin Oo Lwin","Hakha","Kalaw","Loikaw",
@@ -796,7 +796,7 @@
 		"innerColor": [1, 78, 3],
 		"favoredReligion": "Islam",
 		"uniqueName": "Rightly Guided",
-		"uniques": ["[+4] Movement <for [Missionary] units>", "Empire enters golden age <after generating a Great Prophet>", "[+2 Faith] <in cities following our religion>"]
+		"uniques": ["[+4] Movement <for [Missionary] units>", "Empire enters golden age <after generating a Great Prophet>", "[+1 Faith] <in cities following our religion>", "[+1 Faith] <in cities following our religion> <starting from the [Medieval era]>"]
 		"cities": ["Rashidun Medina","Kufa","Basra","Fustat","Rashidun Damascus","Ctesiphon","Rashidun Jerusalem","Rashidun Cairo","Rashidun Alexandria","Mosul",
 			"Rashidun Baghdad","Aleppo","Tripoli","Aden","Rashidun Mecca","Sana'a","Homs","Amman","Beirut","Harran",
 			"Tiberias","Tarsus","Antioch","Palmyra","Qadisiyah","Homs","Diyar Bakr","Ramla","Hama",
