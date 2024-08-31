@@ -336,5 +336,16 @@
 		"requiredBuilding": "Library",
 		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]"],
 		"requiredTech": "Education"
+	},
+	{
+		"name": "Ziyarateh",
+		"replaces": "Shrine",
+		"uniqueTo": "Khwarazm",
+		"faith": 1,
+		"gold": 1,
+		"culture": 1,
+		"cost": 40,
+		"requiredTech": "Pottery",
+		"uniques": ["Hidden when religion is disabled"]
 	}
 ]
