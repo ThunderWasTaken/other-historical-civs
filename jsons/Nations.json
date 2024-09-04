@@ -912,8 +912,8 @@
 
 		"tradeRequest": "Shall we exchange our resources?",
 
-		"outerColor": [0, 0, 0],
-		"innerColor": [255, 255, 255],
+		"outerColor": [255, 255, 255],
+		"innerColor": [0, 0, 0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Bretagne Armoricaine",
 		"uniques": ["[+15]% Strength <for [10] turns> <upon declaring war with a major Civilization>", "[-75]% construction time for [Fort] improvements"]
