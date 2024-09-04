@@ -456,7 +456,7 @@
 		"strength": 16,
 		"cost": 90,
 		"requiredTech": "Civil Service",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>, [+10]% Strength bonus for [All] units within [2] tiles"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+10]% Strength bonus for [All] units within [2] tiles"],
 		"attackSound": "metalhit"
 	}
   ]
