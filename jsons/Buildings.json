@@ -347,5 +347,14 @@
 		"cost": 40,
 		"requiredTech": "Pottery",
 		"uniques": ["Hidden when religion is disabled"]
+	},
+	{
+		"name": "Enclos Paroissial",
+		"replaces": "Monument",
+		"uniqueTo": "Brittany",
+		"culture": 2,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"uniques": ["Destroyed when the city is captured, [+1 Faith] [in this city] <starting from the [Classical era]>"]
 	}
 ]
