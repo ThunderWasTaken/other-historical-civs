@@ -446,5 +446,17 @@
 		"upgradesTo": "Pikeman",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+10]% maintenance costs"],
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Bagad",
+		"unitType": "Sword",
+		"replaces": "Pikeman",
+		"uniqueTo": "Brittany",
+		"movement": 2,
+		"strength": 16,
+		"cost": 90,
+		"requiredTech": "Civil Service",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>, [+10]% Strength bonus for [All] units within [2] tiles"],
+		"attackSound": "metalhit"
 	}
   ]
