@@ -892,6 +892,36 @@
 			"Nisa","Rayy","Qazvin","Gurgan","Tus","Mashhad","Marv-Rud","Tabriz","Isfahan","Harat",
 			"Samarra","Qom","Hamadān","Ghazni","Kashgar","Balkhab","Baykand","Bistam","Andkhoy","Ghaznavid",
 			"Kash","Khwarazm Khotan","Taraz","Tirmidh","Jand","Otrar","Mangyshlak","Astarabad","Khwarazm Derbent"]
+        },
+	{
+		"name": "Brittany",
+		"leaderName": "Riothamus",
+		"adjective": ["Breton"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": "Riothamus, King of the Britons. You were active circa AD 470 and fought against the Goths in alliance with the declining Western Roman Empire. You were called 'King of the Britons' by the 6th-century historian Jordanes, but the extent of your realm is unclear. Oh, Riothamus, the world needs you once more. Can you lead your army to victory? Can you establish your nation into the history books? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "Fall under my wrath!",
+		"attacked": "Hmph! I will not tolerate this. No mercy!",
+		"defeated": "How truly unfortunate...",
+		"introduction": "Hello stranger, I am the ruler of the lands of Armorica!"
+
+		"neutralHello": "Hello.",
+		"hateHello": "State your business.",
+
+		"tradeRequest": "Shall we exchange our resources?",
+
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 255, 255],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Bretagne Armoricaine",
+		"uniques": ["[+15]% Strength <for [10] turns> <upon declaring war with a major Civilization>", "[-75]% construction time for [Fort] improvements"]
+		"cities": ["Rennes","Nantes","Quimper","Saint-Malo","Vannes","Lorient","Brest","Dinan","Morlaix","Redon",
+			"Fougères","Guingamp","Pontivy","Auray","Saint-Brieuc","Lannion","Paimpol","Concarneau","Douarnenez",
+			"Carhaix","Plouha","Rosporden","Ploërmel","Quiberon","Hennebont","Tréguier","Lamballe","Loudéac",
+			"Josselin","Rostrenen","Belle-Île","Ploemeur","Lanester","Châteaulin","Locminé","Quiberon","Saint-Pol-de-Léon",
+			"Plouzané","La Roche-Bernard","Châteaubriant","Pont-l'Abbé","Cancale","La Guerche-de-Bretagne","Plomodiern"]
 	},
 	// City-States, continue from above if you want to add new civs, not below!
 	{
