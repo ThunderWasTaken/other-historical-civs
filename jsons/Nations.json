@@ -371,8 +371,8 @@
 
 		"tradeRequest": "Trading brings prosperity to all lands.",
 
-		"outerColor": [237, 26, 37],
-		"innerColor": [158, 146, 150],
+		"outerColor": [231, 110, 118],
+		"innerColor": [39, 38, 42],
 		"favoredReligion": "Buddhism",
 		"uniqueName": "Bod Chen Po",
 		"uniques": ["Empire enters golden age <upon conquering a city>", "[+33]% [Faith] [in all cities] <during a Golden Age>", "[+2 Happiness] <during a Golden Age>"]
