@@ -4,7 +4,7 @@
 		"unitType": "Melee Water",
 		"uniqueTo": "Norway",
 		"replaces": "Trireme",
-		"movement": 4,
+		"movement": 5,
 		"strength": 11,
 		"cost": 45,
 		"requiredTech": "Sailing",
@@ -20,7 +20,7 @@
 		"replaces": "Swordsman",
 		"movement": 2,
 		"strength": 16,
-		"cost": 75,
+		"cost": 70,
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Gunpowder",
@@ -35,11 +35,10 @@
 		"uniqueTo": "The Holy Romans",
 		"uniques": ["Can remove other religions from cities <once> <after which this unit is consumed>"]
 		"movement": 2,
-		"strength": 20,
-		"cost": 135,
+		"strength": 18,
+		"cost": 150,
 		"requiredTech": "Steel",
-		"upgradesTo": "Musketman",
-		"obsoleteTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
 		"requiredResource": "Iron",
 		"attackSound": "metalhit"
 	},
@@ -54,7 +53,7 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[-20]% maintenance costs"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[-25]% maintenance costs"],
 		"attackSound": "metalhit"
 	},
 	{
@@ -66,7 +65,7 @@
 		"attackSound": "metalhit"
 		"uniques": [
             "Empire enters a [8]-turn Golden Age <by consuming this unit>",
-            "[+15]% Strength bonus for [Military] units within [2] tiles",
+            "[+20]% Strength bonus for [Military] units within [2] tiles",
             "Can instantly construct a [Citadel] improvement <by consuming this unit>",
 			"Can be earned through combat",
             "Great Person - [War]", "Unbuildable"],
@@ -96,6 +95,7 @@
 		"cost": 140,
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Rifleman",
+		"uniques": ["Can move immediately once bought"],
 		"obsoleteTech": "Replaceable Parts",
 		"attackSound": "shot"
 	},
@@ -141,7 +141,7 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"uniques": ["Earn [250]% of killed [Military] unit's [Strength] as [Gold]"],
+		"uniques": ["Earn [250]% of killed [Military] unit's [Strength] as [Gold]", "No movement cost to pillage"],
 		"attackSound": "metalhit"
 	},
 	{
@@ -210,7 +210,7 @@
 		"replaces": "Trireme",
 		"movement": 4,
 		"strength": 11,
-		"cost": 44,
+		"cost": 40,
 		"requiredTech": "Sailing",
 		"obsoleteTech": "Astronomy",
 		"upgradesTo": "Caravel",
@@ -349,7 +349,7 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"uniques": ["[+66]% Strength <vs [Mounted] units>"],
+		"uniques": ["[+100]% Strength <vs [Mounted] units>"],
 		"attackSound": "metalhit"
 	},
 	{
@@ -382,7 +382,7 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Can build [Pasture] improvements on tiles", "Can build [Camp] improvements on tiles"],
+		"uniques": ["No defensive terrain bonus", "Can build [Pasture] improvements on tiles", "Can build [Camp] improvements on tiles"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
@@ -412,7 +412,7 @@
 		"cost": 65,
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
-		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Faith]"],
+		"uniques": ["Earn [150]% of killed [Military] unit's [Strength] as [Faith]"],
 		"obsoleteTech": "Steel",
 		"requiredResource": "Iron",
 		"hurryCostModifier": 10,
@@ -440,11 +440,11 @@
 		"uniqueTo": "Khwarazm",
 		"movement": 2,
 		"strength": 11,
-		"cost": 40,
+		"cost": 35,
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+10]% maintenance costs"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+20]% maintenance costs"],
 		"attackSound": "metalhit"
 	},
 	{
