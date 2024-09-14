@@ -5,7 +5,7 @@
 		"uniqueTo": "Norway",
 		"maintenance": 2,
 		"uniques": ["[+1 Faith] from [Tundra] tiles [in this city]", "Destroyed when the city is captured"],
-		"faith": 1,
+		"faith": 2,
 		"culture": 1,
 		"requiredBuilding": "Shrine",
 		"hurryCostModifier": 25,
@@ -18,7 +18,7 @@
 		"replaces": "Mint",
 		"uniqueTo": "Mali",
 		"production": 1,
-		"gold": 1,
+		"gold": 2,
 		"uniques": ["[+2 Gold] from [Gold Ore] tiles [in this city]", "[+2 Gold] from [Silver] tiles [in this city]"],
 		"hurryCostModifier": 25,
 		"requiredTech": "Currency"
@@ -34,7 +34,7 @@
 		"faith": 2,
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Walls",
-		"uniques": ["[+3 Faith] [in this city] <after discovering [Archaeology]>", "Destroyed when the city is captured"],
+		"uniques": ["[+3 Culture] [in this city] <after discovering [Archaeology]>", "Destroyed when the city is captured"],
 		"requiredTech": "Chivalry"
 	},
 	{
@@ -53,7 +53,7 @@
 		"name": "Red Cross Hospital",
 		"replaces": "Hospital"
 		"uniqueTo": "Switzerland"
-		"food": 8,
+		"food": 10,
 		"requiredBuilding": "Aqueduct",
 		"maintenance": 1,
 		"hurryCostModifier": 0,
@@ -114,6 +114,7 @@
 		"uniqueTo": "Frisia"
 		"food": 2,
 		"culture": 1,
+		"production": 1,
 		"hurryCostModifier": 25,
 		"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
 			"[+1 Food] from [Bananas] tiles [in this city]",
@@ -124,9 +125,9 @@
 		"name": "Reduction",
 		"replaces": "Temple",
 		"uniqueTo": "Guarani",
-		"maintenance": 1,
-		"culture": 1,
-		"faith": 3,
+		"maintenance": 2,
+		"culture": 2,
+		"faith": 2,
 		"requiredBuilding": "Shrine",
 		"hurryCostModifier": 30,
 		"requiredTech": "Philosophy"
@@ -134,11 +135,12 @@
 	{
 		"name": "Gompas",
 		"uniqueTo": "Tibet",
+		"cost": 100,
 		"maintenance": 1,
-		"culture": 1,
+		"culture": 2,
 		"faith": 4,
 		"hurryCostModifier": 40,
-		"requiredTech": "Philosophy"
+		"requiredTech": "Theology"
 	},
 	{
 		"name": "Baray Reservoir",
@@ -179,7 +181,7 @@
 		"uniqueTo": "Lithuania",
 		"cityStrength": 8,
 		"cityHealth": 30,
-		"happiness": 2,
+		"happiness": 4,
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Walls",
 		"uniques": ["Destroyed when the city is captured"],
@@ -190,7 +192,6 @@
 		"replaces": "Courthouse"
 		"uniqueTo": "Saxony"
 		"maintenance": 2,
-		"happiness": 1,
 		"culture": 2,
 		"faith": 1,
 		"hurryCostModifier": 50,
@@ -240,7 +241,7 @@
 		"name": "Mingun Pagoda",
 		"replaces": "Temple"
 		"uniqueTo": "Toungoo"
-		"faith": 5,
+		"faith": 4,
 		"culture": 2,
 		"maintenance": 2,
 		"requiredBuilding": "Shrine",
@@ -275,7 +276,6 @@
 		"replaces": "Barracks",
 		"uniqueTo": "Akkad",
 		"hurryCostModifier": 25,
-		"maintenance": 1,
 		"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured", "[+15]% Production when constructing [All] units [in this city]"],
 		"requiredTech": "Bronze Working"
 	},
@@ -310,14 +310,13 @@
 		"requiredBuilding": "Shrine",
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy",
-		"uniques": ["Hidden when religion is disabled"]
 	},
 	{
 		"name": "Commandery",
 		"replaces": "Armory",
 		"uniqueTo": "Jerusalem",
 		"hurryCostModifier": 25,
-		"faith": 1,
+		"faith": 2,
 		"maintenance": 1,
 		"requiredBuilding": "Barracks",
 		"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured", "[+2 Gold] from [Holy site] tiles [in this city]"],
@@ -353,7 +352,8 @@
 		"replaces": "Monument",
 		"uniqueTo": "Brittany",
 		"culture": 2,
-		"cost": 40,
+		"production": 1,
+		"cost": 45,
 		"hurryCostModifier": 40,
 		"uniques": ["Destroyed when the city is captured", "[+1 Faith] [in this city] <starting from the [Classical era]>"]
 	}
