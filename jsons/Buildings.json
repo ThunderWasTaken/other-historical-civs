@@ -181,7 +181,7 @@
 		"uniqueTo": "Lithuania",
 		"cityStrength": 8,
 		"cityHealth": 30,
-		"happiness": 4,
+		"happiness": 2,
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Walls",
 		"uniques": ["Destroyed when the city is captured"],
