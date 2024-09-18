@@ -60,16 +60,16 @@
 		"name": "Centurion",
 		"unitType": "Sword",
 		"uniqueTo": "The Western Romans",
-		"replaces": "Great General",
-		"strength": 21,
+		"replaces": "Longswordsman",
+		"movement": 2,
+		"strength": 22,
+		"cost": 120,
+		"uniques": ["Can instantly construct a [Fort] improvement <by consuming this unit>"]
+		"requiredTech": "Steel",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
 		"attackSound": "metalhit"
-		"uniques": [
-            "Empire enters a [8]-turn Golden Age <by consuming this unit>",
-            "[+20]% Strength bonus for [Military] units within [2] tiles",
-            "Can instantly construct a [Citadel] improvement <by consuming this unit>",
-			"Can be earned through combat",
-            "Great Person - [War]", "Unbuildable"],
-		"movement": 2
 	},
 	{
 		"name": "Culture Warrior",
@@ -182,7 +182,7 @@
 		"movement": 2,
 		"strength": 5,
 		"rangedStrength": 6,
-		"cost": 25,
+		"cost": 35,
 		"uniques": ["Double movement in [Jungle]", "Double movement in [Forest]"],
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "arrow"
@@ -334,7 +334,7 @@
 		"requiredTech": "Civil Service",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 		"upgradesTo": "Lancer",
-		"promotions": ["Drill I", "Drill II"],
+		"promotions": ["Drill I", "Shock I"],
 		"obsoleteTech": "Metallurgy",
 		"attackSound": "metalhit"
 	},
@@ -344,7 +344,7 @@
 		"replaces": "Spearman",
 		"uniqueTo": "Akkad",
 		"movement": 2,
-		"strength": 13,
+		"strength": 11,
 		"cost": 55,
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
