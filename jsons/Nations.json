@@ -32,7 +32,7 @@
 		"name": "Mali",
 		"leaderName": "Mansa Musa",
 		"adjective": ["Malian"],
-		"startBias": ["Desert"],
+		"startBias": ["Gold Ore"],
 		"preferredVictoryType": "Cultural",
 
 		"startIntroPart1": "Kanku Musa, Mansa of the Mali Empire, your wealth has impressed those even in the modern age as you are debatably the wealthiest man to ever exist, your taxxing of gold and salt production over many other kingdoms and your trades of luxuries has secured peace and prosperity for your mighty and rich empire. Oh our great Mansa, will you return to your golden throne to lead our civilization back into prosperty? Can you claim back your title as wealthiest man to ever live? Can you build a civilization that will stand the test of time?",
@@ -51,7 +51,7 @@
 		"innerColor": [121, 110, 0],
 		"favoredReligion": "Islam",
 		"uniqueName": "Treasures of the Sahara",
-		"uniques":["[+1 Gold] from [Desert] tiles [in all cities]", "[+100]% [Gold] from every [Gold]", "[+2 Gold] from each Trade Route"]
+		"uniques":["[+1 Gold] from [Desert] tiles [in all cities]", "[+100]% [Gold] from every [Gold Ore]", "[+100]% [Gold] from every [Silver]", "[+2 Gold] from each Trade Route"]
 		"cities":["Bamako","Sikasso","Kalabancoro","Koutiala","Segou","Kayes","Kati","Mopti","Niono","Gao",
 			"San","Koro","Bla","Bougouni","Mande","Baguineda-Camp","Kolondieba","Kolokani","Pelengana","Timbuktu",
 			"Koury","Massigui","Tonka","Kadiolo","Wassoulou-Balle","Kaladougou","Koumantou","Ouelessebougou","Kita","Koulikoro","Nioro",
