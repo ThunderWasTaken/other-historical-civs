@@ -356,5 +356,17 @@
 		"cost": 45,
 		"hurryCostModifier": 40,
 		"uniques": ["Destroyed when the city is captured", "[+1 Faith] [in this city] <starting from the [Classical era]>"]
+	},
+	{
+		"name": "Suq",
+		"replaces": "Bank",
+		"uniqueTo": "Mogadishu",
+		"gold": 3,
+		"culture": 1,
+		"specialistSlots": {"Merchant": 2},
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"gold": 25},
+		"requiredBuilding": "Market",
+		"requiredTech": "Banking"
 	}
 ]
