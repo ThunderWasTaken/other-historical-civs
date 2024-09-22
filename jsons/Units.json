@@ -458,5 +458,17 @@
 		"requiredTech": "Civil Service",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+10]% Strength bonus for [All] units within [2] tiles"],
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Shu'ai",
+		"unitType": "Melee Water",
+		"replaces": "Work Boats",
+		"uniqueTo": "Mogadishu",
+		"strength": 7,
+		"movement": 5,
+		"cost": 30,
+		"requiredTech": "Sailing",
+		"uniques": ["Cannot enter ocean tiles <before discovering [Astronomy]>", "May create improvements on water resources"],
+		"attackSound": "nonmetalhit"
 	}
   ]
