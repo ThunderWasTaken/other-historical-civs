@@ -922,6 +922,36 @@
 			"Carhaix","Plouha","Rosporden","Ploërmel","Quiberon","Hennebont","Tréguier","Lamballe","Loudéac",
 			"Josselin","Rostrenen","Belle-Île","Ploemeur","Lanester","Châteaulin","Locminé","Quiberon","Saint-Pol-de-Léon",
 			"Plouzané","La Roche-Bernard","Châteaubriant","Pont-l'Abbé","Cancale","La Guerche-de-Bretagne","Plomodiern"]
+//        },
+//	{
+//		"name": "Mogadishu",
+//		"leaderName": "Fakhr ad-Din",
+//		"adjective": ["Mogadishan"],
+//		"startBias": ["Coast"],
+//		"preferredVictoryType": "Diplomatic",
+//
+//		"startIntroPart1": "Fakhr ad-Din, Sultan of Mogadishu. You expanded the city's trade by forging key ties with regions like Arabia, India, and China. Your reign saw Mogadishu flourish as a cultural and architectural center, with grand buildings reflecting the city’s wealth and status. Through your stable governance and international diplomacy, Mogadishu became a major player in Indian Ocean trade. Oh, Fakhr ad-Din, your people need you once more. Can you strike a deal that will bring great prosperity to your lands once more? Can you manage your intricate diplomacies to prevent your own fall? Can you build a civilization that will stand the test of time?",
+//
+//		"declaringWar": "You have failed your people, prepare to die!",
+//		"attacked": "Do not get cocky, I will take down whatever you throw at me!",
+//		"defeated": "At the very least, I went down fighting...",
+//		"introduction": "Greetings, may I interest you in a trade?"
+//
+//		"neutralHello": "Yes, why hello!",
+//		"hateHello": "If you are not here for business, I do not want to hear it!.",
+//
+//		"tradeRequest": "Would you like to trade these resources for the sake of our prosperity?",
+//
+//		"outerColor": [255, 255, 255],
+//		"innerColor": [0, 0, 0],
+//		"favoredReligion": "Islam",
+//		"uniqueName": "Golden Horn of Africa",
+//		"uniques": ["[+1] Movement <for [All] units> <for [5] turns> <upon declaring war with a major Civilization>", "[-75]% construction time for [Fort] improvements"]
+//		"cities": ["Rennes","Nantes","Quimper","Saint-Malo","Vannes","Lorient","Brest","Dinan","Morlaix","Redon",
+//			"Fougères","Guingamp","Pontivy","Auray","Saint-Brieuc","Lannion","Paimpol","Concarneau","Douarnenez",
+//			"Carhaix","Plouha","Rosporden","Ploërmel","Quiberon","Hennebont","Tréguier","Lamballe","Loudéac",
+//			"Josselin","Rostrenen","Belle-Île","Ploemeur","Lanester","Châteaulin","Locminé","Quiberon","Saint-Pol-de-Léon",
+//			"Plouzané","La Roche-Bernard","Châteaubriant","Pont-l'Abbé","Cancale","La Guerche-de-Bretagne","Plomodiern"]
 	},
 	// City-States, continue from above if you want to add new civs, not below!
 	{
