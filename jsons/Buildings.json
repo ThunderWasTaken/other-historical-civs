@@ -368,5 +368,19 @@
 		"percentStatBonus": {"gold": 25},
 		"requiredBuilding": "Market",
 		"requiredTech": "Banking"
+	},
+	{
+		"name": "Sahelian Granary",
+		"replaces": "Granary",
+		"uniqueTo": "Kanem-Bornu",
+		"food": 3,
+		"cityStrength": 2,
+		"cityHealth": 30,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
+			"[+1 Food] from [Bananas] tiles [in this city]",
+			"[+1 Food] from [Wheat] tiles [in this city]"],
+		"requiredTech": "Pottery"
 	}
 ]
