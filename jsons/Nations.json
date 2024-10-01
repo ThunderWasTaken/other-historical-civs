@@ -952,6 +952,36 @@
 			"Kilwa","Mogadishan Zanzibar","Unguja","Tanga","Sofala","Mombasa","Gedi","Pemba","Tudho",
 			"Bagamoyo","Malindi","Vumba","Mtwara","Dar es Salaam","Vanga","Baraawe","Lindi","Pangani","Kwale",
 			"Ruins of Gedi","Kilifi","Kua","Ras Mkumbuu","Mkokotoni"]
+        },
+	{
+		"name": "Kanem-Bornu",
+		"leaderName": "Idris Alooma",
+		"adjective": ["Kanem-Bornuan"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": "Idris Alooma, Mai of the Kanem-Bornu. Your reign marked the end of the Kanem civil wars within the state, reuniting N'jimi, the former capital, under Sayfawa control. Furthermore, you introduced significant legal reforms based on Islamic law, establishing qadi courts that operated independently from the executive branch. You are credited with leading the empire to what is often regarded as its zenith during the late 16th-century and early 17th-century. Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "I shall take what is rightfully mine!",
+		"attacked": "Throw all you have at me in a rage, and you'll lose everything.",
+		"defeated": "A saddening end for my empire, I congratulate you.",
+		"introduction": "Good morning, fellow man, nice to meet you."
+
+		"neutralHello": "Greetings, you may speak!",
+		"hateHello": "Speak.",
+
+		"tradeRequest": "We shall prosper under this trade, if you accept.",
+
+		"outerColor": [7, 51, 10],
+		"innerColor": [253, 217, 67],
+		"favoredReligion": "Islam",
+		"uniqueName": "Will of the Saifawa",
+		"uniques": ["Adopt [Commerce] <upon entering the [Medieval era]>", "[-100]% maintenance on road & railroads <during a Golden Age>"]
+		"cities": ["Njimi","Kukawa","N'Djamena","Massenya","Ngazargamu","Yo","Birni N'Konni","Kano","Zinder","Maiduguri",
+			"Nguru","Damaturu","Dikwa","Magumeri","Abéché","Faya-Largeau","Faya","Bol","Zaroug",
+			"Kaélé","Bousso","Ati","Mongo","Pala","Kélo","Fada","Bitkine","Biltine","Bongor",
+			"Oum Hadjer","Massakory","Bebedjia","Dourbali","Guéréda","Mondo","Melfi","Bokoro",
+			"Bololo","Sarh","Kyabe","Am Timan","Koro Toro","Adré","Koumra"]
 	},
 	// City-States, continue from above if you want to add new civs, not below!
 	{
