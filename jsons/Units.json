@@ -470,5 +470,20 @@
 		"requiredTech": "Sailing",
 		"uniques": ["Cannot enter ocean tiles <before discovering [Astronomy]>", "May create improvements on water resources"],
 		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Keshilim",
+		"unitType": "Mounted",
+		"replaces": "Knight",
+		"uniqueTo": "Kanem-Bornu",
+		"movement": 4,
+		"strength": 20,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "[+50]% XP gained from combat", "[+20]% to Flank Attack bonuses"],
+		"attackSound": "horse"
 	}
   ]
