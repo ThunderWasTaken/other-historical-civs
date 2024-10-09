@@ -1065,7 +1065,7 @@
 		"attacked": "This is outrageous!",
 		"defeated": "God help us!",
 		"outerColor": [0, 0, 0],
-		"innerColor": [255,255,0],
+		"innerColor": [254,255,219],
 		"cities": ["Vatican City"]
 	},
 ]
