@@ -1032,4 +1032,40 @@
 		"innerColor": [146,234,255],
 		"cities": ["San Marino"]
 	},
+	{
+		"name": "Passaron",
+		"adjective": ["Epirote"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "Nothing personal, but you'll have to die!",
+		"attacked": "I won't take this personally, as I shall defeat you!",
+		"defeated": "Not a great situation to be in...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [126,68,185],
+		"cities": ["Passaron"]
+	},
+	{
+		"name": "Seleucia",
+		"adjective": ["Seleucid"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "I shall conquer you and regain all my lands!",
+		"attacked": "You may try!",
+		"defeated": "Curse you Alexander!!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [136,217,226],
+		"cities": ["Seleucia"]
+	},
+	{
+		"name": "Vatican City",
+		"adjective": ["Vatican"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "You have angered god! Prepare to die!",
+		"attacked": "This is outrageous!",
+		"defeated": "God help us!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255,255,0],
+		"cities": ["Vatican City"]
+	},
 ]
