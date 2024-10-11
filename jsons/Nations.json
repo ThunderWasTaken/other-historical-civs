@@ -4,6 +4,7 @@
 		"leaderName": "Ragnar Lodbrok",
 		"adjective": ["Norwegian"],
 		"startBias": ["Tundra"],
+		"personality": "Ragnar Lodbrok",
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "Ragnar Lodbrok, a legendary viking leader during the viking ages that has lead the petty kingdoms of Norway into prosperity, and caused great chaos to those unfortunate enough to be victim of your vikingry. Oh Ragnar, the world has changed so much and now we require your great strength once again, will you guide us into prosperity once more in the cold winters of scandinavia? Can you successfuly strike fear into the hearts of your enemies? Can you build a civilization that will stand the test of time?",
@@ -33,6 +34,7 @@
 		"leaderName": "Mansa Musa",
 		"adjective": ["Malian"],
 		"startBias": ["Gold Ore"],
+		"personality": "Mansa Musa",
 		"preferredVictoryType": "Cultural",
 
 		"startIntroPart1": "Kanku Musa, Mansa of the Mali Empire, your wealth has impressed those even in the modern age as you are debatably the wealthiest man to ever exist, your taxxing of gold and salt production over many other kingdoms and your trades of luxuries has secured peace and prosperity for your mighty and rich empire. Oh our great Mansa, will you return to your golden throne to lead our civilization back into prosperty? Can you claim back your title as wealthiest man to ever live? Can you build a civilization that will stand the test of time?",
@@ -62,6 +64,7 @@
 		"leaderName": "Otto I",
 		"adjective": ["Holy Roman"],
 		"startBias": ["Plains"],
+		"personality": "Otto I",
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "Otto the Great, king of Italy, Germany and Saxony, a great military commander who have managed to ressurect the Holy Roman Empire and claimed title as the successor of Charlemagne and the Carolingian Empire. Oh Otto, the world now needs your military greatness once more. Can you create a great catholic nation once more? Can you lead this civilization into lasting dominance in history? Can you build a civilization that will stand the test of time?",
@@ -91,6 +94,7 @@
 		"leaderName": "Valentinian III",
 		"adjective": ["Western Roman"],
 		"startBias": ["Coast"],
+		"personality": "Valentinian III",
 		"preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": "Valentinian III of the Western Roman Empire, your reign over the empire was one of the longest, but it was filled with great perils and challenges. Even then so, you managed to stand your ground, while you lost many land to the hispanic conquest in the west, you still managed to defeat the hunnic invaders. Oh Valentinian III, the world needs a ruler of your integrity and endurance once more. Can you survive the harsh battles ahead? Can you repel and defeat all invaders who have come for your throne? Can you build a civilization that will stand the test of time?",
@@ -120,6 +124,7 @@
 		"leaderName": "Owain Gwynedd",
 		"adjective": ["Welsh"],
 		"startBias": ["Hill"],
+		"personality": "Owain Gwynedd",
 		"preferredVictoryType": "Cultural",
 
 		"startIntroPart1": "Owain Gwynedd, the self-proclaimed Prince of Wales and true King of Powys, you captured many lands east pushing into the territories of the large nation of England. You gained many victories in the wars you've been waged against and ended up above your contemporaries, your kingdom needs you once more, oh great Owain. Can you withstand the pressure from foreign forces once more? Can you withstand the perils of the world? Can you build a civilization that will stand the test of time?",
@@ -149,6 +154,7 @@
 		"leaderName": "Henry Dunant",
 		"adjective": ["Swiss"],
 		"startBias": ["Hill"],
+		"personality": "Henry Dunant",
 		"preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": "Henry Dunant, Swiss Humanitarian, businessman, and co-founder of the red cross, your humanitarian efforts won you the first noble peace prize in 1901. Your kindness is unmatched as seen from your efforts within the early days of the red cross, but you managed to endure and became a hero to many. Oh, Mr. Dunant, we need your kindness in our world once more. Can you safe the lives of many once more? Can you become the paragon of good to the eyes of many once more? Can you build a civilization that will stand the test of time?",
@@ -178,6 +184,7 @@
 		"leaderName": "James II",
 		"adjective": ["Aragonian"],
 		"startBias": ["Coast"],
+		"personality": "James II",
 		"preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": "Oh, James II... King of Aragon, Valencia, Sardinia and Corsica, along with the Count of Barcelona, you conquered the lands of Sardinia in 1324, and created another kingdom to put into your collection. The world needs you once more, Can you conquer your enemies again? Can you create multiple large prosperous kingdoms? Can you build a civilization that will stand the test of time?",
@@ -207,6 +214,7 @@
 		"leaderName": "Kanishka I",
 		"adjective": ["Kushan"],
 		"startBias": ["Plains"],
+		"personality": "Kanishka I",
 		"preferredVictoryType": "Cultural",
 
 		"startIntroPart1": "Kanishka I, the emperor of the Kushan Empire at its zenith, famous for your military, diplomatic, and spiritual advancements, your patronage of buddhist religions was a major part of the creation of the silk road. Oh, great Kanisha I, we the world once again needs your skills once more. Can you once again swiftly defeat your enemies? Can you once again diplomatically charm your contemporaries?  Can you build a civilization that will stand the test of time?",
@@ -237,6 +245,7 @@
 		"leaderName": "Gaiseric",
 		"adjective": ["Vandal"],
 		"startBias": ["Desert"],
+		"personality": "Gaiseric",
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "Gaiseric of the Vandal Kingdom, when Valentinian III was murdered and the next emperor cancelled the marriage between your child and theirs, you invaded Italy and commited the great act of the Sacking of Rome. You made many conquests in northern africa and turned a small germanic tribe into a large mediterranian power. Gaiseric, can you repeat your great conquests once more? Can you strike deep into the hearts of your enemies? Can you build a civilization that will stand the test of time?",
@@ -267,6 +276,7 @@
 		"leaderName": "Blackbeard",
 		"adjective": ["Pirate"],
 		"startBias": ["Coast"],
+		"personality": "Blackbeard",
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "Edward Teach, better known as Blackbeard, you are a vicious and one of the most well known pirates of all time, being the final ruler of the Pirate Republic. You plundered many ships, leaving fear within the hearts of many merchants and sailors alike. Oh, Blackbeard, can you once again terrorize the sea with your terrifying strength? Can you plunder the cities of the foes who dare to oppose you? Can you build a civilization that will stand the test of time?",
@@ -297,6 +307,7 @@
 		"leaderName": "Pier Gerlofs Donia",
 		"adjective": ["Frisian"],
 		"startBias": ["Coast"],
+		"personality": "Pier Gerlofs Donia",
 		"preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": "Pier Gerlofs Donia, you are a peasant leader of a revolt. You owned a farm which was destroyed with many of your kin killed by the Habsburg Authorities, you gathered many disgrunted citizens and petty nobles and launched a revolt! Can you rise up against those stronger than you? Can you destroy those who dare hurt your kin? Can you build a civilization that will stand the test of time?",
@@ -327,6 +338,7 @@
 		"leaderName": "Sepe Tiaraju",
 		"adjective": ["Guarani"],
 		"startBias": ["Jungle"],
+		"personality": "Sepe Tiaraju",
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "Sepe Tiaraju of the Guarani People, you are a hero and saint of the Guarani people, you led the fight against the Portuguese and Spanish colonial powers in the 18th century earning you the title of 'Servant of God'. Oh Sepe Tiaraju, the world once again needs you, can you use your great military prowess to change the world? Can fight off threats in the name of your people and god as you have before? Can you build a civilization that will stand the test of time?",
@@ -357,6 +369,7 @@
 		"leaderName": "Songtsän Gampo",
 		"adjective": ["Tibetan"],
 		"startBias": ["Hill"],
+		"personality": "Songtsän Gampo",
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "Songtsan Gampo, the 33rd king and first emperor of the great Tibetan Empire, you formally let buddhism into your empire, you unified many tibetan kingdoms and expanded your lands vastly. Oh great Songtsen Gampo, the world needs your military and stewardship expertise once more. Can you expand your great empire into greatness? Can you unite cities of others into one once more? you are Can you build a civilization that will stand the test of time?",
@@ -387,6 +400,7 @@
 		"leaderName": "Soma",
 		"adjective": ["Funanese"],
 		"startBias": ["Hill"],
+		"personality": "Soma",
 		"preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": "Great Queen Soma, you are the first monarch of the Funan State. You were first a pirate which attacked an indian merchant ship, there you found Kaundinya, a man who faught greatly which impressed you with his bravery, you married him and ended up creating one of the most concrete dynasties within south east asian history and created the Funan State. Oh great Queen Soma, the world once again needs your greatness. Can you create an empire to surpass yours? Can you vanquish those in your way? Can you build a civilization that will stand the test of time?",
@@ -417,6 +431,7 @@
 		"leaderName": "Aretas IV",
 		"adjective": ["Nabataean"],
 		"startBias": ["Desert"],
+		"personality": "Aretas IV",
 		"preferredVictoryType": "Cultural",
 
 		"startIntroPart1": "Aretas, King of the Nabataeans, Friend of his People, your rule was the zenith of the Nabataean civilization as your capital, Petra was one of the largest economical hubs and cities in the world at that time. Art and culture flourished while under your rule, and the culture that has grown during your rule is still being felt till today. Can you once again strike the world in awe with your culture? Can you create an economy that can eclipse your last achievements? Can you build a civilization that will stand the test of time?",
@@ -447,6 +462,7 @@
 		"leaderName": "Vytautas the Great",
 		"adjective": ["Lithuanian"],
 		"startBias": ["Grassland"],
+		"personality": "Vytautas the Great",
 		"preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": "Vytautas the Great, Grand Duke of Lithuania, your people have thrived in the dense forests and vast marshlands of Eastern Europe. You defended against the Teutonic Order, Mongols, and Polish forces and even managed to expand your lands, your diplomatic skills formed great bonds with your neighbours. Oh, Vytautas the great, can you turn Lithuania into great state once more? Can you extinguish any attempts to destroy your mighty civilization? Can you build a civilization that will stand the test of time?",
@@ -477,6 +493,7 @@
 		"leaderName": "Widukind",
 		"adjective": ["Saxon"],
 		"startBias": ["Forest"],
+		"personality": "Widukind",
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "Widukind the Great, ruler of the Saxons during the attacks of Charlemagne. Your efforts to resist the christian forces and the wrath of Charlemagne is remarkable, whilst your nation eventually fell to the greater and more well equipped Frankish forces, your efforts to defend the old faith has not gone unnoticed. Oh Widukind, can you once again reject the unworthy faith of others? Can you defend your great homeland from foreign invaders once more? Can you build a civilization that will stand the test of time?",
@@ -507,6 +524,7 @@
 		"leaderName": "Sisera",
 		"adjective": ["Sea"],
 		"startBias": ["Coast"],
+		"personality": "Sisera",
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "Sisera, a commander of the Canaanite army of King Jabin of Hazor, who is mentioned in Judges 4–5 of the Hebrew Bible. After being defeated by the forces of the Israelite tribes of Zebulun and Naphtali under the command of Barak and Deborah, you were killed. You were tied to the Sea People by your ancestry and is thus chosen as their ruler. Can you wreak havoc upon greater nations once more? Can you sail the seas for greater conquest? Can you build a civilization that will stand the test of time?",
@@ -537,6 +555,7 @@
 		"leaderName": "Simeon I",
 		"adjective": ["Bulgarian"],
 		"startBias": ["Plains"],
+		"personality": "Simeon I",
 		"preferredVictoryType": "Cultural",
 
 		"startIntroPart1": "Tsar Simeon I of the First Bulgarian Empire. You ruled over Bulgaria from 893 to 927 where you lead successful campaigns against the Byzantines, Magyars and Serbs led Bulgaria to its greatest territorial expansion, making it the most powerful state in contemporary Eastern and Southeast Europe. Oh, Simeon I the Great, can you lead your civilization into its golden age once more? Can you gain cultural dominance over all your contemporaries? Can you build a civilization that will stand the test of time?",
@@ -567,6 +586,7 @@
 		"leaderName": "William Wallace",
 		"adjective": ["Scottish"],
 		"startBias": ["Hill"],
+		"personality": "William Wallace",
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "Sir William Wallace, knight of the Kingdom of Scotland and soon one of its great leaders during the first war of scottish independence. You defeated an English army at the Battle of Stirling Bridge, then you were appointed Guardian of Scotland and served until your defeat at the Battle of Falkirk. Oh Sir William, can you lead Scotland back into greatness? Can you rise against those who threaten your freedom? Can you build a civilization that will stand the test of time?",
@@ -597,6 +617,7 @@
 		"leaderName": "Bayinnaung",
 		"adjective": ["Toungoo"],
 		"startBias": ["Jungle"],
+		"personality": "Bayinnaung",
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "Bayyinnaung, king of the Toungoo Dynasty of Myanmar from 1550 to 1581. During your 31-year reign, which has been called the 'greatest explosion of human energy ever seen in Burma', You assembled the largest empire in the history of Southeast Asia, which included much of modern-day Myanmar, the Chinese Shan states, Lan Na, Lan Xang, Manipur and Siam. Oh Bayinnaung, we once again require your greatness. Can you create another great empire? Can you become the top of the world? Can you build a civilization that will stand the test of time?",
@@ -627,6 +648,7 @@
 		"leaderName": "Carl Jacob Burckhardt",
 		"adjective": ["Danzigian"],
 		"startBias": ["Coast"],
+		"personality": "Carl Jacob Burckhardt",
 		"preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": "Carl Jaco Burckhardt, a Swiss diplomat and historian. Your career alternated between periods of academic historical research and diplomatic postings; the most prominent of the latter were League of Nations High Commissioner for the Free City of Danzig (1937–39) and President of the International Committee of the Red Cross (1945–48). Oh, Carl. Can you once again become a great leader? Can you spread your prosperity throughout the world? Can you build a civilization that will stand the test of time?",
@@ -658,6 +680,7 @@
 		"leaderName": "Nzinga a Nkuwu",
 		"adjective": ["Kongoan"],
 		"startBias": ["Jungle"],
+		"personality": "Nzinga a Nkuwu",
 		"preferredVictoryType": "Cultural",
 
 		"startIntroPart1": "Nzinga a Nkuwu, the 5th ManiKongo of the Kingdom of Kongo between 1470 and 1509. You voluntarily converted to Roman Catholicism and were baptized on 3 May 1491 and took the Christian name of João. Soon after, you abandoned the new faith for a number of reasons, one of them being the Roman Catholic Church's requirement of monogamy. Oh, Nzinga a Nkuwu. Can you rule your kingdom once more? Can you once again strike peace with those stronger than you? Can you build a civilization that will stand the test of time?",
@@ -688,6 +711,7 @@
 		"leaderName": "Sargon",
 		"adjective": ["Akkadian"],
 		"startBias": ["River"],
+		"personality": "Sargon",
 		"preferredVictoryType": "Cultural",
 
 		"startIntroPart1": "Sargon, also known as Sargon the Great, you were the first ruler of the Akkadian Empire, known for your conquests of the Sumerian city-states in the 24th to 23rd centuries BC. You are have been identified as the first person in recorded history to rule over an empire, a legendary feat. Oh, Sargon. The world needs your greatness once more. Can you rebuild your Great Empire once more? Can you be the first to do a great feat that will immortalize your name for eternity? Can you build a civilization that will stand the test of time?",
@@ -718,6 +742,7 @@
 		"leaderName": "Tomislav",
 		"adjective": ["Croatian"],
 		"startBias": ["Coast"],
+		"personality": "Tomislav",
 		"preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": "Tomislav, the first king of Croatia. You became Duke of Croatia sometime in 910 and was crowned king in 925, reigning until 928. During your rule, you forged an alliance with the Byzantine Empire against Bulgaria. In the north, Croatia often clashed with the Principality of Hungary; the state retained its borders and, to some extent, expanded with the disintegrated Lower Pannonia. Oh, Tomislav. Can you turn a small nation into a kingdom once again? Can you forge alliances that will leave your nation with great prosperity? Can you build a civilization that will stand the test of time?",
@@ -748,6 +773,7 @@
 		"leaderName": "Modu Chanyu",
 		"adjective": ["Xiongnuan"],
 		"startBias": ["Grassland"],
+		"personality": "Modu Chanyu",
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "Midu Chanyu, the creator first emperor of the Empire of Xiongnu. You were the son of Touman and to power by ordering your men to overthrow your father in 209 BCE and successfully unified the tribes of the Mongolian-Manchurian grassland and invaded the Qin Dynasty, severely disrupting and weakening the dynasty for years to come. Oh Modu, can you create a new great empire once more? Can you unite the cities of many into one? Can you build a civilization that will stand the test of time?",
@@ -778,6 +804,7 @@
 		"leaderName": "Abu Bakr",
 		"adjective": ["Rashidi"],
 		"startBias": ["Desert"],
+		"personality": "Abu Bakr",
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "Abu Bakr, the first Rashidun Caliph. A close companion and father-in-law of Muhammad, You are referred to with the honorific title al-Siddiq by Sunni Muslims. You were amongst the earliest converts to Islam and propagated dawah to the Mushrikites. You were considered the first Muslim missionary as several companions of Muhammad converted through you. Following Muhammad's death, You succeeded the leadership of the Muslim community as the first caliph. Oh Abu Bakr, the world needs your holiness once more. Can you guide your people to greatness once more? Can you repel the attacks of the non-believers and create a mighty caliphate? Can you build a civilization that will stand the test of time?",
@@ -808,6 +835,7 @@
 		"leaderName": "Baldwin IV",
 		"adjective": ["Jerusalemite"],
 		"startBias": ["Desert"],
+		"personality": "Baldwin IV",
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "Baldwin IV, the Leper King. You were the king of Jerusalem from 1174 until his death in 1185. Admired by your contemporaries, and later by historians for your willpower and dedication to the Latin Kingdom in the face of debilitating leprosy. Choosing competent advisers, you ruled a thriving crusader state and succeeded in protecting it from the Muslim ruler Saladin. Oh, Baldwin IV, the faith needs you once more. Can you defend against your rampaging enemies? Can you protect your faith from those looking to vanquish it? Can you build a civilization that will stand the test of time?",
@@ -838,6 +866,7 @@
 		"leaderName": "Alp Arslan",
 		"adjective": ["Seljuk"],
 		"startBias": ["River"],
+		"personality": "Alp Arslan",
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "Alp Arslan, the second Sultan of the Seljuk Turks. You greatly expanded the Seljuk territory and consolidated your power, defeating rivals to the south, east and northwest, and your victory over the Byzantines at the Battle of Manzikert, in 1071, ushered in the Turkmen settlement of Anatolia. Oh, Alp Arslan, the world needs you once more. Can you expand your lands to the edges of the world? Can you topple large empires and usurp their throne? Can you build a civilization that will stand the test of time?",
@@ -868,6 +897,7 @@
 		"leaderName": "Ala ad-Din Muhammad",
 		"adjective": ["Khwarazmite"],
 		"startBias": ["Desert"],
+		"personality": "Ala ad-Din Muhammad",
 		"preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": "Ala ad-Din Muhammad, the Shah of the Khwarazmian Empire. You ruled from 1200 to 1220, during which you expanded your empire across Central Asia and Persia, making it one of the most powerful in the region. However, your reign ended in disaster when you mishandled relations with the Mongols by executing their envoys. Genghis Khan swiftly annihilated the Khwarazmian Empire, forcing you to flee and die in exile, marking the rapid collapse of your once-great empire. Oh, Muhammad II, the world now calls for you. Can you fix your mistakes to restore your empire? Can you redeem yourself by expanding your great empire once more? Can you build a civilization that will stand the test of time?",
@@ -898,6 +928,7 @@
 		"leaderName": "Riothamus",
 		"adjective": ["Breton"],
 		"startBias": ["Coast"],
+		"personality": "Riothamus",
 		"preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": "Riothamus, King of the Britons. You were active circa AD 470 and fought against the Goths in alliance with the declining Western Roman Empire. You were called 'King of the Britons' by the 6th-century historian Jordanes, but the extent of your realm is unclear. Oh, Riothamus, the world needs you once more. Can you lead your army to victory? Can you establish your nation into the history books? Can you build a civilization that will stand the test of time?",
@@ -928,6 +959,7 @@
 		"leaderName": "Fakhr ad-Din",
 		"adjective": ["Mogadishan"],
 		"startBias": ["Coast"],
+		"personality": "Fakhr ad-Din",
 		"preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": "Fakhr ad-Din, Sultan of Mogadishu. You expanded the city's trade by forging key ties with regions like Arabia, India, and China. Your reign saw Mogadishu flourish as a cultural and architectural center, with grand buildings reflecting the city’s wealth and status. Through your stable governance and international diplomacy, Mogadishu became a major player in Indian Ocean trade. Oh, Fakhr ad-Din, your people need you once more. Can you strike a deal that will bring great prosperity to your lands once more? Can you manage your intricate diplomacies to prevent your own fall? Can you build a civilization that will stand the test of time?",
@@ -958,6 +990,7 @@
 		"leaderName": "Idris Alooma",
 		"adjective": ["Kanem-Bornuan"],
 		"startBias": ["Grassland"],
+		"personality": "Idris Alooma",
 		"preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": "Idris Alooma, Mai of the Kanem-Bornu. Your reign marked the end of the Kanem civil wars within the state, reuniting N'jimi, the former capital, under Sayfawa control. Furthermore, you introduced significant legal reforms based on Islamic law, establishing qadi courts that operated independently from the executive branch. You are credited with leading the empire to what is often regarded as its zenith during the late 16th-century and early 17th-century. Can you build a civilization that will stand the test of time?",
