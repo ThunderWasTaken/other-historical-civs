@@ -823,7 +823,7 @@
 		"innerColor": [1, 78, 3],
 		"favoredReligion": "Islam",
 		"uniqueName": "Rightly Guided",
-		"uniques": ["[+4] Movement <for [Missionary] units>", "Empire enters golden age <after generating a Great Prophet>", "[+1 Faith] <in cities following our religion>", "[+1 Faith] <in cities following our religion> <starting from the [Medieval era]>"]
+		"uniques": ["[+4] Movement <for [Missionary] units>", "Free [Great Prophet] appears <upon entering a Golden Age>", "[+1 Faith] <in cities following our religion>", "[+1 Faith] <in cities following our religion> <starting from the [Medieval era]>"]
 		"cities": ["Rashidun Medina","Kufa","Basra","Fustat","Rashidun Damascus","Ctesiphon","Rashidun Jerusalem","Rashidun Cairo","Rashidun Alexandria","Mosul",
 			"Rashidun Baghdad","Aleppo","Tripoli","Aden","Rashidun Mecca","Sana'a","Homs","Amman","Beirut","Harran",
 			"Tiberias","Tarsus","Antioch","Palmyra","Qadisiyah","Homs","Diyar Bakr","Ramla","Hama",
