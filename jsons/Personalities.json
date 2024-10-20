@@ -988,5 +988,35 @@
           "Autocracy": 5,
           "Order": 8
     }
+  },
+  {
+        "name": "Tvrtko I",
+      "culture": 5,
+      "faith": 5,
+      "food": 6,
+      "gold": 6,
+      "happiness": 8,
+      "production": 6,
+      "science": 7,
+      "military": 6,
+      "aggressive": 4,
+      "declareWar": 6,
+      "commerce": 6,
+      "diplomacy": 5,
+      "loyal": 8,
+      "expansion": 7,
+
+      "priorities": {
+          "Tradition": 4,
+          "Liberty": 7,
+          "Honor": 4,
+          "Commerce": 6,
+          "Patronage": 6,
+          "Piety": 5,
+          "Rationalism": 6,
+          "Freedom": 8,
+          "Autocracy": 6,
+          "Order": 6
+    }
   }
       ]
