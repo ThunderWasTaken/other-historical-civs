@@ -387,8 +387,7 @@
 		"name": "Stecak",
 		"uniqueTo": "Bosnia",
 		"culture": 1,
-		"faith": 1,
-		"uniques": ["[+1 Culture] from [Farm] tiles [in this city] <starting from the [Classical era]>", "[+1 Faith] from [Farm] tiles [in this city] <starting from the [Medieval era]>"]
+		"uniques": ["[+1 Culture] from [Farm] tiles [in this city] <starting from the [Industrial era]>", "[+1 Faith] from [Farm] tiles [in this city] <starting from the [Medieval era]>"]
 		"requiredTech": "Masonry"
 	}
 ]
