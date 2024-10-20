@@ -993,7 +993,7 @@
 		"personality": "Idris Alooma",
 		"preferredVictoryType": "Diplomatic",
 
-		"startIntroPart1": "Idris Alooma, Mai of the Kanem-Bornu. Your reign marked the end of the Kanem civil wars within the state, reuniting N'jimi, the former capital, under Sayfawa control. Furthermore, you introduced significant legal reforms based on Islamic law, establishing qadi courts that operated independently from the executive branch. You are credited with leading the empire to what is often regarded as its zenith during the late 16th-century and early 17th-century. Can you build a civilization that will stand the test of time?",
+		"startIntroPart1": "Idris Alooma, Mai of the Kanem-Bornu. Your reign marked the end of the Kanem civil wars within the state, reuniting N'jimi, the former capital, under Sayfawa control. Furthermore, you introduced significant legal reforms based on Islamic law, establishing qadi courts that operated independently from the executive branch. You are credited with leading the empire to what is often regarded as its zenith during the late 16th-century and early 17th-century. Oh, Idris Alooma. Can you build a powerful empire? Can you spread your influence throughout the sands? Can you build a civilization that will stand the test of time?",
 
 		"declaringWar": "I shall take what is rightfully mine!",
 		"attacked": "Throw all you have at me in a rage, and you'll lose everything.",
@@ -1015,6 +1015,37 @@
 			"Kaélé","Bousso","Ati","Mongo","Pala","Kélo","Fada","Bitkine","Biltine","Bongor",
 			"Oum Hadjer","Massakory","Bebedjia","Dourbali","Guéréda","Mondo","Melfi","Bokoro",
 			"Bololo","Sarh","Kyabe","Am Timan","Koro Toro","Adré","Koumra"]
+        },
+	{
+		"name": "Bosnia",
+		"leaderName": "Tvrtko I",
+		"adjective": ["Bosnian"],
+		"startBias": ["Hill"],
+		"personality": "Tvrtko I",
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Tvrtko I, first king of Bosnia. Early in your personal rule, you quarrelled with his country's Roman Catholic clergy but later enjoyed cordial relations with all the religious communities in your realm. After initial difficulties—the loss of large parts of Bosnia to your overlord, King Louis I of Hungary, and being briefly deposed by your magnates, your power grew considerably. In 1377, you were crowned king of Bosnia and Serbia, claiming to be the heir of Serbia's extinct Nemanjić dynasty. Oh, Tvrtko I. Can you seize the opportunity to expand your realm? Can you create a new dominant power within this world? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "For Bosnia and all its people!",
+		"attacked": "Your blundering will get you no-where but death!",
+		"defeated": "Your tyranny will end soon, I know it.",
+		"introduction": "Who would you be, stranger? I am Tvrtko I of the Kingdom of Bosnia."
+
+		"neutralHello": "What do you need?",
+		"hateHello": "What?",
+
+		"tradeRequest": "I assure you there are no strings attached here.",
+
+		"outerColor": [233, 215, 124],
+		"innerColor": [1, 36, 151],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Bosansko Superiority",
+		"uniques": ["[+10 Happiness] <for [10] turns> <upon conquering a city>", "Free [Inquisitor] appears <upon gaining a [Missionary] unit>", "Free [Missionary] appears <upon gaining a [Inquisitor] unit>"]
+		"cities": ["Visoko","Mostar","Banja Luka","Tuzla","Zenica","Sarajevo","Doboj","Travnik","Trebinje","Gračanica",
+			"Konjic","Goražde","Grude","Srebrenica","Cazin","Sanski Most","Livno","Bihać",
+			"Foča","Brčko","Kakanj","Prijedor","Široki Brijeg","Lukavac","Maglaj","Kladanj","Bugojno",
+			"Teslić","Prozor","Posušje","Zvornik","Čapljina","Nevesinje","Tomislavgrad","Mrkonjić Grad",
+			"Vitez","Orašje","Kiseljak","Čitluk","Novi Travnik","Gradačac","Šipovo"]
 	},
 	// City-States, continue from above if you want to add new civs, not below!
 	{
