@@ -169,8 +169,8 @@
 
 		"tradeRequest": "This exchange will benefit us both.",
 
-		"outerColor": [172, 255, 151],
-		"innerColor": [255, 0, 0],
+		"outerColor": [214, 255, 146],
+		"innerColor": [218, 40, 28],
 		"favoredReligion": "Christianity",
 		"uniqueName": "The Red Cross",
 		"uniques": ["All newly-trained [Melee] units [in all cities] receive the [Medic] promotion", "[+33]% Production when constructing [Food] buildings [in all cities]"]
@@ -851,7 +851,7 @@
 		"tradeRequest": "God wants this trade to happen, I am sure of it.",
 
 		"outerColor": [255, 255, 255],
-		"innerColor": [255, 208, 1],
+		"innerColor": [201, 164, 0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Crusader Kings",
 		"uniques": ["[+50]% Natural religion spread [in all cities]", "[+3 Gold] <in cities following our religion> <starting from the [Medieval era]>", "[+2 Culture] <in cities following our religion>"]
