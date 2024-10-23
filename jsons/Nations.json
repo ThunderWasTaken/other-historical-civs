@@ -169,8 +169,8 @@
 
 		"tradeRequest": "This exchange will benefit us both.",
 
-		"outerColor": [214, 255, 146],
-		"innerColor": [218, 40, 28],
+		"outerColor": [218, 40, 28],
+		"innerColor": [214, 255, 146],
 		"favoredReligion": "Christianity",
 		"uniqueName": "The Red Cross",
 		"uniques": ["All newly-trained [Melee] units [in all cities] receive the [Medic] promotion", "[+33]% Production when constructing [Food] buildings [in all cities]"]
