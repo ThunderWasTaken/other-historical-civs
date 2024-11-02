@@ -393,6 +393,7 @@
 	{
 		"name": "Izba",
 		"uniqueTo": "Kievan Rus"
+		"replaces": "Granary",
 		"food": 2,
 		"maintenance": 1,
 		"hurryCostModifier": 25,
