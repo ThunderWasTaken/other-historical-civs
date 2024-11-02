@@ -497,5 +497,17 @@
 			"[+2] Sight", "Hidden when religion is disabled", "Unbuildable", "Religious Unit"
 		],
 		"movement": 5
+	},
+	{
+		"name": "Voyi",
+		"unitType": "Sword",
+		"uniqueTo": "Kievan Rus",
+		"replaces": "Warrior",
+		"movement": 2,
+		"strength": 8,
+		"cost": 30,
+		"obsoleteTech": "Steel",
+		"upgradesTo": "Swordsman",
+		"attackSound": "nonmetalhit"
 	}
   ]
