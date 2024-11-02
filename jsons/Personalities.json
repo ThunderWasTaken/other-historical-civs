@@ -1018,5 +1018,35 @@
           "Autocracy": 6,
           "Order": 6
     }
+  },
+  {
+        "name": "Rurik",
+      "culture": 8,
+      "faith": 3,
+      "food": 6,
+      "gold": 4,
+      "happiness": 5,
+      "production": 8,
+      "science": 8,
+      "military": 8,
+      "aggressive": 6,
+      "declareWar": 6,
+      "commerce": 9,
+      "diplomacy": 7,
+      "loyal": 9,
+      "expansion": 5,
+
+      "priorities": {
+          "Tradition": 5,
+          "Liberty": 7,
+          "Honor": 9,
+          "Commerce": 7,
+          "Patronage": 2,
+          "Piety": 3,
+          "Rationalism": 7,
+          "Freedom": 5,
+          "Autocracy": 7,
+          "Order": 7
+    }
   }
       ]
