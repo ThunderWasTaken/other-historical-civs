@@ -1071,7 +1071,7 @@
 		"innerColor": [247, 252, 0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Rurikid Dynasty",
-		"uniques": ["[+5 Gold] in cities on [River] tiles", "[-25]% unhappiness from the number of cities", "Free [Great General] appears <upon conquering a city>"]
+		"uniques": ["[+2 Gold] in cities on [River] tiles", "[-25]% unhappiness from the number of cities", "Free [Great General] appears <upon conquering a city>"]
 		"cities": ["Kiev","Novgorod","Ladoga","Beloozero","Murom","Polotsk","Rostov","Chernigov","Smolensk","Pskov",
 			"Vyshhorod","Izborsk","Staraya Ladoga","Tmutarakan","Suzdal","Pereyaslav","Vitebsk","Yuryev","Kursk",
 			"Bryansk","Galich","Putivl","Koporye","Gorodets","Toropets","Mozhaysk","Zvenigorod","Vyatka","Kolomna",
