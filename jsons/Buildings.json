@@ -389,5 +389,14 @@
 		"culture": 1,
 		"uniques": ["[+1 Culture] from [Farm] tiles [in this city] <starting from the [Industrial era]>", "[+1 Faith] from [Farm] tiles [in this city] <starting from the [Medieval era]>"]
 		"requiredTech": "Masonry"
+	},
+	{
+		"name": "Izba",
+		"uniqueTo": "Kievan Rus"
+		"food": 2,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food] from [Deer] tiles [in this city]", "[+1 Food] from [Bananas] tiles [in this city]", "[+1 Food] from [Wheat] tiles [in this city]", "[+1 Faith] from [Forest] tiles [in this city]"],
+		"requiredTech": "Pottery"
 	}
 ]
