@@ -1046,38 +1046,37 @@
 			"Foča","Brčko","Kakanj","Prijedor","Široki Brijeg","Lukavac","Maglaj","Kladanj","Bugojno",
 			"Teslić","Prozor","Posušje","Zvornik","Čapljina","Nevesinje","Tomislavgrad","Mrkonjić Grad",
 			"Vitez","Orašje","Kiseljak","Čitluk","Novi Travnik","Gradačac","Šipovo"]
-//      },
-//	{
-// Aksum removed because it was too similar to Ethiopia in terms of locations and culture
-//		"name": "Aksum",
-//		"leaderName": "Ezana",
-//		"adjective": ["Aksumite"],
-//		"startBias": ["Coast"],
-//		"personality": "Ezana",
-//		"preferredVictoryType": "Cultural",
-//
-//		"startIntroPart1": "Ezana, Ruler of Aksum. You are the first monarch of the Kingdom of Aksum to embrace Christianity and during your rule you expanded your kingdom into Arabia and further in Africa. You built many obelisks and Steles which can still be found till today. Your rule caused great economic and cultural prosperity within the lands of Aksum. Oh, Ezana. Can you tend to your lands and cause greatness once more? Can you lead your people into great prosperity once more? Can you build a civilization that will stand the test of time?",
-//
-//		"declaringWar": "God won't save you now!",
-//		"attacked": "Do not underestimate me!",
-//		"defeated": "You will fall like the others...",
-//		"introduction": "May peace find our lands, who might you be?"
-//
-//		"neutralHello": "Greetings.",
-//		"hateHello": "Scum!",
-//
-//		"tradeRequest": "We shall see who is most prosperous with this trade!",
-//
-//		"outerColor": [43, 167, 195],
-//		"innerColor": [26, 18, 47],
-//		"favoredReligion": "Christianity",
-//		"uniqueName": "Obelisks of Aksum",
-//		"uniques": ["[+2 Happiness, +2 Faith] from every [Wonder]", "[+5]% Production when constructing [Culture] wonders [in all cities]"]
-//		"cities": ["Axum","Kubar","Matara","Yeha","Qohaito","Adulis","Nobatia","Meroë","Soba","Debre Damo",
-//			"Mai-Aini","Metera","Addi Garme","Kaskase","Koloe","Antalo","Serawit","Haoulti","Zula",
-//			"Asfaw","Agame","Enderta","Tembien","Ibre","Ham","Hazega","Addigrat","Tekonda","Naqfa",
-//			"Kaleb","Gunda Gundo","Bete Medhane","Gereb Birara","Shum","Mekele","Hawzen","Agaro",
-//			"Walwal","Wukro","Abba Guba","Endabaguna","Igre","Belessa","Debre Berhan"]
+        },
+	{
+		"name": "Kievan Rus",
+		"leaderName": "Rurik",
+		"adjective": ["Kievan"],
+		"startBias": ["Forest"],
+		"personality": "Rurik",
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Rurik, the king of Novgorod and the founder of the Rurikid Dynasty. You were invited by the Slavs to rule over Novgorod due to the constant conflict in the region, you managed to consolidate power and ruled well in Novgorod till your death. However, you are the founder of the Rurikid dynasty which will rule Novgorod, the Kievan Rus, and eventually Russia till the 16th century. Oh, Rurik. Can you form a great dynasty that will last forever? Can you form a great nation that will turn into an even greater force to be reckoned with? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "You have stood in my way for far too long! You shall die!",
+		"attacked": "You think you can beat me?! I'll show you who is stronger!",
+		"defeated": "You are strong... I accept my defeat... Atleast I know my nation will be in good hands.",
+		"introduction": "Welcome to my lands, who are you?"
+
+		"neutralHello": "Greetings, friend.",
+		"hateHello": "The door is that way.",
+
+		"tradeRequest": "Both of all shall prosper with this trade.",
+
+		"outerColor": [33, 44, 85],
+		"innerColor": [247, 252, 0],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Rurikid Dynasty",
+		"uniques": ["[+5 Gold] in cities on [River] tiles", "[-25]% unhappiness from the number of cities", "Free [Great General] appears <upon conquering a city>"]
+		"cities": ["Kiev","Novgorod","Ladoga","Beloozero","Murom","Polotsk","Rostov","Chernigov","Smolensk","Pskov",
+			"Vyshhorod","Izborsk","Staraya Ladoga","Tmutarakan","Suzdal","Pereyaslav","Vitebsk","Yuryev","Kursk",
+			"Bryansk","Galich","Putivl","Koporye","Gorodets","Toropets","Mozhaysk","Zvenigorod","Vyatka","Kolomna",
+			"Mozhga","Kozelsk","Nerekhta","Rylsk","Staritsa","Mologa","Rzhev","Uglich","Yaroslavl",
+			"Tver","Tambov","Okhta","Ostashkov","Novy Torg","Riga","Narva","Gdov"]
 	},
 	// City-States, continue from above if you want to add new civs, not below!
 	{
