@@ -512,7 +512,7 @@
 		"innerColor": [255, 207, 1],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Irminsul",
-		"uniques": ["[+20]% Strength <in cities following our religion>", "+5% Strength <when fighting in [Forest] tiles>"]
+		"uniques": ["[+20]% Strength <in cities following our religion>", "[+10]% Strength <after founding a Pantheon> <before enhancing a religion>"]
 		"cities": ["Verden","Minden","Osnabrück","Paderborn","Bremen","Halberstadt","Hildesheim","Merseburg","Goslar","Stade",
 			"Zeitz","Quedlinburg","Nienburg","Magdeburg","Heiligenstadt","Quakenbrück","Wolfenbüttel","Lübeck","Celle",
 			"Einbeck","Ratzeburg","Lüneburg","Hameln","Brunswiek","Hammaburg","Havelberg","Elten","Scharnebeck",
@@ -1065,18 +1065,49 @@
 		"neutralHello": "Greetings, friend.",
 		"hateHello": "The door is that way.",
 
-		"tradeRequest": "Both of all shall prosper with this trade.",
+		"tradeRequest": "Both of us shall prosper with this trade.",
 
 		"outerColor": [33, 44, 85],
 		"innerColor": [247, 252, 0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Rurikid Dynasty",
-		"uniques": ["[+2 Gold] in cities on [River] tiles", "[-25]% unhappiness from the number of cities", "Free [Great General] appears <upon conquering a city>"]
+		"uniques": ["[+2 Gold] in cities on [River] tiles", "[-20]% unhappiness from the number of cities", "Free [Great General] appears <upon founding a city>"]
 		"cities": ["Kiev","Novgorod","Ladoga","Beloozero","Murom","Polotsk","Rostov","Chernigov","Smolensk","Pskov",
 			"Vyshhorod","Izborsk","Staraya Ladoga","Tmutarakan","Suzdal","Pereyaslav","Vitebsk","Yuryev","Kursk",
 			"Bryansk","Galich","Putivl","Koporye","Gorodets","Toropets","Mozhaysk","Zvenigorod","Vyatka","Kolomna",
 			"Mozhga","Kozelsk","Nerekhta","Rylsk","Staritsa","Mologa","Rzhev","Uglich","Yaroslavl",
 			"Tver","Tambov","Okhta","Ostashkov","Novy Torg","Riga","Narva","Gdov"]
+        },
+	{
+		"name": "Wallachia",
+		"leaderName": "Vlad III",
+		"adjective": ["Wallachian"],
+		"startBias": ["Forest"],
+		"personality": "Vlad III",
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": "Vladd III, the Impaler. You became the ruler of Wallachia in 1436, during your time you were known for your cruel methods of punishments and executions, being mostly notorious for your impalements, even once creating a forest of impaled people within Targoviste. Oh, Vlad the Impaler, your cruelty is what protects your borders. Can you win against a larger force by striking fear into their hearts? Can you impale your enemies to make a forest to send a message to your potential foes? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "Your head will look great on a pike.",
+		"attacked": "Welcome to my wonderland.",
+		"defeated": "Atleast my punishment is not impalement... That would be cruel irony.",
+		"introduction": "Do not be afraid, just do not attract my wrath."
+
+		"neutralHello": "Welcome, take a seat.",
+		"hateHello": "See those people outside? I hope you join them.",
+
+		"tradeRequest": "Let us prosper in trade and wealth.",
+
+		"outerColor": [70, 43, 40],
+		"innerColor": [255, 255, 255],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Forest of the Impaled",
+		"uniques": ["[+10]% Strength <when fighting in [your] tiles>", "[+10]% Strength <when fighting in [Forest] tiles> <when fighting in [your] tiles>"]
+		"cities": ["Târgoviște","Bucharest","Curtea de Argeș","Suceava","Ploiești","Giurgiu","Câmpulung","Făgăraș","Brașov","Sibiu",
+			"Buzău","Râmnicu Vâlcea","Târgu Jiu","Craiova","Pitești","Drobeta-Turnu Severin","Focșani","Slatina","Brăila",
+			"Tulcea","Caracal","Alexandria","Galați","Mizil","Tecuci","Mangalia","Medgidia","Cernavodă","Constanța",
+			"Târnava","Sfântu Gheorghe","Lugoj","Orșova","Târgu Secuiesc","Bistrița","Reghin","Săcele",
+			"Deva","Miercurea Ciuc","Turda","Hunedoara","Alba Iulia","Zalău","Petroșani"]
 	},
 	// City-States, continue from above if you want to add new civs, not below!
 	{
