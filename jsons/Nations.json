@@ -1102,7 +1102,7 @@
 		"innerColor": [255, 255, 255],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Forest of the Impaled",
-		"uniques": ["[+10]% Strength <when fighting in [your] tiles>", "[+10]% Strength <when fighting in [Forest] tiles> <when fighting in [your] tiles>"]
+		"uniques": ["[+10]% Strength <when fighting in [your] tiles>", "[+5]% Strength <when fighting in [Forest] tiles>"]
 		"cities": ["Târgoviște","Bucharest","Curtea de Argeș","Suceava","Ploiești","Giurgiu","Câmpulung","Făgăraș","Brașov","Sibiu",
 			"Buzău","Râmnicu Vâlcea","Târgu Jiu","Craiova","Pitești","Drobeta-Turnu Severin","Focșani","Slatina","Brăila",
 			"Tulcea","Caracal","Alexandria","Galați","Mizil","Tecuci","Mangalia","Medgidia","Cernavodă","Constanța",
