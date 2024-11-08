@@ -515,7 +515,7 @@
 		"unitType": "Mounted",
 		"uniqueTo": "Wallachia",
 		"replaces": "Knight",
-		"movement": 6,
+		"movement": 5,
 		"strength": 20,
 		"cost": 120,
 		"requiredTech": "Chivalry",
