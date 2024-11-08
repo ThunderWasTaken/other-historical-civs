@@ -14,5 +14,9 @@
       	{
         	"name": "Muzakka",
 		"uniques": ["[+35]% Strength <in cities following our religion>"]
+	},
+      	{
+        	"name": "Hit and Run Tactics",
+		"uniques": ["Can move after attacking", "[+1] Movement"]
       	},
 ]
