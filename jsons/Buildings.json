@@ -392,12 +392,21 @@
 	},
 	{
 		"name": "Izba",
-		"uniqueTo": "Kievan Rus"
+		"uniqueTo": "Kievan Rus",
 		"replaces": "Granary",
 		"food": 2,
 		"maintenance": 1,
 		"hurryCostModifier": 25,
 		"uniques": ["[+1 Food] from [Deer] tiles [in this city]", "[+1 Food] from [Bananas] tiles [in this city]", "[+1 Food] from [Wheat] tiles [in this city]", "[+1 Faith] from [Forest] tiles [in this city]"],
 		"requiredTech": "Pottery"
+	},
+	{
+		"name": "Curtea Domneasca",
+		"uniqueTo": "Wallachia",
+		"replaces": "Courthouse",
+		"faith": 1,
+		"hurryCostModifier": 50,
+		"uniques": ["Remove extra unhappiness from annexed cities", "Can only be built <in [Annexed] cities>", "[Gold] cost of purchasing [All] units [-10]%"],
+		"requiredTech": "Mathematics"
 	}
 ]
