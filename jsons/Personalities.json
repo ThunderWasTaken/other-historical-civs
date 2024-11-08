@@ -1048,5 +1048,35 @@
           "Autocracy": 7,
           "Order": 7
     }
+  },
+  {
+        "name": "Vlad III",
+      "culture": 4,
+      "faith": 5,
+      "food": 6,
+      "gold": 5,
+      "happiness": 4,
+      "production": 8,
+      "science": 7,
+      "military": 8,
+      "aggressive": 3,
+      "declareWar": 3,
+      "commerce": 6,
+      "diplomacy": 5,
+      "loyal": 6,
+      "expansion": 4,
+
+      "priorities": {
+          "Tradition": 9,
+          "Liberty": 4,
+          "Honor": 2,
+          "Commerce": 5,
+          "Patronage": 2,
+          "Piety": 5,
+          "Rationalism": 7,
+          "Freedom": 7,
+          "Autocracy": 4,
+          "Order": 6
+    }
   }
       ]
