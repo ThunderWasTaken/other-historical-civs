@@ -38,7 +38,7 @@
 		"requiredTech": "Chivalry"
 	},
 	{
-		"name": "Earth Hillfort",
+		"name": "Bryngaer",
 		"replaces": "Walls",
 		"cost": 50,
 		"uniqueTo": "Wales",
