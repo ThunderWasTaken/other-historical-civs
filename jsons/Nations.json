@@ -90,7 +90,7 @@
 			"Tuscany","Parma-Piacenza","Modena-Reggio","Gorizia and Gradisca","Lucca", "Saxony","Germans","East Francia","Bavaria","Luxembourg","Italia"]
         },
 	{
-		"name": "The Western Romans",
+		"name": "Western Rome",
 		"leaderName": "Valentinian III",
 		"adjective": ["Western Roman"],
 		"startBias": ["Coast"],
@@ -142,7 +142,7 @@
 		"outerColor": [101, 14, 1],
 		"innerColor": [255, 191, 1],
 		"favoredReligion": "Christianity",
-		"uniqueName": "Red Dragon of Wales",
+		"uniqueName": "The Red Dragon",
 		"uniques": ["Enables conversion of city production to [Culture]", "Each city founded increases culture cost of policies [+15]% less than normal"]
 		"cities":["Cardiff","Swansea","Newport","Barry","Bridgend","Cwmbrand","Wrexham","Llanelli","Neath","Merthyr Tydfil",
 			"Aberdare","Caerphilly","Pontypridd","Talbot","Colwyn","Pontypool","Penarth","Rhyl","Ebbw Vale","Maesteg",
@@ -573,7 +573,7 @@
 		"outerColor": [142, 0, 29],
 		"innerColor": [93, 191, 2],
 		"favoredReligion": "Christianity",
-		"uniqueName": "Southeastern Cultural Prosperity",
+		"uniqueName": "Yugoiztochen Prosperitet",
 		"uniques": ["[+2 Culture] from all [Library] buildings", "[+2 Culture] from all [Public School] buildings", "[Great Artist] is earned [+25]% faster"]
 		"cities": ["Pliska","Preslav","Ohrid","Skopje","Bitola","Beroe","Sofia","Shumen","Varna","Veliko Tarnovo",
 			"Vidin","Nis","Pleven","Kavarna","Dobrich","Silistra","Kyustendil","Yambol","Haskovo","Blagoevgrad",
