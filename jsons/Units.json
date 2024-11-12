@@ -46,7 +46,7 @@
 		"name": "Bucellarii",
 		"unitType": "Sword",
 		"replaces": "Spearman",
-		"uniqueTo": "The Western Romans",
+		"uniqueTo": "Western Rome",
 		"movement": 2,
 		"strength": 12,
 		"cost": 50,
@@ -59,12 +59,12 @@
 	{
 		"name": "Centurion",
 		"unitType": "Sword",
-		"uniqueTo": "The Western Romans",
+		"uniqueTo": "Western Rome",
 		"replaces": "Longswordsman",
 		"movement": 2,
 		"strength": 22,
 		"cost": 120,
-		"uniques": ["Can instantly construct a [Fort] improvement <by consuming this unit>"]
+		"uniques": ["Can instantly construct a [Fort] improvement <by consuming this unit>", "[+10]% Strength bonus for [All] units within [2] tiles"]
 		"requiredTech": "Steel",
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Gunpowder",
@@ -72,7 +72,7 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Culture Warrior",
+		"name": "Gwaywffon",
 		"unitType": "Sword",
 		"replaces": "Lancer",
 		"uniqueTo": "Wales",
@@ -80,7 +80,7 @@
 		"strength": 25,
 		"cost": 175,
 		"requiredTech": "Metallurgy",
-		"promotions": ["Cultured"]
+		"promotions": ["Diwylliedig"]
 		"upgradesTo": "Anti-Tank Gun",
 		"obsoleteTech": "Combined Arms",
 		"attackSound": "metalhit"
@@ -456,7 +456,7 @@
 		"strength": 16,
 		"cost": 90,
 		"requiredTech": "Civil Service",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+10]% Strength bonus for [All] units within [2] tiles"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+20]% Strength bonus for [All] units within [2] tiles"],
 		"attackSound": "metalhit"
 	},
 	{
