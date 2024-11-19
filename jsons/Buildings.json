@@ -413,7 +413,7 @@
 		"name": "Ruka",
 		"uniqueTo": "The Mapuche"	
 		"hurryCostModifier": 25,
-		"uniques": ["[+1 Food, +1 Culture] per [2] population [in this city]"],
+		"uniques": ["[+1 Food, +1 Culture] per [3] population [in this city]"],
 		"requiredTech": "Construction"
 	}
 ]
