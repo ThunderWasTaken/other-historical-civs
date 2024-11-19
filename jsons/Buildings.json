@@ -408,5 +408,13 @@
 		"hurryCostModifier": 50,
 		"uniques": ["Remove extra unhappiness from annexed cities", "Can only be built <in [Annexed] cities>", "[Gold] cost of purchasing [All] units [-10]%"],
 		"requiredTech": "Mathematics"
+	},
+	{
+		"name": "Ruka",
+		"uniqueTo": "Mapuche"
+		"food": 2,	
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food, +1 Happiness, +1 Culture] per [2] population [in this city]"],
+		"requiredTech": "Construction"
 	}
 ]
