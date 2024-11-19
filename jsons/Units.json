@@ -64,7 +64,7 @@
 		"movement": 2,
 		"strength": 22,
 		"cost": 120,
-		"uniques": ["Can build [Fort] improvements on tiles", "[+10]% Strength bonus for [Western Rome] units within [3] tiles"]
+		"uniques": ["Can build [Fort] improvements on tiles", "[+10]% Strength bonus for [Military] units within [2] tiles"]
 		"requiredTech": "Steel",
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Gunpowder",
@@ -456,7 +456,7 @@
 		"strength": 16,
 		"cost": 90,
 		"requiredTech": "Civil Service",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+20]% Strength bonus for [All] units within [2] tiles"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+15]% Strength bonus for [Military] units within [3] tiles"],
 		"attackSound": "metalhit"
 	},
 	{
@@ -525,5 +525,19 @@
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
 		"attackSound": "horse"
+	},
+	{
+		"name": "Toqui",
+		"unitType": "Civilian",
+		"replaces": "Great General",
+		"uniqueTo": "The Mapuche",
+		"uniques": [
+            "Empire enters a [8]-turn Golden Age <by consuming this unit>",
+            "[+15]% Strength bonus for [Military] units within [2] tiles",
+            "Can instantly construct a [Citadel] improvement <by consuming this unit>",
+			"Can be earned through combat",
+			"Great Person - [War]", "Unbuildable", "Uncapturable"],
+		"movement": 2
+		"promotions": ["Woodsman"],
 	}
   ]
