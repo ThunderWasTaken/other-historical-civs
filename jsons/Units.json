@@ -64,7 +64,7 @@
 		"movement": 2,
 		"strength": 22,
 		"cost": 120,
-		"uniques": ["Can instantly construct a [Fort] improvement <by consuming this unit>", "[+10]% Strength bonus for [All] units within [2] tiles"]
+		"uniques": ["Can build [Fort] improvements on tiles", "[+10]% Strength bonus for [Western Rome] units within [3] tiles"]
 		"requiredTech": "Steel",
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Gunpowder",
