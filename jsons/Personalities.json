@@ -1078,5 +1078,35 @@
           "Autocracy": 4,
           "Order": 6
     }
+  },
+  {
+        "name": "Lautaro",
+      "culture": 9,
+      "faith": 5,
+      "food": 9,
+      "gold": 2,
+      "happiness": 5,
+      "production": 5,
+      "science": 5,
+      "military": 9,
+      "aggressive": 4,
+      "declareWar": 2,
+      "commerce": 4,
+      "diplomacy": 8,
+      "loyal": 3,
+      "expansion": 6,
+
+      "priorities": {
+          "Tradition": 9,
+          "Liberty": 7,
+          "Honor": 6,
+          "Commerce": 3,
+          "Patronage": 3,
+          "Piety": 4,
+          "Rationalism": 6,
+          "Freedom": 9,
+          "Autocracy": 1,
+          "Order": 7
+    }
   }
       ]
