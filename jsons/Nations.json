@@ -1036,8 +1036,8 @@
 
 		"tradeRequest": "I assure you there are no strings attached here.",
 
-		"outerColor": [233, 215, 124],
-		"innerColor": [1, 36, 151],
+		"outerColor": [0, 8, 35],
+		"innerColor": [199, 235, 255],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Bosansko Superiority",
 		"uniques": ["[+10 Happiness] <for [10] turns> <upon conquering a city>", "Free [Inquisitor] appears <upon gaining a [Missionary] unit>", "Free [Missionary] appears <upon gaining a [Inquisitor] unit>"]
@@ -1086,7 +1086,7 @@
 		"personality": "Vlad III",
 		"preferredVictoryType": "Diplomatic",
 
-		"startIntroPart1": "Vladd III, the Impaler. You became the ruler of Wallachia in 1436, during your time you were known for your cruel methods of punishments and executions, being mostly notorious for your impalements, even once creating a forest of impaled people within Targoviste. Oh, Vlad the Impaler, your cruelty is what protects your borders. Can you win against a larger force by striking fear into their hearts? Can you impale your enemies to make a forest to send a message to your potential foes? Can you build a civilization that will stand the test of time?",
+		"startIntroPart1": "Vlad III, the Impaler. You became the ruler of Wallachia in 1436, during your time you were known for your cruel methods of punishments and executions, being mostly notorious for your impalements, even once creating a forest of impaled people within Targoviste. Oh, Vlad the Impaler, your cruelty is what protects your borders. Can you win against a larger force by striking fear into their hearts? Can you impale your enemies to make a forest to send a message to your potential foes? Can you build a civilization that will stand the test of time?",
 
 		"declaringWar": "Your head will look great on a pike.",
 		"attacked": "Welcome to my wonderland.",
@@ -1108,6 +1108,37 @@
 			"Tulcea","Caracal","Alexandria","Galați","Mizil","Tecuci","Mangalia","Medgidia","Cernavodă","Constanța",
 			"Târnava","Sfântu Gheorghe","Lugoj","Orșova","Târgu Secuiesc","Bistrița","Reghin","Săcele",
 			"Deva","Miercurea Ciuc","Turda","Hunedoara","Alba Iulia","Zalău","Petroșani"]
+        },
+	{
+		"name": "The Mapuche",
+		"leaderName": "Lautaro",
+		"adjective": ["Mapuche"],
+		"startBias": ["Jungle"],
+		"personality": "Lautaro",
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": "Lautaro, the Mapuche Toqui. You were willingly captured by the spaniards during your early childhood to learn their tactics and weaponry to use against them, when you ran away you became the leader of the rebellion against the colonizers, while you fell in battle, your efforts were not in vain and you were immortalized as a legend within South America. Your people need you once more, Lautaro. Can you defend your homeland from the foreign invaders? Can you defeat a militaristically superior enemy with your own wits and tactics? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "Your end has come! Grovel!",
+		"attacked": "Tyrant scum! You will pay for this!",
+		"defeated": "The spirit of the rebellion will live on, mark my words!",
+		"introduction": "Have you come to be our friend, or our enemy?"
+
+		"neutralHello": "I welcome to you my lands.",
+		"hateHello": "You will pay.",
+
+		"tradeRequest": "My lands are the most rich and glorious of them all, shall I offer you some of it?",
+
+		"outerColor": [255, 229, 137],
+		"innerColor": [46, 79, 4],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Auracania",
+		"uniques": ["[+2 Culture] [in annexed cities]", "[+10]% Strength <when defending>"]
+		"cities": ["Purén","Lautaro","Temuco","Cañete","Tirúa","Villarrica","Nueva Imperial","Angol","Loncoche","Curarrehue",
+			"Galvarino","Ercilla","Carahue","Panguipulli","Padre Las Casas","Vilcún","Freire","Toltén","Victoria",
+			"Traiguén","Lanco","Lumaco","Saavedra","Melipeuco","Cholchol","Collipulli","Teodoro Schmidt",
+			"Renaico","Los Sauces","Pitrufquén","Pucón","Gorbea","Máfil","Cunco","Perquenco","Curacautín",
+			"Lumaco","Ercilla","Lonquimay","Temuco Viejo","Hualaihué","San Juan de la Costa"]
 	},
 	// City-States, continue from above if you want to add new civs, not below!
 	{
