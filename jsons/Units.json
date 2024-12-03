@@ -539,5 +539,19 @@
 			"Great Person - [War]", "Unbuildable", "Uncapturable"],
 		"movement": 2
 		"promotions": ["Woodsman"],
+	},
+	{
+		"name": "Woomera",
+		"unitType": "Sword",
+		"replaces": "Spearman",
+		"uniqueTo": "Australia",
+		"movement": 2,
+		"strength": 7,
+		"rangedStrength": 13,
+		"cost": 56,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"attackSound": "metalhit"
 	}
   ]
