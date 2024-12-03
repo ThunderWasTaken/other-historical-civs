@@ -1099,7 +1099,7 @@
       "priorities": {
           "Tradition": 9,
           "Liberty": 7,
-          "Honor": 6,
+          "Honor": 3,
           "Commerce": 3,
           "Patronage": 3,
           "Piety": 4,
@@ -1107,6 +1107,36 @@
           "Freedom": 9,
           "Autocracy": 1,
           "Order": 7
+    }
+  },
+  {
+        "name": "Galarrwuy Yunupingu",
+      "culture": 8,
+      "faith": 5,
+      "food": 5,
+      "gold": 5,
+      "happiness": 9,
+      "production": 4,
+      "science": 6,
+      "military": 4,
+      "aggressive": 3,
+      "declareWar": 2,
+      "commerce": 6,
+      "diplomacy": 8,
+      "loyal": 7,
+      "expansion": 8,
+
+      "priorities": {
+          "Tradition": 7,
+          "Liberty": 6,
+          "Honor": 6,
+          "Commerce": 7,
+          "Patronage": 4,
+          "Piety": 5,
+          "Rationalism": 7,
+          "Freedom": 8,
+          "Autocracy": 1,
+          "Order": 3
     }
   }
       ]
