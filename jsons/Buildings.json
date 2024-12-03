@@ -415,5 +415,19 @@
 		"hurryCostModifier": 25,
 		"uniques": ["[+1 Food, +1 Culture] per [3] population [in this city]"],
 		"requiredTech": "Construction"
+	},
+	{
+		"name": "Corroboree Grounds",
+		"uniqueTo": "Australia"
+		"replaces": "Amphitheater",
+		"culture": 5,
+		"religion": 1,
+		"happiness": 1,
+		"specialistSlots": {"Artist": 2},
+		"requiredBuilding": "Monument",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"uniques": ["Destroyed when the city is captured"],
+		"requiredTech": "Drama and Poetry"
 	}
 ]
