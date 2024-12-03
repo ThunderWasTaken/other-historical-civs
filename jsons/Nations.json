@@ -1164,7 +1164,7 @@
 		"innerColor": [255, 228, 196],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Terra Australis",
-		"uniques": ["[-25]% Culture cost of natural border growth [in all cities]", "[+1 Production] from every [{non-Fresh Water} {Desert}]"]
+		"uniques": ["[-25]% Culture cost of natural border growth [in all cities]", "[+1 Production] from every [{unimproved} {Desert}]"]
 		"cities": ["Yirrkala","Maningrida","Nhulunbuy","Gove","Ramingining","Gapuwiyak","Elcho Island","Gunbalanya","Jabiru","Arnhem Land",
 			"Numbulwar","Milingimbi","Groote Eylandt","Weipa","Cooktown","Kowanyama","Hope Vale","Aurukun","Pormpuraaw","Lockhart River",
 			"Wujal Wujal","Napranum","Bamaga","Kowanyama","Doomadgee","Mornington Island","Palm Island","Mapoon","Cairns","Townsville",
