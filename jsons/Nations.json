@@ -86,7 +86,7 @@
 		"uniques": ["[+25]% [Faith] [in all cities] <when at war>", "[+10]% of excess happiness converted to [Faith]"]
 		"cities":["Prague","Milan","Vienna","Augsburg","Cologne","Nuremberg","Hamburg","Magdeburg","Breslau","Strasburg",
 			"Lubeck","Ulm","Regensburg","Frankfurt am Main","Munchen","Roma","Mainz","Speyer","Trier","Worms",
-			"Lyon","Verona","Metz","Florence","Genoa","Marseille","Padua","Metz","Aachen","Danzig","Piedmont-Savoy",
+			"Lyon","Verona","Metz","Florence","Genoa","Marseille","Padua","Metz","Aachen","Danzig City","Piedmont-Savoy",
 			"Tuscany","Parma-Piacenza","Modena-Reggio","Gorizia and Gradisca","Lucca", "Saxony","Germans","East Francia","Bavaria","Luxembourg","Italia"]
         },
 	{
@@ -1139,6 +1139,37 @@
 			"Traiguén","Lanco","Lumaco","Saavedra","Melipeuco","Cholchol","Collipulli","Teodoro Schmidt",
 			"Renaico","Los Sauces","Pitrufquén","Pucón","Gorbea","Máfil","Cunco","Perquenco","Curacautín",
 			"Lumaco","Ercilla","Lonquimay","Temuco Viejo","Hualaihué","San Juan de la Costa"]
+        },
+	{
+		"name": "Australia",
+		"leaderName": "Galarrwuy Yunupingu",
+		"adjective": ["Australian"],
+		"startBias": ["Desert"],
+		"personality": "Galarrwuy Yunupingu",
+		"preferredVictoryType": "Cultural",
+
+		"startIntroPart1": "Galarrwuy Yunupingu, an indigeneus Australian activist. In 1960 you became a prominent leader and strong voice for the aboriginal people, earning the respect and admiration of many. You joined the Nothern Land Council in 1975 and became chariman in 1977 to 1980, before being re-elected sometime in the future. As chair of the NLC, you led the Gagudju people in negotiations with mining and government bodies. Not opposed to mining in principle, you saw it as a way for Aboriginal people to escape the welfare trap if it is conducted on the traditional owners' terms. Oh, Galarrwuy. Your people need you once more. Can you fight for the rights of your people? Can you succeed in fighting off those who wish to control and manipulate your people? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "We will no longer consider you as a friend of ours, you must go!",
+		"attacked": "It will not matter how much you throw at me, the indigenous people of Australia shall never submit!",
+		"defeated": "Please... I beg you to be good to my people... Please...",
+		"introduction": "I welcome you to the lands of Australia!"
+
+		"neutralHello": "Hello! Welcome!",
+		"hateHello": "Hello.",
+
+		"tradeRequest": "Let us trade, I hope you find this suitable!",
+
+		"outerColor": [0, 77, 77],
+		"innerColor": [255, 228, 196],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Terra Australis",
+		"uniques": ["[-25]% Culture cost of natural border growth [in all cities]", "[+1 Production] from every [{non-Fresh Water} {Desert}]"]
+		"cities": ["Yirrkala","Maningrida","Nhulunbuy","Gove","Ramingining","Gapuwiyak","Elcho Island","Gunbalanya","Jabiru","Arnhem Land",
+			"Numbulwar","Milingimbi","Groote Eylandt","Weipa","Cooktown","Kowanyama","Hope Vale","Aurukun","Pormpuraaw","Lockhart River",
+			"Wujal Wujal","Napranum","Bamaga","Kowanyama","Doomadgee","Mornington Island","Palm Island","Mapoon","Cairns","Townsville",
+			"Mackay","Rockhampton","Gladstone","Bundaberg","Hervey Bay","Maryborough","Toowoomba","Ipswich","Logan City","Gold Coast",
+			"Brisbane","Woorabinda","Cherbourg","Charleville","Longreach","Mount Isa","Roma","Emerald","Blackall","Cloncurry"]
 	},
 	// City-States, continue from above if you want to add new civs, not below!
 	{
