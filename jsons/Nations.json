@@ -1,13 +1,13 @@
 [
 	{
 		"name": "Norway",
-		"leaderName": "Ragnar Lodbrok",
+		"leaderName": "Harald Fairhair",
 		"adjective": ["Norwegian"],
 		"startBias": ["Tundra"],
-		"personality": "Ragnar Lodbrok",
+		"personality": "Harald Fairhair",
 		"preferredVictoryType": "Domination",
 
-		"startIntroPart1": "Ragnar Lodbrok, a legendary viking leader during the viking ages that has lead the petty kingdoms of Norway into prosperity, and caused great chaos to those unfortunate enough to be victim of your vikingry. Oh Ragnar, the world has changed so much and now we require your great strength once again, will you guide us into prosperity once more in the cold winters of scandinavia? Can you successfuly strike fear into the hearts of your enemies? Can you build a civilization that will stand the test of time?",
+		"startIntroPart1": "Harald Fairhair, first king of Norway. While your biography is blurry and lacks a reliable source, it is well known that you unified the many aggressive petty kingdoms of Norway into one sovereign entity as the Kingdom of Norway. Oh, Harald, with the threat rising in the horizon, your people needs you once more. Can you unite your people once more? Can you drive invaders only to invade them yourself? Can you build a civilization that will stand the test of time?",
 
 		"declaringWar": "We have landed on their shores! Strike fear into their hearts! RAHHH!!",
 		"attacked": "We will warm ourselves with the skin of your soldiers.",
@@ -22,7 +22,7 @@
 		"outerColor": [186, 12, 47],
 		"innerColor": [0, 32, 91],
 		"favoredReligion": "Christianity",
-		"uniqueName": "Sons of Ragnarok",
+		"uniqueName": "Fury of the North",
 		"uniques":["Earn [10]% of killed [Water] unit's [Cost] as [Gold]", "No movement cost to pillage <for [All] units>", "[+10]% Strength <when fighting in [Coast] tiles>"]
 		"cities":["Oslo","Bergen","Stavanger","Trondheim","Drammen","Fredrikstad","Skien","Kristiansand","Tonsberg","Alesund",
 			"Moss","Sandefjord","Haugesund","Arendal","Bodo","Tromso","Hamar","Gjovik","Larvik","Halden",
