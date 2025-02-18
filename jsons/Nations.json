@@ -1191,8 +1191,8 @@
 
 		"tradeRequest": "What is a nation without its wealth?",
 
-		"outerColor": [86, 64, 9],
-		"innerColor": [123, 187, 255],
+		"outerColor": [123, 187, 255],
+		"innerColor": [86, 64, 9],
 		"favoredReligion": "Buddhism",
 		"uniqueName": "Basileia tes Baktrianes",
 		"uniques": ["New [Mounted] units start with [14] Experience [in all cities]", "[+10]% Production when constructing [Mounted] units [in all cities]"]
