@@ -1170,6 +1170,35 @@
 			"Wujal Wujal","Napranum","Bamaga","Kowanyama","Doomadgee","Mornington Island","Palm Island","Mapoon","Cairns","Townsville",
 			"Mackay","Rockhampton","Gladstone","Bundaberg","Hervey Bay","Maryborough","Toowoomba","Ipswich","Logan City","Gold Coast",
 			"Brisbane","Woorabinda","Cherbourg","Charleville","Longreach","Mount Isa","Roma","Emerald","Blackall","Cloncurry"]
+        },
+	{
+		"name": "Bactria",
+		"leaderName": "Eucratides I",
+		"adjective": ["Bactrian"],
+		"startBias": ["Grassland"],
+		"personality": "Eucratides I",
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Eucratides the Great, King of Bactria. You came to power by overthrowing the Euthydemid dynasty in Bactria and soon became one of the most important Greco-Bactrian kings. You conquered large parts of northern India, and minted a vast and prestigious coinage, suggesting a rule of considerable importance and prosperity. Your immediate successors were the last Greek kings to rule in Bactria. Oh, Eucratides I, the people of Bactria need your greatness once more! Can you make your nation rise from the ashes once more? Can you defeat your foes and become great? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "Bactria wont fall so easily!",
+		"attacked": "More lands to conquer, good.",
+		"defeated": "Defeated? Not so easily, you know that I will retu- ...Son? What are you-?!",
+		"introduction": "Lets get this over with, I'll meet you at my tent."
+
+		"neutralHello": "Welcome to my court, can I help you?",
+		"hateHello": "You dare show your face here?",
+
+		"tradeRequest": "What is a nation without its wealth?",
+
+		"outerColor": [86, 64, 9],
+		"innerColor": [123, 187, 255],
+		"favoredReligion": "Buddhism",
+		"uniqueName": "Basileia tes Baktrianes",
+		"uniques": ["New [Mounted] units start with [14] Experience [in all cities]", "[+10]% Production when constructing [Mounted] units [in all cities]"]
+		"cities": ["Bactra","Demetrias","Euthydemia","Eucratidiea","Marakanda","Oxus","Caucasus","Eschate","Arachosia","Indus",
+			"Taxila","Patalene","Mathura","Margiana","Barigaza","Aristobathra","Asigramma","Peucelaitis","Simylla","Sagala",
+			"Kavisiye","Sirkap","Takht-i Sangin","Drapsaka","Termez","Bamyan","Bucephala","Surkh Kotal","Dalverzin Tepe","Tillya Tepe"]
 	},
 	// City-States, continue from above if you want to add new civs, not below!
 	{
