@@ -560,7 +560,7 @@
 		"replaces": "Knight",
 		"uniqueTo": "Bactria",
 		"movement": 4,
-		"strength": 18,
+		"strength": 17,
 		"cost": 120,
 		"rangedStrength": 20,
 		"requiredTech": "The Wheel",
@@ -568,7 +568,7 @@
 		"promotions": ["Shock I"],
 		"upgradesTo": "Cavalry",
 		"obsoleteTech": "Military Science",
-		"uniques": ["Can move after attacking","No defensive terrain bonus"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-25]% Strength <vs cities> <when attacking>"],
 		"attackSound": "arrow"
 	}
   ]
