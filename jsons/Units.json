@@ -553,5 +553,22 @@
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Arma Toxotis",
+		"unitType": "Archery",
+		"replaces": "Knight",
+		"uniqueTo": "Bactria",
+		"movement": 4,
+		"strength": 18,
+		"cost": 120,
+		"rangedStrength": 20,
+		"requiredTech": "The Wheel",
+		"requiredResource": "Horses",
+		"promotions": ["Shock I"],
+		"upgradesTo": "Cavalry",
+		"obsoleteTech": "Military Science",
+		"uniques": ["Can move after attacking","No defensive terrain bonus"],
+		"attackSound": "arrow"
 	}
   ]
