@@ -53,7 +53,7 @@
 		"innerColor": [121, 110, 0],
 		"favoredReligion": "Islam",
 		"uniqueName": "Treasures of the Sahara",
-		"uniques":["[+1 Gold] from [Desert] tiles [in all cities]", "[+100]% [Gold] from every [Gold Ore]", "[+100]% [Gold] from every [Silver]", "[+2 Gold] from each Trade Route"]
+		"uniques":["[+1 Gold] from [Desert] tiles [in all cities] <starting from the [Classical era]>", "[+100]% [Gold] from every [Gold Ore]", "[+100]% [Gold] from every [Silver]", "[+2 Gold] from each Trade Route"]
 		"cities":["Bamako","Sikasso","Kalabancoro","Koutiala","Segou","Kayes","Kati","Mopti","Niono","Gao",
 			"San","Koro","Bla","Bougouni","Mande","Baguineda-Camp","Kolondieba","Kolokani","Pelengana","Timbuktu",
 			"Koury","Massigui","Tonka","Kadiolo","Wassoulou-Balle","Kaladougou","Koumantou","Ouelessebougou","Kita","Koulikoro","Nioro",
@@ -74,7 +74,7 @@
 		"defeated": "God! I have failed you...",
 		"introduction": "Praise the lord, fellow man.",
 
-		"neutralHello": "Hello.",
+		"neutralHello": "Hello, is there something you need from me?",
 		"hateHello": "What is it?",
 
 		"tradeRequest": "May this trade bless both of our nations into prosperity.",
@@ -82,8 +82,8 @@
 		"outerColor": [255, 204, 25],
 		"innerColor": [168, 11, 22],
 		"favoredReligion": "Christianity",
-		"uniqueName": "Deus Vult",
-		"uniques": ["[+25]% [Faith] [in all cities] <when at war>", "[+10]% of excess happiness converted to [Faith]"]
+		"uniqueName": "Empire of Germans",
+		"uniques": ["[+25]% [Faith] [in all cities] <when at war>", "[+25]% of excess happiness converted to [Faith] <starting from the [Medieval era]>"]
 		"cities":["Prague","Milan","Vienna","Augsburg","Cologne","Nuremberg","Hamburg","Magdeburg","Breslau","Strasburg",
 			"Lubeck","Ulm","Regensburg","Frankfurt am Main","Munchen","Roma","Mainz","Speyer","Trier","Worms",
 			"Lyon","Verona","Metz","Florence","Genoa","Marseille","Padua","Metz","Aachen","Danzig City","Piedmont-Savoy",
@@ -143,7 +143,7 @@
 		"innerColor": [255, 191, 1],
 		"favoredReligion": "Christianity",
 		"uniqueName": "The Red Dragon",
-		"uniques": ["Enables conversion of city production to [Culture]", "Each city founded increases culture cost of policies [+15]% less than normal"]
+		"uniques": ["Enables conversion of city production to [Culture]", "Each city founded increases culture cost of policies [+20]% less than normal"]
 		"cities":["Cardiff","Swansea","Newport","Barry","Bridgend","Cwmbrand","Wrexham","Llanelli","Neath","Merthyr Tydfil",
 			"Aberdare","Caerphilly","Pontypridd","Talbot","Colwyn","Pontypool","Penarth","Rhyl","Ebbw Vale","Maesteg",
 			"Tonypandy","Bangor","Connah's Quay","Prestatyn","Carmarthen","Porthcawl","Conwy","Risca","Llandudno","Aberystwyth","Tredegar",
@@ -203,7 +203,7 @@
 		"innerColor": [247, 183, 45],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Crown of Aragon",
-		"uniques":["May not annex cities", "[-25]% [Culture] [in puppeted cities]", "[-25]% [Gold] [in puppeted cities]", "[-25]% [Production] [in puppeted cities]", "[-25]% [Science] [in puppeted cities]", "[+1 Happiness] per [1] population [in puppeted cities]"]
+		"uniques":["May not annex cities", "[-25]% [Culture] [in puppeted cities]", "[-25]% [Production] [in puppeted cities]", "[-25]% [Science] [in puppeted cities]", "[+1 Happiness] per [1] population [in puppeted cities]"]
 		"cities":["Zaragoza","Palermo","Catania","Messina","Siracusa","Marsala","Gela","Huesca","Teruel","Calatayud",
 			"Utebo","Monzon","Barbastro","Ejea de los Caballeros","Alcaniz","Fraga","Cuarte de Huerva","Jaca","Tarazona","Caspe","Binefar","Sabinanigo",
 			"Zuera","La Almunia de Doña Godina","Andorra","Alagon","Tauste","La Puebla de Alfindén","María de Huerva","La Muela","Borja","Villanueva de Gállego",
@@ -233,7 +233,7 @@
 		"innerColor": [105, 52, 0],
 		"favoredReligion": "Buddhism",
 		"uniqueName": "Pax Kushanica",
-		"uniques": ["[+2 Faith, +3 Culture] [in all cities] <when not at war> <starting from the [Classical era]>", "Gain [100] [Gold] <upon conquering a city> <starting from the [Classical era]>", "Gain [200] [Faith] <upon conquering a city> <starting from the [Classical era]>", "Gain [150] [Culture] <upon conquering a city> <starting from the [Classical era]>"]
+		"uniques": ["[+2 Faith, +3 Culture] [in all cities] <when not at war> <starting from the [Classical era]>", "Gain [150] [Gold] <upon conquering a city> <starting from the [Classical era]>", "Gain [250] [Faith] <upon conquering a city> <starting from the [Classical era]>", "Gain [200] [Culture] <upon conquering a city> <starting from the [Classical era]>"]
 		"cities": ["Peshawar","Lahore","Faisalabad","Rawalpindi","Multan","Hyderabad","Gujranwala","Karachi","Quetta","Islamabad",
 			"Srinagar","Kabul","Kandahar","Herat","Mazar-i-Sharif","Kunduz","Dushanbe","Khujand","Kulob","Tashkent",
 			"Samarkand","Bukhara","Nukus","Namangan","Andijan","Fergana","Urgench","Qarshi","Termez","Jizzakh",
@@ -264,7 +264,7 @@
 		"innerColor": [36, 153, 0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Regnum Vandalorum et Alanorum",
-		"uniques": ["Units in cities cost no Maintenance", "Gain [400] [Gold] <upon conquering a city>"]
+		"uniques": ["Units in cities cost no Maintenance", "Gain [500] [Gold] <upon conquering a city>"]
 		"cities": ["Alania","Alan Hippo Regius","Hadrumetum","Utica","Cirta","Thapsus","Tunis","Leptis Magna","Sabratha","Gafsa",
 			"Vaga","Theveste","Lambaesis","Bulla Regia","Thugga","Thysdrus","Sufetula","Clupea","Carthago Nova","Calama",
 			"Vescera","Timgad","Sitifis","Sicca Veneria","Rusadir","Capsa","Pupianum","Tacapae","Auzia","Tipasa",
@@ -326,7 +326,7 @@
 		"innerColor": [250,210,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Frisia Magna",
-		"uniques": ["[+1 Gold] from every [Pasture] <starting from the [Classical era]>", "[+1 Food] from every [Pasture] <starting from the [Classical era]>", "[+1 Gold] from every [Fishing Boats]", "[+1 Food] from every [Fishing Boats]", "[+2 Gold] <in cities connected to the capital> <when not at war> <starting from the [Classical era]>"]
+		"uniques": ["[+1 Gold] from every [Pasture] <starting from the [Classical era]>", "[+1 Food] from every [Pasture] <starting from the [Classical era]>", "[+1 Gold] from every [Fishing Boats]", "[+1 Food] from every [Fishing Boats]", "[+2 Gold] <in cities connected to the capital> <when not at war>"]
 		"cities": ["Leeuwarden","Drachten","Sneek","Heerenveen","Harlingen","Franeker","Dokkum","Wolvega","Joure","Bolsward",
 			"Burgum","Koudum","Lemmer","Workum","Stiens","IJlst","Stavoren","Hindeloopen","Akkrum","Grou",
 			"Dronryp","Hallum","Buitenpost","Surhuisterveen","Gorredijk","Kollum","Ferwert","Damwâld","Eastermar","Garyp",
@@ -388,7 +388,7 @@
 		"innerColor": [39, 38, 42],
 		"favoredReligion": "Buddhism",
 		"uniqueName": "Bod Chen Po",
-		"uniques": ["Empire enters golden age <upon conquering a city>", "[+33]% [Faith] [in all cities] <during a Golden Age>", "[+2 Happiness] <during a Golden Age>"]
+		"uniques": ["Empire enters golden age <upon conquering a city>", "[+20]% [Faith] [in all cities] <during a Golden Age>"]
 		"cities": ["Lhasa","Shigatse","Gyantse","Chamdo","Nagqu","Nyingchi","Garze","Ngari","Xigazê","Lhünzê",
 			"Tsetang","Bayi","Nyingchi County","Nagchu","Lhorong","Rikaze","Nangqên","Barkam","Qamdo","Litang",
 			"Nagchu County","Zogang","Bomi","Dêngqên","Shannan","Rutog","Nyemo","Lhatse","Dinggyê","Saga",
@@ -419,7 +419,7 @@
 		"innerColor": [1, 37, 150],
 		"favoredReligion": "Hinduism",
 		"uniqueName": "Lords of Great Glass River",
-		"uniques": ["Militaristic City-States grant units [2] times as fast when you are at war with a common nation", "[+1 Gold, +1 Production, +1 Food] from [Mountain] tiles [in all cities]", "[+1 Gold, +1 Production, +1 Food, +1 Culture] from [Mountain] tiles [in all cities] <starting from the [Medieval era]>"]
+		"uniques": ["Militaristic City-States grant units [2] times as fast when you are at war with a common nation", "[+1 Gold, +1 Production, +1 Food] from [Mountain] tiles [in all cities]", "[+1 Gold, +1 Production, +1 Food, +1 Culture, +1 Science] from [Mountain] tiles [in all cities] <starting from the [Medieval era]>"]
 		"cities": ["Vyadhapura","Oc Eo","Angkor Borei","Ba Phnom","Phnom Penh","Takeo","Kampong Cham","Kampot","Kampong Thom","Prey Veng",
 			"Sihanoukville","Kampong Speu","Battambang","Banteay Meanchey","Pursat","Svay Rieng","Kratie","Stung Treng","Ratanakiri","Mondulkiri",
 			"Tbong Khmum","Pailin","Koh Kong","Kep","Siem Reap","Preah Vihear","Prey Veng","Moc Hoa","Long Xuyen","Can Tho",
@@ -481,7 +481,7 @@
 		"innerColor": [253, 160, 134],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Grand Resilience",
-		"uniques": ["[+20]% City Strength from defensive buildings", "[+1 Happiness] from all [Walls] buildings", "[+1 Happiness] from all [Arsenal] buildings"]
+		"uniques": ["[+20]% City Strength from defensive buildings", "[+2 Happiness] from all [Walls] buildings", "[+2 Happiness] from all [Arsenal] buildings"]
 		"cities": ["Vilnius","Kaunas","Trakai","Grodno","Minsk","Klaipeda","Hrodna","Polotsk","Navahrudak","Pinsk",
 			"Slonim","Vitebsk","Lida","Brest","Smolensk","Turov","Novogrudok","Kernavė","Ukmergė",
 			"Tartu","Riga","Daugavpils","Zhmud","Volokolamsk","Mstislavl","Ovruch","Jieznas","Zarasai",
@@ -667,7 +667,7 @@
 		"innerColor": [255, 248, 233],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Free City",
-		"uniques": ["[+999999]% Culture cost of natural border growth [in all cities]", "[+2 Happiness] [in all cities]", "[+50]% Unhappiness from [Population] [in all cities]", "May not annex cities", "[+20]% [Science] [in all cities]", "[+20]% [Gold] [in all cities]", "[+20]% [Culture] [in all cities]", "[+20]% [Production] [in all cities]"]
+		"uniques": ["[+999999]% Culture cost of natural border growth [in all cities]", "[+3 Happiness] [in all cities]", "[+50]% Unhappiness from [Population] [in all cities]", "May not annex cities", "[+20]% [Science] [in all cities]", "[+20]% [Gold] [in all cities]", "[+20]% [Culture] [in all cities]", "[+20]% [Production] [in all cities]"]
 		"cities": ["Danzig","Gdynia","Sopot","Westerplatte","Oliva","Langfuhr","Neufahrwasser","Ohra","Schidlitz","St. Albrecht",
 			"Schönfeld","Neugarten","Heubude","Emaus","Petershagen","Heiligenbrunn","Langgarten","Neuschottland",
 			"Saspe","Praust","Tiegenhof","Neuteich","Frauendorf","Schönbaum","Marienburg","Elbing","Zoppot",
@@ -792,7 +792,7 @@
 		"innerColor": [249, 221, 60],
 		"favoredReligion": "Tengriism",
 		"uniqueName": "Nomadic Confederation",
-		"uniques": ["[+1] Movement <for [Scout] units>", "[+1] Movement <for [Worker] units>"]
+		"uniques": ["[+1] Movement <for [Scout] units>", "[+1] Movement <for [Worker] units>", "[+1] Movement <for [Settler] units>"]
 		"cities": ["Otuken","Ordos","Yinshan","Xiyu","Alxa","Dunhuang","Hami","Gaochang","Yuezhi","Wusun",
 			"Jinshan","Heishui","Lingwu","Jiuyuan","Tianshan","Yanghai","Zhaowu","Chifeng","Bayan","Zhangye",
 			"Ulaangom","Karakorum","Altai","Erdene","Naiman","Olonkho","Gobi","Khalkha","Buryat","Tuva",
@@ -823,7 +823,7 @@
 		"innerColor": [1, 78, 3],
 		"favoredReligion": "Islam",
 		"uniqueName": "Rightly Guided",
-		"uniques": ["[+4] Movement <for [Missionary] units>", "Free [Great Prophet] appears <upon entering a Golden Age>", "[+1 Faith] <in cities following our religion>", "[+1 Faith] <in cities following our religion> <starting from the [Medieval era]>"]
+		"uniques": ["[+3] Movement <for [Missionary] units>", "[+3] Movement <for [Great Prophet] units>", "Free [Great Prophet] appears <upon entering a Golden Age>", "[+1 Faith] <in cities following our religion>", "[+1 Faith] <in cities following our religion> <starting from the [Medieval era]>"]
 		"cities": ["Rashidun Medina","Kufa","Basra","Fustat","Rashidun Damascus","Ctesiphon","Rashidun Jerusalem","Rashidun Cairo","Rashidun Alexandria","Mosul",
 			"Rashidun Baghdad","Aleppo","Tripoli","Aden","Rashidun Mecca","Sana'a","Homs","Amman","Beirut","Harran",
 			"Tiberias","Tarsus","Antioch","Palmyra","Qadisiyah","Homs","Diyar Bakr","Ramla","Hama",
@@ -885,7 +885,7 @@
 		"innerColor": [64, 224, 208],
 		"favoredReligion": "Islam",
 		"uniqueName": "Invaders from the Unknown",
-		"uniques": ["[+1] Sight <in [Desert] tiles>", "Free [Horseman] appears <during the [Classical era]> <upon conquering a city>", "Free [Knight] appears <during the [Medieval era]> <upon conquering a city>", "Free [Lancer] appears <during the [Renaissance era]> <upon conquering a city>", "Free [Cavalry] appears <starting from the [Industrial era]> <upon conquering a city>"]
+		"uniques": ["[+2] Sight <in [Desert] tiles>", "Free [Horseman] appears <during the [Classical era]> <upon conquering a city>", "Free [Knight] appears <during the [Medieval era]> <upon conquering a city>", "Free [Lancer] appears <during the [Renaissance era]> <upon conquering a city>", "Free [Cavalry] appears <starting from the [Industrial era]> <upon conquering a city>"]
 		"cities": ["Seljuk Merv","Nishapur","Rayy","Seljuk Hamadan","Tabriz","Isfahan","Kashgar","Herat","Bukhara","Seljuk Samarkand",
                         "Mosul","Seljuk Aleppo","Seljuk Baghdad","Seljuk Damascus","Seljuk Konya","Seljuk Ankara","Sivas","Bursa","Kermanshah","Tbilisi",
                         "Shiraz","Kerman","Ardabil","Khiva","Balkh","Amol","Bistam","Qazvin","Ganja",
@@ -916,7 +916,7 @@
 		"innerColor": [204, 190, 154],
 		"favoredReligion": "Islam",
 		"uniqueName": "Empire of the Sands",
-		"uniques": ["[+10]% Strength <when attacking> <in [Desert] tiles>", "[-50]% construction time for [All Road] improvements"]
+		"uniques": ["[+10]% Strength <when attacking> <in [Desert] tiles>", "[-50]% construction time for [All Road] improvements", "[+1 Food] from [Oasis] tiles [in all cities]"]
 		"cities": ["Urgench","Gurganj","Khiva","Nishapur","Khwarazm Samarkand","Khwarazm Bukhara","Khwarazm Merv","Kath","Hazārasp",
 			"Amul","Kunya-Urgench","Farab","Nasaf","Shahrisabz","Chach","Termez","Herat","Balkh","Sar-e Pol",
 			"Nisa","Rayy","Qazvin","Gurgan","Tus","Mashhad","Marv-Rud","Tabriz","Isfahan","Harat",
@@ -1133,7 +1133,7 @@
 		"innerColor": [46, 79, 4],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Auracania",
-		"uniques": ["[+2 Culture] [in annexed cities]", "[+10]% Strength <when defending>"]
+		"uniques": ["[+2 Culture, +2 Production] [in annexed cities]", "[+10]% Strength <when defending>"]
 		"cities": ["Purén","Lautaro","Temuco","Cañete","Tirúa","Villarrica","Nueva Imperial","Angol","Loncoche","Curarrehue",
 			"Galvarino","Ercilla","Carahue","Panguipulli","Padre Las Casas","Vilcún","Freire","Toltén","Victoria",
 			"Traiguén","Lanco","Lumaco","Saavedra","Melipeuco","Cholchol","Collipulli","Teodoro Schmidt",
@@ -1284,5 +1284,17 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [254,255,219],
 		"cities": ["Vatican City"]
+	},
+	{
+		"name": "Luxembourg",
+		"adjective": ["Luxembourgian"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "We got dragged into this!",
+		"attacked": "Oh god no!",
+		"defeated": "And so, the Grand Duchy falls...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [238,51,64],
+		"cities": ["Luxembourg"]
 	},
 ]
