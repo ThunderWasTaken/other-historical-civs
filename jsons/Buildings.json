@@ -18,7 +18,7 @@
 		"replaces": "Mint",
 		"uniqueTo": "Mali",
 		"production": 1,
-		"gold": 2,
+		"gold": 1,
 		"uniques": ["[+2 Gold] from [Gold Ore] tiles [in this city]", "[+2 Gold] from [Silver] tiles [in this city]"],
 		"hurryCostModifier": 25,
 		"requiredTech": "Currency"
@@ -44,7 +44,7 @@
 		"uniqueTo": "Wales",
 		"cityStrength": 5,
 		"cityHealth": 65,
-		"culture": 2,
+		"culture": 3,
 		"hurryCostModifier": 20,
 		"requiredTech": "Masonry",
 		"uniques": ["Destroyed when the city is captured"]
@@ -138,7 +138,8 @@
 		"cost": 100,
 		"maintenance": 1,
 		"culture": 2,
-		"faith": 4,
+		"faith": 3,
+		"happiness": 1,
 		"hurryCostModifier": 40,
 		"requiredTech": "Theology"
 	},
@@ -241,7 +242,7 @@
 		"name": "Mingun Pagoda",
 		"replaces": "Temple"
 		"uniqueTo": "Toungoo"
-		"faith": 4,
+		"faith": 3,
 		"culture": 2,
 		"maintenance": 2,
 		"requiredBuilding": "Shrine",
@@ -353,6 +354,7 @@
 		"uniqueTo": "Brittany",
 		"culture": 2,
 		"production": 1,
+		"happiness": 1,
 		"cost": 45,
 		"hurryCostModifier": 40,
 		"uniques": ["Destroyed when the city is captured", "[+1 Faith] [in this city] <starting from the [Classical era]>"]
