@@ -10,7 +10,7 @@
 		"requiredTech": "Sailing",
 		"obsoleteTech": "Astronomy",
 		"upgradesTo": "Caravel",
-		"uniques": ["[+20]% Strength <vs [Water] units>"],
+		"uniques": ["[+25]% Strength <vs [Water] units>"],
 		"attackSound": "nonmetalhit"
     	},
 	{
@@ -141,7 +141,7 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"uniques": ["Earn [250]% of killed [Military] unit's [Strength] as [Gold]", "No movement cost to pillage"],
+		"uniques": ["Earn [300]% of killed [Military] unit's [Strength] as [Gold]", "No movement cost to pillage"],
 		"attackSound": "metalhit"
 	},
 	{
@@ -151,7 +151,7 @@
 		"uniqueTo": "The Pirate Republic",
 		"movement": 5,
 		"strength": 25,
-		"cost": 145,
+		"cost": 130,
 		"requiredTech": "Navigation",
 		"upgradesTo": "Destroyer",
 		"promotions": ["Coastal Raider I", "Coastal Raider II", "Pirate"],
@@ -200,7 +200,7 @@
 		"upgradesTo": "Cavalry",
 		"obsoleteTech": "Military Science",
 		"promotions": ["Ignore terrain cost"],
-		"uniques": ["Can move after attacking","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"uniques": ["Can move after attacking", "[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
 		"attackSound": "horse"
     	},
 	{
@@ -258,7 +258,7 @@
 		"replaces": "Trireme",
 		"movement": 4,
 		"strength": 10,
-		"cost": 45,
+		"cost": 35,
 		"requiredTech": "Sailing",
 		"obsoleteTech": "Astronomy",
 		"upgradesTo": "Caravel",
@@ -412,7 +412,7 @@
 		"cost": 65,
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
-		"uniques": ["Earn [150]% of killed [Military] unit's [Strength] as [Faith]"],
+		"uniques": ["Earn [200]% of killed [Military] unit's [Strength] as [Faith]"],
 		"obsoleteTech": "Steel",
 		"requiredResource": "Iron",
 		"hurryCostModifier": 10,
@@ -430,7 +430,7 @@
 		"obsoleteTech": "Military Science",
 		"upgradesTo": "Cavalry",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
 		"attackSound": "horse"
 	},
 	{
@@ -465,7 +465,7 @@
 		"replaces": "Work Boats",
 		"uniqueTo": "Mogadishu",
 		"strength": 7,
-		"movement": 5,
+		"movement": 6,
 		"cost": 30,
 		"requiredTech": "Sailing",
 		"uniques": ["Cannot enter ocean tiles <before discovering [Astronomy]>", "May create improvements on water resources"],
@@ -492,7 +492,7 @@
 		"replaces": "Inquisitor",
 		"uniqueTo": "Bosnia",
 		"uniques": ["Prevents spreading of religion to the city it is next to",
-			"Can remove other religions from cities <in [Friendly] tiles> <once> <after which this unit is consumed>",
+			"Can remove other religions from cities <in [Friendly] tiles> <[2] times> <after which this unit is consumed>",
             "Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
 			"[+2] Sight", "Hidden when religion is disabled", "Unbuildable", "Religious Unit"
 		],
