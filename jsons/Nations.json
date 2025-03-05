@@ -1297,4 +1297,16 @@
 		"innerColor": [238,51,64],
 		"cities": ["Luxembourg"]
 	},
+	{
+		"name": "Cospaia",
+		"adjective": ["Cospaian"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You shall taste the fury of Cospaia!",
+		"attacked": "What are you doing?!",
+		"defeated": "Ack! We weren't meant to exist anyway...",
+		"outerColor": [30, 30, 30],
+		"innerColor": [230,230,230],
+		"cities": ["Cospaia"]
+	},
 ]
