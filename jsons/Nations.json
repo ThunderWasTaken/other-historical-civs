@@ -1288,7 +1288,7 @@
 	{
 		"name": "Luxembourg",
 		"adjective": ["Luxembourgian"],
-		"cityStateType": "Mercantile",
+		"cityStateType": "Cultured",
 
 		"declaringWar": "We got dragged into this!",
 		"attacked": "Oh god no!",
@@ -1300,7 +1300,7 @@
 	{
 		"name": "Cospaia",
 		"adjective": ["Cospaian"],
-		"cityStateType": "Cultured",
+		"cityStateType": "Mercantile",
 
 		"declaringWar": "You shall taste the fury of Cospaia!",
 		"attacked": "What are you doing?!",
