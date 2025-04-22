@@ -978,7 +978,7 @@
 		"innerColor": [250, 220, 18],
 		"favoredReligion": "Islam",
 		"uniqueName": "Golden Horn of Africa",
-		"uniques": ["[+1 Gold] from [Coast] tiles [in all cities] <after discovering [Currency]>", "[+25]% Production when constructing [Water] units <during a Golden Age>"]
+		"uniques": ["[+1 Gold] from [Coast] tiles [in all cities] <after discovering [Currency]>", "[+25]% Production when constructing [Water] units [in all cities] <during a Golden Age>"]
 		"cities": ["Mogadishu","Merca","Barawa","Hafun","Kismayo","Bosaso","Hobyo","Las Khorey","El Buur","Bandar Qasim",
 			"Ras Hafun","Berbera","Saylac","Hargeisa","Eyl","Lamu","Pate","Shanga","Manda","Moyuni",
 			"Kilwa","Mogadishan Zanzibar","Unguja","Tanga","Sofala","Mombasa","Gedi","Pemba","Tudho",
