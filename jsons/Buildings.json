@@ -24,20 +24,6 @@
 		"requiredTech": "Currency"
 	},
 	{
-	\\	"name": "Holy Order Castle",
-	\\	"cost": 150,
-	\\	"replaces": "Castle",
-	\\	"uniqueTo": "The Holy Romans",
-	\\	"cityStrength": 7,
-	\\	"cityHealth": 25,
-	\\	"culture": 1,
-	\\	"faith": 2,
-	\\	"hurryCostModifier": 25,
-	\\	"requiredBuilding": "Walls",
-	\\	"uniques": ["[+3 Culture] [in this city] <after discovering [Archaeology]>", "Destroyed when the city is captured"],
-	\\	"requiredTech": "Chivalry"
-	},
-	{
 		"name": "Bryngaer",
 		"replaces": "Walls",
 		"cost": 50,
@@ -107,17 +93,6 @@
 		"uniques": ["[+1 Production] from [Water resource] tiles [in this city]",
 			"Connects trade routes over water","Must be next to [Coast]"],
 		"requiredTech": "Compass"
-	\\},
-	\\{
-	\\	"name": "Frisian Farmhouse",
-	\\	"replaces": "Granary"
-	\\	"uniqueTo": "Frisia"
-	\\	"food": 2,
-	\\	"culture": 1,
-	\\	"production": 1,
-	\\	"hurryCostModifier": 25,
-	\\	"uniques": [], \\somehow this broke the json??? I was forced to remove it but it was identical to the granary anyway
-	\\	"requiredTech": "Pottery"
 	},
 	{
 		"name": "Reduction",
@@ -336,17 +311,6 @@
 		"requiredTech": "Education"
 	},
 	{
-	\\	"name": "Ziyarateh",
-	\\	"replaces": "Shrine",
-	\\	"uniqueTo": "Khwarazm",
-	\\	"faith": 1,
-	\\	"gold": 1,
-	\\	"culture": 1,
-	\\	"cost": 40,
-	\\	"requiredTech": "Pottery",
-	\\	"uniques": ["Hidden when religion is disabled"]
-	},
-	{
 		"name": "Enclos Paroissial",
 		"replaces": "Monument",
 		"uniqueTo": "Brittany",
@@ -408,27 +372,6 @@
 		"hurryCostModifier": 50,
 		"uniques": ["Remove extra unhappiness from annexed cities", "Can only be built <in [Annexed] cities>", "[Gold] cost of purchasing [All] units [-10]%"],
 		"requiredTech": "Mathematics"
-	},
-	{
-	\\	"name": "Ruka",
-	\\	"uniqueTo": "The Mapuche"	
-	\\	"hurryCostModifier": 25,
-	\\	"uniques": ["[+1 Food, +1 Culture] per [3] population [in this city]"],
-	\\	"requiredTech": "Construction"
-	\\},
-	\\{
-	\\	"name": "Corroboree Grounds",
-	\\	"uniqueTo": "Australia"
-	\\	"replaces": "Amphitheater",
-	\\	"culture": 5,
-	\\	"religion": 1,
-	\\	"happiness": 1,
-	\\	"specialistSlots": {"Artist": 2},
-	\\	"requiredBuilding": "Monument",
-	\\	"maintenance": 2,
-	\\	"hurryCostModifier": 25,
-	\\	"uniques": ["Destroyed when the city is captured"],
-	\\	"requiredTech": "Drama and Poetry"
 	},
 	{
 		"name": "Numismatics",
