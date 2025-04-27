@@ -1108,8 +1108,8 @@
 			"Tulcea","Caracal","Alexandria","Galați","Mizil","Tecuci","Mangalia","Medgidia","Cernavodă","Constanța",
 			"Târnava","Sfântu Gheorghe","Lugoj","Orșova","Târgu Secuiesc","Bistrița","Reghin","Săcele",
 			"Deva","Miercurea Ciuc","Turda","Hunedoara","Alba Iulia","Zalău","Petroșani"]
-        \\},
-	\\{
+        },
+	{
 	\\	"name": "The Mapuche",
 	\\	"leaderName": "Lautaro",
 	\\	"adjective": ["Mapuche"],
@@ -1170,8 +1170,8 @@
 	\\		"Wujal Wujal","Napranum","Bamaga","Kowanyama","Doomadgee","Mornington Island","Palm Island","Mapoon","Cairns","Townsville",
 	\\		"Mackay","Rockhampton","Gladstone","Bundaberg","Hervey Bay","Maryborough","Toowoomba","Ipswich","Logan City","Gold Coast",
 	\\		"Brisbane","Woorabinda","Cherbourg","Charleville","Longreach","Mount Isa","Roma","Emerald","Blackall","Cloncurry"]
-        \\},
-	\\{
+        },
+	{
 		"name": "Bactria",
 		"leaderName": "Eucratides I",
 		"adjective": ["Bactrian"],
