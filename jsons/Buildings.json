@@ -36,8 +36,8 @@
 	\\	"requiredBuilding": "Walls",
 	\\	"uniques": ["[+3 Culture] [in this city] <after discovering [Archaeology]>", "Destroyed when the city is captured"],
 	\\	"requiredTech": "Chivalry"
-	\\},
-	\\{
+	},
+	{
 		"name": "Bryngaer",
 		"replaces": "Walls",
 		"cost": 50,
@@ -120,8 +120,8 @@
 	\\		"[+1 Food] from [Bananas] tiles [in this city]",
 	\\		"[+1 Food] from [Wheat] tiles [in this city]"],
 	\\	"requiredTech": "Pottery"
-	\\},
-	\\{
+	},
+	{
 		"name": "Reduction",
 		"replaces": "Temple",
 		"uniqueTo": "Guarani",
@@ -347,8 +347,8 @@
 	\\	"cost": 40,
 	\\	"requiredTech": "Pottery",
 	\\	"uniques": ["Hidden when religion is disabled"]
-	\\},
-	\\{
+	},
+	{
 		"name": "Enclos Paroissial",
 		"replaces": "Monument",
 		"uniqueTo": "Brittany",
@@ -431,8 +431,8 @@
 	\\	"hurryCostModifier": 25,
 	\\	"uniques": ["Destroyed when the city is captured"],
 	\\	"requiredTech": "Drama and Poetry"
-	\\},
-	\\{
+	},
+	{
 		"name": "Numismatics",
 		"uniqueTo": "Bactria"
 		"replaces": "Mint",
