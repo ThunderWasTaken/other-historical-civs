@@ -60,36 +60,6 @@
 			"Djenne","Douentza","Bourem","Kidal","Bandiagara", "Dire","Goundam","Toya","Troungoumbe","Tenenkou","Fatao"]
         },
 	{
-	\\	"name": "The Holy Romans",
-	\\	"leaderName": "Otto I",
-	\\	"adjective": ["Holy Roman"],
-	\\	"startBias": ["Plains"],
-	\\	"personality": "Otto I",
-	\\	"preferredVictoryType": "Domination",
-	\\
-	\\	"startIntroPart1": "Otto the Great, king of Italy, Germany and Saxony, a great military commander who have managed to ressurect the Holy Roman Empire and claimed title as the successor of Charlemagne and the Carolingian Empire. Oh Otto, the world now needs your military greatness once more. Can you create a great catholic nation once more? Can you lead this civilization into lasting dominance in history? Can you build a civilization that will stand the test of time?",
-	\\
-	\\	"declaringWar": "The will of God is on our side! Surrender now!",
-	\\	"attacked": "You are a spawn of the devil! My crusaders will vanquish you!",
-	\\	"defeated": "God! I have failed you...",
-	\\	"introduction": "Praise the lord, fellow man.",
-	\\
-	\\	"neutralHello": "Hello, is there something you need from me?",
-	\\	"hateHello": "What is it?",
-	\\
-	\\	"tradeRequest": "May this trade bless both of our nations into prosperity.",
-	\\
-	\\	"outerColor": [255, 204, 25],
-	\\	"innerColor": [168, 11, 22],
-	\\	"favoredReligion": "Christianity",
-	\\	"uniqueName": "Empire of Germans",
-	\\	"uniques": ["[+25]% [Faith] [in all cities] <when at war>", "[+25]% of excess happiness converted to [Faith] <starting from the [Medieval era]>"]
-	\\	"cities":["Prague","Milan","Vienna","Augsburg","Cologne","Nuremberg","Hamburg","Magdeburg","Breslau","Strasburg",
-	\\		"Lubeck","Ulm","Regensburg","Frankfurt am Main","Munchen","Roma","Mainz","Speyer","Trier","Worms",
-	\\		"Lyon","Verona","Metz","Florence","Genoa","Marseille","Padua","Metz","Aachen","Danzig City","Piedmont-Savoy",
-	\\		"Tuscany","Parma-Piacenza","Modena-Reggio","Gorizia and Gradisca","Lucca", "Saxony","Germans","East Francia","Bavaria","Luxembourg","Italia"]
-        },
-	{
 		"name": "Western Rome",
 		"leaderName": "Valentinian III",
 		"adjective": ["Western Roman"],
@@ -301,37 +271,6 @@
 			"Port Nelson","Deadman's Cay","Cockburn Town","Snug Corner","Kensington","Rocky Creek","Hard Bargain","Chesters","Colonel Hill","Fairfield",
 			"Seahorse Village","Bullocks Harbour","Great Harbour Cay","Duncan Town","Andros Town","New Bight","Steventon","William's Town","Old Bight","Mangrove Cay",
 			"Sandy Point","Driggs Hill","Cat Cay","Black Point","Staniard Creek","Moore's Island"]
-        },
-	{
-	\\	"name": "Frisia",
-	\\	"leaderName": "Pier Gerlofs Donia",
-	\\	"adjective": ["Frisian"],
-	\\	"startBias": ["Coast"],
-	\\	"personality": "Pier Gerlofs Donia",
-	\\	"preferredVictoryType": "Diplomatic",
-
-	\\	"startIntroPart1": "Pier Gerlofs Donia, you are a peasant leader of a revolt. You owned a farm which was destroyed with many of your kin killed by the Habsburg Authorities, you gathered many disgrunted citizens and petty nobles and launched a revolt! Can you rise up against those stronger than you? Can you destroy those who dare hurt your kin? Can you build a civilization that will stand the test of time?",
-
-	\\	"declaringWar": "Your lands will be put into good use, do not worry.",
-	\\	"attacked": "Ah... I assure you that your greed will be your downfall.",
-	\\	"defeated": "Heh... You have won, I applaud you for your victory.",
-	\\	"introduction": "Salutations, I am Pier Gerlofs Donia.",
-
-	\\	"neutralHello": "Hello.",
-	\\	"hateHello": "It would be best for you to leave.",
-
-	\\	"tradeRequest": "May this trade bring prosperity to our nation.",
-
-	\\	"outerColor": [1, 49, 141],
-	\\	"innerColor": [250,210,0],
-	\\	"favoredReligion": "Christianity",
-	\\	"uniqueName": "Frisia Magna",
-	\\	"uniques": ["[+1 Gold] from every [Pasture] <starting from the [Classical era]>", "[+1 Food] from every [Pasture] <starting from the [Classical era]>", "[+1 Gold] from every [Fishing Boats]", "[+1 Food] from every [Fishing Boats]", "[+2 Gold] <in cities connected to the capital> <when not at war>"]
-	\\	"cities": ["Leeuwarden","Drachten","Sneek","Heerenveen","Harlingen","Franeker","Dokkum","Wolvega","Joure","Bolsward",
-	\\		"Burgum","Koudum","Lemmer","Workum","Stiens","IJlst","Stavoren","Hindeloopen","Akkrum","Grou",
-	\\		"Dronryp","Hallum","Buitenpost","Surhuisterveen","Gorredijk","Kollum","Ferwert","Damwâld","Eastermar","Garyp",
-	\\		"Beetsterzwaag","Makkum","Winsum","Berltsum","Ferwerd","Gaastmeer","Bakhuizen","Echten","Exmorra","Boazum",
-	\\		"De Westereen","Deinum","Ee","Anjum","Hemelum","Frieschepalen","Gauw"]
         },
 	{
 		"name": "Guarani",
@@ -893,37 +832,6 @@
                         "Seljuk Antioch","Seljuk Edessa","Manzikert","Van","Ahlat","Bitlis","Khoy","Diyarbakır","Seljuk Erzurum"]
         },
 	{
-	\\	"name": "Khwarazm",
-	\\	"leaderName": "Ala ad-Din Muhammad",
-	\\	"adjective": ["Khwarazmite"],
-	\\	"startBias": ["Desert"],
-	\\	"personality": "Ala ad-Din Muhammad",
-	\\	"preferredVictoryType": "Diplomatic",
-
-	\\	"startIntroPart1": "Ala ad-Din Muhammad, the Shah of the Khwarazmian Empire. You ruled from 1200 to 1220, during which you expanded your empire across Central Asia and Persia, making it one of the most powerful in the region. However, your reign ended in disaster when you mishandled relations with the Mongols by executing their envoys. Genghis Khan swiftly annihilated the Khwarazmian Empire, forcing you to flee and die in exile, marking the rapid collapse of your once-great empire. Oh, Muhammad II, the world now calls for you. Can you fix your mistakes to restore your empire? Can you redeem yourself by expanding your great empire once more? Can you build a civilization that will stand the test of time?",
-
-	\\	"declaringWar": "You are no use to use anymore, prepare for war!",
-	\\	"attacked": "You will pay for this insolence! I will see your army burn!",
-	\\	"defeated": "No! Not again!",
-	\\	"introduction": "Call me the second Alexander as I will conquer the known world!"
-
-	\\	"neutralHello": "Hi there.",
-	\\	"hateHello": "How dare you come in here unannounced?!",
-
-	\\	"tradeRequest": "Diplomacy is the meal that energizes an empire.",
-
-	\\	"outerColor": [1, 48, 138],
-	\\	"innerColor": [204, 190, 154],
-	\\	"favoredReligion": "Islam",
-	\\	"uniqueName": "Empire of the Sands",
-	\\	"uniques": ["[+10]% Strength <when attacking> <in [Desert] tiles>", "[-50]% construction time for [All Road] improvements", "[+1 Food] from [Oasis] tiles [in all cities]"]
-	\\	"cities": ["Urgench","Gurganj","Khiva","Nishapur","Khwarazm Samarkand","Khwarazm Bukhara","Khwarazm Merv","Kath","Hazārasp",
-	\\		"Amul","Kunya-Urgench","Farab","Nasaf","Shahrisabz","Chach","Termez","Herat","Balkh","Sar-e Pol",
-	\\		"Nisa","Rayy","Qazvin","Gurgan","Tus","Mashhad","Marv-Rud","Tabriz","Isfahan","Harat",
-	\\		"Samarra","Qom","Hamadān","Ghazni","Kashgar","Balkhab","Baykand","Bistam","Andkhoy","Ghaznavid",
-	\\		"Kash","Khwarazm Khotan","Taraz","Tirmidh","Jand","Otrar","Mangyshlak","Astarabad","Khwarazm Derbent"]
-        },
-	{
 		"name": "Brittany",
 		"leaderName": "Riothamus",
 		"adjective": ["Breton"],
@@ -1108,68 +1016,6 @@
 			"Tulcea","Caracal","Alexandria","Galați","Mizil","Tecuci","Mangalia","Medgidia","Cernavodă","Constanța",
 			"Târnava","Sfântu Gheorghe","Lugoj","Orșova","Târgu Secuiesc","Bistrița","Reghin","Săcele",
 			"Deva","Miercurea Ciuc","Turda","Hunedoara","Alba Iulia","Zalău","Petroșani"]
-        },
-	{
-	\\	"name": "The Mapuche",
-	\\	"leaderName": "Lautaro",
-	\\	"adjective": ["Mapuche"],
-	\\	"startBias": ["Jungle"],
-	\\	"personality": "Lautaro",
-	\\	"preferredVictoryType": "Diplomatic",
-
-	\\	"startIntroPart1": "Lautaro, the Mapuche Toqui. You were willingly captured by the spaniards during your early childhood to learn their tactics and weaponry to use against them, when you ran away you became the leader of the rebellion against the colonizers, while you fell in battle, your efforts were not in vain and you were immortalized as a legend within South America. Your people need you once more, Lautaro. Can you defend your homeland from the foreign invaders? Can you defeat a militaristically superior enemy with your own wits and tactics? Can you build a civilization that will stand the test of time?",
-
-	\\	"declaringWar": "Your end has come! Grovel!",
-	\\	"attacked": "Tyrant scum! You will pay for this!",
-	\\	"defeated": "The spirit of the rebellion will live on, mark my words!",
-	\\	"introduction": "Have you come to be our friend, or our enemy?"
-
-	\\	"neutralHello": "I welcome to you my lands.",
-	\\	"hateHello": "You will pay.",
-
-	\\	"tradeRequest": "My lands are the most rich and glorious of them all, shall I offer you some of it?",
-
-	\\	"outerColor": [255, 229, 137],
-	\\	"innerColor": [46, 79, 4],
-	\\	"favoredReligion": "Christianity",
-	\\	"uniqueName": "Auracania",
-	\\	"uniques": ["[+2 Culture, +2 Production] [in annexed cities]", "[+10]% Strength <when defending>"]
-	\\	"cities": ["Purén","Lautaro","Temuco","Cañete","Tirúa","Villarrica","Nueva Imperial","Angol","Loncoche","Curarrehue",
-	\\		"Galvarino","Ercilla","Carahue","Panguipulli","Padre Las Casas","Vilcún","Freire","Toltén","Victoria",
-	\\		"Traiguén","Lanco","Lumaco","Saavedra","Melipeuco","Cholchol","Collipulli","Teodoro Schmidt",
-	\\		"Renaico","Los Sauces","Pitrufquén","Pucón","Gorbea","Máfil","Cunco","Perquenco","Curacautín",
-	\\		"Lumaco","Ercilla","Lonquimay","Temuco Viejo","Hualaihué","San Juan de la Costa"]
-        },
-	{
-	\\	"name": "Australia",
-	\\	"leaderName": "Galarrwuy Yunupingu",
-	\\	"adjective": ["Australian"],
-	\\	"startBias": ["Coast"],
-	\\	"personality": "Galarrwuy Yunupingu",
-	\\	"preferredVictoryType": "Cultural",
-
-	\\	"startIntroPart1": "Galarrwuy Yunupingu, an indigeneus Australian activist. In 1960 you became a prominent leader and strong voice for the aboriginal people, earning the respect and admiration of many. You joined the Nothern Land Council in 1975 and became chariman in 1977 to 1980, before being re-elected sometime in the future. As chair of the NLC, you led the Gagudju people in negotiations with mining and government bodies. Not opposed to mining in principle, you saw it as a way for Aboriginal people to escape the welfare trap if it is conducted on the traditional owners' terms. Oh, Galarrwuy. Your people need you once more. Can you fight for the rights of your people? Can you succeed in fighting off those who wish to control and manipulate your people? Can you build a civilization that will stand the test of time?",
-
-	\\	"declaringWar": "We will no longer consider you as a friend of ours, you must go!",
-	\\	"attacked": "It will not matter how much you throw at me, the indigenous people of Australia shall never submit!",
-	\\	"defeated": "Please... I beg you to be good to my people... Please...",
-	\\	"introduction": "I welcome you to the lands of Australia!"
-
-	\\	"neutralHello": "Hello! Welcome!",
-	\\	"hateHello": "Hello.",
-
-	\\	"tradeRequest": "Let us trade, I hope you find this suitable!",
-
-	\\	"outerColor": [0, 77, 77],
-	\\	"innerColor": [255, 228, 196],
-	\\	"favoredReligion": "Christianity",
-	\\	"uniqueName": "Terra Australis",
-	\\	"uniques": ["[-25]% Culture cost of natural border growth [in all cities]", "[+1 Production] from every [Coastal]"]
-	\\	"cities": ["Yirrkala","Maningrida","Nhulunbuy","Gove","Ramingining","Gapuwiyak","Elcho Island","Gunbalanya","Jabiru","Arnhem Land",
-	\\		"Numbulwar","Milingimbi","Groote Eylandt","Weipa","Cooktown","Kowanyama","Hope Vale","Aurukun","Pormpuraaw","Lockhart River",
-	\\		"Wujal Wujal","Napranum","Bamaga","Kowanyama","Doomadgee","Mornington Island","Palm Island","Mapoon","Cairns","Townsville",
-	\\		"Mackay","Rockhampton","Gladstone","Bundaberg","Hervey Bay","Maryborough","Toowoomba","Ipswich","Logan City","Gold Coast",
-	\\		"Brisbane","Woorabinda","Cherbourg","Charleville","Longreach","Mount Isa","Roma","Emerald","Blackall","Cloncurry"]
         },
 	{
 		"name": "Bactria",
