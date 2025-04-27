@@ -41,8 +41,8 @@
 	\\	"upgradesTo": "Rifleman",
 	\\	"requiredResource": "Iron",
 	\\	"attackSound": "metalhit"
-	\\},
-	\\{
+	},
+	{
 		"name": "Bucellarii",
 		"unitType": "Sword",
 		"replaces": "Spearman",
@@ -446,8 +446,8 @@
 	\\	"upgradesTo": "Pikeman",
 	\\	"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+20]% maintenance costs"],
 	\\	"attackSound": "metalhit"
-	\\},
-	\\{
+	},
+	{
 		"name": "Bagad",
 		"unitType": "Sword",
 		"replaces": "Pikeman",
@@ -539,8 +539,8 @@
 	\\		"Great Person - [War]", "Unbuildable", "Uncapturable"],
 	\\	"movement": 2
 	\\	"promotions": ["Woodsman"],
-	\\},
-	\\{
+	},
+	{
 	\\	"name": "Woomera",
 	\\	"unitType": "Sword",
 	\\	"replaces": "Spearman",
