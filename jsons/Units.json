@@ -30,19 +30,19 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Crusader",
-		"unitType": "Sword",
-		"uniqueTo": "The Holy Romans",
-		"uniques": ["Can remove other religions from cities <once> <after which this unit is consumed>"]
-		"movement": 2,
-		"strength": 18,
-		"cost": 150,
-		"requiredTech": "Steel",
-		"upgradesTo": "Rifleman",
-		"requiredResource": "Iron",
-		"attackSound": "metalhit"
-	},
-	{
+	\\	"name": "Crusader",
+	\\	"unitType": "Sword",
+	\\	"uniqueTo": "The Holy Romans",
+	\\	"uniques": ["Can remove other religions from cities <once> <after which this unit is consumed>"]
+	\\	"movement": 2,
+	\\	"strength": 18,
+	\\	"cost": 150,
+	\\	"requiredTech": "Steel",
+	\\	"upgradesTo": "Rifleman",
+	\\	"requiredResource": "Iron",
+	\\	"attackSound": "metalhit"
+	\\},
+	\\{
 		"name": "Bucellarii",
 		"unitType": "Sword",
 		"replaces": "Spearman",
@@ -159,20 +159,20 @@
 		"attackSound": "cannon"
 	},
 	{
-		"name": "Fryske Grynder",
-		"unitType": "Mounted",
-		"replaces": "Knight",
-		"uniqueTo": "Frisia",
-		"movement": 4,
-		"strength": 21,
-		"cost": 120,
-		"requiredTech": "Chivalry",
-		"requiredResource": "Horses",
-		"upgradesTo": "Cavalry",
-		"obsoleteTech": "Military Science",
-		"promotions": ["Amphibious"],
-		"uniques": ["Can move after attacking","No defensive terrain bonus"],
-		"attackSound": "horse"
+	\\	"name": "Fryske Grynder",
+	\\	"unitType": "Mounted",
+	\\	"replaces": "Knight",
+	\\	"uniqueTo": "Frisia",
+	\\	"movement": 4,
+	\\	"strength": 21,
+	\\	"cost": 120,
+	\\	"requiredTech": "Chivalry",
+	\\	"requiredResource": "Horses",
+	\\	"upgradesTo": "Cavalry",
+	\\	"obsoleteTech": "Military Science",
+	\\	"promotions": ["Amphibious"],
+	\\	"uniques": ["Can move after attacking","No defensive terrain bonus"],
+	\\	"attackSound": "horse"
 	},
 	{
 		"name": "Caaigua",
@@ -299,7 +299,7 @@
 		"name": "Myin Zaing",
 		"unitType": "Mounted",
 		"replaces": "Knight",
-		"uniqueTo": "Toungoo"
+		"uniqueTo": "Burma"
 		"movement": 4,
 		"strength": 22,
 		"cost": 120,
@@ -434,20 +434,20 @@
 		"attackSound": "horse"
 	},
 	{
-		"name": "Khwarazmiyya",
-		"unitType": "Sword",
-		"replaces": "Spearman",
-		"uniqueTo": "Khwarazm",
-		"movement": 2,
-		"strength": 11,
-		"cost": 35,
-		"requiredTech": "Bronze Working",
-		"obsoleteTech": "Civil Service",
-		"upgradesTo": "Pikeman",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+20]% maintenance costs"],
-		"attackSound": "metalhit"
-	},
-	{
+	\\	"name": "Khwarazmiyya",
+	\\	"unitType": "Sword",
+	\\	"replaces": "Spearman",
+	\\	"uniqueTo": "Khwarazm",
+	\\	"movement": 2,
+	\\	"strength": 11,
+	\\	"cost": 35,
+	\\	"requiredTech": "Bronze Working",
+	\\	"obsoleteTech": "Civil Service",
+	\\	"upgradesTo": "Pikeman",
+	\\	"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+20]% maintenance costs"],
+	\\	"attackSound": "metalhit"
+	\\},
+	\\{
 		"name": "Bagad",
 		"unitType": "Sword",
 		"replaces": "Pikeman",
@@ -527,32 +527,32 @@
 		"attackSound": "horse"
 	},
 	{
-		"name": "Toqui",
-		"unitType": "Civilian",
-		"replaces": "Great General",
-		"uniqueTo": "The Mapuche",
-		"uniques": [
-            "Empire enters a [8]-turn Golden Age <by consuming this unit>",
-            "[+15]% Strength bonus for [Military] units within [2] tiles",
-            "Can instantly construct a [Citadel] improvement <by consuming this unit>",
-			"Can be earned through combat",
-			"Great Person - [War]", "Unbuildable", "Uncapturable"],
-		"movement": 2
-		"promotions": ["Woodsman"],
-	},
-	{
-		"name": "Woomera",
-		"unitType": "Sword",
-		"replaces": "Spearman",
-		"uniqueTo": "Australia",
-		"movement": 2,
-		"strength": 7,
-		"rangedStrength": 13,
-		"cost": 56,
-		"requiredTech": "Bronze Working",
-		"obsoleteTech": "Civil Service",
-		"upgradesTo": "Pikeman",
-		"attackSound": "metalhit"
+	\\	"name": "Toqui",
+	\\	"unitType": "Civilian",
+	\\	"replaces": "Great General",
+	\\	"uniqueTo": "The Mapuche",
+	\\	"uniques": [
+          \\  "Empire enters a [8]-turn Golden Age <by consuming this unit>",
+          \\  "[+15]% Strength bonus for [Military] units within [2] tiles",
+          \\  "Can instantly construct a [Citadel] improvement <by consuming this unit>",
+	\\		"Can be earned through combat",
+	\\		"Great Person - [War]", "Unbuildable", "Uncapturable"],
+	\\	"movement": 2
+	\\	"promotions": ["Woodsman"],
+	\\},
+	\\{
+	\\	"name": "Woomera",
+	\\	"unitType": "Sword",
+	\\	"replaces": "Spearman",
+	\\	"uniqueTo": "Australia",
+	\\	"movement": 2,
+	\\	"strength": 7,
+	\\	"rangedStrength": 13,
+	\\	"cost": 56,
+	\\	"requiredTech": "Bronze Working",
+	\\	"obsoleteTech": "Civil Service",
+	\\	"upgradesTo": "Pikeman",
+	\\	"attackSound": "metalhit"
 	},
 	{
 		"name": "Arma Toxotis",
