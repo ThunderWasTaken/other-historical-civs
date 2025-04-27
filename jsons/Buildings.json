@@ -24,20 +24,20 @@
 		"requiredTech": "Currency"
 	},
 	{
-		"name": "Holy Order Castle",
-		"cost": 150,
-		"replaces": "Castle",
-		"uniqueTo": "The Holy Romans",
-		"cityStrength": 7,
-		"cityHealth": 25,
-		"culture": 1,
-		"faith": 2,
-		"hurryCostModifier": 25,
-		"requiredBuilding": "Walls",
-		"uniques": ["[+3 Culture] [in this city] <after discovering [Archaeology]>", "Destroyed when the city is captured"],
-		"requiredTech": "Chivalry"
-	},
-	{
+	\\	"name": "Holy Order Castle",
+	\\	"cost": 150,
+	\\	"replaces": "Castle",
+	\\	"uniqueTo": "The Holy Romans",
+	\\	"cityStrength": 7,
+	\\	"cityHealth": 25,
+	\\	"culture": 1,
+	\\	"faith": 2,
+	\\	"hurryCostModifier": 25,
+	\\	"requiredBuilding": "Walls",
+	\\	"uniques": ["[+3 Culture] [in this city] <after discovering [Archaeology]>", "Destroyed when the city is captured"],
+	\\	"requiredTech": "Chivalry"
+	\\},
+	\\{
 		"name": "Bryngaer",
 		"replaces": "Walls",
 		"cost": 50,
@@ -109,19 +109,19 @@
 		"requiredTech": "Compass"
 	},
 	{
-		"name": "Frisian Farmhouse",
-		"replaces": "Granary"
-		"uniqueTo": "Frisia"
-		"food": 2,
-		"culture": 1,
-		"production": 1,
-		"hurryCostModifier": 25,
-		"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
-			"[+1 Food] from [Bananas] tiles [in this city]",
-			"[+1 Food] from [Wheat] tiles [in this city]"],
-		"requiredTech": "Pottery"
-	},
-	{
+	\\	"name": "Frisian Farmhouse",
+	\\	"replaces": "Granary"
+	\\	"uniqueTo": "Frisia"
+	\\	"food": 2,
+	\\	"culture": 1,
+	\\	"production": 1,
+	\\	"hurryCostModifier": 25,
+	\\	"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
+	\\		"[+1 Food] from [Bananas] tiles [in this city]",
+	\\		"[+1 Food] from [Wheat] tiles [in this city]"],
+	\\	"requiredTech": "Pottery"
+	\\},
+	\\{
 		"name": "Reduction",
 		"replaces": "Temple",
 		"uniqueTo": "Guarani",
@@ -241,7 +241,7 @@
 	{
 		"name": "Mingun Pagoda",
 		"replaces": "Temple"
-		"uniqueTo": "Toungoo"
+		"uniqueTo": "Burma"
 		"faith": 3,
 		"culture": 2,
 		"maintenance": 2,
@@ -338,17 +338,17 @@
 		"requiredTech": "Education"
 	},
 	{
-		"name": "Ziyarateh",
-		"replaces": "Shrine",
-		"uniqueTo": "Khwarazm",
-		"faith": 1,
-		"gold": 1,
-		"culture": 1,
-		"cost": 40,
-		"requiredTech": "Pottery",
-		"uniques": ["Hidden when religion is disabled"]
-	},
-	{
+	\\	"name": "Ziyarateh",
+	\\	"replaces": "Shrine",
+	\\	"uniqueTo": "Khwarazm",
+	\\	"faith": 1,
+	\\	"gold": 1,
+	\\	"culture": 1,
+	\\	"cost": 40,
+	\\	"requiredTech": "Pottery",
+	\\	"uniques": ["Hidden when religion is disabled"]
+	\\},
+	\\{
 		"name": "Enclos Paroissial",
 		"replaces": "Monument",
 		"uniqueTo": "Brittany",
@@ -412,27 +412,27 @@
 		"requiredTech": "Mathematics"
 	},
 	{
-		"name": "Ruka",
-		"uniqueTo": "The Mapuche"	
-		"hurryCostModifier": 25,
-		"uniques": ["[+1 Food, +1 Culture] per [3] population [in this city]"],
-		"requiredTech": "Construction"
-	},
-	{
-		"name": "Corroboree Grounds",
-		"uniqueTo": "Australia"
-		"replaces": "Amphitheater",
-		"culture": 5,
-		"religion": 1,
-		"happiness": 1,
-		"specialistSlots": {"Artist": 2},
-		"requiredBuilding": "Monument",
-		"maintenance": 2,
-		"hurryCostModifier": 25,
-		"uniques": ["Destroyed when the city is captured"],
-		"requiredTech": "Drama and Poetry"
-	},
-	{
+	\\	"name": "Ruka",
+	\\	"uniqueTo": "The Mapuche"	
+	\\	"hurryCostModifier": 25,
+	\\	"uniques": ["[+1 Food, +1 Culture] per [3] population [in this city]"],
+	\\	"requiredTech": "Construction"
+	\\},
+	\\{
+	\\	"name": "Corroboree Grounds",
+	\\	"uniqueTo": "Australia"
+	\\	"replaces": "Amphitheater",
+	\\	"culture": 5,
+	\\	"religion": 1,
+	\\	"happiness": 1,
+	\\	"specialistSlots": {"Artist": 2},
+	\\	"requiredBuilding": "Monument",
+	\\	"maintenance": 2,
+	\\	"hurryCostModifier": 25,
+	\\	"uniques": ["Destroyed when the city is captured"],
+	\\	"requiredTech": "Drama and Poetry"
+	\\},
+	\\{
 		"name": "Numismatics",
 		"uniqueTo": "Bactria"
 		"replaces": "Mint",
