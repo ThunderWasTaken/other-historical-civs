@@ -116,9 +116,7 @@
 	\\	"culture": 1,
 	\\	"production": 1,
 	\\	"hurryCostModifier": 25,
-	\\	"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
-	\\		"[+1 Food] from [Bananas] tiles [in this city]",
-	\\		"[+1 Food] from [Wheat] tiles [in this city]"],
+	\\	"uniques": [], \\somehow this broke the json??? I was forced to remove it but it was identical to the granary anyway
 	\\	"requiredTech": "Pottery"
 	},
 	{
