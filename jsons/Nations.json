@@ -88,8 +88,8 @@
 	\\		"Lubeck","Ulm","Regensburg","Frankfurt am Main","Munchen","Roma","Mainz","Speyer","Trier","Worms",
 	\\		"Lyon","Verona","Metz","Florence","Genoa","Marseille","Padua","Metz","Aachen","Danzig City","Piedmont-Savoy",
 	\\		"Tuscany","Parma-Piacenza","Modena-Reggio","Gorizia and Gradisca","Lucca", "Saxony","Germans","East Francia","Bavaria","Luxembourg","Italia"]
-        \\},
-	\\{
+        },
+	{
 		"name": "Western Rome",
 		"leaderName": "Valentinian III",
 		"adjective": ["Western Roman"],
@@ -332,8 +332,8 @@
 	\\		"Dronryp","Hallum","Buitenpost","Surhuisterveen","Gorredijk","Kollum","Ferwert","Damwâld","Eastermar","Garyp",
 	\\		"Beetsterzwaag","Makkum","Winsum","Berltsum","Ferwerd","Gaastmeer","Bakhuizen","Echten","Exmorra","Boazum",
 	\\		"De Westereen","Deinum","Ee","Anjum","Hemelum","Frieschepalen","Gauw"]
-        \\},
-	\\{
+        },
+	{
 		"name": "Guarani",
 		"leaderName": "Sepe Tiaraju",
 		"adjective": ["Guarani"],
@@ -922,8 +922,8 @@
 	\\		"Nisa","Rayy","Qazvin","Gurgan","Tus","Mashhad","Marv-Rud","Tabriz","Isfahan","Harat",
 	\\		"Samarra","Qom","Hamadān","Ghazni","Kashgar","Balkhab","Baykand","Bistam","Andkhoy","Ghaznavid",
 	\\		"Kash","Khwarazm Khotan","Taraz","Tirmidh","Jand","Otrar","Mangyshlak","Astarabad","Khwarazm Derbent"]
-        \\},
-	\\{
+        },
+	{
 		"name": "Brittany",
 		"leaderName": "Riothamus",
 		"adjective": ["Breton"],
@@ -1108,8 +1108,8 @@
 			"Tulcea","Caracal","Alexandria","Galați","Mizil","Tecuci","Mangalia","Medgidia","Cernavodă","Constanța",
 			"Târnava","Sfântu Gheorghe","Lugoj","Orșova","Târgu Secuiesc","Bistrița","Reghin","Săcele",
 			"Deva","Miercurea Ciuc","Turda","Hunedoara","Alba Iulia","Zalău","Petroșani"]
-        },
-	{
+        \\},
+	\\{
 	\\	"name": "The Mapuche",
 	\\	"leaderName": "Lautaro",
 	\\	"adjective": ["Mapuche"],
@@ -1139,8 +1139,8 @@
 	\\		"Traiguén","Lanco","Lumaco","Saavedra","Melipeuco","Cholchol","Collipulli","Teodoro Schmidt",
 	\\		"Renaico","Los Sauces","Pitrufquén","Pucón","Gorbea","Máfil","Cunco","Perquenco","Curacautín",
 	\\		"Lumaco","Ercilla","Lonquimay","Temuco Viejo","Hualaihué","San Juan de la Costa"]
-        \\},
-	\\{
+        },
+	{
 	\\	"name": "Australia",
 	\\	"leaderName": "Galarrwuy Yunupingu",
 	\\	"adjective": ["Australian"],
@@ -1170,8 +1170,8 @@
 	\\		"Wujal Wujal","Napranum","Bamaga","Kowanyama","Doomadgee","Mornington Island","Palm Island","Mapoon","Cairns","Townsville",
 	\\		"Mackay","Rockhampton","Gladstone","Bundaberg","Hervey Bay","Maryborough","Toowoomba","Ipswich","Logan City","Gold Coast",
 	\\		"Brisbane","Woorabinda","Cherbourg","Charleville","Longreach","Mount Isa","Roma","Emerald","Blackall","Cloncurry"]
-        },
-	{
+        \\},
+	\\{
 		"name": "Bactria",
 		"leaderName": "Eucratides I",
 		"adjective": ["Bactrian"],
