@@ -383,5 +383,15 @@
 		"hurryCostModifier": 25,
 		"uniques": ["[+2 Gold] from [Gold Ore] tiles [in this city]", "[+2 Gold] from [Silver] tiles [in this city]"],
 		"requiredTech": "Currency"
+	},
+	{
+		"name": "Yadgar",
+		"uniqueTo": "Afghanistan",
+		"replaces": "Monument",
+		"culture": 4,
+		"cost": 50,
+		"hurryCostModifier": 40,
+		"maintenance": 2,
+		"uniques": ["Destroyed when the city is captured"]
 	}
 ]
