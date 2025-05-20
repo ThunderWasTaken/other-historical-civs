@@ -499,5 +499,20 @@
 		"obsoleteTech": "Military Science",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-25]% Strength <vs cities> <when attacking>"],
 		"attackSound": "arrow"
+	},
+	{
+		"name": "Mujahideen",
+		"unitType": "Gunpowder",
+		"replaces": "Infantry",
+		"uniqueTo": "Afghanistan",
+		"movement": 2,
+		"strength": 70,
+		"cost": 350,
+		"requiredTech": "Plastics",
+		"promotions": ["Drill I"],
+		"upgradesTo": "Mechanized Infantry",
+		"obsoleteTech": "Mobile Tactics",
+		"uniques": ["Can be purchased with [Faith] <in cities following our religion>"],
+		"attackSound": "shot"
 	}
   ]
