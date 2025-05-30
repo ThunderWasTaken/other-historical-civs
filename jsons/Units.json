@@ -512,7 +512,7 @@
 		"promotions": ["Drill I"],
 		"upgradesTo": "Mechanized Infantry",
 		"obsoleteTech": "Mobile Tactics",
-		"uniques": ["Can be purchased with [Faith] <in cities following our religion>"],
+		"uniques": ["Can be purchased with [Faith] [in cities following our religion]"],
 		"attackSound": "shot"
 	}
   ]
