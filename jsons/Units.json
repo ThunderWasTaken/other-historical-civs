@@ -492,7 +492,7 @@
 		"strength": 17,
 		"cost": 120,
 		"rangedStrength": 20,
-		"requiredTech": "The Wheel",
+		"requiredTech": "Chivalry",
 		"requiredResource": "Horses",
 		"promotions": ["Shock I"],
 		"upgradesTo": "Cavalry",
