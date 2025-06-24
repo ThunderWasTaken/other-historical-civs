@@ -1168,5 +1168,65 @@
           "Autocracy": 8,
           "Order": 5
     }
+  },
+  {
+        "name": "Ahmad Shah Duranni",
+      "culture": 5,
+      "faith": 6,
+      "food": 6,
+      "gold": 5,
+      "happiness": 5,
+      "production": 8,
+      "science": 4,
+      "military": 9,
+      "aggressive": 9,
+      "declareWar": 2,
+      "commerce": 5,
+      "diplomacy": 4,
+      "loyal": 4,
+      "expansion": 4,
+
+      "priorities": {
+          "Tradition": 6,
+          "Liberty": 7,
+          "Honor": 4,
+          "Commerce": 5,
+          "Patronage": 2,
+          "Piety": 4,
+          "Rationalism": 7,
+          "Freedom": 3,
+          "Autocracy": 9,
+          "Order": 6
+    }
+  },
+  {
+        "name": "Bulan Sabriel",
+      "culture": 2,
+      "faith": 9,
+      "food": 4,
+      "gold": 8,
+      "happiness": 7,
+      "production": 5,
+      "science": 7,
+      "military": 9,
+      "aggressive": 4,
+      "declareWar": 4,
+      "commerce": 9,
+      "diplomacy": 8,
+      "loyal": 7,
+      "expansion": 7,
+
+      "priorities": {
+          "Tradition": 3,
+          "Liberty": 6,
+          "Honor": 3,
+          "Commerce": 9,
+          "Patronage": 7,
+          "Piety": 6,
+          "Rationalism": 7,
+          "Freedom": 8,
+          "Autocracy": 5,
+          "Order": 5
+    }
   }
       ]
