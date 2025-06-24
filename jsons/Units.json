@@ -501,7 +501,7 @@
 		"attackSound": "arrow"
 	},
 	{
-		"name": "Mujahideen",
+		"name": "Mujahid",
 		"unitType": "Gunpowder",
 		"replaces": "Infantry",
 		"uniqueTo": "Afghanistan",
@@ -514,5 +514,20 @@
 		"obsoleteTech": "Mobile Tactics",
 		"uniques": ["Can be purchased with [Faith] [in cities following our religion]"],
 		"attackSound": "shot"
+	},
+	{
+		"name": "Tarkhan",
+		"unitType": "Mounted",
+		"replaces": "Knight",
+		"uniqueTo": "Khazaria",
+		"movement": 5,
+		"strength": 13,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[+100]% Strength <when adjacent to a [Mounted] unit>", "Never appears as a Barbarian unit"],
+		"attackSound": "horse"
 	}
   ]
