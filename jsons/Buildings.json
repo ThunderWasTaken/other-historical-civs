@@ -393,5 +393,16 @@
 		"hurryCostModifier": 40,
 		"maintenance": 2,
 		"uniques": ["Destroyed when the city is captured"]
+	},
+	{
+		"name": "Khazar Marketplace",
+		"uniqueTo": "Khazaria",
+		"replaces": "Market",
+		"gold": 2,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+		"uniques": ["[+20]% [Gold] from Trade Routes"],
+		"requiredTech": "Currency"
 	}
 ]
