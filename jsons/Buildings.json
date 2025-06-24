@@ -398,7 +398,7 @@
 		"name": "Khazar Marketplace",
 		"uniqueTo": "Khazaria",
 		"replaces": "Market",
-		"gold": 2,
+		"gold": 3,
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"gold": 25},
