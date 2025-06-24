@@ -402,7 +402,7 @@
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"gold": 25},
-		"uniques": ["[+20]% [Gold] from Trade Routes"],
+		"uniques": ["[+20]% [Gold] from Trade Routes <in this city>"],
 		"requiredTech": "Currency"
 	}
 ]
