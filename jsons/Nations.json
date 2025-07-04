@@ -1099,7 +1099,7 @@
 		"innerColor": [243,237,209],
 		"favoredReligion": "Judaism",
 		"uniqueName": "Nomadic Syncretism",
-		"uniques": ["[+25]% Natural religion spread [in all cities]", "Religion naturally spreads to cities [1] tiles away", "May choose [1] additional [Enhancer] beliefs when [Enhancing] a religion"]
+		"uniques": ["[+25]% Natural religion spread [in all cities]", "Religion naturally spreads to cities [1] tiles away", "May choose [1] additional [enhancer] beliefs when [enhancing] a religion"]
 		"cities": ["Itil","Sarkel","Samandar","Atil","Balanjar","Semender","Bardha'a","Derbent","Belendzher","Tmutarakan",
 			"Kazarki","Khumar","Kerch","Tanais","Samukh","Baylagan","Shemakha","Kisi","Kondiak","Tamantarkhan",
 			"Bospor","Matrega","Phanagoria","Khalag","Kyzyl-Yar","Bershud","Samar","Saqsin","Aqsu","Shirvan",
