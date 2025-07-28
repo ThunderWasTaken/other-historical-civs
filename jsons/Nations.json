@@ -781,7 +781,7 @@
 
 		"declaringWar": "For God!",
 		"attacked": "I know you will not succeed, but I applaud you for trying.",
-		"defeated": "The kingdom of god may have fallen, but not his people.",
+		"defeated": "The kingdom of God may have fallen, but not his people.",
 		"introduction": "I welcome you to my Kingdom, friend."
 
 		"neutralHello": "Good morning.",
@@ -1185,7 +1185,7 @@
 		"adjective": ["Vatican"],
 		"cityStateType": "Religious",
 
-		"declaringWar": "You have angered god! Prepare to die!",
+		"declaringWar": "You have angered God! Prepare to die!",
 		"attacked": "This is outrageous!",
 		"defeated": "God help us!",
 		"outerColor": [0, 0, 0],
