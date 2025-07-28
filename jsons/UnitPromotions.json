@@ -5,7 +5,7 @@
 	},
       	{
         	"name": "Pirate",
-		"uniques": ["May enter foreign tiles without open borders", "May withdraw before melee ([50]%)"]
+		"uniques": ["May enter foreign tiles without open borders", "Withdraws before melee combat <with [50]% chance>"]
 	},
       	{
         	"name": "Highlands",
