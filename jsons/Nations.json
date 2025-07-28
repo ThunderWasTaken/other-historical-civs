@@ -585,12 +585,12 @@
 	{
 		"name": "Danzig",
 		"leaderName": "Carl Jacob Burckhardt",
-		"adjective": ["Danzigian"],
+		"adjective": ["Danziger"],
 		"startBias": ["Coast"],
 		"personality": "Carl Jacob Burckhardt",
 		"preferredVictoryType": "Diplomatic",
 
-		"startIntroPart1": "Carl Jaco Burckhardt, a Swiss diplomat and historian. Your career alternated between periods of academic historical research and diplomatic postings; the most prominent of the latter were League of Nations High Commissioner for the Free City of Danzig (1937–39) and President of the International Committee of the Red Cross (1945–48). Oh, Carl. Can you once again become a great leader? Can you spread your prosperity throughout the world? Can you build a civilization that will stand the test of time?",
+		"startIntroPart1": "Carl Jacob Burckhardt, a Swiss diplomat and historian. Your career alternated between periods of academic historical research and diplomatic postings; the most prominent of the latter were League of Nations High Commissioner for the Free City of Danzig (1937–39) and President of the International Committee of the Red Cross (1945–48). Oh, Carl. Can you once again become a great leader? Can you spread your prosperity throughout the world? Can you build a civilization that will stand the test of time?",
 
 		"declaringWar": "It has been agreed that this is necessary!",
 		"attacked": "The League of Nations will prevent this aggression! I know it!",
@@ -606,7 +606,7 @@
 		"innerColor": [255, 248, 233],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Free City",
-		"uniques": ["Cannot build [Settler] units", "[+2 Happiness] <upon declaring friendship> <for [10] turns>", "May not annex cities", "[+10]% [Science] [in capital]", "[+10]% [Gold] [in capital]", "[+10]% [Culture] [in capitals]"]
+		"uniques": ["Cannot build [Settler] units", "[+2 Happiness] <upon declaring friendship> <for [10] turns>", "May not annex cities", "[+10]% [Science] [in capital]", "[+10]% [Gold] [in capital]", "[+10]% [Culture] [in capital]"]
 		"cities": ["Danzig","Gdynia","Sopot","Westerplatte","Oliva","Langfuhr","Neufahrwasser","Ohra","Schidlitz","St. Albrecht",
 			"Schönfeld","Neugarten","Heubude","Emaus","Petershagen","Heiligenbrunn","Langgarten","Neuschottland",
 			"Saspe","Praust","Tiegenhof","Neuteich","Frauendorf","Schönbaum","Marienburg","Elbing","Zoppot",
@@ -687,7 +687,7 @@
 		"startIntroPart1": "Tomislav, the first king of Croatia. You became Duke of Croatia sometime in 910 and was crowned king in 925, reigning until 928. During your rule, you forged an alliance with the Byzantine Empire against Bulgaria. In the north, Croatia often clashed with the Principality of Hungary; the state retained its borders and, to some extent, expanded with the disintegrated Lower Pannonia. Oh, Tomislav. Can you turn a small nation into a kingdom once again? Can you forge alliances that will leave your nation with great prosperity? Can you build a civilization that will stand the test of time?",
 
 		"declaringWar": "Things have gotten far too rough between us, prepare for war!",
-		"attacked": "You shall strike first, but ill deal the last blow.",
+		"attacked": "You shall strike first, but I'll deal the last blow.",
 		"defeated": "I... am defeated.",
 		"introduction": "Who might you be, stranger? I am Tomislav."
 
@@ -780,7 +780,7 @@
 		"startIntroPart1": "Baldwin IV, the Leper King. You were the king of Jerusalem from 1174 until his death in 1185. Admired by your contemporaries, and later by historians for your willpower and dedication to the Latin Kingdom in the face of debilitating leprosy. Choosing competent advisers, you ruled a thriving crusader state and succeeded in protecting it from the Muslim ruler Saladin. Oh, Baldwin IV, the faith needs you once more. Can you defend against your rampaging enemies? Can you protect your faith from those looking to vanquish it? Can you build a civilization that will stand the test of time?",
 
 		"declaringWar": "For God!",
-		"attacked": "I know you will not succeed, but I aplaud you for trying.",
+		"attacked": "I know you will not succeed, but I applaud you for trying.",
 		"defeated": "The kingdom of god may have fallen, but not his people.",
 		"introduction": "I welcome you to my Kingdom, friend."
 
@@ -935,7 +935,7 @@
 		"startIntroPart1": "Tvrtko I, first king of Bosnia. Early in your personal rule, you quarrelled with his country's Roman Catholic clergy but later enjoyed cordial relations with all the religious communities in your realm. After initial difficulties—the loss of large parts of Bosnia to your overlord, King Louis I of Hungary, and being briefly deposed by your magnates, your power grew considerably. In 1377, you were crowned king of Bosnia and Serbia, claiming to be the heir of Serbia's extinct Nemanjić dynasty. Oh, Tvrtko I. Can you seize the opportunity to expand your realm? Can you create a new dominant power within this world? Can you build a civilization that will stand the test of time?",
 
 		"declaringWar": "For Bosnia and all its people!",
-		"attacked": "Your blundering will get you no-where but death!",
+		"attacked": "Your blundering will get you nowhere but death!",
 		"defeated": "Your tyranny will end soon, I know it.",
 		"introduction": "Who would you be, stranger? I am Tvrtko I of the Kingdom of Bosnia."
 
@@ -1041,7 +1041,7 @@
 		"innerColor": [86, 64, 9],
 		"favoredReligion": "Buddhism",
 		"uniqueName": "Basileia tes Baktrianes",
-		"uniques": ["New [Mounted] units start with [14] Experience [in all cities]", "[+10]% Production when constructing [Mounted] units [in all cities]"]
+		"uniques": ["New [Mounted] units start with [14] XP [in all cities]", "[+10]% Production when constructing [Mounted] units [in all cities]"]
 		"cities": ["Bactra","Demetrias","Euthydemia","Eucratidiea","Marakanda","Oxus","Caucasus","Eschate","Arachosia","Indus",
 			"Taxila","Patalene","Mathura","Margiana","Barigaza","Aristobathra","Asigramma","Peucelaitis","Simylla","Sagala",
 			"Kavisiye","Sirkap","Takht-i Sangin","Drapsaka","Termez","Bamyan","Bucephala","Surkh Kotal","Dalverzin Tepe","Tillya Tepe"]
