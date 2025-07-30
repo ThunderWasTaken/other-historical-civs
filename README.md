@@ -7,8 +7,8 @@ Removed Civs: Holy Romans, Frisia, Khwarazm, Mapuche, Australia
 
 
 Credits: 
-- ThunderCrims (me)
+- ThunderCrims (almost everything lmao)
 - ReallyBasicName (bug fixes)
-- That one dude that gave italian translations (i forgor)
+- Smashfanful (Danzig)
 
 
