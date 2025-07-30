@@ -6,3 +6,9 @@ Finished (in order of being finished first to last): Norway, Mali, Western Rome,
 Removed Civs: Holy Romans, Frisia, Khwarazm, Mapuche, Australia
 
 
+Credits: 
+- ThunderCrims (me)
+- ReallyBasicName (bug fixes)
+- That one dude that gave italian translations (i forgor)
+
+
