@@ -96,7 +96,7 @@
 		"cost": 125,
 		"requiredTech": "Astronomy",
 		"upgradesTo": "Ironclad",
-		"uniques": ["May create improvements on water resources", "[+1] Sight", "May withdraw before melee ([80]%)"]
+		"uniques": ["May create improvements on water resources", "[+1] Sight", "Withdraws before melee combat <with [80]% chance>"]
 		"obsoleteTech": "Combustion",
 		"hurryCostModifier": 30,
 		"attackSound": "cannon"
@@ -451,7 +451,7 @@
 		"uniques": ["Prevents spreading of religion to the city it is next to",
 			"Can remove other religions from cities <in [Friendly] tiles> <[2] times> <after which this unit is consumed>",
             "Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
-			"[+2] Sight", "Hidden when religion is disabled", "Unbuildable", "Religious Unit"
+			"[+2] Sight", "Only available <when religion is enabled>", "Unbuildable", "Religious Unit"
 		],
 		"movement": 5
 	},
