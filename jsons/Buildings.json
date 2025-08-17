@@ -404,5 +404,17 @@
 		"percentStatBonus": {"gold": 25},
 		"uniques": ["[+2]% [Gold] from Trade Routes"],
 		"requiredTech": "Currency"
+	},
+	{
+		"name": "Darbazi Hall",
+		"uniqueTo": "Georgia",
+		"replaces": "Temple",
+		"faith": 2,
+		"happiness": 1,
+		"requiredBuilding": "Shrine",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured", "[+2 Culture] [in this city] <during a Golden Age>"]
 	}
 ]
