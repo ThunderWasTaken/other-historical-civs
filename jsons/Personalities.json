@@ -1228,5 +1228,35 @@
           "Autocracy": 5,
           "Order": 5
     }
+  },
+  {
+        "name": "Tamar the Great",
+      "culture": 5,
+      "faith": 3,
+      "food": 6,
+      "gold": 6,
+      "happiness": 6,
+      "production": 8,
+      "science": 6,
+      "military": 8,
+      "aggressive": 9,
+      "declareWar": 8,
+      "commerce": 5,
+      "diplomacy": 5,
+      "loyal": 6,
+      "expansion": 8,
+
+      "priorities": {
+          "Tradition": 2,
+          "Liberty": 7,
+          "Honor": 5,
+          "Commerce": 4,
+          "Patronage": 3,
+          "Piety": 2,
+          "Rationalism": 6,
+          "Freedom": 3,
+          "Autocracy": 9,
+          "Order": 5
+    }
   }
       ]
