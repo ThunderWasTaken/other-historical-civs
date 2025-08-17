@@ -1105,7 +1105,36 @@
 			"Bospor","Matrega","Phanagoria","Khalag","Kyzyl-Yar","Bershud","Samar","Saqsin","Aqsu","Shirvan",
 			"Kabala","Terek","Don-Portage","Alania","Sarykamysh","Balasagun","Aqtobe","Kutatisi",
 			"Makhachkala","Kamyshin","Atyrau","Derbend","Mangyshlak","Kostroma","Sukhumi"]
+        },
+	{
+		"name": "Georgia",
+		"leaderName": "Tamar the Great",
+		"adjective": ["Georgian"],
+		"startBias": ["Hill"],
+		"personality": "Tamar the Great",
+		"preferredVictoryType": "Domination",
 
+		"startIntroPart1": "Tamar the Great, Queen of Georgia. You were proclaimed heir by your father George III in 1178, but faced major opposition from the aristocracy upon your ascension to rule after his death. You were successful in destroying the opposition and went on a conquest aided by the decline of the Seljuk Turks. Relying on a powerful military, you were able to build an empire which dominated the Caucasus until its collapse due to the Mongol attacks within two decades after your death. Oh, Tamar, the Caucasus yearn for your rule once more. Can you take full advantage of the situations around you? Can you reunite the great nations and conquer more? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "You do not belong in this world, prepare to die!",
+		"attacked": "Muahahaha! Let's see you try!",
+		"defeated": "I can't believe this happened...",
+		"introduction": "I greet you kindly, stranger."
+
+		"neutralHello": "Hello.",
+		"hateHello": "Here to brag?",
+
+		"tradeRequest": "My vast lands have granted me this wealth which I offer to share with you.",
+
+		"outerColor": [249,187,247],
+		"innerColor": [54,10,10],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Devastation of Her Consolidation",
+		"uniques": ["[+2 Gold, +2 Production, +1 Science, +1 Culture] from each Trade Route <during a Golden Age>", "Gain a free [Monument] [in this city] <upon founding a city> <during a Golden Age>", "Gain a free [Monument] [in this city] <upon conquering a city> <during a Golden Age>"]
+		"cities": ["Tbilisi","Kutaisi","Batumi","Mtskheta","Rustavi","Gori","Telavi","Zugdidi","Akhaltsikhe","Oni",
+			"Sighnaghi","Poti","Borjomi","Aspindza","Dusheti","Kaspi","Tianeti","Akhalkalaki","Gurjaani","Marneuli",
+			"Chiatura","Lagodekhi","Martvili","Ambrolauri","Kvareli","Khoni","Sagarejo","Tsalka","Dedoplistskaro","Bolnisi",
+			"Khashuri","Lentekhi","Dmanisi","Akhmeta","Vani","Ninotsminda","Abasha","Tsalenjikha","Baghdati","Shuakhevi"]
 	},
 	// City-States, continue from above if you want to add new civs, not below!
 	{
