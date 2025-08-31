@@ -837,7 +837,7 @@
 		"adjective": ["Breton"],
 		"startBias": ["Coast"],
 		"personality": "Riothamus",
-		"preferredVictoryType": "Diplomatic",
+		"preferredVictoryType": "Cultural",
 
 		"startIntroPart1": "Riothamus, King of the Britons. You were active circa AD 470 and fought against the Goths in alliance with the declining Western Roman Empire. You were called 'King of the Britons' by the 6th-century historian Jordanes, but the extent of your realm is unclear. Oh, Riothamus, the world needs you once more. Can you lead your army to victory? Can you establish your nation into the history books? Can you build a civilization that will stand the test of time?",
 
@@ -899,7 +899,7 @@
 		"adjective": ["Kanem-Bornuan"],
 		"startBias": ["Grassland"],
 		"personality": "Idris Alooma",
-		"preferredVictoryType": "Diplomatic",
+		"preferredVictoryType": "Cultural",
 
 		"startIntroPart1": "Idris Alooma, Mai of the Kanem-Bornu. Your reign marked the end of the Kanem civil wars within the state, reuniting N'jimi, the former capital, under Sayfawa control. Furthermore, you introduced significant legal reforms based on Islamic law, establishing qadi courts that operated independently from the executive branch. You are credited with leading the empire to what is often regarded as its zenith during the late 16th-century and early 17th-century. Oh, Idris Alooma. Can you build a powerful empire? Can you spread your influence throughout the sands? Can you build a civilization that will stand the test of time?",
 
@@ -1135,6 +1135,36 @@
 			"Sighnaghi","Poti","Borjomi","Aspindza","Dusheti","Kaspi","Tianeti","Akhalkalaki","Gurjaani","Marneuli",
 			"Chiatura","Lagodekhi","Martvili","Ambrolauri","Kvareli","Khoni","Sagarejo","Tsalka","Dedoplistskaro","Bolnisi",
 			"Khashuri","Lentekhi","Dmanisi","Akhmeta","Vani","Ninotsminda","Abasha","Tsalenjikha","Baghdati","Shuakhevi"]
+        },
+	{
+		"name": "Tonga",
+		"leaderName": "Tuʻi-tā-tui",
+		"adjective": ["Tongan"],
+		"startBias": ["Coast"],
+		"personality": "Tuʻi-tā-tui",
+		"preferredVictoryType": "Cultural",
+
+		"startIntroPart1": "Tuʻi-tā-tui, 11th king of the Tuʻi Tonga dynasty. You were A rather ordinary ruler aside from your impressive size, you were sheltered as a prince. Despite your isolated upbringing, you still ruled the Tu'i Tonga empire without much issue. One notable thing you did was construct the impressive 50 meter long Haʻamonga-ʻa-Maui. Oh, Tuʻi-tā-tui, the islands of the pacific call your name once more. Can you defend your coasts from your contemporaries? Can you remove all opposition and create a respected hegemony? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "I shall claim your lands, for it must be mine!",
+		"attacked": "Fasiʻapule, is this a riddle or for real?!",
+		"defeated": "At last, I meet my beloved Sāngone in the afterlife...",
+		"introduction": "*Strikes your leg with a stick* Please take a step back, it is rude to be so close to me."
+
+		"neutralHello": "Not so close, now.",
+		"hateHello": "No.",
+
+		"tradeRequest": "Trade?",
+
+		"outerColor": [187,197,206],
+		"innerColor": [22,52,101],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Maritime Hegemony",
+		"uniques": ["Resting point for Influence with City-States is increased by [25]", "[-25]% City-State Influence degradation", "Allied City-States provide [Gold] equal to [+25]% of what they produce for themselves"]
+		"cities": ["Muʻa","Lapaha","Heketa","Nukuʻalofa","Neiafu","Pangai","ʻEua","Tofoa","Nomuka","Uiha",
+			"Haʻafeva","Falevai","Oʻua","Mango","Kotu","Niuatoputapu","Niuafoʻou","Ata","Fonuafoʻou","Fonualei",
+			"Tafahi","Vavaʻu","Tongatapu","Haʻapai","ʻEuaiki","Kao","Tofua","Kelefesia","Moʻungaʻone","Mataʻaho",
+			"Foa","Faleloa","Koloa","Houma","Tatakamotonga","Kolonga","Pea","Kolovai","Vaini","Haveluloto"]
 	},
 	// City-States, continue from above if you want to add new civs, not below!
 	{
