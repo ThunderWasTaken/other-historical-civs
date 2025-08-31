@@ -550,15 +550,15 @@
 		"unitType": "Melee Water",
 		"replaces": "Caravel",
 		"uniqueTo": "Tonga",
-		"movement": 4,
+		"movement": 3,
 		"strength": 18,
-		"cost": 10,
+		"cost": 110,
 		"requiredTech": "Compass",
 		"promotions": ["Tonga Time"],
 		"upgradesTo": "Ironclad",
 		"obsoleteTech": "Combustion",
 		"uniques": ["Withdraws before melee combat <with [80]% chance>"],
 		"hurryCostModifier": 30,
-		"attackSound": "cannon"
+		"attackSound": "nonmetalhit"
 	}
   ]
