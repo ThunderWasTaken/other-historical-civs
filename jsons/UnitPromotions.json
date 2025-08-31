@@ -18,5 +18,9 @@
       	{
         	"name": "Hit and Run Tactics",
 		"uniques": ["Can move after attacking", "[+1] Movement"]
+	},
+      	{
+        	"name": "Tonga Time",
+		"uniques": ["Double movement in [Ocean]", "[+1] Sight"]
       	},
 ]
