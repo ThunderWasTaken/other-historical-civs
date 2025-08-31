@@ -416,5 +416,16 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy",
 		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured", "[+2 Culture] [in this city] <during a Golden Age>"]
+	},
+	{
+		"name": "Langi",
+		"uniqueTo": "Tonga",
+		"replaces": "Shrine",
+		"faith": 1,
+		"culture": 1,
+		"cost": 40,
+		"maintenance": 1,
+		"requiredTech": "Pottery",
+		"uniques": ["Only available <when religion is enabled>", "[+2 Happiness] <in [Capital] cities>"]
 	}
 ]
