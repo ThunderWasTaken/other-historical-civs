@@ -427,5 +427,18 @@
 		"maintenance": 1,
 		"requiredTech": "Pottery",
 		"uniques": ["Only available <when religion is enabled>", "[+2 Happiness] <in [Capital] cities>"]
+	},
+	{
+		"name": "Casino",
+		"uniqueTo": "Monaco",
+		"replaces": "Stock Exchange",
+		"gold": 5,
+		"happiness": 3,
+		"culture": 3,
+		"percentStatBonus": {"gold": 50},
+		"specialistSlots": {"Merchant": 3},
+		"hurryCostModifier": 15,
+		"requiredBuilding": "Bank",
+		"requiredTech": "Electricity"
 	}
 ]
