@@ -560,5 +560,18 @@
 		"uniques": ["Withdraws before melee combat <with [80]% chance>"],
 		"hurryCostModifier": 30,
 		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Coast Guard",
+		"unitType": "Melee Water",
+		"replaces": "Privateer",
+		"uniqueTo": "Monaco",
+		"movement": 6,
+		"strength": 28,
+		"cost": 150,
+		"requiredTech": "Navigation",
+		"upgradesTo": "Destroyer",
+		"uniques": ["Unable to capture cities"],
+		"attackSound": "cannon"
 	}
   ]
