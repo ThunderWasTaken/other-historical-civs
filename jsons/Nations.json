@@ -1165,6 +1165,33 @@
 			"Haʻafeva","Falevai","Oʻua","Mango","Kotu","Niuatoputapu","Niuafoʻou","Ata","Fonuafoʻou","Fonualei",
 			"Tafahi","Vavaʻu","Tongatapu","Haʻapai","ʻEuaiki","Kao","Tofua","Kelefesia","Moʻungaʻone","Mataʻaho",
 			"Foa","Faleloa","Koloa","Houma","Tatakamotonga","Kolonga","Pea","Kolovai","Vaini","Haveluloto"]
+        },
+	{
+		"name": "Monaco",
+		"leaderName": "Rainier III",
+		"adjective": ["Monégasque"],
+		"startBias": ["Coast"],
+		"personality": "Rainier III",
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": "Rainier III, Prince of Monaco. You were born 31 of May 1923 and reigned as the prince of Monaco from 1949 till your death in 2005. During this time, you were responsible for the transformation of Monaco's economy, shifting from its traditional casino gambling base to its current status as a tax haven and cultural destination. You also coordinated the substantial reforms of Monaco's constitution, which limited the powers of sovereign rule. Oh, Rainier III, your people need you once more. Can you reform your nation to become an economic powerhouse once more? Can you defend your small utopia from any meddling invaders? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "Sorry, but I can see that you are a threat to this world!",
+		"attacked": "You are making a big mistake!",
+		"defeated": "My nation's wealth may now be yours, but are you able to keep it?",
+		"introduction": "Good to meet you, I am Rainier III."
+
+		"neutralHello": "Hello!",
+		"hateHello": "I assume you aren't here for a hotel room?",
+
+		"tradeRequest": "The love for trade is culture!",
+
+		"outerColor": [206,17,38],
+		"innerColor": [216,216,216],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Rock of Paradise",
+		"uniques": ["Cannot build [Settler] units", "May not annex cities", "[+2 Gold, +3 Culture] from every [Great Improvement]", "[+2 Gold] from [Coast] tiles [in all cities]", "[-3 Happiness] per [1] population [in puppeted cities]"]
+		"cities": ["Monaco", "Stop cheating bruh"]
 	},
 	// City-States, continue from above if you want to add new civs, not below!
 	{
