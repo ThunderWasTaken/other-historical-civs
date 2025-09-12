@@ -440,5 +440,19 @@
 		"hurryCostModifier": 15,
 		"requiredBuilding": "Bank",
 		"requiredTech": "Electricity"
+	},
+	{
+		"name": "Moravian Rampart",
+		"uniqueTo": "Great Moravia",
+		"replaces": "Castle",
+		"cityStrength": 8,
+		"cityHealth": 30,
+		"culture": 1,
+		"production": 1,
+		"food": 1,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"requiredTech": "Chivalry",
+		"uniques": ["Destroyed when the city is captured"]
 	}
 ]
