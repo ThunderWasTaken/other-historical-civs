@@ -573,5 +573,19 @@
 		"upgradesTo": "Destroyer",
 		"uniques": ["Unable to capture cities"],
 		"attackSound": "cannon"
+	},
+	{
+		"name": "Velmozh",
+		"unitType": "Sword",
+		"replaces": "Spearman",
+		"uniqueTo": "Great Moravia",
+		"movement": 2,
+		"strength": 11,
+		"cost": 45,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+25]% to Flank Attack bonuses"],
+		"attackSound": "metalhit"
 	}
   ]
