@@ -575,7 +575,7 @@
 		"attackSound": "cannon"
 	},
 	{
-		"name": "Velmozh",
+		"name": "Velmož",
 		"unitType": "Sword",
 		"replaces": "Spearman",
 		"uniqueTo": "Great Moravia",
