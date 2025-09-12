@@ -1190,8 +1190,39 @@
 		"innerColor": [216,216,216],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Rock of Paradise",
-		"uniques": ["Cannot build [Settler] units", "May not annex cities", "[+2 Gold, +3 Culture] from every [Great Improvement]", "[+2 Gold] from [Coast] tiles [in all cities]", "[-3 Happiness] per [1] population [in puppeted cities]"]
+		"uniques": ["Cannot build [Settler] units", "May not annex cities", "[+2 Gold, +3 Culture] from every [Great Improvement]", "[+2 Gold] from [Coast] tiles [in all cities]", "[-2 Happiness] per [1] population [in puppeted cities]"]
 		"cities": ["Monaco", "Stop cheating bruh"]
+        },
+	{
+		"name": "Great Moravia",
+		"leaderName": "Rastislav",
+		"adjective": ["Moravian"],
+		"startBias": ["River"],
+		"personality": "Rastislav",
+		"preferredVictoryType": "Cultural",
+
+		"startIntroPart1": "Saint Rastislav, Duke of Moravia. Although you started your reign as vassal to Louis the German of East Francia, you consolidated your rule to the extent that after 855 you were able to repel a series of Frankish attacks, fully marking your realm as independent. With your initiative, two missionaries sent by the Byzantine Emperor Michael III in 863 translated the most important Christian liturgical books into Slavonic. Long after your death, were canonized by the Eastern Orthodox Church in 1994 and is then known as Saint Rastislav. Oh, Rastislav, the people of the Morava need you once more. Can you consolidate your realm to enforce your sovereignty? Can you create major meaningful reforms for your nation? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "The lord is on our side, fool!",
+		"attacked": "Ha! Let's see you try!",
+		"defeated": "I have been defeated, I surrender to you.",
+		"introduction": "Greetings from my people, stranger!"
+
+		"neutralHello": "Hello!",
+		"hateHello": "I don't see a reason for you to be here!",
+
+		"tradeRequest": "We are willing to share our nation's bounty for some coin.",
+
+		"outerColor": [22,73,153],
+		"innerColor": [231,12,56],
+		"favoredReligion": "Christianity",
+		"uniqueName": "People of the Morava",
+		"uniques": ["Free Social Policy <upon founding a Religion>", "When spreading religion to a city, gain [10] times the amount of followers of other religions as [Culture]"]
+		"cities": ["Veligrad","Mikulčice","Nitra","Devín","Staré Město","Uherské Hradiště","Olomouc","Vyšehrad","Spiš","Znojmo",
+			"Modrá","Bojná","Velehrad","Břeclav","Trenčín","Červeny Kameň","Komárno","Levý Hradec","Pobedim",
+			"Hradiště nad Váhom","Stará Kouřim","Uherský Brod","Moravany","Hlohovec","Holíč","Stupava","Čeklís","Uherský Ostroh",
+			"Zalavár","Nyitraivánka","Drážovce","Trnava","Skalica","Vysoké Pole","Strážnice","Rajhrad","Hradišťko",
+			"Bořivoj’s Castle","Stará Boleslav","Kopčany","Veszprém","Sázava","Sopron","Prague"]
 	},
 	// City-States, continue from above if you want to add new civs, not below!
 	{
