@@ -587,5 +587,18 @@
 		"upgradesTo": "Pikeman",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+25]% to Flank Attack bonuses"],
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Fleece Guard",
+		"unitType": "Sword",
+		"uniqueTo": "Colchis",
+		"movement": 1,
+		"strength": 12,
+		"cost": 60,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Longswordsman",
+		"uniques": ["[+100]% Strength <when defending>"],
+		"attackSound": "metalhit"
 	}
   ]
