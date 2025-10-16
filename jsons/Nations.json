@@ -1244,8 +1244,8 @@
 
 		"tradeRequest": "We have so much gold that we lose less by giving them to you!",
 
-		"outerColor": [255,198,21],
-		"innerColor": [13,56,0],
+		"outerColor": [13,56,0],
+		"innerColor": [255,198,21],
 		"favoredReligion": "Zoroastrianism",
 		"uniqueName": "The Golden Fleece",
 		"uniques": ["[+1 Gold, +1 Faith] from [Luxury resource] tiles [in all cities]", "[-100]% maintenance cost for [Faith] buildings [in all cities]"]
