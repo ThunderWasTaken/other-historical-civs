@@ -454,5 +454,16 @@
 		"requiredBuilding": "Walls",
 		"requiredTech": "Chivalry",
 		"uniques": ["Destroyed when the city is captured"]
+	},
+	{
+		"name": "Temple of the Fleece",
+		"uniqueTo": "Colchis",
+		"replaces": "Temple",
+		"faith": 2,
+		"gold": 2,
+		"requiredBuilding": "Shrine",
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured", "[+1 Culture, +1 Production] [in this city] <for every adjacent [Hill]>"]
 	}
 ]
