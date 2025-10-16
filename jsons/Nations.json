@@ -1223,6 +1223,35 @@
 			"Hradiště nad Váhom","Stará Kouřim","Uherský Brod","Moravany","Hlohovec","Holíč","Stupava","Čeklís","Uherský Ostroh",
 			"Zalavár","Nyitraivánka","Drážovce","Trnava","Skalica","Vysoké Pole","Strážnice","Rajhrad","Hradišťko",
 			"Bořivoj’s Castle","Stará Boleslav","Kopčany","Veszprém","Sázava","Sopron","Prague"]
+        },
+	{
+		"name": "Colchis",
+		"leaderName": "Saulaces",
+		"adjective": ["Colchian"],
+		"startBias": ["Hill"],
+		"personality": "Saulaces",
+		"preferredVictoryType": "Cultural",
+
+		"startIntroPart1": "Saulaces, King of Colchis. A descendant of Aeëtes, and a king of Colchis of the Argonautic fame. You were claimed to have found rich gold and silver deposits in the land of the Suani and to have furnished your palace with golden and silver structures obtained on your mythological conquest of Egypt. Oh Saulaces, your people sing songs of your legends. Can you once more create palaces of gold? Can you become a mythical legend that many consider to be real? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "I will kill you where you stand!",
+		"attacked": "Idiotic fool!",
+		"defeated": "Gods curse you! Aaarrgghhh!!!",
+		"introduction": "Good to meet you, my golden palaces greet you!"
+
+		"neutralHello": "Good to see you.",
+		"hateHello": "I wish a curse upon you and your people!",
+
+		"tradeRequest": "We have so much gold that we lose less by giving them to you!",
+
+		"outerColor": [13,56,0],
+		"innerColor": [255,198,21],
+		"favoredReligion": "Zoroastrianism",
+		"uniqueName": "The Golden Fleece",
+		"uniques": ["[+1 Gold, +1 Faith] from [Luxury resource] tiles [in all cities]", "[-100]% maintenance cost for [Faith] buildings [in all cities]"]
+		"cities": ["Colchis","Aia","Phasis","Dioscurias","Kutaisi","Gyenos","Archaeopolis","Sarapana","Rhodopolis","Singa",
+		"Bathus","Meliboea","Petra","Trapezus","Lazica","Moschia","Sukhumi","Apsarus","Tyndaris","Cytaea",
+		"Phrixopolis","Pityus","Amisos","Iberia","Zydra","Phanagoria"]
 	},
 	// City-States, continue from above if you want to add new civs, not below!
 	{
