@@ -589,16 +589,17 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Fleece Guard",
-		"unitType": "Sword",
+		"name": "Shuanare Jar",
+		"unitType": "Archery",
+		"replaces": "Composite Bowman",
 		"uniqueTo": "Colchis",
-		"movement": 1,
-		"strength": 12,
-		"cost": 60,
-		"requiredTech": "Bronze Working",
-		"obsoleteTech": "Civil Service",
-		"upgradesTo": "Longswordsman",
-		"uniques": ["[+100]% Strength <when defending>"],
-		"attackSound": "metalhit"
+		"movement": 2,
+		"strength": 11,
+		"rangedStrength": 12,
+		"cost": 75,
+		"requiredTech": "Construction",
+		"obsoleteTech": "Machinery",
+		"upgradesTo": "Crossbowman",
+		"attackSound": "arrow"
 	}
   ]
