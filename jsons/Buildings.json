@@ -465,5 +465,15 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy",
 		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured", "[+1 Culture, +1 Production] [in this city] <for every adjacent [Hill]>"]
+	},
+	{
+		"name": "Gusuku",
+		"uniqueTo": "Ryukyu",
+		"cityStrength": 3,
+		"cityHealth": 20,
+		"science": 2,
+		"specialistSlots": {"Scientist": 1},
+		"uniques": ["Must be next to [Coast]"],
+		"requiredTech": "Masonry"
 	}
 ]
