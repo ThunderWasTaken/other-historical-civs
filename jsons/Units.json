@@ -601,5 +601,18 @@
 		"obsoleteTech": "Machinery",
 		"upgradesTo": "Crossbowman",
 		"attackSound": "arrow"
+	},
+	{
+		"name": "Chinkunshin",
+		"unitType": "Melee Water",
+		"replaces": "Privateer",
+		"uniqueTo": "Ryukyu",
+		"movement": 5,
+		"strength": 20,
+		"cost": 150,
+		"requiredTech": "Astronomy",
+		"upgradesTo": "Destroyer",
+		"uniques": ["[+50]% Strength <when adjacent to a [Great Merchant] unit>", "[+2] Movement <when adjacent to a [Great Merchant] unit>"],
+		"attackSound": "cannon"
 	}
   ]
