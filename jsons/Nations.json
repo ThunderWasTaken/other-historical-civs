@@ -1278,9 +1278,10 @@
 		"favoredReligion": "Shinto",
 		"uniqueName": "Bridge of a Thousand Nations",
 		"uniques": ["[+20]% Strength <when fighting in [{Friendly} {Water}] tiles>", "Gain [250] [Gold] <upon declaring friendship>", "Gain [50] [Culture] <upon declaring friendship>"]
-		"cities": ["Colchis","Aia","Phasis","Dioscurias","Kutaisi","Gyenos","Archaeopolis","Sarapana","Rhodopolis","Singa",
-		"Bathus","Meliboea","Petra","Trapezus","Lazica","Moschia","Sukhumi","Apsarus","Tyndaris","Cytaea",
-		"Phrixopolis","Pityus","Amisos","Iberia","Zydra","Phanagoria"]
+		"cities": ["Shuri","Naha","Nanzan","Tomari","Nakijin","Kume","Amami","Miyakojima","Ishigaki","Katsuren",
+		"Zakimi","Nakagusuku","Urasoe","Chatan","Uezu","Nakazato","Gushikawa","Goeku","Yomitanzan","Kunigami",
+		"Iheya","Nago","Kin","Erabu","Yoron","Haneji","Tomigusuku","Kyan","Mabuni","Gushichan",
+		"Shimajiriozato","Makabe","Sashiki","Kochinda","Nishihara","Ozato","Kanegusuku","Shidooke","Araki"]
 	},
 	// City-States, continue from above if you want to add new civs, not below!
 	{
