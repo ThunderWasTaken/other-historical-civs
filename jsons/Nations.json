@@ -1274,7 +1274,7 @@
 		"tradeRequest": "Just as a fence has to be built with pegs, an able person needs the help of three others.",
 
 		"outerColor": [50,50,50],
-		"innerColor": [238,127,218],
+		"innerColor": [151, 60, 178],
 		"favoredReligion": "Shinto",
 		"uniqueName": "Bridge of a Thousand Nations",
 		"uniques": ["[+20]% Strength <when fighting in [{Friendly} {Water}] tiles>", "Gain [250] [Gold] <upon declaring friendship>", "Gain [50] [Culture] <upon declaring friendship>"]
