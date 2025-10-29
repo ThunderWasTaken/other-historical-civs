@@ -1252,6 +1252,35 @@
 		"cities": ["Colchis","Aia","Phasis","Dioscurias","Kutaisi","Gyenos","Archaeopolis","Sarapana","Rhodopolis","Singa",
 		"Bathus","Meliboea","Petra","Trapezus","Lazica","Moschia","Sukhumi","Apsarus","Tyndaris","Cytaea",
 		"Phrixopolis","Pityus","Amisos","Iberia","Zydra","Phanagoria"]
+        },
+	{
+		"name": "Ryukyu",
+		"leaderName": "Sho Shin",
+		"adjective": ["Ryukyuan"],
+		"startBias": ["Coast"],
+		"personality": "Sho Shin",
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": "Sho Shin, King of Ryukyu. Being the third king of the second Sho dynasty of the Ryukyu Kingdom, your reign was described as a period of great peace and relative prosperity. It was you who reformed your kingdom's administration to create a much more centralised and stable state. Oh, Sho Shin... The seas call your name once more. Can you create a complex web of trade enriching your nation? Can you fight back against the competitors which wish to steal your valued trade? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "Know yourself and your enemy will let you win hundreds of battles without peril.",
+		"attacked": "Do not create in anger what you lack in reason.",
+		"defeated": "Defeat is never a bitter brew until one agrees to swallow it.",
+		"introduction": "I say my greetings to you, honored friend."
+
+		"neutralHello": "Friendship between gentlemen appears indifferent but is pure like water.",
+		"hateHello": "A fool admires himself most when he has done foolish things.",
+
+		"tradeRequest": "Just as a fence has to be built with pegs, an able person needs the help of three others.",
+
+		"outerColor": [50,50,50],
+		"innerColor": [238,127,218],
+		"favoredReligion": "Shinto",
+		"uniqueName": "Bridge of a Thousand Nations",
+		"uniques": ["[+20]% Strength <when fighting in [{Friendly} {Water}] tiles>", "Gain [250] [Gold] <upon declaring friendship>", "Gain [50] [Culture] <upon declaring friendship>"]
+		"cities": ["Colchis","Aia","Phasis","Dioscurias","Kutaisi","Gyenos","Archaeopolis","Sarapana","Rhodopolis","Singa",
+		"Bathus","Meliboea","Petra","Trapezus","Lazica","Moschia","Sukhumi","Apsarus","Tyndaris","Cytaea",
+		"Phrixopolis","Pityus","Amisos","Iberia","Zydra","Phanagoria"]
 	},
 	// City-States, continue from above if you want to add new civs, not below!
 	{
