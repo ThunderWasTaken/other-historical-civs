@@ -614,5 +614,19 @@
 		"upgradesTo": "Destroyer",
 		"uniques": ["[+50]% Strength <when adjacent to a [Great Merchant] unit>", "[+2] Movement <when adjacent to a [Great Merchant] unit>"],
 		"attackSound": "cannon"
+	},
+	{
+		"name": "Quân",
+		"unitType": "Sword",
+		"replaces": "Pikeman",
+		"uniqueTo": "Dai Viet",
+		"movement": 2,
+		"strength": 16,
+		"cost": 90,
+		"requiredTech": "Civil Service",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+4] Strength <when defending>"],
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Metallurgy",
+		"attackSound": "metalhit"
 	}
   ]
