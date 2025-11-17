@@ -475,5 +475,18 @@
 		"specialistSlots": {"Scientist": 1},
 		"uniques": ["Must be next to [Coast]"],
 		"requiredTech": "Masonry"
+	},
+	{
+		"name": "Exam Hall",
+		"uniqueTo": "Dai Viet",
+		"replaces": "University",
+		"maintenance": 2,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 33},
+		"specialistSlots": {"Scientist": 2},
+		"greatPersonPoints": {"Great Scientist": 1},
+		"requiredBuilding": "Library",
+		"uniques": ["[+2 Science, +1 Culture] from [Jungle] tiles [in this city]"],
+		"requiredTech": "Education"
 	}
 ]
