@@ -1274,7 +1274,7 @@
 		"tradeRequest": "Just as a fence has to be built with pegs, an able person needs the help of three others.",
 
 		"outerColor": [50,50,50],
-		"innerColor": [151, 60, 178],
+		"innerColor": [151,60,178],
 		"favoredReligion": "Shinto",
 		"uniqueName": "Bridge of a Thousand Nations",
 		"uniques": ["[+20]% Strength <when fighting in [{Friendly} {Water}] tiles>", "Gain [250] [Gold] <upon declaring friendship>", "Gain [50] [Culture] <upon declaring friendship>"]
@@ -1282,6 +1282,36 @@
 		"Zakimi","Nakagusuku","Urasoe","Chatan","Uezu","Nakazato","Gushikawa","Goeku","Yomitanzan","Kunigami",
 		"Iheya","Nago","Kin","Erabu","Yoron","Haneji","Tomigusuku","Kyan","Mabuni","Gushichan",
 		"Shimajiriozato","Makabe","Sashiki","Kochinda","Nishihara","Ozato","Kanegusuku","Shidooke","Araki"]
+        },
+	{
+		"name": "Dai Viet",
+		"leaderName": "Ly Nhan Tong",
+		"adjective": ["Vietnamese"],
+		"startBias": ["Jungle"],
+		"personality": "Ly Nhan Tong",
+		"preferredVictoryType": "Cultural",
+
+		"startIntroPart1": "Ly Nhan Tong, Emperor of Dai Viet. Appreciated as a great emperor of the Lý dynasty, you made important contributions to the development of Đại Việt, especially for establishing Confucianism as the official philosophy of the state, creating Confucian-based imperial exams, and creating schools based on the Confucian system of learning. Oh, Ly Nhan Tong, your empire craves more glory. Can you reform your systems into efficient processes once again? Can you defeat your neighbours in fierce jungle combat till they bend? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "Do not be afraid, I will give mercy to your people if you surrender.",
+		"attacked": "Do you really believe you are capable of taking us on?",
+		"defeated": "My great empire... Fallen.",
+		"introduction": "I greet you kindly, stranger."
+
+		"neutralHello": "Hello.",
+		"hateHello": "There is no reason for us to talk.",
+
+		"tradeRequest": "We both could prosper if we just swallowed our pride and took the help of others, don't you think?",
+
+		"outerColor": [12,54,64],
+		"innerColor": [249,49,0],
+		"favoredReligion": "Confucianism",
+		"uniqueName": "Great Viet State",
+		"uniques": ["All newly-trained [Land] units [in all cities] receive the [Amphibious] promotion", "[+1 Science] from [Jungle] tiles [in all cities] <starting from the [Medieval era]>"]
+		"cities": ["Thăng Long","Hoa Lư","Đại La","Cổ Loa","Nghệ An","Thanh Hóa","Đông Kinh","Hải Dương","Bắc Ninh","Nam Định",
+		"Hà Đông","Sơn Tây","Lạng Sơn","Quảng Ninh","Ninh Bình","Hòa Bình","Hà Tĩnh","Việt Trì","Vĩnh Yên","Phú Lương",
+		"Song Bình","Thanh Miện","Hưng Yên","Thái Nguyên","Quảng Trị","Quảng Bình","Bình Trị","Lạng Châu","Vạn Xuân","Long Biên",
+		"Tống Bình","Phú Xuân"]
 	},
 	// City-States, continue from above if you want to add new civs, not below!
 	{
