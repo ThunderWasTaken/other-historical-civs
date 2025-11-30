@@ -1312,6 +1312,36 @@
 		"Hà Đông","Sơn Tây","Lạng Sơn","Quảng Ninh","Ninh Bình","Hòa Bình","Hà Tĩnh","Việt Trì","Vĩnh Yên","Phú Lương",
 		"Song Bình","Thanh Miện","Hưng Yên","Thái Nguyên","Quảng Trị","Quảng Bình","Bình Trị","Lạng Châu","Vạn Xuân","Long Biên",
 		"Tống Bình","Phú Xuân"]
+        },
+	{
+		"name": "Sicily",
+		"leaderName": "Roger II",
+		"adjective": ["Sicilian"],
+		"startBias": ["Coast"],
+		"personality": "Roger II",
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Roger II, King of Sicily. You became King of Sicily in 1130, uniting the island and forming one of the most powerful states in the Mediterranean. Your rule was marked by innovation, military organization, and diplomacy. Your court became a center of intellectual and artistic life, attracting people from diverse cultures. By the end of your reign, Sicily flourished as a multicultural kingdom, blending Norman, Arab, Byzantine, and Latin traditions in governance, law, and culture. Oh Roger II, the people call your name once more. Can you consolidate your region and form another powerful nation? Can you blend various cultures to create a magnificent empire? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "Your fate has been sealed ever since you stepped foot into my lands!",
+		"attacked": "Latin, Greek, Saracen, Norman. Which blade from which people do you wish to die from?",
+		"defeated": "But... I did everything right... What happened?!",
+		"introduction": "Ah, another ruler such as I, good to meet you."
+
+		"neutralHello": "Hi there!",
+		"hateHello": "None of our people want you, leave.",
+
+		"tradeRequest": "My luxuries are accepted and beloved by all!",
+
+		"outerColor": [60,6,6],
+		"innerColor": [255,252,180],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Mediterranean Multiculturalism",
+		"uniques": ["[+2 Culture] in cities on [Coast] tiles", "[+1 Science] from [Jungle] tiles [in all cities] <starting from the [Medieval era]>"]
+		"cities": ["Palermo","Messina","Catania","Syracuse","Agrigento","Caltanissetta","Trapani","Marsala","Ragusa","Modica",
+			"Enna","Cefalù","Milazzo","Piazza Armerina","Gela","Avola","Noto","Termini Imerese","Mazara","Sciacca",
+			"Erice","Lentini","Acireale","Castelvetrano","Adrano","Bronte","Paterno","Corleone","Monreale","Lipari",
+			"Taormina","Barcellona Pozzo di Gotto","Licata","Comiso","Canicattì"]
 	},
 	// City-States, continue from above if you want to add new civs, not below!
 	{
