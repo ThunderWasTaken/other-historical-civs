@@ -1337,7 +1337,7 @@
 		"innerColor": [255,252,180],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Mediterranean Multiculturalism",
-		"uniques": ["[+2 Culture] in cities on [Coast] tiles", "[+1 Science] from [Jungle] tiles [in all cities] <starting from the [Medieval era]>"]
+		"uniques": ["[+2 Culture] in cities on [Coast] tiles", "[+25]% [Culture] from City-States"]
 		"cities": ["Palermo","Messina","Catania","Syracuse","Agrigento","Caltanissetta","Trapani","Marsala","Ragusa","Modica",
 			"Enna","Cefalù","Milazzo","Piazza Armerina","Gela","Avola","Noto","Termini Imerese","Mazara","Sciacca",
 			"Erice","Lentini","Acireale","Castelvetrano","Adrano","Bronte","Paterno","Corleone","Monreale","Lipari",
