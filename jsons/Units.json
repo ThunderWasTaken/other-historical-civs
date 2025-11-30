@@ -628,5 +628,20 @@
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Metallurgy",
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Saracen Mercs",
+		"unitType": "Archery",
+		"replaces": "Crossbowman",
+		"uniqueTo": "Sicily",
+		"movement": 2,
+		"strength": 13,
+		"rangedStrength": 18,
+		"cost": 120,
+		"requiredTech": "Machinery",
+		"uniques": ["[+2] Strength <in tiles adjacent to [Hill] tiles>", "[+1] Strength <in tiles adjacent to [Coast] tiles>"],
+		"upgradesTo": "Gatling Gun",
+		"obsoleteTech": "Industrialization",
+		"attackSound": "crossbow"
 	}
   ]
