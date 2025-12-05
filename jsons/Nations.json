@@ -948,7 +948,7 @@
 		"innerColor": [199, 235, 255],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Bosansko Superiority",
-		"uniques": ["[+10 Happiness] <for [10] turns> <upon conquering a city>", "Free [Inquisitor] appears <upon gaining a [Missionary] unit>", "Free [Missionary] appears <upon gaining a [Inquisitor] unit>"]
+		"uniques": ["[+10 Happiness] <for [10] turns> <upon conquering a city>", "Free [Missionary] appears <upon gaining a [Inquisitor] unit>"]
 		"cities": ["Visoko","Mostar","Banja Luka","Tuzla","Zenica","Sarajevo","Doboj","Travnik","Trebinje","Gračanica",
 			"Konjic","Goražde","Grude","Srebrenica","Cazin","Sanski Most","Livno","Bihać",
 			"Foča","Brčko","Kakanj","Prijedor","Široki Brijeg","Lukavac","Maglaj","Kladanj","Bugojno",
