@@ -12,7 +12,7 @@
 		"declaringWar": "We have landed on their shores! Strike fear into their hearts! RAHHH!!",
 		"attacked": "We will warm ourselves with the skin of your soldiers.",
 		"defeated": "Urk... You have defeated me... I applaud you for your skills.",
-		"introduction": "Friend or foe? You wouldn't want to be the latter!",
+		"introduction": "Ye who stands before the King of Norway, are you friend or foe? You wouldn't want to be the latter!",
 
 		"neutralHello": "Hello!",
 		"hateHello": "Come to get pillaged?",
@@ -39,9 +39,9 @@
 
 		"startIntroPart1": "Kanku Musa, Mansa of the Mali Empire, your wealth has impressed those even in the modern age as you are debatably the wealthiest man to ever exist, your taxxing of gold and salt production over many other kingdoms and your trades of luxuries has secured peace and prosperity for your mighty and rich empire. Oh our great Mansa, will you return to your golden throne to lead our civilization back into prosperty? Can you claim back your title as wealthiest man to ever live? Can you build a civilization that will stand the test of time?",
 
-		"declaringWar": "You stand no chance against us, prepare to die!",
-		"attacked": "You must be after our gold! My soldiers, kill them!",
-		"defeated": "I suppose the elders were correct... Money can not save you from everything...",
+		"declaringWar": "You stand no chance against us. O God, grant that I may chastise this foe!",
+		"attacked": "You must be after our gold! Fine! Let us end this false peace!",
+		"defeated": "Greetings. I am the Lord of Mali, a man much devote and also - thanks be to God - very, very rich. I trust you wish for some gold?",
 		"introduction": "Greetings, do you want some gold?",
 
 		"neutralHello": "Greetings!",
@@ -69,7 +69,7 @@
 
 		"startIntroPart1": "Valentinian III of the Western Roman Empire, your reign over the empire was one of the longest, but it was filled with great perils and challenges. Even then so, you managed to stand your ground, while you lost many land to the hispanic conquest in the west, you still managed to defeat the hunnic invaders. Oh Valentinian III, the world needs a ruler of your integrity and endurance once more. Can you survive the harsh battles ahead? Can you repel and defeat all invaders who have come for your throne? Can you build a civilization that will stand the test of time?",
 
-		"declaringWar": "My mercy is limited, you shall be vanquished!",
+		"declaringWar": "My mercy is limited. You shall be vanquished!",
 		"attacked": "Barbaric monster! I'll crush you like the ant you are!",
 		"defeated": "I... I'm sorry... Aetius...",
 		"introduction": "Greetings from Rome, friend.",
@@ -99,15 +99,15 @@
 
 		"startIntroPart1": "Owain Gwynedd, the self-proclaimed Prince of Wales and true King of Powys, you captured many lands east pushing into the territories of the large nation of England. You gained many victories in the wars you've been waged against and ended up above your contemporaries, your kingdom needs you once more, oh great Owain. Can you withstand the pressure from foreign forces once more? Can you withstand the perils of the world? Can you build a civilization that will stand the test of time?",
 
-		"declaringWar": "Your lands are very plenty, I will be taking them.",
-		"attacked": "This is not my first time on the battlefield, don't underestimate me!",
-		"defeated": "I have lost, I surrender my kingdom to you, oh mighty ruler.",
-		"introduction": "I say hello to you, stranger.",
+		"declaringWar": "Your lands are very plenty. I will be taking them.",
+		"attacked": "This is not my first time on the battlefield, so don't underestimate me!",
+		"defeated": "I have lost. I surrender my kingdom to you, oh mighty ruler.",
+		"introduction": "I say hello to you, stranger. Welcome to the lands of Wales.",
 
 		"neutralHello": "Hello.",
 		"hateHello": "Got something to say?",
 
-		"tradeRequest": "My kingdom offers you this trade deal, it shall be best for you to accept.",
+		"tradeRequest": "My kingdom offers you this trade deal. It shall be best for you to accept.",
 
 		"outerColor": [101, 14, 1],
 		"innerColor": [255, 191, 1],
@@ -131,8 +131,8 @@
 
 		"declaringWar": "I am sorry... This is for the greater good!",
 		"attacked": "I understand... Come at me if it makes you feel better.",
-		"defeated": "Have mercy and atleast let me continue my efforts... Please...",
-		"introduction": "Hello, do you require any assistance?",
+		"defeated": "Have mercy, and at least let me continue my efforts... Please...",
+		"introduction": "Greetings. I have the pleasure to speak with you as the voice of the Swiss Confederation.",
 
 		"neutralHello": "Greetings.",
 		"hateHello": "Are you hurt?",
@@ -159,10 +159,10 @@
 
 		"startIntroPart1": "Oh, James II... King of Aragon, Valencia, Sardinia and Corsica, along with the Count of Barcelona, you conquered the lands of Sardinia in 1324, and created another kingdom to put into your collection. The world needs you once more, Can you conquer your enemies again? Can you create multiple large prosperous kingdoms? Can you build a civilization that will stand the test of time?",
 
-		"declaringWar": "Another kingdom to my collection!",
-		"attacked": "You will pay!",
-		"defeated": "Nooo!! I... I have failed...",
-		"introduction": "Hello there, are you interested in becoming a vassal?",
+		"declaringWar": "Another kingdom to my collection! I hope you do not fear the Reaper!",
+		"attacked": "Oh, you are so going to regret this...",
+		"defeated": "W-What?! I... failed? But how?! Was my faith in God not enough to grant me victory?",
+		"introduction": "Welcome, vassal to the house of the Aragonese Crown. We will either be your greatest partners or your worst foes, so choose carefully.",
 
 		"neutralHello": "Hello!",
 		"hateHello": "What is it?!",
@@ -191,8 +191,8 @@
 
 		"declaringWar": "You are in the way of my ambitions! Begone!",
 		"attacked": "You are a fool, and will be remembered in history as such!",
-		"defeated": "My empire! Nooo!!",
-		"introduction": "Greetings, are you a friend, or a foe?",
+		"defeated": "Enough! Take my head! I cannot stand the sight of the ashes that was once my empire any longer!",
+		"introduction": "My name is Kanishka, and this is the Realm of Kushan. If you are friend or foe, that is up only to you.",
 
 		"neutralHello": "Greetings.",
 		"hateHello": "Make it quick.",
@@ -220,9 +220,9 @@
 
 		"startIntroPart1": "Gaiseric of the Vandal Kingdom, when Valentinian III was murdered and the next emperor cancelled the marriage between your child and theirs, you invaded Italy and commited the great act of the Sacking of Rome. You made many conquests in northern africa and turned a small germanic tribe into a large mediterranian power. Gaiseric, can you repeat your great conquests once more? Can you strike deep into the hearts of your enemies? Can you build a civilization that will stand the test of time?",
 
-		"declaringWar": "You wish to have seen this coming!",
-		"attacked": "Foolish!",
-		"defeated": "You have defeated me, but know that you will defeated too.",
+		"declaringWar": "Surely you had to know that war would have been upon us.",
+		"attacked": "You dare to attack the combined horde of the Vandals and the Alans? Foolish!",
+		"defeated": "So you have defeated me, uh? A good battle and a great victory, but know that you will defeated too.",
 		"introduction": "I greet you, stranger.",
 
 		"neutralHello": "Hello.",
@@ -251,15 +251,15 @@
 
 		"startIntroPart1": "Edward Teach, better known as Blackbeard, you are a vicious and one of the most well known pirates of all time, being the final ruler of the Pirate Republic. You plundered many ships, leaving fear within the hearts of many merchants and sailors alike. Oh, Blackbeard, can you once again terrorize the sea with your terrifying strength? Can you plunder the cities of the foes who dare to oppose you? Can you build a civilization that will stand the test of time?",
 
-		"declaringWar": "Zehahahaha! Get em' boys!",
-		"attacked": "You'll never take me alive!",
-		"defeated": "You will regret this! I have associates everywhere!",
-		"introduction": "Zehahaha! Hello there!",
+		"declaringWar": "Bring a spring on her cable, hearties! There's blood to be had.",
+		"attacked": "Damnation seize my soul if I give you quarter or take any from ye!",
+		"defeated": "Aye, ye've sunk me. 'Tween the Devil and Davey Jones, there's thee.",
+		"introduction": "Hark ye to the Scourge of the Seven Seas - Edward Teach, Blackbeard in the flesh.",
 
 		"neutralHello": "Aye?",
 		"hateHello": "Nay!",
 
-		"tradeRequest": "These goods may or may not have been stolen.",
+		"tradeRequest": "These goods may or may not have been stolen. Worry not about where they came from.",
 
 		"outerColor": [0, 0, 0],
 		"innerColor": [255, 255, 255],
@@ -284,8 +284,8 @@
 
 		"declaringWar": "You are occupying our lands, and we are taking them back!",
 		"attacked": "Colonizer scum! The devil shall reap your soul!",
-		"defeated": "I faught hard... I know that my attempts are not futile, and that you will soon fall yourself.",
-		"introduction": "Hello, I am Sepe Tiaraju, pleased to meet you.",
+		"defeated": "I fought hard... I know that my attempts are not futile, and that you will soon fall yourself.",
+		"introduction": "Hello, and pleased to meet you. I am Sepe Tiaraju, and the Guarani consider me their hero.",
 
 		"neutralHello": "Hello.",
 		"hateHello": "Out from my lands, NOW!",
@@ -313,10 +313,10 @@
 
 		"startIntroPart1": "Songtsan Gampo, the 33rd king and first emperor of the great Tibetan Empire, you formally let buddhism into your empire, you unified many tibetan kingdoms and expanded your lands vastly. Oh great Songtsen Gampo, the world needs your military and stewardship expertise once more. Can you expand your great empire into greatness? Can you unite cities of others into one once more? you are Can you build a civilization that will stand the test of time?",
 
-		"declaringWar": "It is time to expand my empire, do not resist.",
+		"declaringWar": "It is time to expand my empire. Do not resist: submit and all will be good.",
 		"attacked": "You are making a fatal mistake!",
-		"defeated": "I faught hard to build my empire, and you destroyed it... Why?",
-		"introduction": "Greetings outsider, I am Songtsan Gampo, emperor of the Tibetan Empire.",
+		"defeated": "I fought hard to build my empire, and you destroyed it... Why?",
+		"introduction": "Greetings, outsider. I am Songtsan Gampo, Lord of the Tibetan Empire.",
 
 		"neutralHello": "Greetings.",
 		"hateHello": "You are not welcome here.",
@@ -344,10 +344,10 @@
 
 		"startIntroPart1": "Great Queen Soma, you are the first monarch of the Funan State. You were first a pirate which attacked an indian merchant ship, there you found Kaundinya, a man who faught greatly which impressed you with his bravery, you married him and ended up creating one of the most concrete dynasties within south east asian history and created the Funan State. Oh great Queen Soma, the world once again needs your greatness. Can you create an empire to surpass yours? Can you vanquish those in your way? Can you build a civilization that will stand the test of time?",
 
-		"declaringWar": "Hu hu hu... It is time for you to die!",
+		"declaringWar": "Let us abandon this false peace. It is time to spill blood. One of us must die.",
 		"attacked": "Hmph! Your arrogance shall be paid in blood!",
-		"defeated": "I bravely faught for my nation, and that is all that matters.",
-		"introduction": "I greet you, stranger. I am Queen Soma of the Funan State.",
+		"defeated": "I bravely fought for my nation, and that is all that matters.",
+		"introduction": "Another wanderer has braved the great sees to seek harbour along the great glass river. You cannot have travelled so far to the Funan to offer me so little.",
 
 		"neutralHello": "Hello.",
 		"hateHello": "To come here after what you've done takes bravery, I applaud you of that, atleast.",
