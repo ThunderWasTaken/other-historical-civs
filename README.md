@@ -9,6 +9,5 @@ Removed Civs: Holy Romans, Frisia, Khwarazm, Mapuche, Australia
 Credits: 
 - ThunderCrims (almost everything cuz I'm the mod creator lololololol)
 - ReallyBasicName (bug fixes and Danzig's icon)
-- Smashfanful (The heavily outdated italian translations)
-
+- Smashfanful (Italian translations and other minor contributions)
 
