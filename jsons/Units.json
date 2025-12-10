@@ -643,5 +643,14 @@
 		"upgradesTo": "Gatling Gun",
 		"obsoleteTech": "Industrialization",
 		"attackSound": "crossbow"
+	},
+	{
+		"name": "no",
+		"unitType": "Civilian",
+		"replaces": "Settler",
+		"uniqueTo": "Monaco",
+		"movement": 1,
+		"cost": 999,
+		"requiredTech": "Agriculture",
 	}
   ]
