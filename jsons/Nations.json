@@ -157,7 +157,7 @@
 		"personality": "James II",
 		"preferredVictoryType": "Diplomatic",
 
-		"startIntroPart1": "Oh, James II... King of Aragon, Valencia, Sardinia and Corsica, along with the Count of Barcelona, you conquered the lands of Sardinia in 1324, and created another kingdom to put into your collection. The world needs you once more, Can you conquer your enemies again? Can you create multiple large prosperous kingdoms? Can you build a civilization that will stand the test of time?",
+		"startIntroPart1": "James II... King of Aragon, Valencia, Sardinia and Corsica, along with the Count of Barcelona. From 1297 you were nominally the King of Sardinia and Corsica, but you acquired the island of Sardinia by conquest in 1324. Your full title for the last three decades of your reign was 'James, by the grace of God, king of Aragon, Valencia, Sardinia and Corsica, and count of Barcelona'. Oh, James II. The world needs you once more, Can you conquer your enemies again? Can you create multiple large prosperous kingdoms? Can you build a civilization that will stand the test of time?",
 
 		"declaringWar": "Another kingdom to my collection! I hope you do not fear the Reaper!",
 		"attacked": "Oh, you are so going to regret this...",
@@ -233,8 +233,8 @@
 		"outerColor": [32, 31, 0],
 		"innerColor": [36, 153, 0],
 		"favoredReligion": "Christianity",
-		"uniqueName": "Regnum Vandalorum et Alanorum",
-		"uniques": ["Units in cities cost no Maintenance", "[+20]% [Gold] [in puppeted cities]"]
+		"uniqueName": "Sackers of Rome",
+		"uniques": ["Units in cities cost no Maintenance", "[+25]% [Gold] [in puppeted cities]"]
 		"cities": ["Alania","Alan Hippo Regius","Hadrumetum","Utica","Cirta","Thapsus","Tunis","Leptis Magna","Sabratha","Gafsa",
 			"Vaga","Theveste","Lambaesis","Bulla Regia","Thugga","Thysdrus","Sufetula","Clupea","Carthago Nova","Calama",
 			"Vescera","Timgad","Sitifis","Sicca Veneria","Rusadir","Capsa","Pupianum","Tacapae","Auzia","Tipasa",
@@ -264,7 +264,7 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [255, 255, 255],
 		"favoredReligion": "Christianity",
-		"uniqueName": "The Pirate Code",
+		"uniqueName": "Golden Age of Piracy",
 		"uniques": ["All newly-trained [Water] units [in all cities] receive the [Pirate] promotion", "No movement cost to pillage <for [Water] units>"]
 		"cities": ["Nassau","Freeport","Marsh Harbour","West End","Cooper's Town","Alice Town","Spanish Wells","Dunmore Town","George Town","Rock Sound",
 			"Matthew Town","Hope Town","Nicholls Town","Arthur's Town","Kemps Bay","Clarence Town","Stella Maris","Salt Pond","High Rock","Governor's Harbour",
@@ -327,7 +327,7 @@
 		"innerColor": [39, 38, 42],
 		"favoredReligion": "Buddhism",
 		"uniqueName": "Bod Chen Po",
-		"uniques": ["Empire enters golden age <upon conquering a city>", "[+20]% [Faith] [in all cities] <during a Golden Age>"]
+		"uniques": ["Empire enters golden age <upon conquering a city>"]
 		"cities": ["Lhasa","Shigatse","Gyantse","Chamdo","Nagqu","Nyingchi","Garze","Ngari","Xigazê","Lhünzê",
 			"Tsetang","Bayi","Nyingchi County","Nagchu","Lhorong","Rikaze","Nangqên","Barkam","Qamdo","Litang",
 			"Nagchu County","Zogang","Bomi","Dêngqên","Shannan","Rutog","Nyemo","Lhatse","Dinggyê","Saga",
@@ -358,7 +358,7 @@
 		"innerColor": [1, 37, 150],
 		"favoredReligion": "Hinduism",
 		"uniqueName": "Lords of Great Glass River",
-		"uniques": ["Militaristic City-States grant units [2] times as fast when you are at war with a common nation", "[+1 Gold, +1 Production, +1 Food] from [Mountain] tiles [in all cities]", "[+1 Gold, +1 Production, +1 Food, +1 Culture, +1 Science] from [Mountain] tiles [in all cities] <starting from the [Medieval era]>"]
+		"uniques": ["Militaristic City-States grant units [3] times as fast when you are at war with a common nation", "[+1 Gold, +1 Production, +1 Food] from [Mountain] tiles [in all cities]", "[+1 Gold, +1 Production, +1 Food, +1 Culture, +1 Science] from [Mountain] tiles [in all cities] <starting from the [Medieval era]>"]
 		"cities": ["Vyadhapura","Oc Eo","Angkor Borei","Ba Phnom","Phnom Penh","Takeo","Kampong Cham","Kampot","Kampong Thom","Prey Veng",
 			"Sihanoukville","Kampong Speu","Battambang","Banteay Meanchey","Pursat","Svay Rieng","Kratie","Stung Treng","Ratanakiri","Mondulkiri",
 			"Tbong Khmum","Pailin","Koh Kong","Kep","Siem Reap","Preah Vihear","Prey Veng","Moc Hoa","Long Xuyen","Can Tho",
@@ -388,7 +388,7 @@
 		"outerColor": [112, 30, 4],
 		"innerColor": [218, 145, 38],
 		"favoredReligion": "Christianity",
-		"uniqueName": "Ancient Sandstone Geniuses",
+		"uniqueName": "Most Unjustly Forgotten",
 		"uniques": ["[+2 Culture] <in cities connected to the capital> <starting from the [Medieval era]>", "[+1 Production] from [Desert] tiles [in all cities] <starting from the [Medieval era]>"]
 		"cities": ["Petra","Hegra","Bosra","Avdat","Sela","Madain Saleh","Dumatha","Aila","Jauf","Rekem",
 			"Raqmu","Oboda","Hijr","Egra","Kadesh","Humeima","Philoteria","Al-`Ula","Gerasa","Gaulane",
@@ -528,7 +528,7 @@
 		"personality": "William Wallace",
 		"preferredVictoryType": "Domination",
 
-		"startIntroPart1": "Sir William Wallace, knight of the Kingdom of Scotland and soon one of its great leaders during the first war of scottish independence. You defeated an English army at the Battle of Stirling Bridge, then you were appointed Guardian of Scotland and served until your defeat at the Battle of Falkirk. Oh Sir William, can you lead Scotland back into greatness? Can you rise against those who threaten your freedom? Can you build a civilization that will stand the test of time?",
+		"startIntroPart1": "Sir William Wallace, knight of the Kingdom of Scotland and soon one of its great leaders during the first war of Scottish independence. You defeated an English army at the Battle of Stirling Bridge, then you were appointed Guardian of Scotland and served until your defeat at the Battle of Falkirk. Oh Sir William, can you lead Scotland back into greatness? Can you rise against those who threaten your freedom? Can you build a civilization that will stand the test of time?",
 
 		"declaringWar": "Your existance is a threat to our freedom! Prepare to die!",
 		"attacked": "Your tyranny won't last long, I will make sure of that!",
@@ -575,7 +575,7 @@
 		"innerColor": [236, 255, 233],
 		"favoredReligion": "Buddhism",
 		"uniqueName": "Empire of Kings",
-		"uniques": ["[+1 Culture] from [Farm] tiles [in all cities] <starting from the [Medieval era]>", "[+1 Happiness, +1 Production] [in puppeted cities]"]
+		"uniques": ["[+1 Culture] from [Farm] tiles [in all cities] <starting from the [Classical era]>", "[+1 Happiness, +1 Production] [in puppeted cities]"]
 		"cities": ["Toungoo","Prome","Bago","Taungoo","Mandalay","Monywa","Sagaing","Mingun","Pyay","Amarapura",
 			"Shwebo","Yamethin","Nyaung-U","Pakokku","Meiktila","Myitkyina","Pathein","Hinthada","Bhamo","Mawlamyine",
 			"Hpa-An","Dawei","Sittwe","Thayet","Lashio","Mogok","Pyin Oo Lwin","Hakha","Kalaw","Loikaw",
@@ -638,7 +638,7 @@
 		"innerColor": [196, 255, 98],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Cultural Exchange",
-		"uniques": ["[+1 Culture] from each Trade Route", "[+20]% Production when constructing [Culture] buildings [in all cities]"]
+		"uniques": ["[+33]% Production when constructing [Culture] buildings [in all cities]"]
 		"cities": ["Kongo","Luanda","Ngoyo","Soyo","Ndongo","Matamba","Malebo","Mpemba","Kipala","Kanda",
 			"Yaka","Nsundi","Teke","Mbata","Loango","Kwango","Kwanza","Mbamba","Ngongo","Malange",
 			"Kasanje","Moxico","Lunda","Kuba","Benguela","Namibe","Zombo","Mwenemutapa","Nampula","Lobito",
@@ -669,7 +669,7 @@
 		"innerColor": [76, 1, 1],
 		"favoredReligion": "Zoroastrianism",
 		"uniqueName": "First Empire",
-		"uniques": ["[+1 Food] from each Trade Route", "[-10]% construction time for [Farm] improvements"]
+		"uniques": ["[-20]% construction time for [Farm] improvements"]
 		"cities": ["Akkad","Akkadian Babylon","Eshnunna","Sippar","Larak","Adab","Isin","Kish","Nippur","Larsa",
 			"Eridu","Shuruppak","Lagash","Akkadian Ur","Uruk","Bad-tibira","Umma","Zabala","Awan","Hamazi",
 			"Assur","Mari","Der","Gasur","Susa","Nagar","Harran","Nineveh","Ekallatum","Arbela",
@@ -854,7 +854,7 @@
 		"outerColor": [255, 255, 255],
 		"innerColor": [0, 0, 0],
 		"favoredReligion": "Christianity",
-		"uniqueName": "Bretagne Armoricaine",
+		"uniqueName": "Breizh",
 		"uniques": ["[+1] Movement <for [All] units> <for [5] turns> <upon declaring war with a major Civilization>", "[-75]% construction time for [Fort] improvements"]
 		"cities": ["Rennes","Nantes","Quimper","Saint-Malo","Vannes","Lorient","Brest","Dinan","Morlaix","Redon",
 			"Fougères","Guingamp","Pontivy","Auray","Saint-Brieuc","Lannion","Paimpol","Concarneau","Douarnenez",
@@ -979,7 +979,7 @@
 		"innerColor": [247, 252, 0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Rurikid Dynasty",
-		"uniques": ["[+2 Gold] in cities on [River] tiles", "[-20]% unhappiness from the number of cities", "Free [Great General] appears <upon founding a city>"]
+		"uniques": ["[-25]% unhappiness from the number of cities", "Free [Great General] appears <upon founding a city>"]
 		"cities": ["Kiev","Novgorod","Ladoga","Beloozero","Murom","Polotsk","Rostov","Chernigov","Smolensk","Pskov",
 			"Vyshhorod","Izborsk","Staraya Ladoga","Tmutarakan","Suzdal","Pereyaslav","Vitebsk","Yuryev","Kursk",
 			"Bryansk","Galich","Putivl","Koporye","Gorodets","Toropets","Mozhaysk","Zvenigorod","Vyatka","Kolomna",
@@ -1010,7 +1010,7 @@
 		"innerColor": [255, 255, 255],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Forest of the Impaled",
-		"uniques": ["[+10]% Strength <when fighting in [your] tiles>", "[+5]% Strength <when fighting in [Forest] tiles>"]
+		"uniques": ["[+10]% Strength <when fighting in [your] tiles>", "[+10]% Strength <when fighting in [Forest] tiles>"]
 		"cities": ["Târgoviște","Bucharest","Curtea de Argeș","Suceava","Ploiești","Giurgiu","Câmpulung","Făgăraș","Brașov","Sibiu",
 			"Buzău","Râmnicu Vâlcea","Târgu Jiu","Craiova","Pitești","Drobeta-Turnu Severin","Focșani","Slatina","Brăila",
 			"Tulcea","Caracal","Alexandria","Galați","Mizil","Tecuci","Mangalia","Medgidia","Cernavodă","Constanța",
@@ -1041,7 +1041,7 @@
 		"innerColor": [86, 64, 9],
 		"favoredReligion": "Buddhism",
 		"uniqueName": "Basileia tes Baktrianes",
-		"uniques": ["New [Mounted] units start with [14] XP [in all cities]", "[+10]% Production when constructing [Mounted] units [in all cities]"]
+		"uniques": ["New [Mounted] units start with [15] XP [in all cities]", "[+10]% Production when constructing [Mounted] units [in all cities]"]
 		"cities": ["Bactra","Demetrias","Euthydemia","Eucratidiea","Marakanda","Oxus","Caucasus","Eschate","Arachosia","Indus",
 			"Taxila","Patalene","Mathura","Margiana","Barigaza","Aristobathra","Asigramma","Peucelaitis","Simylla","Sagala",
 			"Kavisiye","Sirkap","Takht-i Sangin","Drapsaka","Termez","Bamyan","Bucephala","Surkh Kotal","Dalverzin Tepe","Tillya Tepe"]
@@ -1130,7 +1130,7 @@
 		"innerColor": [54,10,10],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Consolidation",
-		"uniques": ["[+2 Production, +1 Science, +2 Culture] from each Trade Route <during a Golden Age>", "Gain a free [Monument] [in this city] <upon founding a city> <during a Golden Age>", "Gain a free [Monument] [in this city] <upon conquering a city> <during a Golden Age>"]
+		"uniques": ["[+1 Production, +1 Culture] from each Trade Route <during a Golden Age>", "Gain a free [Monument] [in this city] <upon founding a city> <during a Golden Age>", "Gain a free [Monument] [in this city] <upon conquering a city> <during a Golden Age>", "[+20]% Golden Age length"]
 		"cities": ["Tbilisi","Kutaisi","Batumi","Mtskheta","Rustavi","Gori","Telavi","Zugdidi","Akhaltsikhe","Oni",
 			"Sighnaghi","Poti","Borjomi","Aspindza","Dusheti","Kaspi","Tianeti","Akhalkalaki","Gurjaani","Marneuli",
 			"Chiatura","Lagodekhi","Martvili","Ambrolauri","Kvareli","Khoni","Sagarejo","Tsalka","Dedoplistskaro","Bolnisi",
@@ -1190,7 +1190,7 @@
 		"innerColor": [216,216,216],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Rock of Paradise",
-		"uniques": ["Cannot build [Settler] units", "May not annex cities", "[+2 Gold, +3 Culture] from every [Great Improvement]", "[+2 Gold] from [Coast] tiles [in all cities]", "[-2 Happiness] per [1] population [in puppeted cities]"]
+		"uniques": ["Cannot build [Settler] units", "May not annex cities", "[+3 Gold, +3 Culture] from every [Great Improvement]", "[+2 Gold] from [Coast] tiles [in all cities]", "[-2 Happiness] per [1] population [in puppeted cities]"]
 		"cities": ["Monaco", "Stop cheating bruh"]
         },
 	{
@@ -1451,5 +1451,17 @@
 		"outerColor": [30, 30, 30],
 		"innerColor": [230,230,230],
 		"cities": ["Cospaia"]
+	},
+	{
+		"name": "Brunei",
+		"adjective": ["Bruneian"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "The Sultanate of Brunei shall rise once more!",
+		"attacked": "We are not to be meddled with, our allies will destroy you!",
+		"defeated": "You have won now, but soon you'll pay...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [247, 224, 17],
+		"cities": ["Bandar Seri Begawan"]
 	},
 ]
