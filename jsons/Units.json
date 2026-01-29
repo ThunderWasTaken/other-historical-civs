@@ -652,5 +652,17 @@
 		"movement": 1,
 		"cost": 999,
 		"requiredTech": "Agriculture",
+	},
+	{
+		"name": "Great Founder",
+		"unitType": "Civilian",
+		"replaces": "Settler",
+		"uniqueTo": "the Arameans",
+		"movement": 2,
+		"cost": 106,
+		"requiredTech": "Agriculture",
+		"uniques": ["Founds a new puppet city <by consuming this unit>", "Excess Food converted to Production when under construction",
+			"Requires at least [2] population"],
+		"hurryCostModifier": 20
 	}
   ]
