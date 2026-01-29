@@ -501,5 +501,14 @@
 		"requiredBuilding": "Walls",
 		"requiredTech": "Chivalry",
 		"uniques": ["Destroyed when the city is captured", "[+1 Gold] from each Trade Route <in this city>"]
+	},
+	{
+		"name": "Scriptorium",
+		"uniqueTo": "the Arameans",
+		"replaces": "Library",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["[+1 Science] per [2] population [in this city]", "[+1 Culture] from each Trade Route <in this city>"],
+		"requiredTech": "Writing"
 	}
 ]
