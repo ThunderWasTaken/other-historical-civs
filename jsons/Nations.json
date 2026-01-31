@@ -1367,7 +1367,7 @@
 		"innerColor": [31,42,68],
 		"favoredReligion": "Judaism",
 		"uniqueName": "Land of Aram",
-		"uniques": ["[+50]% Production when constructing [Civilian] units [in all cities]"]
+		"uniques": ["[+50]% Production when constructing [Civilian] units [in all cities]", "[-1 Happiness] per [1] population [in annexed cities]"]
 		"cities": ["Samal","Bit Agusi","Bit Adini","Til Barsip","Carchemish","Guzana","Arpad","Hamath","Qatna","Niya",
 			"Tell Halaf","Tell Brak","Tell Fakhariya","Tell Taban","Sikkan","Tuttul","Subat Enlil","Kinalua","Ugarit","Alalakh",
 			"Ebla","Emar","Dur Katlimmu","Ras al-Ayn","Ahsani","Shadikanni","Kahat","Taidu","Sura","Nerab","Sefire",
