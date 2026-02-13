@@ -1363,8 +1363,8 @@
 
 		"tradeRequest": "We notice your trade posts and or ports, I suppose we could trade!",
 
-		"outerColor": [194,195,194],
-		"innerColor": [0,37,9],
+		"outerColor": [0,37,9],
+		"innerColor": [194,195,194],
 		"favoredReligion": "Shinto",
 		"uniqueName": "Ezochi",
 		"uniques": ["[+20]% Strength <when fighting in [Camp] tiles>", "[+1 Production, +1 Food] from [Fishing Boats] tiles [in all cities]", "[+1 Culture, +1 Faith] from [Camp] tiles [in all cities]"]
