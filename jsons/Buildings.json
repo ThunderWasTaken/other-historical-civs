@@ -510,5 +510,13 @@
 		"maintenance": 1,
 		"uniques": ["[+1 Science] per [2] population [in this city]", "[+1 Culture] from each Trade Route <in this city>"],
 		"requiredTech": "Writing"
+	},
+	{
+		"name": "Cise",
+		"culture": 1,
+		"cost": 40,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food] from [Camp] tiles [in this city]", "Must be on [River]"],
+		"requiredTech": "Agriculture"
 	}
 ]
