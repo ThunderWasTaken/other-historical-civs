@@ -664,5 +664,20 @@
 		"uniques": ["Founds a new puppet city <by consuming this unit>", "Excess Food converted to Production when under construction",
 			"Requires at least [2] population"],
 		"hurryCostModifier": 20
+	},
+	{
+		"name": "Surku Archer",
+		"unitType": "Archery",
+		"replaces": "Composite Bowman",
+		"uniqueTo": "Ainu Mosir",
+		"movement": 2,
+		"strength": 9,
+		"rangedStrength": 11,
+		"cost": 75,
+		"requiredTech": "Construction",
+		"obsoleteTech": "Machinery",
+		"upgradesTo": "Crossbowman",
+		"uniques": ["No defensive terrain penalty", "Ignores Zone of Control"],
+		"attackSound": "arrow"
 	}
   ]
