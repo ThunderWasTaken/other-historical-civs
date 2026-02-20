@@ -1307,7 +1307,7 @@
 		"innerColor": [249,49,0],
 		"favoredReligion": "Confucianism",
 		"uniqueName": "Great Viet State",
-		"uniques": ["All newly-trained [Land] units [in all cities] receive the [Amphibious] promotion", "[+1 Science] from [Jungle] tiles [in all cities] <starting from the [Medieval era]>"]
+		"uniques": ["All newly-trained [Land] units [in all cities] receive the [Amphibious] promotion", "[+1 Science] from [{unimproved} {Jungle}] tiles [in all cities] <starting from the [Medieval era]>"]
 		"cities": ["Thăng Long","Hoa Lư","Đại La","Cổ Loa","Nghệ An","Thanh Hóa","Đông Kinh","Hải Dương","Bắc Ninh","Nam Định",
 		"Hà Đông","Sơn Tây","Lạng Sơn","Quảng Ninh","Ninh Bình","Hòa Bình","Hà Tĩnh","Việt Trì","Vĩnh Yên","Phú Lương",
 		"Song Bình","Thanh Miện","Hưng Yên","Thái Nguyên","Quảng Trị","Quảng Bình","Bình Trị","Lạng Châu","Vạn Xuân","Long Biên",
