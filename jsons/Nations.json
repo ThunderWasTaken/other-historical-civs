@@ -1344,6 +1344,36 @@
 			"Taormina","Barcellona Pozzo di Gotto","Licata","Comiso","Canicattì"]
         },
 	{
+		"name": "the Arameans",
+		"leaderName": "Hadadezer",
+		"adjective": ["Aramaic"],
+		"startBias": ["Desert"],
+		"personality": "Hadadezer",
+		"preferredVictoryType": "Cultural",
+
+		"startIntroPart1": "Hadadezer, king of Aram-Damascus. You played a role in the hebrew bible as you waged and faught in many wars throughout your reign, while you were captured you managed to form a peace treaty with your captor, King Ahab of Israel. After your release you gathered the Arameans around your realm (and even the Israelites themselves) to fight against the encroaching Assyrians. You were killed in battle a few years later but your nation managed to defeat the enemy, avenging you. Oh Hadadezer, the Arameans need your guidance. Can you strike a diplomatic deal that will bring prosperity to all? Can you defeat the foes who threaten you and all that is good? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "You're growing far too strong for my liking, we will destroy you.",
+		"attacked": "Bah! You make me sick to my stomach.",
+		"defeated": "I may have fallen, but soon my allies will take you down.",
+		"introduction": "The Arameans greet you, I am Hadadezer."
+
+		"neutralHello": "A pleasant day, isn't it?",
+		"hateHello": "...",
+
+		"tradeRequest": "Our lands stretch far and wide, encompassing many resources, would you like some?",
+
+		"outerColor": [184,115,51],
+		"innerColor": [31,42,68],
+		"favoredReligion": "Judaism",
+		"uniqueName": "Land of Aram",
+		"uniques": ["[+50]% Production when constructing [Civilian] units [in all cities]", "[+1 Happiness] per [3] population [in puppeted cities]", "[-1 Happiness] per [1] population [in annexed cities]"]
+		"cities": ["Samal","Bit Agusi","Bit Adini","Til Barsip","Carchemish","Guzana","Arpad","Hamath","Qatna","Niya",
+			"Tell Halaf","Tell Brak","Tell Fakhariya","Tell Taban","Sikkan","Tuttul","Subat Enlil","Kinalua","Ugarit","Alalakh",
+			"Ebla","Emar","Dur Katlimmu","Ras al-Ayn","Ahsani","Shadikanni","Kahat","Taidu","Sura","Nerab","Sefire",
+			"Qurayya","Huzirina","Arslan Tash","Ain Dara","Zalpa","Kunulua","Huziratu","Abarsal","Sapinuwa","Nagar"]
+        },
+	{
 		"name": "Ainu Mosir",
 		"leaderName": "Shakushain",
 		"adjective": ["Ainu"],
