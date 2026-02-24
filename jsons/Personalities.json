@@ -1470,6 +1470,36 @@
     }
   },
   {
+        "name": "Hadadezer",
+      "culture": 7,
+      "faith": 5,
+      "food": 4,
+      "gold": 4,
+      "happiness": 2,
+      "production": 5,
+      "science": 7,
+      "military": 6,
+      "aggressive": 3,
+      "declareWar": 4,
+      "commerce": 4,
+      "diplomacy": 3,
+      "loyal": 7,
+      "expansion": 8,
+
+      "priorities": {
+          "Tradition": 3,
+          "Liberty": 7,
+          "Honor": 5,
+          "Commerce": 5,
+          "Patronage": 7,
+          "Piety": 4,
+          "Rationalism": 7,
+          "Freedom": 4,
+          "Autocracy": 4,
+          "Order": 7
+    }
+  },
+  {
         "name": "Shakushain",
       "culture": 8,
       "faith": 7,
