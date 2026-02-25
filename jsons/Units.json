@@ -657,7 +657,7 @@
 		"name": "Great Founder",
 		"unitType": "Civilian",
 		"replaces": "Settler",
-		"uniqueTo": "the Arameans",
+		"uniqueTo": "The Arameans",
 		"movement": 2,
 		"cost": 106,
 		"requiredTech": "Agriculture",
