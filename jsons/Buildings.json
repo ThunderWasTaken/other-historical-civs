@@ -504,7 +504,7 @@
 	},
 	{
 		"name": "Scriptorium",
-		"uniqueTo": "the Arameans",
+		"uniqueTo": "The Arameans",
 		"replaces": "Library",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
