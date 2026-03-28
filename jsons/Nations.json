@@ -1427,7 +1427,7 @@
 		"innerColor": [126,114,35],
 		"favoredReligion": "Buddhism",
 		"uniqueName": "Marble Horses",
-		"uniques": ["[+20]% Strength <for [Horse] units>", "[+1 Happiness] from [Horses] tiles [in all cities]", "[+1 Gold, +1 Culture] from [Marble] tiles [in all cities]"]
+		"uniques": ["[+20]% Strength <for [Mounted] units>", "[+1 Happiness] from [Horses] tiles [in all cities]", "[+1 Gold, +1 Culture] from [Marble] tiles [in all cities]"]
 		"cities": ["Dali","Xiaguan","Yangjumie","Weishan","Tengchong","Baoshan","Yongchang","Heqing","Jianchuan","Eryuan",
 			"Binchuan","Midu","Yunlong","Lushui","Yongping","Shidian","Longyang","Nanjian","Fugong","Gongshan",
 			"Lijiang","Yongsheng","Huaping","Lanping","Ninglang","Zhenyuan","Jingdong","Jinggu","Mojiang","Pu'er","Simao",
