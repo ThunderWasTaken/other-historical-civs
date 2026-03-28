@@ -679,5 +679,17 @@
 		"upgradesTo": "Crossbowman",
 		"uniques": ["No defensive terrain penalty", "Ignores Zone of Control"],
 		"attackSound": "arrow"
+	},
+	{
+		"name": "Cuan-Bo Militia",
+		"unitType": "Sword",
+		"uniqueTo": "Dali",
+		"movement": 2,
+		"strength": 13,
+		"cost": 60,
+		"requiredTech": "Steel",
+		"obsoleteTech": "Gunpowder",
+		"upgradesTo": "Musketman",
+		"attackSound": "nonmetalhit",
 	}
   ]
