@@ -1402,6 +1402,36 @@
 			"Rishiri","Shakotan","Yoichi","Ishikari","Otaru","Esashi","Utashinai","Rumoi","Teshio","Wakkanai",
 			"Okushiri","Karafuto","Poronai","Nayoro","Hamatonbetsu","Betsukai","Tokachi","Chitose","Mashike","Bihoro","Akan",
 			"Furen","Notoro","Urahoro","Soya","Horonobe","Sarufutsu","Engaru","Shiranuka","Shosanbetsu","Tomamae"]
+        },
+	{
+		"name": "Dali",
+		"leaderName": "Duan Siping",
+		"adjective": ["Dalian"],
+		"startBias": ["Hill"],
+		"personality": "Duan Siping",
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Duan Siping, the founder and first emperor of the Dali Kingdom. You were a governor of Tonghai County. Yang Ganzhen, ruler of the Dayining kingdom, feared you and attempted to imprison you. You went into hiding and gathered soldiers and horses to fight the enemy. You were eating a wild peach when you noticed two characters written on the fruit's skin: qing xi 青昔. You determined this as an omen of when you should attack Great Yining, where you were victorious and established the Dali Kingdom. Oh, Duan Siping, your people need you. Can you have another stroke of luck? Can you instead outskill your opponents this time? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "The peach states that your fall will bring me great prosperity, get ready for war!",
+		"attacked": "As I've expected! You've fallen into my trap!",
+		"defeated": "You may have fallen my kingdom, but I shall return with an army larger than what you can even muster.",
+		"introduction": "I greet you with kindness, I am Duan Siping."
+
+		"neutralHello": "May I interest you in some fruit?",
+		"hateHello": "I do not wish to speak with you, leave.",
+
+		"tradeRequest": "Trade helps us both prosper!",
+
+		"outerColor": [47,236,154],
+		"innerColor": [126,114,35],
+		"favoredReligion": "Buddhism",
+		"uniqueName": "Marble Horses",
+		"uniques": ["[+20]% Strength <for [Horse] units>", "[+1 Happiness] from [Horses] tiles [in all cities]", "[+1 Gold, +1 Culture] from [Marble] tiles [in all cities]"]
+		"cities": ["Dali","Xiaguan","Yangjumie","Weishan","Tengchong","Baoshan","Yongchang","Heqing","Jianchuan","Eryuan",
+			"Binchuan","Midu","Yunlong","Lushui","Yongping","Shidian","Longyang","Nanjian","Fugong","Gongshan",
+			"Lijiang","Yongsheng","Huaping","Lanping","Ninglang","Zhenyuan","Jingdong","Jinggu","Mojiang","Pu'er","Simao",
+			"Chuxiong","Yao'an","Dayao","Yuanmou","Wuding","Fumin","Luquan","Shuangbai","Nanhua","Mouding"]
 	},
 	// City-States, continue from above if you want to add new civs, not below!
 	{
