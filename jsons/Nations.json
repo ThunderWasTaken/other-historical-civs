@@ -1453,7 +1453,7 @@
 
 		"tradeRequest": "Are you interested in this deal I offer you?",
 
-		"outerColor": [212,212,212],
+		"outerColor": [150,150,150],
 		"innerColor": [0,255,208],
 		"favoredReligion": "Islam",
 		"uniqueName": "Code of Law",
