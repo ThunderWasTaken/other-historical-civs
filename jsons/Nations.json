@@ -1432,6 +1432,36 @@
 			"Binchuan","Midu","Yunlong","Lushui","Yongping","Shidian","Longyang","Nanjian","Fugong","Gongshan",
 			"Lijiang","Yongsheng","Huaping","Lanping","Ninglang","Zhenyuan","Jingdong","Jinggu","Mojiang","Pu'er","Simao",
 			"Chuxiong","Yao'an","Dayao","Yuanmou","Wuding","Fumin","Luquan","Shuangbai","Nanhua","Mouding"]
+        },
+	{
+		"name": "Sulu",
+		"leaderName": "Sharif ul-Hashim",
+		"adjective": ["Sulu"],
+		"startBias": ["Coast"],
+		"personality": "Sharif ul-Hashim",
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": "Sharif ul-Hashim, the first Sultan of Sulu. While little is known about your private life, you were born as a Son-in-law and heir to the Buansa chief Raja Baguinda. During your reign you created a code of laws based on the Islamic Laws which you used to guide your sultanate till your death. Oh, Sharif ul-Hashim. Your people need your wise guidance and leadership. Can you create a prosperous and powerful nation? Can you carefully form a code of law based on your faithfulness? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "We will stand crossing our blades in the sunrise!",
+		"attacked": "Wisdom eludes those who choose to speak with their own fists.",
+		"defeated": "No more... I have lost.",
+		"introduction": "It is a pleasure to meet you in this wonderful day."
+
+		"neutralHello": "How may I help you?",
+		"hateHello": "Yes?",
+
+		"tradeRequest": "Are you interested in this deal I offer you?",
+
+		"outerColor": [212,212,212],
+		"innerColor": [0,255,208],
+		"favoredReligion": "Islam",
+		"uniqueName": "Code of Law",
+		"uniques": ["Free [Missionary] appears <upon adopting [All]>, Free [Inquisitor] appears <upon adopting [All]>, Comment [A free Missionary and Inquisitor appears upon adopting any policy.]"]
+		"cities":["Jolo","Maimbung","Parang","Indanan","Patikul","Talipao","Pangutaran","Lugus","Tapul","Pata",
+			"Siasi","Tongkil","Luuk","Hadji Panglima Tahil","Kalingalan Caluang","Pandan","Banguingui","Simunul","Sitangkai","Bongao",
+			"Mapun","Semporna","Sandakan","Lahad Datu","Kunak","Tawau","Taganak","Sibutu","Tandubas","Languyan","South Ubian",
+			"North Ubian","Turtle Islands","Balimbing","Tandu Banak","Bintulan","Likud","Bud Datu","Bud Bongao","Sanga Sanga","Tumbagaan"]
 	},
 	// City-States, continue from above if you want to add new civs, not below!
 	{
