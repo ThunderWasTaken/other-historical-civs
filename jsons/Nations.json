@@ -1457,7 +1457,7 @@
 		"innerColor": [0,255,208],
 		"favoredReligion": "Islam",
 		"uniqueName": "Code of Law",
-		"uniques": ["Free [Missionary] appears <upon adopting [All]>, Free [Inquisitor] appears <upon adopting [All]>, Comment [A free Missionary and Inquisitor appears upon adopting any policy.]"]
+		"uniques": ["Free [Missionary] appears <upon adopting [All]>", "Free [Inquisitor] appears <upon adopting [All]>", "Comment [A free Missionary and Inquisitor appears upon adopting any policy.]"]
 		"cities":["Jolo","Maimbung","Parang","Indanan","Patikul","Talipao","Pangutaran","Lugus","Tapul","Pata",
 			"Siasi","Tongkil","Luuk","Hadji Panglima Tahil","Kalingalan Caluang","Pandan","Banguingui","Simunul","Sitangkai","Bongao",
 			"Mapun","Semporna","Sandakan","Lahad Datu","Kunak","Tawau","Taganak","Sibutu","Tandubas","Languyan","South Ubian",
