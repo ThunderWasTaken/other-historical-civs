@@ -691,5 +691,20 @@
 		"obsoleteTech": "Gunpowder",
 		"upgradesTo": "Musketman",
 		"attackSound": "nonmetalhit",
+	},
+	{
+		"name": "Lantaka",
+		"unitType": "Melee Water",
+		"replaces": "Caravel",
+		"uniqueTo": "Sulu",
+		"movement": 4,
+		"strength": 22,
+		"cost": 120,
+		"requiredTech": "Astronomy",
+		"upgradesTo": "Ironclad",
+		"obsoleteTech": "Combustion",
+		"uniques": ["[+1] Sight", "Withdraws before melee combat <with [50]% chance>", "[+50]% Yield from pillaging tiles", "No movement cost to pillage"],
+		"hurryCostModifier": 30,
+		"attackSound": "cannon"
 	}
   ]
