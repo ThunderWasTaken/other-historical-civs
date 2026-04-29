@@ -645,15 +645,6 @@
 		"attackSound": "crossbow"
 	},
 	{
-		"name": "no",
-		"unitType": "Civilian",
-		"replaces": "Settler",
-		"uniqueTo": "Monaco",
-		"movement": 1,
-		"cost": 999,
-		"requiredTech": "Agriculture",
-	},
-	{
 		"name": "Great Founder",
 		"unitType": "Civilian",
 		"replaces": "Settler",
