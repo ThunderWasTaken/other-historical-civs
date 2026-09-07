@@ -855,7 +855,7 @@
 		"innerColor": [0, 0, 0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Breizh",
-		"uniques": ["[+1] Movement <for [All] units> <for [5] turns> <upon declaring war with a major Civilization>", "[-75]% construction time for [Fort] improvements"]
+		"uniques": ["[+1] Movement <for [All] units> <for [5] turns> <<upon declaring war on [Major] Civilizations>>", "[-75]% construction time for [Fort] improvements"]
 		"cities": ["Rennes","Nantes","Quimper","Saint-Malo","Vannes","Lorient","Brest","Dinan","Morlaix","Redon",
 			"Fougères","Guingamp","Pontivy","Auray","Saint-Brieuc","Lannion","Paimpol","Concarneau","Douarnenez",
 			"Carhaix","Plouha","Rosporden","Ploërmel","Quiberon","Hennebont","Tréguier","Lamballe","Loudéac",
