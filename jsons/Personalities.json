@@ -1526,7 +1526,66 @@
           "Rationalism": 4,
           "Freedom": 7,
           "Autocracy": 2,
-          "Order": 5
+          "Order": 5       
+      }
+  },
+  {
+        "name": "Duan Siping",
+      "culture": 5,
+      "faith": 8,
+      "food": 3,
+      "gold": 3,
+      "happiness": 7,
+      "production": 4,
+      "science": 6,
+      "military": 4,
+      "aggressive": 4,
+      "declareWar": 8,
+      "commerce": 6,
+      "diplomacy": 5,
+      "loyal": 8,
+      "expansion": 4,
+
+      "priorities": {
+          "Tradition": 8,
+          "Liberty": 2,
+          "Honor": 4,
+          "Commerce": 5,
+          "Patronage": 3,
+          "Piety": 6,
+          "Rationalism": 8,
+          "Freedom": 5,
+          "Autocracy": 5,
+          "Order": 6
     }
+  },
+  {
+        "name": "Sharif ul-Hashim",
+      "culture": 3,
+      "faith": 9,
+      "food": 6,
+      "gold": 5,
+      "happiness": 8,
+      "production": 4,
+      "science": 2,
+      "military": 2,
+      "aggressive": 3,
+      "declareWar": 3,
+      "commerce": 8,
+      "diplomacy": 4,
+      "loyal": 9,
+      "expansion": 4,
+
+      "priorities": {
+          "Tradition": 6,
+          "Liberty": 5,
+          "Honor": 3,
+          "Commerce": 7,
+          "Patronage": 3,
+          "Piety": 5,
+          "Rationalism": 7,
+          "Freedom": 3,
+          "Autocracy": 3,
+          "Order": 5
   }
       ]
