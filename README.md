@@ -6,7 +6,7 @@ Finished (in order of being finished first to last): Norway, Mali, Western Rome,
 Removed Civs: Holy Romans, Frisia, Khwarazm, Mapuche, Australia
 
 To do list:
-- Remove Colchis, Baktria, The Vandals, Danzig, Mogadishu, Monaco, and the Seljuks.
+- Remove Colchis, Baktria, The Vandals, Danzig, Mogadishu, Monaco, and the Seljuks. (DONE!)
 - Rework Wallachia, Bosnia, Burma, Kushan, Ryukyu, Saxony, the Arameans, Afghanistan, Ainu Mosir, Aragon, Georgia, Great Moravia, Jerusalem, and Khazaria. 
 - Improve the icons of Dai Viet, Great Moravia, Kongo, Kushan, Afghanistan, and Sicily.
 - Improve the colors of the Sulu.
