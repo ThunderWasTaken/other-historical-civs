@@ -118,20 +118,6 @@
 		"attackSound": "horse"
 	},
 	{
-		"name": "Pillager",
-		"unitType": "Sword",
-		"replaces": "Spearman",
-		"uniqueTo": "The Vandals",
-		"movement": 2,
-		"strength": 12,
-		"cost": 56,
-		"requiredTech": "Bronze Working",
-		"obsoleteTech": "Civil Service",
-		"upgradesTo": "Pikeman",
-		"uniques": ["Earn [300]% of killed [Military] unit's [Strength] as [Gold]", "No movement cost to pillage"],
-		"attackSound": "metalhit"
-	},
-	{
 		"name": "Buccaneer",
 		"unitType": "Melee Water",
 		"replaces": "Privateer",
@@ -282,19 +268,6 @@
 		"attackSound": "horse"
 	},
 	{
-		"name": "Hanseatic Corsair",
-		"unitType": "Melee Water",
-		"replaces": "Privateer",
-		"uniqueTo": "Danzig",
-		"movement": 6,
-		"strength": 26,
-		"cost": 150,
-		"requiredTech": "Navigation",
-		"upgradesTo": "Destroyer",
-		"promotions": ["Coastal Raider I", "[Privateer] ability"],
-		"attackSound": "cannon"
-	},
-	{
 		"name": "Ngola Warrior",
 		"unitType": "Sword",
 		"replaces": "Pikeman",
@@ -390,21 +363,6 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Tumen",
-		"unitType": "Mounted",
-		"replaces": "Knight",
-		"uniqueTo": "Seljuk",
-		"movement": 3,
-		"strength": 24,
-		"cost": 120,
-		"requiredTech": "Chivalry",
-		"obsoleteTech": "Military Science",
-		"upgradesTo": "Cavalry",
-		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
-		"attackSound": "horse"
-	},
-	{
 		"name": "Bagad",
 		"unitType": "Sword",
 		"replaces": "Pikeman",
@@ -415,18 +373,6 @@
 		"requiredTech": "Civil Service",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+15]% Strength bonus for [Military] units within [3] tiles"],
 		"attackSound": "metalhit"
-	},
-	{
-		"name": "Shu'ai",
-		"unitType": "Melee Water",
-		"replaces": "Work Boats",
-		"uniqueTo": "Mogadishu",
-		"strength": 7,
-		"movement": 6,
-		"cost": 30,
-		"requiredTech": "Sailing",
-		"uniques": ["Cannot enter ocean tiles <before discovering [Astronomy]>", "May create improvements on water resources"],
-		"attackSound": "nonmetalhit"
 	},
 	{
 		"name": "Keshilim",
@@ -482,23 +428,6 @@
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
 		"attackSound": "horse"
-	},
-	{
-		"name": "Arma Toxotis",
-		"unitType": "Archery",
-		"replaces": "Knight",
-		"uniqueTo": "Bactria",
-		"movement": 4,
-		"strength": 17,
-		"cost": 120,
-		"rangedStrength": 20,
-		"requiredTech": "Chivalry",
-		"requiredResource": "Horses",
-		"promotions": ["Shock I"],
-		"upgradesTo": "Cavalry",
-		"obsoleteTech": "Military Science",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[-25]% Strength <vs cities> <when attacking>"],
-		"attackSound": "arrow"
 	},
 	{
 		"name": "Mujahid",
@@ -560,19 +489,6 @@
 		"uniques": ["Withdraws before melee combat <with [80]% chance>"],
 		"hurryCostModifier": 30,
 		"attackSound": "nonmetalhit"
-	},
-	{
-		"name": "Coast Guard",
-		"unitType": "Melee Water",
-		"replaces": "Privateer",
-		"uniqueTo": "Monaco",
-		"movement": 6,
-		"strength": 28,
-		"cost": 150,
-		"requiredTech": "Navigation",
-		"upgradesTo": "Destroyer",
-		"uniques": ["Unable to capture cities"],
-		"attackSound": "cannon"
 	},
 	{
 		"name": "Velmož",
