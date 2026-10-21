@@ -8,7 +8,7 @@ Removed Civs: Holy Romans, Frisia, Khwarazm, Mapuche, Australia
 To do list:
 - Remove Colchis, Baktria, The Vandals, Danzig, Mogadishu, Monaco, and the Seljuks. (DONE!)
 - Rework Wallachia, Bosnia, Burma, Kushan, Ryukyu, Saxony, the Arameans, Afghanistan, Ainu Mosir, Aragon, Georgia, Great Moravia, Jerusalem, and Khazaria. 
-- Improve the icons of Dai Viet, Great Moravia, Kongo, Kushan, Afghanistan, and Sicily.
+- Improve the icons of Dai Viet, Great Moravia, Kongo, Kushan, Afghanistan, and Sicily. (DONE!)
 - Improve the colors of the Sulu.
 - Nerf Tibet and the Kievan Rus.
 - Add new civs to replace the ones that were removed.
