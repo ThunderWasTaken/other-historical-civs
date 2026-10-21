@@ -71,17 +71,6 @@
 		"requiredTech": "Calendar"
 	},
 	{
-		"name": "Alan Courthouse",
-		"replaces": "Courthouse"
-		"uniqueTo": "The Vandals"
-		"maintenance": 1,
-		"happiness": 1,
-		"hurryCostModifier": 50,
-		"uniques": ["Removes extra unhappiness from annexed cities",
-			"Can only be built <in [Annexed] cities>"],
-		"requiredTech": "Mathematics"
-	},
-	{
 		"name": "Pirate Bay",
 		"replaces": "Harbor"
 		"uniqueTo": "The Pirate Republic"
@@ -224,16 +213,6 @@
 		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured"]
 	},
 	{
-		"name": "Hanseatic Warehouse",
-		"replaces": "Harbor",
-		"uniqueTo": "Danzig",
-		"cost": 120,
-		"hurryCostModifier": 25,
-		"uniques": ["[+1 Production, +2 Gold] from [Water resource] tiles [in this city]",
-			"Connects trade routes over water","Must be next to [Coast]"],
-		"requiredTech": "Compass"
-	},
-	{
 		"name": "Mbanza",
 		"replaces": "Market",
 		"uniqueTo": "Kongo",
@@ -297,20 +276,6 @@
 		"requiredTech": "Steel"
 	},
 	{
-		"name": "Medrese",
-		"replaces": "University",
-		"uniqueTo": "Seljuk",
-		"faith": 2,
-		"happiness": 1,
-		"maintenance": 2,
-		"hurryCostModifier": 15,
-		"percentStatBonus": {"science": 33},
-		"specialistSlots": {"Scientist": 3},
-		"requiredBuilding": "Library",
-		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]"],
-		"requiredTech": "Education"
-	},
-	{
 		"name": "Enclos Paroissial",
 		"replaces": "Monument",
 		"uniqueTo": "Brittany",
@@ -320,18 +285,6 @@
 		"cost": 45,
 		"hurryCostModifier": 40,
 		"uniques": ["Destroyed when the city is captured", "[+1 Faith] [in this city] <starting from the [Classical era]>"]
-	},
-	{
-		"name": "Suq",
-		"replaces": "Bank",
-		"uniqueTo": "Mogadishu",
-		"gold": 3,
-		"culture": 1,
-		"specialistSlots": {"Merchant": 2},
-		"hurryCostModifier": 15,
-		"percentStatBonus": {"gold": 25},
-		"requiredBuilding": "Market",
-		"requiredTech": "Banking"
 	},
 	{
 		"name": "Sahelian Granary",
@@ -372,17 +325,6 @@
 		"hurryCostModifier": 50,
 		"uniques": ["Removes extra unhappiness from annexed cities", "Can only be built <in [Annexed] cities>", "[Gold] cost of purchasing [All] units [-10]%"],
 		"requiredTech": "Mathematics"
-	},
-	{
-		"name": "Numismatics",
-		"uniqueTo": "Bactria"
-		"replaces": "Mint",
-		"maintenance": 0,
-		"gold": 2,
-		"happiness": 1,
-		"hurryCostModifier": 25,
-		"uniques": ["[+2 Gold] from [Gold Ore] tiles [in this city]", "[+2 Gold] from [Silver] tiles [in this city]"],
-		"requiredTech": "Currency"
 	},
 	{
 		"name": "Yadgar",
@@ -429,19 +371,6 @@
 		"uniques": ["Only available <when religion is enabled>", "[+2 Happiness] <in [Capital] cities>"]
 	},
 	{
-		"name": "Casino",
-		"uniqueTo": "Monaco",
-		"replaces": "Stock Exchange",
-		"gold": 5,
-		"happiness": 3,
-		"culture": 3,
-		"percentStatBonus": {"gold": 50},
-		"specialistSlots": {"Merchant": 3},
-		"hurryCostModifier": 15,
-		"requiredBuilding": "Bank",
-		"requiredTech": "Electricity"
-	},
-	{
 		"name": "Moravian Rampart",
 		"uniqueTo": "Great Moravia",
 		"replaces": "Castle",
@@ -454,17 +383,6 @@
 		"requiredBuilding": "Walls",
 		"requiredTech": "Chivalry",
 		"uniques": ["Destroyed when the city is captured"]
-	},
-	{
-		"name": "Temple of the Fleece",
-		"uniqueTo": "Colchis",
-		"replaces": "Temple",
-		"faith": 2,
-		"gold": 2,
-		"requiredBuilding": "Shrine",
-		"hurryCostModifier": 25,
-		"requiredTech": "Philosophy",
-		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured", "[+1 Culture, +1 Production] [in this city] <for every adjacent [Hill]>"]
 	},
 	{
 		"name": "Gusuku",
