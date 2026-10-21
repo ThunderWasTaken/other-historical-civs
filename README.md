@@ -5,9 +5,16 @@ Finished (in order of being finished first to last): Norway, Mali, Western Rome,
 
 Removed Civs: Holy Romans, Frisia, Khwarazm, Mapuche, Australia
 
+To do list:
+- Remove Colchis, Baktria, The Vandals, Danzig, Mogadishu, Monaco, and the Seljuks.
+- Rework Wallachia, Bosnia, Burma, Kushan, Ryukyu, Saxony, the Arameans, Afghanistan, Ainu Mosir, Aragon, Georgia, Great Moravia, Jerusalem, and Khazaria. 
+- Improve the icons of Dai Viet, Great Moravia, Kongo, Kushan, and Sicily.
+- Improve the colors of the Sulu.
+- Nerf Tibet and the Kievan Rus.
+
 
 Credits: 
 - ThunderCrims (almost everything cuz I'm the mod creator lololololol)
-- ReallyBasicName (bug fixes and Danzig's icon)
+- ReallyBasicName (bug fixes and Danzig's (removed civ) icon)
 - Smashfanful (Italian translations and other minor contributions)
 
