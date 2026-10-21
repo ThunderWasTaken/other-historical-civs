@@ -11,6 +11,7 @@ To do list:
 - Improve the icons of Dai Viet, Great Moravia, Kongo, Kushan, Afghanistan, and Sicily.
 - Improve the colors of the Sulu.
 - Nerf Tibet and the Kievan Rus.
+- Add new civs to replace the ones that were removed.
 
 
 Credits: 
