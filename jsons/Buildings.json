@@ -472,5 +472,17 @@
 		"hurryCostModifier": 25,
 		"uniques": ["[+1 Food] from [Deer] tiles [in this city]", "[+1 Food] from [Bananas] tiles [in this city]", "[+1 Food] from [Wheat] tiles [in this city]", "[+1 Gold] from [{unimproved} {Hill}] tiles [in this city]"],
 		"requiredTech": "Pottery"
+	},
+	{
+		"name": "Grain Deme",
+		"uniqueTo": "Cimmeria",
+		"replaces": "Workshop",
+		"maintenance": 1,
+		"production": 2,
+		"specialistSlots": {"Engineer": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"production": 10},
+		"uniques": ["[+1 Production] from [Wheat] tiles [in this city]"],
+		"requiredTech": "Metal Casting"
 	}
 ]
