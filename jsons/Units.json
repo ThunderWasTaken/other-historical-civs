@@ -627,5 +627,21 @@
 		"upgradesTo": "Pikeman",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+20]% Strength <in tiles adjacent to [City center] tiles>", "[+20]% Strength <in [City center] tiles>"],
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Sarmatian Rider",
+		"unitType": "Mounted",
+		"replaces": "Knight",
+		"uniqueTo": "Cimmeria",
+		"movement": 4,
+		"strength": 20,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"promotions": ["Hit and Run Tactics"],
+		"upgradesTo": "Cavalry",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","Never appears as a Barbarian unit"],
+		"attackSound": "horse"
 	}
   ]
