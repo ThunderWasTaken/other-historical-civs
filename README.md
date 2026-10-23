@@ -1,9 +1,9 @@
 this mod will add new historical civs into unciv.
 
 
-Finished (in order of being finished first to last): Norway, Mali, Western Rome, Wales, Switzerland, Aragon, Kushan, Vandals, Pirate Republic, Guarani, Tibet, Funan, Lithuania, Saxony, The Sea People, Bulgaria, Scotland, Burma (formerly Toungoo), Danzig, Kongo, Akkad, Croatia, Xiongnu, Rashidun, Jerusalem, Seljuk, Brittany, Mogadishu, Kanem-Bornu, Bosnia, Kievan Rus, Wallachia, Bactria, Afghanistan, Khazaria, Georgia, Tonga, Monaco, Great Moravia, Colchis, Ryukyu, Dai Viet, Sicily, the Arameans, Ainu Mosir, Dali
+Finished (in order of being finished first to last): Norway, Mali, Western Rome, Wales, Switzerland, Aragon, Kushan, Pirate Republic, Guarani, Tibet, Funan, Lithuania, Saxony, The Sea People, Bulgaria, Scotland, Burma (formerly Toungoo), Kongo, Akkad, Croatia, Xiongnu, Rashidun, Jerusalem, Seljuk, Brittany, Kanem-Bornu, Bosnia, Kievan Rus, Wallachia, Afghanistan, Khazaria, Georgia, Tonga, Great Moravia, Ryukyu, Dai Viet, Sicily, the Arameans, Ainu Mosir, Dali
 
-Removed Civs: Holy Romans, Frisia, Khwarazm, Mapuche, Australia
+Removed Civs: Holy Romans, Frisia, Khwarazm, Mapuche, Australia, Colchis, Baktria, The Vandals, Danzig, Mogadishu, Monaco, the Seljuks
 
 To do list:
 - Remove Colchis, Baktria, The Vandals, Danzig, Mogadishu, Monaco, and the Seljuks. (DONE!)
