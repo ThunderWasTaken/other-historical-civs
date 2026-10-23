@@ -461,5 +461,16 @@
 		"hurryCostModifier": 25,
 		"uniques": ["Must be next to [Coast]", "[+1 Gold] from [Pearls] tiles [in this city]", "[+1 Culture] from [Pearls] tiles [in this city]"],
 		"requiredTech": "Sailing"
+	},
+	{
+		"name": "Agadir",
+		"uniqueTo": "the Amazigh",
+		"replaces": "Granary",
+		"food": 2,
+		"production": 1,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food] from [Deer] tiles [in this city]", "[+1 Food] from [Bananas] tiles [in this city]", "[+1 Food] from [Wheat] tiles [in this city]", "[+1 Gold] from [{unimproved} {Hill}] tiles [in this city]"],
+		"requiredTech": "Pottery"
 	}
 ]
