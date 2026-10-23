@@ -1281,6 +1281,35 @@
 		"cities":["Arris","Khenchela","Batna","Timgad","Lambèse","Tébessa","Biskra","Guelma","Souk Ahras","Constantine",
 			"Sétif","Cirta","Thamugadi","Madaura","Hippo Regius","Tiddis","Baghaï","Tazoult","Meskiana","Aïn Beïda",
 			"Thala","Thelepte","Tébessa Khalia","Tunis","Siga"]
+        },
+	{
+		"name": "Cimmeria",
+		"leaderName": "Leucon I",
+		"adjective": ["Cimmerian"],
+		"startBias": ["Coast"],
+		"personality": "Leucon I",
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": "Luecon I, king of Cimmeria. You continued your father's war against Theodosia and Chersonesus with the goal of annexing all the Greek colonies in the Bosporus. After that, you managed to make Sindike a vassal upon defeating Octamasades, and in an inscription from Nymphaion you are described as 'archon of the Bosporus, Theodosia, all Sindike'. You also created a foreign and trade policy outside the Black Sea, significantly with Athens, a commercial friend of the Spartocids. Oh, Leucon I, your people miss the economic prosperity you brought. Can you use your sword to strike down your enemies? Can you also use your ploughs to feed the stomachs of your people? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "Surrender at once, it will be better for everyone if you do.",
+		"attacked": "We will stand our ground, for your arrogance knows no bounds!",
+		"defeated": "I can't believe this, what did we do to deserve this?!",
+		"introduction": "The Bosporan Kingdom welcomes you."
+
+		"neutralHello": "Ah yes, I'll bring out the fine wine.",
+		"hateHello": "Our market prices are fair, especially after what you have done.",
+
+		"tradeRequest": "The world never cared for politics when their stomachs are empty.",
+
+		"outerColor": [38,61,112],
+		"innerColor": [40,180,40],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Breadbasket of the Black Sea",
+		"uniques": ["[+1 Gold] from [Wheat] tiles [in all cities]", "[+2 Gold] in cities on [Wheat] tiles"]
+		"cities":["Panticapaeum","Phanagoria","Theodosia","Nymphaeum","Myrmekion","Tiritaka","Kimmerikon","Tyritake","Hermonassa","Gorgippia",
+			"Kepoi","Tanais","Patraeus","Sindike","Achilleion","Kitey","Zephyrion","Bata","Torikos","Labrys",
+			"Iluraton","Artezian","Kepos","Nikonion","Porthmion"]
 	},
 	// City-States, continue from above if you want to add new civs, not below!
 	{
