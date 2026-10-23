@@ -1252,6 +1252,35 @@
 			"Siasi","Tongkil","Luuk","Hadji Panglima Tahil","Kalingalan Caluang","Pandan","Banguingui","Simunul","Sitangkai","Bongao",
 			"Mapun","Semporna","Sandakan","Lahad Datu","Kunak","Tawau","Taganak","Sibutu","Tandubas","Languyan","South Ubian",
 			"North Ubian","Turtle Islands","Balimbing","Tandu Banak","Bintulan","Likud","Bud Datu","Bud Bongao","Sanga Sanga","Tumbagaan"]
+        },
+	{
+		"name": "the Amazigh",
+		"leaderName": "Dihya",
+		"adjective": ["Amazigh"],
+		"startBias": ["Desert"],
+		"personality": "Dihya",
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": "Dihya, also known as Al-Kahina, meaning 'the Priestess'. You were known to have united various Amazigh tribes under your leadership to fight against the Muslim conquest of the Maghreb, leading the indigenous North African defense of the region then known as Numidia. You fought in multiple battles, notably defeating Umayyad forces in the Battle of Meskiana. Afterwards, you became the uncontested ruler of the whole Maghreb region, and remained so until your decisive defeat at the Battle of El Jem. Oh, Dihya. Your people once again face the threat of conquest. Can you unite those rightfully yours? Can lash back at those who try to subjugate you? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "The ground we walk will no longer tolerate your existance.",
+		"attacked": "Even this will not stop our people.",
+		"defeated": "The war is over... But our people will never bend to your will.",
+		"introduction": "I am Dihya, but my foes call me Al-Kahina. Choose what you call me carefully."
+
+		"neutralHello": "It is a pleasure seeing you.",
+		"hateHello": "Here to grovel?",
+
+		"tradeRequest": "Regardless of our strengths, trade is a mandatory thing.",
+
+		"outerColor": [23,74,56],
+		"innerColor": [217,182,93],
+		"favoredReligion": "Islam",
+		"uniqueName": "Unconquered",
+		"uniques": ["[+25]% [Production] [in all cities] <upon losing a city> <for [5] turns>", "[+10]% Strength <when fighting in [Hill] tiles>"]
+		"cities":["Arris","Khenchela","Batna","Timgad","Lambèse","Tébessa","Biskra","Guelma","Souk Ahras","Constantine",
+			"Sétif","Cirta","Thamugadi","Madaura","Hippo Regius","Tiddis","Baghaï","Tazoult","Meskiana","Aïn Beïda",
+			"Thala","Thelepte","Tébessa Khalia","Tunis","Siga"]
 	},
 	// City-States, continue from above if you want to add new civs, not below!
 	{
