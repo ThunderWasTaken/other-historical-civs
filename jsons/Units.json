@@ -613,5 +613,19 @@
 		"uniques": ["[+1] Sight", "Withdraws before melee combat <with [50]% chance>", "[+50]% Yield from pillaging tiles", "No movement cost to pillage"],
 		"hurryCostModifier": 30,
 		"attackSound": "cannon"
+	},
+	{
+		"name": "Amhaddi",
+		"unitType": "Sword",
+		"replaces": "Spearman",
+		"uniqueTo": "the Amazigh",
+		"movement": 2,
+		"strength": 10,
+		"cost": 50,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+20]% Strength <in tiles adjacent to [City center] tiles>", "[+20]% Strength <in [City center] tiles>"],
+		"attackSound": "metalhit"
 	}
   ]
