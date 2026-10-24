@@ -21,7 +21,7 @@
 
 		"outerColor": [186, 12, 47],
 		"innerColor": [0, 32, 91],
-		"favoredReligion": "Christianity",
+		"favoredReligion": "Paganism",
 		"uniqueName": "Vikings of the Cold North",
 		"uniques":["Earn [10]% of killed [Water] unit's [Cost] as [Gold]", "May buy [Water] units with [Faith] [in all cities]", "[+20]% Strength <when fighting in [Coast] tiles> <for [Water] units>"]
 		"cities":["Oslo","Bergen","Stavanger","Trondheim","Drammen","Fredrikstad","Skien","Kristiansand","Tonsberg","Alesund",
@@ -356,7 +356,7 @@
 
 		"outerColor": [112, 30, 4],
 		"innerColor": [218, 145, 38],
-		"favoredReligion": "Christianity",
+		"favoredReligion": "Paganism",
 		"uniqueName": "Most Unjustly Forgotten",
 		"uniques": ["[+2 Culture] <in cities connected to the capital> <starting from the [Medieval era]>", "[+1 Production] from [Desert] tiles [in all cities] <starting from the [Medieval era]>"]
 		"cities": ["Petra","Hegra","Bosra","Avdat","Sela","Madain Saleh","Dumatha","Aila","Jauf","Rekem",
@@ -418,7 +418,7 @@
 
 		"outerColor": [53, 53, 53],
 		"innerColor": [255, 207, 1],
-		"favoredReligion": "Christianity",
+		"favoredReligion": "Paganism",
 		"uniqueName": "Irminsul",
 		"uniques": ["[-50]% Natural religion spread [in all cities]", "[+50]% City Strength from defensive buildings <in cities following our religion>"]
 		"cities": ["Verden","Minden","Osnabrück","Paderborn","Bremen","Halberstadt","Hildesheim","Merseburg","Goslar","Stade",
@@ -449,7 +449,7 @@
 
 		"outerColor": [1, 42, 123],
 		"innerColor": [1, 188, 255],
-		"favoredReligion": "Islam",
+		"favoredReligion": "Paganism",
 		"uniqueName": "Pirates of the Great Green",
 		"uniques": ["Starts with [Sailing]", "[+2] Movement <for [Embarked] units>"]
 		"cities": ["Dor","Gaza","Ashkelon","Ashdod","Ekron","Paphos","Enkomi","Byblos","Kition","Sidon",
@@ -604,7 +604,7 @@
 
 		"outerColor": [205, 127, 50],
 		"innerColor": [76, 1, 1],
-		"favoredReligion": "Zoroastrianism",
+		"favoredReligion": "Paganism",
 		"uniqueName": "First Empire",
 		"uniques": ["[-20]% construction time for [Farm] improvements"]
 		"cities": ["Akkad","Akkadian Babylon","Eshnunna","Sippar","Larak","Adab","Isin","Kish","Nippur","Larsa",
@@ -716,10 +716,10 @@
 
 		"startIntroPart1": "Baldwin IV, the Leper King. You were the king of Jerusalem from 1174 until his death in 1185. Admired by your contemporaries, and later by historians for your willpower and dedication to the Latin Kingdom in the face of debilitating leprosy. Choosing competent advisers, you ruled a thriving crusader state and succeeded in protecting it from the Muslim ruler Saladin. Oh, Baldwin IV, the faith needs you once more. Can you defend against your rampaging enemies? Can you protect your faith from those looking to vanquish it? Can you build a civilization that will stand the test of time?",
 
-		"declaringWar": "For God!",
-		"attacked": "I know you will not succeed, but I applaud you for trying.",
-		"defeated": "The kingdom of God may have fallen, but not his people.",
-		"introduction": "I welcome you to my Kingdom, friend."
+		"declaringWar": "Deus Vult!",
+		"attacked": "We will not stand idly as you ravage the faithful.",
+		"defeated": "The Kingdom of Heaven may have fallen, but not his people.",
+		"introduction": "It is good to meet you, friend."
 
 		"neutralHello": "Good morning.",
 		"hateHello": "Make it quick.",
@@ -1004,7 +1004,7 @@
 
 		"outerColor": [187,197,206],
 		"innerColor": [22,52,101],
-		"favoredReligion": "Christianity",
+		"favoredReligion": "Paganism",
 		"uniqueName": "Maritime Hegemony",
 		"uniques": ["Resting point for Influence with City-States is increased by [25]", "[-25]% City-State Influence degradation", "Allied City-States provide [Gold] equal to [+25]% of what they produce for themselves"]
 		"cities": ["Muʻa","Lapaha","Heketa","Nukuʻalofa","Neiafu","Pangai","ʻEua","Tofoa","Nomuka","Uiha",
@@ -1155,7 +1155,7 @@
 
 		"outerColor": [184,115,51],
 		"innerColor": [31,42,68],
-		"favoredReligion": "Judaism",
+		"favoredReligion": "Paganism",
 		"uniqueName": "Land of Aram",
 		"uniques": ["[+50]% Production when constructing [Civilian] units [in all cities]"]
 		"cities": ["Samal","Bit Agusi","Bit Adini","Til Barsip","Carchemish","Guzana","Arpad","Hamath","Qatna","Niya",
@@ -1185,7 +1185,7 @@
 
 		"outerColor": [0,37,9],
 		"innerColor": [194,195,194],
-		"favoredReligion": "Shinto",
+		"favoredReligion": "Paganism",
 		"uniqueName": "Ezochi",
 		"uniques": ["[+10]% Strength <when fighting in [Camp] tiles>", "[+10]% Strength <when fighting in [Fishing Boats] tiles>", "[+1 Production, +1 Food] from [Camp] tiles [in all cities]", "[+1 Culture, +1 Faith] from [Fishing Boats] tiles [in all cities]"]
 		"cities": ["Shisamkotan","Saru","Shiraoi","Akkeshi","Abashiri","Monbetsu","Nemuro","Shibetsu","Kushiro","Rebun",
@@ -1275,7 +1275,7 @@
 
 		"outerColor": [23,74,56],
 		"innerColor": [217,182,93],
-		"favoredReligion": "Islam",
+		"favoredReligion": "Paganism",
 		"uniqueName": "Unconquered",
 		"uniques": ["[+25]% [Production] [in all cities] <upon losing a city> <for [5] turns>", "[+10]% Strength <when fighting in [Hill] tiles>"]
 		"cities":["Arris","Khenchela","Batna","Timgad","Lambèse","Tébessa","Biskra","Guelma","Souk Ahras","Constantine",
@@ -1304,7 +1304,7 @@
 
 		"outerColor": [38,61,112],
 		"innerColor": [40,180,40],
-		"favoredReligion": "Christianity",
+		"favoredReligion": "Hellenism",
 		"uniqueName": "Breadbasket of the Black Sea",
 		"uniques": ["[+1 Gold] from [Wheat] tiles [in all cities]", "[+2 Gold] in cities on [Wheat] tiles"]
 		"cities":["Panticapaeum","Phanagoria","Theodosia","Nymphaeum","Myrmekion","Tiritaka","Kimmerikon","Tyritake","Hermonassa","Gorgippia",
@@ -1333,7 +1333,7 @@
 
 		"outerColor": [82,78,0],
 		"innerColor": [255,255,255],
-		"favoredReligion": "Christianity",
+		"favoredReligion": "Paganism",
 		"uniqueName": "Suomenusko",
 		"uniques": ["[+1 Production] from [{Tundra} {Farm}] tiles [in all cities]", "[+1 Culture] from [{Tundra} {Forest}] tiles [in all cities] <starting from the [Renaissance era]>"]
 		"cities":["Turku","Nousiainen","Köyliö","Hämeenlinna","Tampere","Pori","Rauma","Ulvila","Porvoo","Viipuri",
