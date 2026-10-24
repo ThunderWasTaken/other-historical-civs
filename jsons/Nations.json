@@ -1310,6 +1310,35 @@
 		"cities":["Panticapaeum","Phanagoria","Theodosia","Nymphaeum","Myrmekion","Tiritaka","Kimmerikon","Tyritake","Hermonassa","Gorgippia",
 			"Kepoi","Tanais","Patraeus","Sindike","Achilleion","Kitey","Zephyrion","Bata","Torikos","Labrys",
 			"Iluraton","Artezian","Kepos","Nikonion","Porthmion"]
+        },
+	{
+		"name": "Finland",
+		"leaderName": "Lalli",
+		"adjective": ["Finnic"],
+		"startBias": ["Tundra"],
+		"personality": "Lalli",
+		"preferredVictoryType": "Cultural",
+
+		"startIntroPart1": "Lalli, a prosperous farmer in medieval Finland. According to the legends, the bishop converting Finland to Christianity known as Henry came to your home and ransacked the residence for food. Henry left payment for the damages, but your wife Kerttu did not mention it. In a murderous rage, you tracked down the bishop and his entourage, before eventually killing bishop Henry. After that, despite your death from supernatural ways and your depiction beneath the bishop Henry in future depictions, you have become a symbol of Finnic resistance against colonization and forced conversion, even being chosen as the 14th best Finn. Oh Lalli, your resistance drives a great fire in many people. Can you lead your people to great independence? Can you strike down those who have wronged you once more? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "The ice shall stain red with your blood!",
+		"attacked": "This transgression will never be forgotten, you will pay!",
+		"defeated": "You've marked yourself a symbol of tyranny and oppression, and me? A martyr of the people who deserve to be free.",
+		"introduction": "Welcome, our hearth burns brightly for your presence."
+
+		"neutralHello": "Is there anything we can help you with?",
+		"hateHello": "Not another step.",
+
+		"tradeRequest": "Ahh, what is better than trade over a warm ale in a cold winter night?",
+
+		"outerColor": [82,78,0],
+		"innerColor": [255,255,255],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Suomenusko",
+		"uniques": ["[+1 Production] from [{Tundra} {Farm}] tiles [in all cities]", "[+1 Culture] from [{Tundra} {Forest}] tiles [in all cities] <starting from the [Renaissance era]>"]
+		"cities":["Turku","Nousiainen","Köyliö","Hämeenlinna","Tampere","Pori","Rauma","Ulvila","Porvoo","Viipuri",
+			"Raseborg","Naantali","Salo","Kokemäki","Helsinki","Espoo","Lahti","Kouvola","Savonlinna","Mikkeli",
+			"Kuopio","Oulu","Vaasa","Kokkola","Kajaani","Joensuu","Lappeenranta","Sortavala","Kemi","Rovaniemi"]
 	},
 	// City-States, continue from above if you want to add new civs, not below!
 	{
