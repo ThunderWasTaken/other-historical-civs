@@ -1647,6 +1647,36 @@
           "Freedom": 2,
           "Autocracy": 2,
           "Order": 7
+    }
+  },
+  {
+        "name": "Lalli",
+      "culture": 9,
+      "faith": 7,
+      "food": 7,
+      "gold": 3,
+      "happiness": 3,
+      "production": 3,
+      "science": 5,
+      "military": 3,
+      "aggressive": 8,
+      "declareWar": 4,
+      "commerce": 3,
+      "diplomacy": 2,
+      "loyal": 7,
+      "expansion": 4,
+
+      "priorities": {
+          "Tradition": 9,
+          "Liberty": 2,
+          "Honor": 4,
+          "Commerce": 4,
+          "Patronage": 2,
+          "Piety": 6,
+          "Rationalism": 4,
+          "Freedom": 9,
+          "Autocracy": 1,
+          "Order": 5
       }
   }
 ]
