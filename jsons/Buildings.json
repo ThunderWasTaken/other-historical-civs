@@ -132,9 +132,9 @@
 		"uniqueTo": "The Nabataeans"
 		"culture": 1,
 		"faith": 1,
-		"uniques": ["[+25]% Great Person generation [in this city]"],
+		"uniques": ["[+25]% Great Person generation [in this city]", "Must be next to [Hill]"],
 		"hurryCostModifier": 25,
-		"maintenance": 2,
+		"maintenance": 1,
 		"requiredTech": "Theology"
 	},
 	{
@@ -484,5 +484,15 @@
 		"percentStatBonus": {"production": 10},
 		"uniques": ["[+1 Production] from [Wheat] tiles [in this city]"],
 		"requiredTech": "Metal Casting"
+	},
+	{
+		"name": "Savusauna",
+		"uniqueTo": "Finland",
+		"replaces": "Garden",
+		"uniques": ["[+25]% Great Person generation [in this city]"],
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"culture": 1,
+		"requiredTech": "Theology"
 	}
 ]
