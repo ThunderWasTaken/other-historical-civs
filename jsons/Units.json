@@ -643,5 +643,18 @@
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","Never appears as a Barbarian unit"],
 		"attackSound": "horse"
+	},
+	{
+		"name": "Sissi",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Finland",
+		"movement": 2,
+		"strength": 30,
+		"cost": 200,
+		"requiredTech": "Rifling",
+		"obsoleteTech": "Plastics",
+		"promotions": ["Scouting I", "Woodsman"],
+		"upgradesTo": "Great War Infantry",
+		"attackSound": "shot"
 	}
   ]
