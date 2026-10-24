@@ -653,7 +653,7 @@
 		"cost": 200,
 		"requiredTech": "Rifling",
 		"obsoleteTech": "Plastics",
-		"promotions": ["Scouting I", "Woodsman"],
+		"promotions": ["Scouting I"],
 		"upgradesTo": "Great War Infantry",
 		"attackSound": "shot"
 	}
