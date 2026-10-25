@@ -1339,6 +1339,35 @@
 		"cities":["Turku","Nousiainen","Köyliö","Hämeenlinna","Tampere","Pori","Rauma","Ulvila","Porvoo","Viipuri",
 			"Raseborg","Naantali","Salo","Kokemäki","Helsinki","Espoo","Lahti","Kouvola","Savonlinna","Mikkeli",
 			"Kuopio","Oulu","Vaasa","Kokkola","Kajaani","Joensuu","Lappeenranta","Sortavala","Kemi","Rovaniemi"]
+        },
+	{
+		"name": "Liguria",
+		"leaderName": "Cycnus",
+		"adjective": ["Ligurian"],
+		"startBias": ["Coast"],
+		"personality": "Cycnus",
+		"preferredVictoryType": "Cultural",
+
+		"startIntroPart1": "Cycnus, king of Liguria. According to mythos, you were the lover of Phaeton, the son of the sun god in greek mythology. Upon his death, you fell into a great depression and sat by the river Eridanos where the gods turned you into a swan to relieve you of your misery. Yet, you continued mourning in sorrow from the loss of your lover, with your name becoming the source of the word for Swans in greek. Oh, Cycnus, you have been chosen to lead your people for you are the most known. Can you create mythos that shapes the faith and culture of countries across the seas? Can you stop the tragedy you endured from happening to anyone else? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "It is with a heavy heart that I must do this.",
+		"attacked": "I've faced far worse.",
+		"defeated": "Alas, I finally reunite with my lover...",
+		"introduction": "Greetings, I am Cycnus of Liguria. I hope we can be friends..."
+
+		"neutralHello": "Oh... Hello there.",
+		"hateHello": "Please leave me be.",
+
+		"tradeRequest": "Despite everything, we all continue to march on.",
+
+		"outerColor": [36,77,71],
+		"innerColor": [216,231,232],
+		"favoredReligion": "Hellenism",
+		"uniqueName": "The Shrill Ones",
+		"uniques": ["[+1 Gold, +1 Production] in cities on [{Hill} {Coastal}] tiles", "[+2 Gold, +2 Production] in cities on [{Hill} {Coastal}] tiles <starting from the [Medieval era]>", "[+3 Gold, +2 Culture] in cities on [{Hill} {Coastal}] tiles <starting from the [Renaissance era]>"]
+		"cities":["Genua","Albingaunum","Albintimilium","Vada Sabatia","Luna","Segesta Tigulliorum","Iria","Libarna","Dertona","Aquae Statiellae",
+			"Clastidium","Bodincus","Pollentia","Cemenelum","Nicaea","Albium Ingaunum","Savo","Intimilium","Tigullia","Luni",
+			"Chiavari","Ventimiglia","Savona","Albenga","Sarzana","La Spezia","Imperia","Finale Ligure","Rapallo","Sestri Levante"]
 	},
 	// City-States, continue from above if you want to add new civs, not below!
 	{
