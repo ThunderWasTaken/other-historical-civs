@@ -656,5 +656,19 @@
 		"promotions": ["Scouting I"],
 		"upgradesTo": "Great War Infantry",
 		"attackSound": "shot"
+	},
+	{
+		"name": "Funditor",
+		"unitType": "Archery",
+		"replaces": "Archer",
+		"uniqueTo": "Liguria",
+		"movement": 2,
+		"strength": 4,
+		"rangedStrength": 7,
+		"cost": 30,
+		"requiredTech": "Archery",
+		"obsoleteTech": "Construction",
+		"upgradesTo": "Composite Bowman",
+		"attackSound": "arrow"
 	}
   ]
