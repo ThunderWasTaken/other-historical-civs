@@ -494,5 +494,17 @@
 		"maintenance": 1,
 		"culture": 1,
 		"requiredTech": "Theology"
+	},
+	{
+		"name": "Castra",
+		"uniqueTo": "Liguria",
+		"replaces": "Castle",
+		"cityStrength": 7,
+		"cityHealth": 25,
+		"culture": 1,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"requiredTech": "Chivalry",
+		"uniques": ["Destroyed when the city is captured", "Can be purchased with [Culture] [in all cities]"]
 	}
 ]
