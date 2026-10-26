@@ -1767,6 +1767,36 @@
           "Freedom": 8,
           "Autocracy": 2,
           "Order": 2
+    }
+  },
+  {
+        "name": "Erik the Red",
+      "culture": 8,
+      "faith": 2,
+      "food": 7,
+      "gold": 6,
+      "happiness": 9,
+      "production": 5,
+      "science": 5,
+      "military": 6,
+      "aggressive": 3,
+      "declareWar": 3,
+      "commerce": 3,
+      "diplomacy": 1,
+      "loyal": 7,
+      "expansion": 8,
+
+      "priorities": {
+          "Tradition": 4,
+          "Liberty": 6,
+          "Honor": 3,
+          "Commerce": 3,
+          "Patronage": 3,
+          "Piety": 3,
+          "Rationalism": 5,
+          "Freedom": 8,
+          "Autocracy": 2,
+          "Order": 2
       }
   }
 ]
