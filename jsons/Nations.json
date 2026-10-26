@@ -1397,6 +1397,35 @@
 		"cities":["Samarkand","Bukhara","Panjikent","Kesh","Paykand","Nautaca","Maracanda","Varakhsha","Kanka","Kish",
 			"Ishtikhan","Nasaf","Zarafshan","Rabinjān","Karmana","Vabkent","Jizzakh","Khujand","Ura-Tyube","Bunjikat",
 			"Chach","Termez","Dushanbe","Kattakurgan","Urgut"]
+        },
+	{
+		"name": "Antartica",
+		"leaderName": "Roald Amundsen",
+		"adjective": ["Antartican"],
+		"startBias": ["Snow"],
+		"personality": "Roald Amundsen",
+		"preferredVictoryType": "Scientific",
+
+		"startIntroPart1": "Roald Amundsen, a Norwegian explorer. From 1903 to 1906, you led the first expedition to successfully traverse the Northwest Passage. You left Norway in June 1910 and reached Antarctica in January 1911. Your party established a camp at the Bay of Whales and a series of supply depots on the Ross Ice Shelf before setting out for the pole in October. The party of five, led by you, became the first to reach the South Pole on 14 December 1911. Following a failed attempt in 1918 to reach the North Pole, you began planning for an aerial expedition, and on 12 May 1926, you and 15 other men became the first explorers verified to have reached the North Pole. Oh, Roald Amundsen, your love for exploration fuels the ambitions of your people. Can you do the impossible once more? Can you do it a whopping second time? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "We will paint the snow red in your blood!",
+		"attacked": "Make sure to bring winter clothes.",
+		"defeated": "How?! Just how?!",
+		"introduction": "I wasn't expecting anyone to be here... Hello!"
+
+		"neutralHello": "Good to see you!",
+		"hateHello": "Oh not again.",
+
+		"tradeRequest": "I wasn't paid for the journey, so we have to make money somehow.",
+
+		"outerColor": [255,255,255],
+		"innerColor": [159,177,218],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Ice Sheet",
+		"uniques": ["[+1 Food, +1 Production] from [Snow] tiles [in all cities]", "[+1 Food, +1 Production] from [Snow] tiles [in all cities] <starting from the [Classical era]>", "[+1 Food, +1 Production] from [Snow] tiles [in all cities] <starting from the [Medieval era]>", "[+1 Food, +1 Production] from [Snow] tiles [in all cities] <starting from the [Renaissance era]>", "[+1 Food, +1 Production, +2 Science] from [Snow] tiles [in all cities] <starting from the [Industrial era]>", "[+3 Science] from [Snow] tiles [in all cities] <starting from the [Modern era]>"]
+		"cities":["Framheim","Amundsen-Scott","McMurdo","Scott Base","Vostok","Mirny","Mawson","Davis","Casey","Dumont d'Urville",
+			"Concordia","Neumayer","Halley","Rothera","Palmer","Esperanza","Marambio","Syowa","Zhongshan","Great Wall",
+			"Bharati","Troll","SANAE IV","Princess Elisabeth","Vernadsky"]
 	},
 	// City-States, continue from above if you want to add new civs, not below!
 	{
