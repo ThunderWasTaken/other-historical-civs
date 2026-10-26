@@ -683,5 +683,18 @@
 			"Great Person - [Gold]", "Unbuildable", "Uncapturable",
 			"Empire enters a [8]-turn Golden Age <by consuming this unit>", "[+25]% Gold from Great Merchant trade missions"],
 		"movement": 3
+	},
+	{
+		"name": "Explorer",
+		"unitType": "Scout",
+		"replaces": "Scout",
+		"uniqueTo": "Antartica",
+		"movement": 2,
+		"strength": 6,
+		"cost": 25,
+		"requiredTech": "Agriculture",
+		"uniques": ["Never appears as a Barbarian unit", "[+2] Movement <upon turn start> <in [Snow] tiles>", "[+8] Strength <after discovering [Steel]>", "[+22] Strength <after discovering [Replaceable Parts]>"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit"
 	}
   ]
