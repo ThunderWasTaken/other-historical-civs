@@ -670,5 +670,18 @@
 		"obsoleteTech": "Construction",
 		"upgradesTo": "Composite Bowman",
 		"attackSound": "arrow"
+	},
+	{
+		"name": "Merchant Prince",
+		"unitType": "Civilian",
+		"replaces": "Great Merchant",
+		"uniqueTo": "Sogdia",
+		"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence",
+            "Can instantly construct a [Customs house] improvement <by consuming this unit>",
+            "Is part of Great Person group [Great Person]",
+            "[This Unit] gets a name from the [Merchant] group",
+			"Great Person - [Gold]", "Unbuildable", "Uncapturable",
+			"Empire enters a [8]-turn Golden Age <by consuming this unit>", "[+25]% Gold from Great Merchant trade missions"],
+		"movement": 3
 	}
   ]
