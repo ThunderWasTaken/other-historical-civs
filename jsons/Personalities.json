@@ -1737,6 +1737,36 @@
           "Freedom": 3,
           "Autocracy": 5,
           "Order": 3
+    }
+  },
+  {
+        "name": "Roald Amundsen",
+      "culture": 2,
+      "faith": 2,
+      "food": 2,
+      "gold": 2,
+      "happiness": 2,
+      "production": 9,
+      "science": 9,
+      "military": 4,
+      "aggressive": 4,
+      "declareWar": 4,
+      "commerce": 3,
+      "diplomacy": 2,
+      "loyal": 5,
+      "expansion": 5,
+
+      "priorities": {
+          "Tradition": 2,
+          "Liberty": 9,
+          "Honor": 2,
+          "Commerce": 2,
+          "Patronage": 2,
+          "Piety": 2,
+          "Rationalism": 9,
+          "Freedom": 8,
+          "Autocracy": 2,
+          "Order": 2
       }
   }
 ]
