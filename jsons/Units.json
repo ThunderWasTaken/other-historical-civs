@@ -696,5 +696,19 @@
 		"uniques": ["Never appears as a Barbarian unit", "[+2] Movement <upon turn start> <in [Snow] tiles>", "[+8] Strength <after discovering [Steel]>", "[+22] Strength <after discovering [Replaceable Parts]>"],
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Knarr",
+		"unitType": "Ranged Water",
+		"uniqueTo": "Greenland",
+		"movement": 4,
+		"strength": 10,
+		"rangedStrength": 10,
+		"cost": 100,
+		"requiredTech": "Compass",
+		"obsoleteTech": "Electronics",
+		"upgradesTo": "Battleship",
+		"uniques": ["Cannot enter ocean tiles <before discovering [Astronomy]>", "[+10]% Strength bonus for [Land] units within [2] tiles"],
+		"attackSound": "arrow"
 	}
   ]
