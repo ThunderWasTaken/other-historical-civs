@@ -506,5 +506,15 @@
 		"requiredBuilding": "Walls",
 		"requiredTech": "Chivalry",
 		"uniques": ["Destroyed when the city is captured", "Can be purchased with [Culture] [in all cities]"]
+	},
+	{
+		"name": "Dargom Canal",
+		"uniqueTo": "Sogdia",
+		"replaces": "Aqueduct",
+		"maintenance": 1,
+		"food": 1,
+		"hurryCostModifier": 0,
+		"uniques": ["[40]% Food is carried over after population increases [in this city]", "[+1 Production] from [{Farm} {Fresh Water}] tiles [in this city]"],
+		"requiredTech": "Engineering"
 	}
 ]
