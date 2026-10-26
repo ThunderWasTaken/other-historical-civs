@@ -529,5 +529,15 @@
 		"requiredBuilding": "Public School",
 		"maintenance": 3,
 		"requiredTech": "Plastics"
+	},
+	{
+		"name": "Seal Hunting Grounds",
+		"uniqueTo": "Greenland",
+		"gold": 2,
+		"culture": 1,
+		"production": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["Must be next to [Tundra]"],
+		"requiredTech": "Rifling"
 	}
 ]
