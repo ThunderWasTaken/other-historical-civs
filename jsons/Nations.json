@@ -1368,6 +1368,35 @@
 		"cities":["Genua","Albingaunum","Albintimilium","Vada Sabatia","Luna","Segesta Tigulliorum","Iria","Libarna","Dertona","Aquae Statiellae",
 			"Clastidium","Bodincus","Pollentia","Cemenelum","Nicaea","Albium Ingaunum","Savo","Intimilium","Tigullia","Luni",
 			"Chiavari","Ventimiglia","Savona","Albenga","Sarzana","La Spezia","Imperia","Finale Ligure","Rapallo","Sestri Levante"]
+        },
+	{
+		"name": "Sogdia",
+		"leaderName": "Oxyartes",
+		"adjective": ["Sogdian"],
+		"startBias": ["Oasis"],
+		"personality": "Oxyartes",
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": "Oxyartes, a Sogdian warlord. You reigned in Sogdia during the time of Alexander the Great's successes and placed your daughters and wife in a rock fortress, which was sieged down and taken by Alexander. However, Alexander treated your captured family with respect and fell in love with one of your daughters Roxana. Hearing of this news, you willingly submitted to Alexander, who appointed you the satrap of Paropamisadae where you continued to rule till your death from likely natural causes. Oh, Oxyartes. Your pragmatism is required once more. Can you find reason among a war? Can you befriend those who you once considered an enemy? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "It is human nature to take and conquer, I am sorry my friend.",
+		"attacked": "Aha! You've fallen into my trap!",
+		"defeated": "I submit, please treat my family with kindness.",
+		"introduction": "Hail stranger! I am Oxyartes! Who are you?"
+
+		"neutralHello": "Hail, friend!",
+		"hateHello": "Hello.",
+
+		"tradeRequest": "The coins of Persia, the cash of China, we have them all!",
+
+		"outerColor": [40,125,120],
+		"innerColor": [255,255,58],
+		"favoredReligion": "Zoroastrianism",
+		"uniqueName": "Cities of the Oasis",
+		"uniques": ["[+10]% Strength <when defending> <in [Oasis] tiles> <hidden from users>", "[+25]% Strength <in [Oasis] tiles> <hidden from users>", "Comment [Units and cities have no defense penalty and +25% strength while in oasises]", "[+2 Production] from [Oasis] tiles [in all cities]"]
+		"cities":["Samarkand","Bukhara","Panjikent","Kesh","Paykand","Nautaca","Maracanda","Varakhsha","Kanka","Kish",
+			"Ishtikhan","Nasaf","Zarafshan","Rabinjān","Karmana","Vabkent","Jizzakh","Khujand","Ura-Tyube","Bunjikat",
+			"Chach","Termez","Dushanbe","Kattakurgan","Urgut"]
 	},
 	// City-States, continue from above if you want to add new civs, not below!
 	{
