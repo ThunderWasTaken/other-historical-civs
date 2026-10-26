@@ -1364,7 +1364,7 @@
 		"innerColor": [216,231,232],
 		"favoredReligion": "Hellenism",
 		"uniqueName": "The Shrill Ones",
-		"uniques": ["[+1 Gold, +1 Production] in cities on [{Hill} {Coastal}] tiles", "[+2 Gold, +2 Production] in cities on [{Hill} {Coastal}] tiles <starting from the [Medieval era]>", "[+3 Gold, +2 Culture] in cities on [{Hill} {Coastal}] tiles <starting from the [Renaissance era]>"]
+		"uniques": ["[+1 Gold, +1 Production] in cities on [{Coastal} {Hill}] tiles", "[+2 Gold, +2 Production] in cities on [{Coastal} {Hill}] tiles <starting from the [Medieval era]>", "[+3 Gold, +2 Culture] in cities on [{Coastal} {Hill}] tiles <starting from the [Renaissance era]>"]
 		"cities":["Genua","Albingaunum","Albintimilium","Vada Sabatia","Luna","Segesta Tigulliorum","Iria","Libarna","Dertona","Aquae Statiellae",
 			"Clastidium","Bodincus","Pollentia","Cemenelum","Nicaea","Albium Ingaunum","Savo","Intimilium","Tigullia","Luni",
 			"Chiavari","Ventimiglia","Savona","Albenga","Sarzana","La Spezia","Imperia","Finale Ligure","Rapallo","Sestri Levante"]
@@ -1426,6 +1426,35 @@
 		"cities":["Framheim","Amundsen-Scott","McMurdo","Scott Base","Vostok","Mirny","Mawson","Davis","Casey","Dumont d'Urville",
 			"Concordia","Neumayer","Halley","Rothera","Palmer","Esperanza","Marambio","Syowa","Zhongshan","Great Wall",
 			"Bharati","Troll","SANAE IV","Princess Elisabeth","Vernadsky"]
+        },
+	{
+		"name": "Greenland",
+		"leaderName": "Erik the Red",
+		"adjective": ["Greenlandian"],
+		"startBias": ["Coast"],
+		"personality": "Erik the Red",
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": "Erik the Red, the settler of Greenland. When your father was banished from Norway, your family sailed west to Iceland. During your life in Iceland, you married and had four children, including the Icelandic explorer Leif Erikson. Around the year of 982, you were exiled from Iceland for three years, during which time you explored Greenland, eventually culminating in your founding of the first successful European settlement on the island. Oh, Erik Thorvaldsson. Your stories spread curiosity and ambition in many others. Can you find a new home for you and your family? Can you defend it from those who try to pry it from you? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "I must say that you very much deserved this.",
+		"attacked": "And why is this? You're a fool!",
+		"defeated": "Why couldn't you have just left me alone?!",
+		"introduction": "Ahh, a stranger! I am Erik Thorvaldsson, it is nice to meet you."
+
+		"neutralHello": "Hello friend!",
+		"hateHello": "Leave as soon as you are finished!",
+
+		"tradeRequest": "You'd be surprised how many resources I have!",
+
+		"outerColor": [70,124,89],
+		"innerColor": [214,209,196],
+		"favoredReligion": "Paganism",
+		"uniqueName": "World's Largest Island",
+		"uniques": ["[+2 Happiness] in cities on [{Coastal} {Tundra}] tiles", "[+1 Gold] from [Fishing Boats] tiles [in all cities]"]
+		"cities":["Brattahlid","Garðar","Hvalsey","Herjolfsnes","Dyrnæs","Einarsfjord","Eriksfjord","Ketilsfjord","Vestribyggð","Eystibyggð",
+			"Sandnes","Gardar Cathedral","Qassiarsuk","Qaqortoq","Narsaq","Nanortalik","Nuuk","Paamiut","Sisimiut","Ilulissat",
+			"Qeqertarsuaq","Uummannaq","Tasiilaq","Ittoqqortoormiit","Kangerlussuaq"]
 	},
 	// City-States, continue from above if you want to add new civs, not below!
 	{
