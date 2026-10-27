@@ -1455,6 +1455,34 @@
 		"cities":["Brattahlid","Garðar","Hvalsey","Herjolfsnes","Dyrnæs","Einarsfjord","Eriksfjord","Ketilsfjord","Vestribyggð","Eystibyggð",
 			"Sandnes","Gardar Cathedral","Qassiarsuk","Qaqortoq","Narsaq","Nanortalik","Nuuk","Paamiut","Sisimiut","Ilulissat",
 			"Qeqertarsuaq","Uummannaq","Tasiilaq","Ittoqqortoormiit","Kangerlussuaq"]
+        },
+	{
+		"name": "Zabulistan",
+		"leaderName": "Rutbil",
+		"adjective": ["Zabulistani"],
+		"startBias": ["Hill"],
+		"personality": "Rutbil",
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Rutbil, founder of the Zunbil dynasty. Not much is known about you or your fellow rulers of the Zunbil Dynasty, but what is known is your unique sun-worshipping faith that has gained quite the attention in the modern day. Oh, Rutbil. The sun calls for you once more. Can you show the world its brightness? Can you scorch your foes with its power? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "Your carcasses will be rotten in the blazing heat of our gods!",
+		"attacked": "Ha! Haha! This fool thinks they stand a chance!",
+		"defeated": "No! No! We've been abandoned! Why?!",
+		"introduction": "Praise the sun! A stranger!"
+
+		"neutralHello": "Praise the sun!",
+		"hateHello": "Leave quickly!",
+
+		"tradeRequest": "The source of life itself has blessed us with immense wealth!",
+
+		"outerColor": [156,61,50],
+		"innerColor": [214, 182, 91],
+		"favoredReligion": "Paganism",
+		"uniqueName": "Church of Zun",
+		"uniques": ["[+1 Faith] from [Mountain] tiles [in all cities]", "Empire enters golden age <after founding a Pantheon>", "Empire enters golden age <after founding a religion>"]
+		"cities":["Ghazni","Zamindawar","Bost","Rakhwad","Sakkawand","Qalat","Gardez","Kandahar","Bust","Zaranj",
+			"Arghandab","Tapa Sardar","Shinkay","Musa Qala","Tirin Kot","Zabulistani Kabul","Kapisa","Bamiyan","Ghor","Uruzgan"]
 	},
 	// City-States, continue from above if you want to add new civs, not below!
 	{
