@@ -1797,6 +1797,36 @@
           "Freedom": 8,
           "Autocracy": 2,
           "Order": 2
+    }
+  },
+  {
+        "name": "Rutbil",
+      "culture": 3,
+      "faith": 9,
+      "food": 3,
+      "gold": 4,
+      "happiness": 9,
+      "production": 2,
+      "science": 3,
+      "military": 8,
+      "aggressive": 5,
+      "declareWar": 5,
+      "commerce": 3,
+      "diplomacy": 5,
+      "loyal": 6,
+      "expansion": 8,
+
+      "priorities": {
+          "Tradition": 9,
+          "Liberty": 1,
+          "Honor": 3,
+          "Commerce": 3,
+          "Patronage": 3,
+          "Piety": 9,
+          "Rationalism": 3,
+          "Freedom": 5,
+          "Autocracy": 5,
+          "Order": 5
       }
   }
 ]
