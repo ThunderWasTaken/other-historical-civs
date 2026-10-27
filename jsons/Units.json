@@ -710,5 +710,20 @@
 		"upgradesTo": "Battleship",
 		"uniques": ["Cannot enter ocean tiles <before discovering [Astronomy]>", "[+10]% Strength bonus for [Land] units within [2] tiles"],
 		"attackSound": "arrow"
+	},
+	{
+		"name": "Marzban",
+		"unitType": "Civilian",
+		"replaces": "Great General",
+		"uniqueTo": "Zabulistan",
+		"uniques": [
+            "[+15]% Strength bonus for [{Military} {Land}] units within [2] tiles",
+            "Can instantly construct a [Citadel] improvement <by consuming this unit>",
+			"Can be earned through combat <for [Land] units>",
+            "Is part of Great Person group [General]",
+            "[This Unit] gets a name from the [General] group",
+			"Great Person - [War]", "Unbuildable", "Uncapturable",
+			"Can be purchased for [600] [Faith] [in all cities] <before the [Medieval era]>", "Can be purchased for [900] [Faith] [in all cities] <starting from the [Medieval era]>"],
+		"movement": 2
 	}
   ]
