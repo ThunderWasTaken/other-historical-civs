@@ -539,5 +539,16 @@
 		"hurryCostModifier": 25,
 		"uniques": ["Must be next to [Tundra]"],
 		"requiredTech": "Rifling"
+	},
+	{
+		"name": "Zunist Sanctuary",
+		"uniqueTo": "Zabulistan",
+		"faith": 4,
+		"culture": 1,
+		"happines": 1,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"requiredTech": "Astronomy",
+		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured"]
 	}
 ]
