@@ -725,5 +725,20 @@
 			"Great Person - [War]", "Unbuildable", "Uncapturable",
 			"Can be purchased for [600] [Faith] [in all cities] <before the [Medieval era]>", "Can be purchased for [900] [Faith] [in all cities] <starting from the [Medieval era]>"],
 		"movement": 2
+	},
+	{
+		"name": "Inkonyane",
+		"unitType": "Sword",
+		"replaces": "Swordsman",
+		"uniqueTo": "Mzansi",
+		"movement": 3,
+		"strength": 14,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Steel",
+		"requiredResource": "Iron",
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
 	}
   ]
