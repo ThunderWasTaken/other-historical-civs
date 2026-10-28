@@ -550,5 +550,21 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Astronomy",
 		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured"]
+	},
+	{
+		"name": "Kraals",
+		"uniqueTo": "Mzansi",
+		"replaces": "Stable",
+		"gold": 1,
+		"production": 1,
+		"cityStrength": 3,
+		"cityHealth": 10,
+		"requiredNearbyImprovedResources": ["Horses","Sheep","Cattle"],
+		"hurryCostModifier": 25,
+		"uniques": ["[+15]% Production when constructing [Mounted] units [in this city]",
+			"[+1 Production] from [Cattle] tiles [in this city]",
+			"[+1 Production] from [Horses] tiles [in this city]",
+			"[+1 Production] from [Sheep] tiles [in this city]"],
+		"requiredTech": "Horseback Riding"
 	}
 ]
