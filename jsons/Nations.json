@@ -1477,12 +1477,41 @@
 		"tradeRequest": "The source of life itself has blessed us with immense wealth!",
 
 		"outerColor": [156,61,50],
-		"innerColor": [214, 182, 91],
+		"innerColor": [214,182,91],
 		"favoredReligion": "Paganism",
 		"uniqueName": "Church of Zun",
 		"uniques": ["[+1 Faith] from [Mountain] tiles [in all cities]", "Empire enters golden age <after founding a Pantheon>", "Empire enters golden age <after founding a religion>"]
 		"cities":["Ghazni","Zamindawar","Bost","Rakhwad","Sakkawand","Qalat","Gardez","Kandahar","Bust","Zaranj",
 			"Arghandab","Tapa Sardar","Shinkay","Musa Qala","Tirin Kot","Zabulistani Kabul","Kapisa","Bamiyan","Ghor","Uruzgan"]
+        },
+	{
+		"name": "Mzansi",
+		"leaderName": "Hintsa ka-Khawuta",
+		"adjective": ["Mzansi"],
+		"startBias": ["Coast"],
+		"personality": "Hintsa ka-Khawuta",
+		"preferredVictoryType": "Cultural",
+
+		"startIntroPart1": "Hintsa ka-Khawuta. King of the Xhosa Kingdom. Your ancestor, King Tshawe was the founder of this kingdom. During your 15-year reign from 1820 to 1835, your kingdom was at its absolute peak, stretching from the Mbhashe River, south of Mthatha, to the Gamtoos River (Xelexwa in isiXhosa), North East of the Garden Route. Oh, Hintsa ka-Khawuta. Your greatness is required by your people once more. Can you march your armies to crush your foes? Can you spread your kingdom to heights greater than ever before? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "Nihambe kakuhle my friend, it is time for you to go!",
+		"attacked": "Uthetha ukuthini?!",
+		"defeated": "Uxolo! Uxolo!",
+		"introduction": "Molo, I am Hintsa ka-Khawuta. King of the Xhosa. Ngubani igama lakho?"
+
+		"neutralHello": "Ndingakunceda?",
+		"hateHello": "Thetha!",
+
+		"tradeRequest": "The source of life itself has blessed us with immense wealth!",
+
+		"outerColor": [229,216,190],
+		"innerColor": [36,76,102],
+		"favoredReligion": "Paganism",
+		"uniqueName": "Azania",
+		"uniques": ["[+1 Culture] from [Pasture] tiles [in all cities]", "[+10]% Strength <when defending> <upon being declared war on by [Major] Civilizations> <for [5] turns>"]
+		"cities":["Mapungubwe","Schroda","Thulamela","Thaba Bosiu","Mangaung","Makhado","Tshwane","eMakhosini",
+			"KwaDukuza","Bulawayo","Maseru","Ondini","Nongoma","Dithakong","Kuruman","Taung","Marothodi","Kaditshwene",
+			"Makwassie","Dzata","Mosega","Klipdrift","Makhonjwa"]
 	},
 	// City-States, continue from above if you want to add new civs, not below!
 	{
