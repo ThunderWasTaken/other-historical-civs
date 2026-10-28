@@ -1827,6 +1827,36 @@
           "Freedom": 5,
           "Autocracy": 5,
           "Order": 5
+    }
+  },
+  {
+        "name": "Hintsa ka-Khawuta",
+      "culture": 8,
+      "faith": 4,
+      "food": 6,
+      "gold": 3,
+      "happiness": 4,
+      "production": 5,
+      "science": 4,
+      "military": 8,
+      "aggressive": 8,
+      "declareWar": 3,
+      "commerce": 5,
+      "diplomacy": 7,
+      "loyal": 8,
+      "expansion": 5,
+
+      "priorities": {
+          "Tradition": 9,
+          "Liberty": 1,
+          "Honor": 5,
+          "Commerce": 2,
+          "Patronage": 2,
+          "Piety": 3,
+          "Rationalism": 6,
+          "Freedom": 9,
+          "Autocracy": 1,
+          "Order": 5
       }
   }
 ]
