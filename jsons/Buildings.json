@@ -566,5 +566,15 @@
 			"[+1 Production] from [Horses] tiles [in this city]",
 			"[+1 Production] from [Sheep] tiles [in this city]"],
 		"requiredTech": "Horseback Riding"
+	},
+	{
+		"name": "Fiaraharmonina",
+		"uniqueTo": "Imerina",
+		"replaces": "Monument",
+		"culture": 2,
+		"production": 1,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"uniques": ["Destroyed when the city is captured", "[+1 Production] per [3] population [in this city]"]
 	}
 ]
