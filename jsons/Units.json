@@ -740,5 +740,20 @@
 		"requiredResource": "Iron",
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Voromahery",
+		"unitType": "Sword",
+		"replaces": "Longswordsman",
+		"uniqueTo": "Imerina",
+		"movement": 2,
+		"strength": 21,
+		"cost": 120,
+		"requiredTech": "Steel",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Rifling",
+		"promotions": ["Malagasy Spirit"],
+		"requiredResource": "Iron",
+		"attackSound": "metalhit"
 	}
   ]
