@@ -118,20 +118,6 @@
 		"attackSound": "horse"
 	},
 	{
-		"name": "Pillager",
-		"unitType": "Sword",
-		"replaces": "Spearman",
-		"uniqueTo": "The Vandals",
-		"movement": 2,
-		"strength": 12,
-		"cost": 56,
-		"requiredTech": "Bronze Working",
-		"obsoleteTech": "Civil Service",
-		"upgradesTo": "Pikeman",
-		"uniques": ["Earn [300]% of killed [Military] unit's [Strength] as [Gold]", "No movement cost to pillage"],
-		"attackSound": "metalhit"
-	},
-	{
 		"name": "Buccaneer",
 		"unitType": "Melee Water",
 		"replaces": "Privateer",
@@ -282,19 +268,6 @@
 		"attackSound": "horse"
 	},
 	{
-		"name": "Hanseatic Corsair",
-		"unitType": "Melee Water",
-		"replaces": "Privateer",
-		"uniqueTo": "Danzig",
-		"movement": 6,
-		"strength": 26,
-		"cost": 150,
-		"requiredTech": "Navigation",
-		"upgradesTo": "Destroyer",
-		"promotions": ["Coastal Raider I", "[Privateer] ability"],
-		"attackSound": "cannon"
-	},
-	{
 		"name": "Ngola Warrior",
 		"unitType": "Sword",
 		"replaces": "Pikeman",
@@ -390,21 +363,6 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Tumen",
-		"unitType": "Mounted",
-		"replaces": "Knight",
-		"uniqueTo": "Seljuk",
-		"movement": 3,
-		"strength": 24,
-		"cost": 120,
-		"requiredTech": "Chivalry",
-		"obsoleteTech": "Military Science",
-		"upgradesTo": "Cavalry",
-		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
-		"attackSound": "horse"
-	},
-	{
 		"name": "Bagad",
 		"unitType": "Sword",
 		"replaces": "Pikeman",
@@ -415,18 +373,6 @@
 		"requiredTech": "Civil Service",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+15]% Strength bonus for [Military] units within [3] tiles"],
 		"attackSound": "metalhit"
-	},
-	{
-		"name": "Shu'ai",
-		"unitType": "Melee Water",
-		"replaces": "Work Boats",
-		"uniqueTo": "Mogadishu",
-		"strength": 7,
-		"movement": 6,
-		"cost": 30,
-		"requiredTech": "Sailing",
-		"uniques": ["Cannot enter ocean tiles <before discovering [Astronomy]>", "May create improvements on water resources"],
-		"attackSound": "nonmetalhit"
 	},
 	{
 		"name": "Keshilim",
@@ -482,23 +428,6 @@
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
 		"attackSound": "horse"
-	},
-	{
-		"name": "Arma Toxotis",
-		"unitType": "Archery",
-		"replaces": "Knight",
-		"uniqueTo": "Bactria",
-		"movement": 4,
-		"strength": 17,
-		"cost": 120,
-		"rangedStrength": 20,
-		"requiredTech": "Chivalry",
-		"requiredResource": "Horses",
-		"promotions": ["Shock I"],
-		"upgradesTo": "Cavalry",
-		"obsoleteTech": "Military Science",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[-25]% Strength <vs cities> <when attacking>"],
-		"attackSound": "arrow"
 	},
 	{
 		"name": "Mujahid",
@@ -560,19 +489,6 @@
 		"uniques": ["Withdraws before melee combat <with [80]% chance>"],
 		"hurryCostModifier": 30,
 		"attackSound": "nonmetalhit"
-	},
-	{
-		"name": "Coast Guard",
-		"unitType": "Melee Water",
-		"replaces": "Privateer",
-		"uniqueTo": "Monaco",
-		"movement": 6,
-		"strength": 28,
-		"cost": 150,
-		"requiredTech": "Navigation",
-		"upgradesTo": "Destroyer",
-		"uniques": ["Unable to capture cities"],
-		"attackSound": "cannon"
 	},
 	{
 		"name": "Velmož",
@@ -697,5 +613,147 @@
 		"uniques": ["[+1] Sight", "Withdraws before melee combat <with [50]% chance>", "[+50]% Yield from pillaging tiles", "No movement cost to pillage"],
 		"hurryCostModifier": 30,
 		"attackSound": "cannon"
+	},
+	{
+		"name": "Amhaddi",
+		"unitType": "Sword",
+		"replaces": "Spearman",
+		"uniqueTo": "the Amazigh",
+		"movement": 2,
+		"strength": 10,
+		"cost": 50,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+20]% Strength <in tiles adjacent to [City center] tiles>", "[+20]% Strength <in [City center] tiles>"],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Sarmatian Rider",
+		"unitType": "Mounted",
+		"replaces": "Knight",
+		"uniqueTo": "Cimmeria",
+		"movement": 4,
+		"strength": 20,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"promotions": ["Hit and Run Tactics"],
+		"upgradesTo": "Cavalry",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","Never appears as a Barbarian unit"],
+		"attackSound": "horse"
+	},
+	{
+		"name": "Sissi",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Finland",
+		"movement": 2,
+		"strength": 30,
+		"cost": 200,
+		"requiredTech": "Rifling",
+		"obsoleteTech": "Plastics",
+		"promotions": ["Scouting I"],
+		"upgradesTo": "Great War Infantry",
+		"attackSound": "shot"
+	},
+	{
+		"name": "Funditor",
+		"unitType": "Archery",
+		"replaces": "Archer",
+		"uniqueTo": "Liguria",
+		"movement": 2,
+		"strength": 4,
+		"rangedStrength": 7,
+		"cost": 30,
+		"requiredTech": "Archery",
+		"obsoleteTech": "Construction",
+		"upgradesTo": "Composite Bowman",
+		"attackSound": "arrow"
+	},
+	{
+		"name": "Merchant Prince",
+		"unitType": "Civilian",
+		"replaces": "Great Merchant",
+		"uniqueTo": "Sogdia",
+		"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence",
+            "Can instantly construct a [Customs house] improvement <by consuming this unit>",
+            "Is part of Great Person group [Great Person]",
+            "[This Unit] gets a name from the [Merchant] group",
+			"Great Person - [Gold]", "Unbuildable", "Uncapturable",
+			"Empire enters a [8]-turn Golden Age <by consuming this unit>", "[+25]% Gold from Great Merchant trade missions"],
+		"movement": 3
+	},
+	{
+		"name": "Explorer",
+		"unitType": "Scout",
+		"replaces": "Scout",
+		"uniqueTo": "Antartica",
+		"movement": 2,
+		"strength": 6,
+		"cost": 25,
+		"requiredTech": "Agriculture",
+		"uniques": ["Never appears as a Barbarian unit", "[+2] Movement <upon turn start> <in [Snow] tiles>", "[+8] Strength <after discovering [Steel]>", "[+22] Strength <after discovering [Replaceable Parts]>"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Knarr",
+		"unitType": "Ranged Water",
+		"uniqueTo": "Greenland",
+		"movement": 4,
+		"strength": 10,
+		"rangedStrength": 10,
+		"cost": 100,
+		"requiredTech": "Compass",
+		"obsoleteTech": "Electronics",
+		"upgradesTo": "Battleship",
+		"uniques": ["Cannot enter ocean tiles <before discovering [Astronomy]>", "[+10]% Strength bonus for [Land] units within [2] tiles"],
+		"attackSound": "arrow"
+	},
+	{
+		"name": "Marzban",
+		"unitType": "Civilian",
+		"replaces": "Great General",
+		"uniqueTo": "Zabulistan",
+		"uniques": [
+            "[+15]% Strength bonus for [{Military} {Land}] units within [2] tiles",
+            "Can instantly construct a [Citadel] improvement <by consuming this unit>",
+			"Can be earned through combat <for [Land] units>",
+            "Is part of Great Person group [General]",
+            "[This Unit] gets a name from the [General] group",
+			"Great Person - [War]", "Unbuildable", "Uncapturable",
+			"Can be purchased for [600] [Faith] [in all cities] <before the [Medieval era]>", "Can be purchased for [900] [Faith] [in all cities] <starting from the [Medieval era]>"],
+		"movement": 2
+	},
+	{
+		"name": "Inkonyane",
+		"unitType": "Sword",
+		"replaces": "Swordsman",
+		"uniqueTo": "Mzansi",
+		"movement": 3,
+		"strength": 14,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Steel",
+		"requiredResource": "Iron",
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Voromahery",
+		"unitType": "Sword",
+		"replaces": "Longswordsman",
+		"uniqueTo": "Imerina",
+		"movement": 2,
+		"strength": 21,
+		"cost": 120,
+		"requiredTech": "Steel",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Rifling",
+		"promotions": ["Malagasy Spirit"],
+		"requiredResource": "Iron",
+		"attackSound": "metalhit"
 	}
   ]

@@ -71,17 +71,6 @@
 		"requiredTech": "Calendar"
 	},
 	{
-		"name": "Alan Courthouse",
-		"replaces": "Courthouse"
-		"uniqueTo": "The Vandals"
-		"maintenance": 1,
-		"happiness": 1,
-		"hurryCostModifier": 50,
-		"uniques": ["Removes extra unhappiness from annexed cities",
-			"Can only be built <in [Annexed] cities>"],
-		"requiredTech": "Mathematics"
-	},
-	{
 		"name": "Pirate Bay",
 		"replaces": "Harbor"
 		"uniqueTo": "The Pirate Republic"
@@ -143,9 +132,9 @@
 		"uniqueTo": "The Nabataeans"
 		"culture": 1,
 		"faith": 1,
-		"uniques": ["[+25]% Great Person generation [in this city]"],
+		"uniques": ["[+25]% Great Person generation [in this city]", "Must be next to [Hill]"],
 		"hurryCostModifier": 25,
-		"maintenance": 2,
+		"maintenance": 1,
 		"requiredTech": "Theology"
 	},
 	{
@@ -224,16 +213,6 @@
 		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured"]
 	},
 	{
-		"name": "Hanseatic Warehouse",
-		"replaces": "Harbor",
-		"uniqueTo": "Danzig",
-		"cost": 120,
-		"hurryCostModifier": 25,
-		"uniques": ["[+1 Production, +2 Gold] from [Water resource] tiles [in this city]",
-			"Connects trade routes over water","Must be next to [Coast]"],
-		"requiredTech": "Compass"
-	},
-	{
 		"name": "Mbanza",
 		"replaces": "Market",
 		"uniqueTo": "Kongo",
@@ -297,20 +276,6 @@
 		"requiredTech": "Steel"
 	},
 	{
-		"name": "Medrese",
-		"replaces": "University",
-		"uniqueTo": "Seljuk",
-		"faith": 2,
-		"happiness": 1,
-		"maintenance": 2,
-		"hurryCostModifier": 15,
-		"percentStatBonus": {"science": 33},
-		"specialistSlots": {"Scientist": 3},
-		"requiredBuilding": "Library",
-		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]"],
-		"requiredTech": "Education"
-	},
-	{
 		"name": "Enclos Paroissial",
 		"replaces": "Monument",
 		"uniqueTo": "Brittany",
@@ -320,18 +285,6 @@
 		"cost": 45,
 		"hurryCostModifier": 40,
 		"uniques": ["Destroyed when the city is captured", "[+1 Faith] [in this city] <starting from the [Classical era]>"]
-	},
-	{
-		"name": "Suq",
-		"replaces": "Bank",
-		"uniqueTo": "Mogadishu",
-		"gold": 3,
-		"culture": 1,
-		"specialistSlots": {"Merchant": 2},
-		"hurryCostModifier": 15,
-		"percentStatBonus": {"gold": 25},
-		"requiredBuilding": "Market",
-		"requiredTech": "Banking"
 	},
 	{
 		"name": "Sahelian Granary",
@@ -372,17 +325,6 @@
 		"hurryCostModifier": 50,
 		"uniques": ["Removes extra unhappiness from annexed cities", "Can only be built <in [Annexed] cities>", "[Gold] cost of purchasing [All] units [-10]%"],
 		"requiredTech": "Mathematics"
-	},
-	{
-		"name": "Numismatics",
-		"uniqueTo": "Bactria"
-		"replaces": "Mint",
-		"maintenance": 0,
-		"gold": 2,
-		"happiness": 1,
-		"hurryCostModifier": 25,
-		"uniques": ["[+2 Gold] from [Gold Ore] tiles [in this city]", "[+2 Gold] from [Silver] tiles [in this city]"],
-		"requiredTech": "Currency"
 	},
 	{
 		"name": "Yadgar",
@@ -429,19 +371,6 @@
 		"uniques": ["Only available <when religion is enabled>", "[+2 Happiness] <in [Capital] cities>"]
 	},
 	{
-		"name": "Casino",
-		"uniqueTo": "Monaco",
-		"replaces": "Stock Exchange",
-		"gold": 5,
-		"happiness": 3,
-		"culture": 3,
-		"percentStatBonus": {"gold": 50},
-		"specialistSlots": {"Merchant": 3},
-		"hurryCostModifier": 15,
-		"requiredBuilding": "Bank",
-		"requiredTech": "Electricity"
-	},
-	{
 		"name": "Moravian Rampart",
 		"uniqueTo": "Great Moravia",
 		"replaces": "Castle",
@@ -454,17 +383,6 @@
 		"requiredBuilding": "Walls",
 		"requiredTech": "Chivalry",
 		"uniques": ["Destroyed when the city is captured"]
-	},
-	{
-		"name": "Temple of the Fleece",
-		"uniqueTo": "Colchis",
-		"replaces": "Temple",
-		"faith": 2,
-		"gold": 2,
-		"requiredBuilding": "Shrine",
-		"hurryCostModifier": 25,
-		"requiredTech": "Philosophy",
-		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured", "[+1 Culture, +1 Production] [in this city] <for every adjacent [Hill]>"]
 	},
 	{
 		"name": "Gusuku",
@@ -543,5 +461,120 @@
 		"hurryCostModifier": 25,
 		"uniques": ["Must be next to [Coast]", "[+1 Gold] from [Pearls] tiles [in this city]", "[+1 Culture] from [Pearls] tiles [in this city]"],
 		"requiredTech": "Sailing"
+	},
+	{
+		"name": "Agadir",
+		"uniqueTo": "the Amazigh",
+		"replaces": "Granary",
+		"food": 2,
+		"production": 1,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food] from [Deer] tiles [in this city]", "[+1 Food] from [Bananas] tiles [in this city]", "[+1 Food] from [Wheat] tiles [in this city]", "[+1 Gold] from [{unimproved} {Hill}] tiles [in this city]"],
+		"requiredTech": "Pottery"
+	},
+	{
+		"name": "Grain Deme",
+		"uniqueTo": "Cimmeria",
+		"replaces": "Workshop",
+		"maintenance": 1,
+		"production": 2,
+		"specialistSlots": {"Engineer": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"production": 10},
+		"uniques": ["[+1 Production] from [Wheat] tiles [in this city]"],
+		"requiredTech": "Metal Casting"
+	},
+	{
+		"name": "Savusauna",
+		"uniqueTo": "Finland",
+		"replaces": "Garden",
+		"uniques": ["[+25]% Great Person generation [in this city]"],
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"culture": 1,
+		"requiredTech": "Theology"
+	},
+	{
+		"name": "Castra",
+		"uniqueTo": "Liguria",
+		"replaces": "Castle",
+		"cityStrength": 7,
+		"cityHealth": 25,
+		"culture": 1,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"requiredTech": "Chivalry",
+		"uniques": ["Destroyed when the city is captured", "Can be purchased with [Culture] [in all cities]"]
+	},
+	{
+		"name": "Dargom Canal",
+		"uniqueTo": "Sogdia",
+		"replaces": "Aqueduct",
+		"maintenance": 1,
+		"food": 1,
+		"hurryCostModifier": 0,
+		"uniques": ["[40]% Food is carried over after population increases [in this city]", "[+1 Production] from [{Farm} {Fresh Water}] tiles [in this city]"],
+		"requiredTech": "Engineering"
+	},
+	{
+		"name": "Research Station",
+		"uniqueTo": "Antartica",
+		"replaces": "Research Lab",
+		"science": 6,
+		"culture": 2,
+		"happiness": 1,
+		"percentStatBonus": {"science": 50},
+		"specialistSlots": {"Scientist": 2},
+		"requiredBuilding": "Public School",
+		"maintenance": 3,
+		"requiredTech": "Plastics"
+	},
+	{
+		"name": "Seal Hunting Grounds",
+		"uniqueTo": "Greenland",
+		"gold": 2,
+		"culture": 1,
+		"production": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["Must be next to [Tundra]"],
+		"requiredTech": "Rifling"
+	},
+	{
+		"name": "Zunist Sanctuary",
+		"uniqueTo": "Zabulistan",
+		"faith": 4,
+		"culture": 1,
+		"happines": 1,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"requiredTech": "Astronomy",
+		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured"]
+	},
+	{
+		"name": "Kraals",
+		"uniqueTo": "Mzansi",
+		"replaces": "Stable",
+		"gold": 1,
+		"production": 1,
+		"cityStrength": 3,
+		"cityHealth": 10,
+		"requiredNearbyImprovedResources": ["Horses","Sheep","Cattle"],
+		"hurryCostModifier": 25,
+		"uniques": ["[+15]% Production when constructing [Mounted] units [in this city]",
+			"[+1 Production] from [Cattle] tiles [in this city]",
+			"[+1 Production] from [Horses] tiles [in this city]",
+			"[+1 Production] from [Sheep] tiles [in this city]"],
+		"requiredTech": "Horseback Riding"
+	},
+	{
+		"name": "Fiaraharmonina",
+		"uniqueTo": "Imerina",
+		"replaces": "Monument",
+		"culture": 2,
+		"production": 1,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"uniques": ["Destroyed when the city is captured", "[+1 Production] per [3] population [in this city]"]
 	}
 ]

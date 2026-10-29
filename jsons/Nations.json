@@ -21,7 +21,7 @@
 
 		"outerColor": [186, 12, 47],
 		"innerColor": [0, 32, 91],
-		"favoredReligion": "Christianity",
+		"favoredReligion": "Paganism",
 		"uniqueName": "Vikings of the Cold North",
 		"uniques":["Earn [10]% of killed [Water] unit's [Cost] as [Gold]", "May buy [Water] units with [Faith] [in all cities]", "[+20]% Strength <when fighting in [Coast] tiles> <for [Water] units>"]
 		"cities":["Oslo","Bergen","Stavanger","Trondheim","Drammen","Fredrikstad","Skien","Kristiansand","Tonsberg","Alesund",
@@ -173,7 +173,7 @@
 		"innerColor": [247, 183, 45],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Crown of Aragon",
-		"uniques":["May not annex cities", "[-25]% [Culture] [in puppeted cities]", "[-25]% [Production] [in puppeted cities]", "[-25]% [Science] [in puppeted cities]", "[+1 Happiness] per [1] population [in puppeted cities]"]
+		"uniques":["May not annex cities", "[+10]% [Culture] [in puppeted cities]", "[+10]% [Production] [in puppeted cities]", "[+10]% [Science] [in puppeted cities]", "[+25]% [Gold] [in puppeted cities]"]
 		"cities":["Zaragoza","Palermo","Catania","Messina","Siracusa","Marsala","Gela","Huesca","Teruel","Calatayud",
 			"Utebo","Monzon","Barbastro","Ejea de los Caballeros","Alcaniz","Fraga","Cuarte de Huerva","Jaca","Tarazona","Caspe","Binefar","Sabinanigo",
 			"Zuera","La Almunia de Doña Godina","Andorra","Alagon","Tauste","La Puebla de Alfindén","María de Huerva","La Muela","Borja","Villanueva de Gállego",
@@ -203,43 +203,12 @@
 		"innerColor": [105, 52, 0],
 		"favoredReligion": "Buddhism",
 		"uniqueName": "Pax Kushanica",
-		"uniques": ["[+2 Faith, +3 Culture] [in all cities] <when not at war> <starting from the [Classical era]>", "Gain [150] [Gold] <upon conquering a city> <starting from the [Classical era]>", "Gain [250] [Faith] <upon conquering a city> <starting from the [Classical era]>", "Gain [200] [Culture] <upon conquering a city> <starting from the [Classical era]>"]
+		"uniques": ["Gain [4] [Happiness] <for [5] turns> <upon conquering a city>", "Gain [4] [Happiness] <for [5] turns> <upon founding a city>"]
 		"cities": ["Peshawar","Lahore","Faisalabad","Rawalpindi","Multan","Hyderabad","Gujranwala","Karachi","Quetta","Islamabad",
 			"Srinagar","Kabul","Kandahar","Herat","Mazar-i-Sharif","Kunduz","Dushanbe","Khujand","Kulob","Tashkent",
 			"Samarkand","Bukhara","Nukus","Namangan","Andijan","Fergana","Urgench","Qarshi","Termez","Jizzakh",
 			"Zahedan","Mashhad","Kerman","Ahvaz","Birjand","Qazvin","Rasht","Chabahar","Yazd","Shiraz","Esfahan",
 			"Lucknow","Amritsar","Chandigarh","Jammu","Ludhiana"]
-        },
-	{
-		"name": "The Vandals",
-		"leaderName": "Gaiseric",
-		"adjective": ["Vandal"],
-		"startBias": ["Desert"],
-		"personality": "Gaiseric",
-		"preferredVictoryType": "Domination",
-
-		"startIntroPart1": "Gaiseric of the Vandal Kingdom, when Valentinian III was murdered and the next emperor cancelled the marriage between your child and theirs, you invaded Italy and commited the great act of the Sacking of Rome. You made many conquests in northern africa and turned a small germanic tribe into a large mediterranian power. Gaiseric, can you repeat your great conquests once more? Can you strike deep into the hearts of your enemies? Can you build a civilization that will stand the test of time?",
-
-		"declaringWar": "Surely you had to know that war would have been upon us.",
-		"attacked": "You dare to attack the combined horde of the Vandals and the Alans? Foolish!",
-		"defeated": "So you have defeated me, uh? A good battle and a great victory, but know that you will defeated too.",
-		"introduction": "I greet you, stranger.",
-
-		"neutralHello": "Hello.",
-		"hateHello": "Go away.",
-
-		"tradeRequest": "May I offer you this trade?",
-
-		"outerColor": [32, 31, 0],
-		"innerColor": [36, 153, 0],
-		"favoredReligion": "Christianity",
-		"uniqueName": "Sackers of Rome",
-		"uniques": ["Units in cities cost no Maintenance", "[+25]% [Gold] [in puppeted cities]"]
-		"cities": ["Alania","Alan Hippo Regius","Hadrumetum","Utica","Cirta","Thapsus","Tunis","Leptis Magna","Sabratha","Gafsa",
-			"Vaga","Theveste","Lambaesis","Bulla Regia","Thugga","Thysdrus","Sufetula","Clupea","Carthago Nova","Calama",
-			"Vescera","Timgad","Sitifis","Sicca Veneria","Rusadir","Capsa","Pupianum","Tacapae","Auzia","Tipasa",
-			"Caesarea","Igilgili","Saldae","Rusguniae","Volubilis","Tingis","Zilil","Banasa","Sala Colonia","Tocolosida",
-			"Rusucurru","Tubusuptu","Icosium","Rapidum","Pomaria"]
         },
 	{
 		"name": "The Pirate Republic",
@@ -327,7 +296,7 @@
 		"innerColor": [39, 38, 42],
 		"favoredReligion": "Buddhism",
 		"uniqueName": "Bod Chen Po",
-		"uniques": ["Empire enters golden age <upon conquering a city>"]
+		"uniques": ["Empire enters golden age <upon conquering a city> <when not in a Golden Age>"]
 		"cities": ["Lhasa","Shigatse","Gyantse","Chamdo","Nagqu","Nyingchi","Garze","Ngari","Xigazê","Lhünzê",
 			"Tsetang","Bayi","Nyingchi County","Nagchu","Lhorong","Rikaze","Nangqên","Barkam","Qamdo","Litang",
 			"Nagchu County","Zogang","Bomi","Dêngqên","Shannan","Rutog","Nyemo","Lhatse","Dinggyê","Saga",
@@ -387,7 +356,7 @@
 
 		"outerColor": [112, 30, 4],
 		"innerColor": [218, 145, 38],
-		"favoredReligion": "Christianity",
+		"favoredReligion": "Paganism",
 		"uniqueName": "Most Unjustly Forgotten",
 		"uniques": ["[+2 Culture] <in cities connected to the capital> <starting from the [Medieval era]>", "[+1 Production] from [Desert] tiles [in all cities] <starting from the [Medieval era]>"]
 		"cities": ["Petra","Hegra","Bosra","Avdat","Sela","Madain Saleh","Dumatha","Aila","Jauf","Rekem",
@@ -449,9 +418,9 @@
 
 		"outerColor": [53, 53, 53],
 		"innerColor": [255, 207, 1],
-		"favoredReligion": "Christianity",
+		"favoredReligion": "Paganism",
 		"uniqueName": "Irminsul",
-		"uniques": ["[+50]% [Happiness] <in cities following our religion>", "[+20]% [Faith] [in all cities] <during a Golden Age>"]
+		"uniques": ["[-50]% Natural religion spread [in all cities]", "[+50]% City Strength from defensive buildings <in cities following our religion>"]
 		"cities": ["Verden","Minden","Osnabrück","Paderborn","Bremen","Halberstadt","Hildesheim","Merseburg","Goslar","Stade",
 			"Zeitz","Quedlinburg","Nienburg","Magdeburg","Heiligenstadt","Quakenbrück","Wolfenbüttel","Lübeck","Celle",
 			"Einbeck","Ratzeburg","Lüneburg","Hameln","Brunswiek","Hammaburg","Havelberg","Elten","Scharnebeck",
@@ -480,7 +449,7 @@
 
 		"outerColor": [1, 42, 123],
 		"innerColor": [1, 188, 255],
-		"favoredReligion": "Islam",
+		"favoredReligion": "Paganism",
 		"uniqueName": "Pirates of the Great Green",
 		"uniques": ["Starts with [Sailing]", "[+2] Movement <for [Embarked] units>"]
 		"cities": ["Dor","Gaza","Ashkelon","Ashdod","Ekron","Paphos","Enkomi","Byblos","Kition","Sidon",
@@ -544,7 +513,7 @@
 		"innerColor": [1, 42, 101],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Highland Spirit",
-		"uniques": ["[+10]% Strength <when fighting in [Hill] tiles>", "All newly-trained [Land] units [in all cities] receive the [Highlands] promotion", "[+1 Culture] from every [Luxury resource]"]
+		"uniques": ["All newly-trained [Land] units [in all cities] receive the [Highlands] promotion", "[+1 Culture] from every [Luxury resource]", "[+1 Gold] from every [Luxury resource]"]
 		"cities": ["Edinburgh","Glasgow","Aberdeen","Dundee","Inverness","Stirling","Perth","Dumfries","Ayr","Inveraray",
 			"Falkirk","Paisley","Kilmarnock","Elgin","Dunfermline","Fort William","Oban","St. Andrews","Kirkwall","Lerwick",
 			"Brechin","Forfar","Melrose","Kelso","Peebles","Selkirk","Dornoch","Stranraer","Campbeltown","Thurso",
@@ -575,44 +544,12 @@
 		"innerColor": [236, 255, 233],
 		"favoredReligion": "Buddhism",
 		"uniqueName": "Empire of Kings",
-		"uniques": ["[+1 Culture] from [Farm] tiles [in all cities] <starting from the [Classical era]>", "[+1 Happiness, +1 Production] [in puppeted cities]"]
+		"uniques": ["[+2 Culture] from [Farm] tiles [in all cities] <for [2] turns> <upon conquering a city>"]
 		"cities": ["Toungoo","Prome","Bago","Taungoo","Mandalay","Monywa","Sagaing","Mingun","Pyay","Amarapura",
 			"Shwebo","Yamethin","Nyaung-U","Pakokku","Meiktila","Myitkyina","Pathein","Hinthada","Bhamo","Mawlamyine",
 			"Hpa-An","Dawei","Sittwe","Thayet","Lashio","Mogok","Pyin Oo Lwin","Hakha","Kalaw","Loikaw",
 			"Kengtung","Myeik","Myawaddy","Tachileik","Naypyidaw","Sagaing","Shan","Kawthoung","Bago","Yenangyaung",
 			"Thibaw","Wuntho","Namhkam","Mandalay","Myanaung","Pakokku","Tiddim","Haka","Ngapali"]
-        },
-	{
-		"name": "Danzig",
-		"leaderName": "Carl Jacob Burckhardt",
-		"adjective": ["Danziger"],
-		"startBias": ["Coast"],
-		"personality": "Carl Jacob Burckhardt",
-		"preferredVictoryType": "Diplomatic",
-
-		"startIntroPart1": "Carl Jacob Burckhardt, a Swiss diplomat and historian. Your career alternated between periods of academic historical research and diplomatic postings; the most prominent of the latter were League of Nations High Commissioner for the Free City of Danzig (1937–39) and President of the International Committee of the Red Cross (1945–48). Oh, Carl. Can you once again become a great leader? Can you spread your prosperity throughout the world? Can you build a civilization that will stand the test of time?",
-
-		"declaringWar": "It has been agreed that this is necessary!",
-		"attacked": "The League of Nations will prevent this aggression! I know it!",
-		"defeated": "Go ahead and take it.",
-		"introduction": "Griezi, I am Carl Jacob Burckhardt, High Commissioner for the Free City of Danzig."
-
-		"neutralHello": "Griezi.",
-		"hateHello": "...",
-
-		"tradeRequest": "This is necessary for the presevation of both of our nations.",
-
-		"outerColor": [24, 79, 138],
-		"innerColor": [255, 248, 233],
-		"favoredReligion": "Christianity",
-		"uniqueName": "Free City",
-		"uniques": ["Cannot build [Settler] units", "[+2 Happiness] <upon declaring friendship> <for [10] turns>", "May not annex cities", "[+10]% [Science] [in capital]", "[+10]% [Gold] [in capital]", "[+10]% [Culture] [in capital]"]
-		"cities": ["Danzig","Gdynia","Sopot","Westerplatte","Oliva","Langfuhr","Neufahrwasser","Ohra","Schidlitz","St. Albrecht",
-			"Schönfeld","Neugarten","Heubude","Emaus","Petershagen","Heiligenbrunn","Langgarten","Neuschottland",
-			"Saspe","Praust","Tiegenhof","Neuteich","Frauendorf","Schönbaum","Marienburg","Elbing","Zoppot",
-			"Brösen","Stolzenberg","Mattenbuden","Schönfelde","Pillau","Brösen","Heubude","Nickelswalde","Kahlbude",
-			"Altschottland","Reinhardtsdorf","Bohnsack","Krampitz","Scharfenberg","Neuteich","Oliva","Praust",
-			"Langfuhr","Neufahrwasser"]
         },
 	{
 		"name": "Kongo",
@@ -667,7 +604,7 @@
 
 		"outerColor": [205, 127, 50],
 		"innerColor": [76, 1, 1],
-		"favoredReligion": "Zoroastrianism",
+		"favoredReligion": "Paganism",
 		"uniqueName": "First Empire",
 		"uniques": ["[-20]% construction time for [Farm] improvements"]
 		"cities": ["Akkad","Akkadian Babylon","Eshnunna","Sippar","Larak","Adab","Isin","Kish","Nippur","Larsa",
@@ -779,10 +716,10 @@
 
 		"startIntroPart1": "Baldwin IV, the Leper King. You were the king of Jerusalem from 1174 until his death in 1185. Admired by your contemporaries, and later by historians for your willpower and dedication to the Latin Kingdom in the face of debilitating leprosy. Choosing competent advisers, you ruled a thriving crusader state and succeeded in protecting it from the Muslim ruler Saladin. Oh, Baldwin IV, the faith needs you once more. Can you defend against your rampaging enemies? Can you protect your faith from those looking to vanquish it? Can you build a civilization that will stand the test of time?",
 
-		"declaringWar": "For God!",
-		"attacked": "I know you will not succeed, but I applaud you for trying.",
-		"defeated": "The kingdom of God may have fallen, but not his people.",
-		"introduction": "I welcome you to my Kingdom, friend."
+		"declaringWar": "Deus Vult!",
+		"attacked": "We will not stand idly as you ravage the faithful.",
+		"defeated": "The Kingdom of Heaven may have fallen, but not his people.",
+		"introduction": "It is good to meet you, friend."
 
 		"neutralHello": "Good morning.",
 		"hateHello": "Make it quick.",
@@ -793,43 +730,12 @@
 		"innerColor": [201, 164, 0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Crusader Kings",
-		"uniques": ["[+50]% Natural religion spread [in all cities]", "[+3 Gold] <in cities following our religion> <starting from the [Medieval era]>", "[+2 Culture] <in cities following our religion>"]
+		"uniques": ["[+10]% Strength <on foreign continents>", "[+2 Faith] [in all cities] <on foreign continents>"]
 		"cities": ["Jerusalem","Crusader Acre","Jaffa","Crusader Tyre","Ascalon","Crusader Nazareth","Bethlehem","Ramla","Beirut","Sidon", 
 			"Caesarea","Tiberias","Hebron","Gaza","Safed","Nablus","Arsuf","Ibelin","Kerak","Montreal", 
 			"Belvoir","Haifa","Sepphoris","Tantura","Lydda","Emmaus","Crusader Antioch","Crusader Tripoli","Tortosa","Baghras", 
 			"Margat","Chastel Blanc","Krak des Chevaliers","Quneitra","Baalbek","Arwad","Homs","Crusader Aleppo","Ma'arrat al-Nu'man","Crusader Edessa", 
 			"Amman","Ajloun","Zara","Bosra","Pella","Gibelet","Laodicea","Marqab","Rafah"]
-        },
-	{
-		"name": "Seljuk",
-		"leaderName": "Alp Arslan",
-		"adjective": ["Seljuk"],
-		"startBias": ["River"],
-		"personality": "Alp Arslan",
-		"preferredVictoryType": "Domination",
-
-		"startIntroPart1": "Alp Arslan, the second Sultan of the Seljuk Turks. You greatly expanded the Seljuk territory and consolidated your power, defeating rivals to the south, east and northwest, and your victory over the Byzantines at the Battle of Manzikert, in 1071, ushered in the Turkmen settlement of Anatolia. Oh, Alp Arslan, the world needs you once more. Can you expand your lands to the edges of the world? Can you topple large empires and usurp their throne? Can you build a civilization that will stand the test of time?",
-
-		"declaringWar": "My empire shall expand to the edges of the world with you on the ground!",
-		"attacked": "Hah! A futile attempt, you will not defeat me!",
-		"defeated": "Ahh... My ambitions seem to have lead me to my own bitter end.",
-		"introduction": "I am Alp Arslan of the Seljuks, we come in peace... For now."
-
-		"neutralHello": "Hey.",
-		"hateHello": "Bha! Who let this insolent scum in?!",
-
-		"tradeRequest": "Come on now, you know you want this trade.",
-
-		"outerColor": [133, 1, 1],
-		"innerColor": [64, 224, 208],
-		"favoredReligion": "Islam",
-		"uniqueName": "Invaders from the Unknown",
-		"uniques": ["[+2] Sight <in [Desert] tiles>", "Free [Horseman] appears <during the [Classical era]> <upon conquering a city>", "Free [Knight] appears <during the [Medieval era]> <upon conquering a city>", "Free [Lancer] appears <during the [Renaissance era]> <upon conquering a city>", "Free [Cavalry] appears <starting from the [Industrial era]> <upon conquering a city>"]
-		"cities": ["Seljuk Merv","Nishapur","Rayy","Seljuk Hamadan","Tabriz","Isfahan","Kashgar","Herat","Bukhara","Seljuk Samarkand",
-                        "Mosul","Seljuk Aleppo","Seljuk Baghdad","Seljuk Damascus","Seljuk Konya","Seljuk Ankara","Sivas","Bursa","Kermanshah","Tbilisi",
-                        "Shiraz","Kerman","Ardabil","Khiva","Balkh","Amol","Bistam","Qazvin","Ganja",
-                        "Qom","Shamakhi","Fustat","Sari","Kufa","Basra","Mosul","Seljuk Aksaray","Urfa","Malatya",
-                        "Seljuk Antioch","Seljuk Edessa","Manzikert","Van","Ahlat","Bitlis","Khoy","Diyarbakır","Seljuk Erzurum"]
         },
 	{
 		"name": "Brittany",
@@ -861,37 +767,6 @@
 			"Carhaix","Plouha","Rosporden","Ploërmel","Quiberon","Hennebont","Tréguier","Lamballe","Loudéac",
 			"Josselin","Rostrenen","Belle-Île","Ploemeur","Lanester","Châteaulin","Locminé","Quiberon","Saint-Pol-de-Léon",
 			"Plouzané","La Roche-Bernard","Châteaubriant","Pont-l'Abbé","Cancale","La Guerche-de-Bretagne","Plomodiern"]
-        },
-	{
-		"name": "Mogadishu",
-		"leaderName": "Fakhr ad-Din",
-		"adjective": ["Mogadishan"],
-		"startBias": ["Coast"],
-		"personality": "Fakhr ad-Din",
-		"preferredVictoryType": "Diplomatic",
-
-		"startIntroPart1": "Fakhr ad-Din, Sultan of Mogadishu. You expanded the city's trade by forging key ties with regions like Arabia, India, and China. Your reign saw Mogadishu flourish as a cultural and architectural center, with grand buildings reflecting the city’s wealth and status. Through your stable governance and international diplomacy, Mogadishu became a major player in Indian Ocean trade. Oh, Fakhr ad-Din, your people need you once more. Can you strike a deal that will bring great prosperity to your lands once more? Can you manage your intricate diplomacies to prevent your own fall? Can you build a civilization that will stand the test of time?",
-
-		"declaringWar": "You have failed your people, prepare to die!",
-		"attacked": "Do not get cocky, I will take down whatever you throw at me!",
-		"defeated": "At the very least, I went down fighting...",
-		"introduction": "Greetings, may I interest you in a trade?"
-
-		"neutralHello": "Yes, why hello!",
-		"hateHello": "If you are not here for business, I do not want to hear it!.",
-
-		"tradeRequest": "Would you like to trade these resources for the sake of our prosperity?",
-
-		"outerColor": [24, 65, 102],
-		"innerColor": [250, 220, 18],
-		"favoredReligion": "Islam",
-		"uniqueName": "Golden Horn of Africa",
-		"uniques": ["[+1 Gold] from [Coast] tiles [in all cities] <after discovering [Currency]>", "[+25]% Production when constructing [Water] units [in all cities] <during a Golden Age>"]
-		"cities": ["Mogadishu","Merca","Barawa","Hafun","Kismayo","Bosaso","Hobyo","Las Khorey","El Buur","Bandar Qasim",
-			"Ras Hafun","Berbera","Saylac","Hargeisa","Eyl","Lamu","Pate","Shanga","Manda","Moyuni",
-			"Kilwa","Mogadishan Zanzibar","Unguja","Tanga","Sofala","Mombasa","Gedi","Pemba","Tudho",
-			"Bagamoyo","Malindi","Vumba","Mtwara","Dar es Salaam","Vanga","Baraawe","Lindi","Pangani","Kwale",
-			"Ruins of Gedi","Kilifi","Kua","Ras Mkumbuu","Mkokotoni"]
         },
 	{
 		"name": "Kanem-Bornu",
@@ -947,8 +822,8 @@
 		"outerColor": [0, 8, 35],
 		"innerColor": [199, 235, 255],
 		"favoredReligion": "Christianity",
-		"uniqueName": "Bosansko Superiority",
-		"uniques": ["[+10 Happiness] <for [10] turns> <upon conquering a city>", "Free [Missionary] appears <upon gaining a [Inquisitor] unit>"]
+		"uniqueName": "Stanak",
+		"uniques": ["May buy items in puppet cities", "Free [Inquisitor] appears <upon gaining a [Missionary] unit>"]
 		"cities": ["Visoko","Mostar","Banja Luka","Tuzla","Zenica","Sarajevo","Doboj","Travnik","Trebinje","Gračanica",
 			"Konjic","Goražde","Grude","Srebrenica","Cazin","Sanski Most","Livno","Bihać",
 			"Foča","Brčko","Kakanj","Prijedor","Široki Brijeg","Lukavac","Maglaj","Kladanj","Bugojno",
@@ -979,7 +854,7 @@
 		"innerColor": [247, 252, 0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Rurikid Dynasty",
-		"uniques": ["[-25]% unhappiness from the number of cities", "Free [Great General] appears <upon founding a city>"]
+		"uniques": ["[-25]% unhappiness from the number of cities", "Free [Builder] appears <upon founding a city> <while the empire is happy>"]
 		"cities": ["Kiev","Novgorod","Ladoga","Beloozero","Murom","Polotsk","Rostov","Chernigov","Smolensk","Pskov",
 			"Vyshhorod","Izborsk","Staraya Ladoga","Tmutarakan","Suzdal","Pereyaslav","Vitebsk","Yuryev","Kursk",
 			"Bryansk","Galich","Putivl","Koporye","Gorodets","Toropets","Mozhaysk","Zvenigorod","Vyatka","Kolomna",
@@ -1010,41 +885,12 @@
 		"innerColor": [255, 255, 255],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Forest of the Impaled",
-		"uniques": ["[+10]% Strength <when fighting in [your] tiles>", "[+10]% Strength <when fighting in [Forest] tiles>"]
+		"uniques": ["[+20]% Strength <when fighting in [your] tiles> <vs [Wounded] units>"]
 		"cities": ["Târgoviște","Bucharest","Curtea de Argeș","Suceava","Ploiești","Giurgiu","Câmpulung","Făgăraș","Brașov","Sibiu",
 			"Buzău","Râmnicu Vâlcea","Târgu Jiu","Craiova","Pitești","Drobeta-Turnu Severin","Focșani","Slatina","Brăila",
 			"Tulcea","Caracal","Alexandria","Galați","Mizil","Tecuci","Mangalia","Medgidia","Cernavodă","Constanța",
 			"Târnava","Sfântu Gheorghe","Lugoj","Orșova","Târgu Secuiesc","Bistrița","Reghin","Săcele",
 			"Deva","Miercurea Ciuc","Turda","Hunedoara","Alba Iulia","Zalău","Petroșani"]
-        },
-	{
-		"name": "Bactria",
-		"leaderName": "Eucratides I",
-		"adjective": ["Bactrian"],
-		"startBias": ["Grassland"],
-		"personality": "Eucratides I",
-		"preferredVictoryType": "Domination",
-
-		"startIntroPart1": "Eucratides the Great, King of Bactria. You came to power by overthrowing the Euthydemid dynasty in Bactria and soon became one of the most important Greco-Bactrian kings. You conquered large parts of northern India, and minted a vast and prestigious coinage, suggesting a rule of considerable importance and prosperity. Your immediate successors were the last Greek kings to rule in Bactria. Oh, Eucratides I, the people of Bactria need your greatness once more! Can you make your nation rise from the ashes once more? Can you defeat your foes and become great? Can you build a civilization that will stand the test of time?",
-
-		"declaringWar": "Bactria wont fall so easily!",
-		"attacked": "More lands to conquer, good.",
-		"defeated": "Defeated? Not so easily, you know that I will retu- ...Son? What are you-?!",
-		"introduction": "Lets get this over with, I'll meet you at my tent."
-
-		"neutralHello": "Welcome to my court, can I help you?",
-		"hateHello": "You dare show your face here?",
-
-		"tradeRequest": "What is a nation without its wealth?",
-
-		"outerColor": [123, 187, 255],
-		"innerColor": [86, 64, 9],
-		"favoredReligion": "Buddhism",
-		"uniqueName": "Basileia tes Baktrianes",
-		"uniques": ["New [Mounted] units start with [15] XP [in all cities]", "[+10]% Production when constructing [Mounted] units [in all cities]"]
-		"cities": ["Bactra","Demetrias","Euthydemia","Eucratidiea","Marakanda","Oxus","Caucasus","Eschate","Arachosia","Indus",
-			"Taxila","Patalene","Mathura","Margiana","Barigaza","Aristobathra","Asigramma","Peucelaitis","Simylla","Sagala",
-			"Kavisiye","Sirkap","Takht-i Sangin","Drapsaka","Termez","Bamyan","Bucephala","Surkh Kotal","Dalverzin Tepe","Tillya Tepe"]
         },
 	{
 		"name": "Afghanistan",
@@ -1070,7 +916,7 @@
 		"innerColor": [255, 255, 255],
 		"favoredReligion": "Islam",
 		"uniqueName": "Graveyard of Empires",
-		"uniques": ["All healing effects doubled <in [Friendly Land] tiles>"]
+		"uniques": ["[+20]% Strength <when fighting in [unimproved] tiles> <in [Friendly] tiles> <hidden from users>", "Comment [+20% Strength when fighting in unimproved friendly tiles]"]
 		"cities": ["Kabul","Kandahar","Herat","Mazar-i-Sharif","Jalalabad","Ghazni","Balkh","Kunduz","Faizabad","Taloqan",
  			"Lashkar Gah","Charikar","Zaranj","Khost","Baghlan","Maymana","Samangan","Pul-i-Khumri","Fayzabad","Sar-e Pol",
 			 "Farah","Sheberghan","Qalat","Panjshir","Bamyan","Wardak","Badakhshan","Logar","Uruzgan","Parwan"]
@@ -1099,7 +945,7 @@
 		"innerColor": [243,237,209],
 		"favoredReligion": "Judaism",
 		"uniqueName": "Nomadic Syncretism",
-		"uniques": ["[+25]% Natural religion spread [in all cities]", "Religion naturally spreads to cities [1] tiles away", "May choose [1] additional [Enhancer] beliefs when [enhancing] a religion"]
+		"uniques": ["May choose [1] additional [Enhancer] beliefs when [enhancing] a religion", "[+1 Gold, +1 Faith] <in cities with a [Foreign] religion>"]
 		"cities": ["Itil","Sarkel","Samandar","Atil","Balanjar","Semender","Bardha'a","Derbent","Belendzher","Tmutarakan",
 			"Kazarki","Khumar","Kerch","Tanais","Samukh","Baylagan","Shemakha","Kisi","Kondiak","Tamantarkhan",
 			"Bospor","Matrega","Phanagoria","Khalag","Kyzyl-Yar","Bershud","Samar","Saqsin","Aqsu","Shirvan",
@@ -1130,7 +976,7 @@
 		"innerColor": [54,10,10],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Consolidation",
-		"uniques": ["[+1 Production, +1 Culture] from each Trade Route <during a Golden Age>", "Gain a free [Monument] [in this city] <upon founding a city> <during a Golden Age>", "Gain a free [Monument] [in this city] <upon conquering a city> <during a Golden Age>", "[+20]% Golden Age length"]
+		"uniques": ["Gain a free [Monument] [in this city] <upon founding a city> <during a Golden Age>", "Gain a free [Monument] [in this city] <upon conquering a city> <during a Golden Age>", "[+20]% Golden Age length"]
 		"cities": ["Tbilisi","Kutaisi","Batumi","Mtskheta","Rustavi","Gori","Telavi","Zugdidi","Akhaltsikhe","Oni",
 			"Sighnaghi","Poti","Borjomi","Aspindza","Dusheti","Kaspi","Tianeti","Akhalkalaki","Gurjaani","Marneuli",
 			"Chiatura","Lagodekhi","Martvili","Ambrolauri","Kvareli","Khoni","Sagarejo","Tsalka","Dedoplistskaro","Bolnisi",
@@ -1158,40 +1004,13 @@
 
 		"outerColor": [187,197,206],
 		"innerColor": [22,52,101],
-		"favoredReligion": "Christianity",
+		"favoredReligion": "Paganism",
 		"uniqueName": "Maritime Hegemony",
 		"uniques": ["Resting point for Influence with City-States is increased by [25]", "[-25]% City-State Influence degradation", "Allied City-States provide [Gold] equal to [+25]% of what they produce for themselves"]
 		"cities": ["Muʻa","Lapaha","Heketa","Nukuʻalofa","Neiafu","Pangai","ʻEua","Tofoa","Nomuka","Uiha",
 			"Haʻafeva","Falevai","Oʻua","Mango","Kotu","Niuatoputapu","Niuafoʻou","Ata","Fonuafoʻou","Fonualei",
 			"Tafahi","Vavaʻu","Tongatapu","Haʻapai","ʻEuaiki","Kao","Tofua","Kelefesia","Moʻungaʻone","Mataʻaho",
 			"Foa","Faleloa","Koloa","Houma","Tatakamotonga","Kolonga","Pea","Kolovai","Vaini","Haveluloto"]
-        },
-	{
-		"name": "Monaco",
-		"leaderName": "Rainier III",
-		"adjective": ["Monégasque"],
-		"startBias": ["Coast"],
-		"personality": "Rainier III",
-		"preferredVictoryType": "Diplomatic",
-
-		"startIntroPart1": "Rainier III, Prince of Monaco. You were born 31 of May 1923 and reigned as the prince of Monaco from 1949 till your death in 2005. During this time, you were responsible for the transformation of Monaco's economy, shifting from its traditional casino gambling base to its current status as a tax haven and cultural destination. You also coordinated the substantial reforms of Monaco's constitution, which limited the powers of sovereign rule. Oh, Rainier III, your people need you once more. Can you reform your nation to become an economic powerhouse once more? Can you defend your small utopia from any meddling invaders? Can you build a civilization that will stand the test of time?",
-
-		"declaringWar": "Sorry, but I can see that you are a threat to this world!",
-		"attacked": "You are making a big mistake!",
-		"defeated": "My nation's wealth may now be yours, but are you able to keep it?",
-		"introduction": "Good to meet you, I am Rainier III."
-
-		"neutralHello": "Hello!",
-		"hateHello": "I assume you aren't here for a hotel room?",
-
-		"tradeRequest": "The love for trade is culture!",
-
-		"outerColor": [206,17,38],
-		"innerColor": [216,216,216],
-		"favoredReligion": "Christianity",
-		"uniqueName": "Rock of Paradise",
-		"uniques": ["Cannot build [Settler] units", "May not annex cities", "[+3 Gold, +3 Culture] from every [Great Improvement]", "[+2 Gold] from [Coast] tiles [in all cities]", "[-2 Happiness] per [1] population [in puppeted cities]"]
-		"cities": ["Monaco", "Stop cheating bruh"]
         },
 	{
 		"name": "Great Moravia",
@@ -1217,41 +1036,12 @@
 		"innerColor": [231,12,56],
 		"favoredReligion": "Christianity",
 		"uniqueName": "People of the Morava",
-		"uniques": ["Free Social Policy <upon founding a Religion>", "When spreading religion to a city, gain [10] times the amount of followers of other religions as [Culture]"]
+		"uniques": ["Free Social Policy <upon founding a Religion>", "Science gained from research agreements [+25]%"]
 		"cities": ["Veligrad","Mikulčice","Nitra","Devín","Staré Město","Uherské Hradiště","Olomouc","Vyšehrad","Spiš","Znojmo",
 			"Modrá","Bojná","Velehrad","Břeclav","Trenčín","Červeny Kameň","Komárno","Levý Hradec","Pobedim",
 			"Hradiště nad Váhom","Stará Kouřim","Uherský Brod","Moravany","Hlohovec","Holíč","Stupava","Čeklís","Uherský Ostroh",
 			"Zalavár","Nyitraivánka","Drážovce","Trnava","Skalica","Vysoké Pole","Strážnice","Rajhrad","Hradišťko",
 			"Bořivoj’s Castle","Stará Boleslav","Kopčany","Veszprém","Sázava","Sopron","Prague"]
-        },
-	{
-		"name": "Colchis",
-		"leaderName": "Saulaces",
-		"adjective": ["Colchian"],
-		"startBias": ["Hill"],
-		"personality": "Saulaces",
-		"preferredVictoryType": "Cultural",
-
-		"startIntroPart1": "Saulaces, King of Colchis. A descendant of Aeëtes, and a king of Colchis of the Argonautic fame. You were claimed to have found rich gold and silver deposits in the land of the Suani and to have furnished your palace with golden and silver structures obtained on your mythological conquest of Egypt. Oh Saulaces, your people sing songs of your legends. Can you once more create palaces of gold? Can you become a mythical legend that many consider to be real? Can you build a civilization that will stand the test of time?",
-
-		"declaringWar": "I will kill you where you stand!",
-		"attacked": "Idiotic fool!",
-		"defeated": "Gods curse you! Aaarrgghhh!!!",
-		"introduction": "Good to meet you, my golden palaces greet you!"
-
-		"neutralHello": "Good to see you.",
-		"hateHello": "I wish a curse upon you and your people!",
-
-		"tradeRequest": "We have so much gold that we lose less by giving them to you!",
-
-		"outerColor": [13,56,0],
-		"innerColor": [255,198,21],
-		"favoredReligion": "Zoroastrianism",
-		"uniqueName": "The Golden Fleece",
-		"uniques": ["[+1 Gold, +1 Faith] from [Luxury resource] tiles [in all cities]", "[-100]% maintenance cost for [Faith] buildings [in all cities]"]
-		"cities": ["Colchis","Aia","Phasis","Dioscurias","Kutaisi","Gyenos","Archaeopolis","Sarapana","Rhodopolis","Singa",
-		"Bathus","Meliboea","Petra","Trapezus","Lazica","Moschia","Sukhumi","Apsarus","Tyndaris","Cytaea",
-		"Phrixopolis","Pityus","Amisos","Iberia","Zydra","Phanagoria"]
         },
 	{
 		"name": "Ryukyu",
@@ -1277,7 +1067,7 @@
 		"innerColor": [151,60,178],
 		"favoredReligion": "Shinto",
 		"uniqueName": "Bridge of a Thousand Nations",
-		"uniques": ["[+20]% Strength <when fighting in [{Friendly} {Water}] tiles>", "Gain [250] [Gold] <upon declaring friendship>", "Gain [50] [Culture] <upon declaring friendship>"]
+		"uniques": ["[+25]% Strength <when fighting in [{Friendly} {Water}] tiles>", "Gain [250] [Gold] <upon declaring a defensive pact>"]
 		"cities": ["Shuri","Naha","Nanzan","Tomari","Nakijin","Kume","Amami","Miyakojima","Ishigaki","Katsuren",
 		"Zakimi","Nakagusuku","Urasoe","Chatan","Uezu","Nakazato","Gushikawa","Goeku","Yomitanzan","Kunigami",
 		"Iheya","Nago","Kin","Erabu","Yoron","Haneji","Tomigusuku","Kyan","Mabuni","Gushichan",
@@ -1365,9 +1155,9 @@
 
 		"outerColor": [184,115,51],
 		"innerColor": [31,42,68],
-		"favoredReligion": "Judaism",
+		"favoredReligion": "Paganism",
 		"uniqueName": "Land of Aram",
-		"uniques": ["[+50]% Production when constructing [Civilian] units [in all cities]", "[+1 Happiness] per [3] population [in puppeted cities]", "[-1 Happiness] per [1] population [in annexed cities]"]
+		"uniques": ["[+50]% Production when constructing [Civilian] units [in all cities]"]
 		"cities": ["Samal","Bit Agusi","Bit Adini","Til Barsip","Carchemish","Guzana","Arpad","Hamath","Qatna","Niya",
 			"Tell Halaf","Tell Brak","Tell Fakhariya","Tell Taban","Sikkan","Tuttul","Subat Enlil","Kinalua","Ugarit","Alalakh",
 			"Ebla","Emar","Dur Katlimmu","Ras al-Ayn","Ahsani","Shadikanni","Kahat","Taidu","Sura","Nerab","Sefire",
@@ -1395,9 +1185,9 @@
 
 		"outerColor": [0,37,9],
 		"innerColor": [194,195,194],
-		"favoredReligion": "Shinto",
+		"favoredReligion": "Paganism",
 		"uniqueName": "Ezochi",
-		"uniques": ["[+20]% Strength <when fighting in [Camp] tiles>", "[+1 Production, +1 Food] from [Fishing Boats] tiles [in all cities]", "[+1 Culture, +1 Faith] from [Camp] tiles [in all cities]"]
+		"uniques": ["[+10]% Strength <when fighting in [Camp] tiles>", "[+10]% Strength <when fighting in [Fishing Boats] tiles>", "[+1 Production, +1 Food] from [Camp] tiles [in all cities]", "[+1 Culture, +1 Faith] from [Fishing Boats] tiles [in all cities]"]
 		"cities": ["Shisamkotan","Saru","Shiraoi","Akkeshi","Abashiri","Monbetsu","Nemuro","Shibetsu","Kushiro","Rebun",
 			"Rishiri","Shakotan","Yoichi","Ishikari","Otaru","Esashi","Utashinai","Rumoi","Teshio","Wakkanai",
 			"Okushiri","Karafuto","Poronai","Nayoro","Hamatonbetsu","Betsukai","Tokachi","Chitose","Mashike","Bihoro","Akan",
@@ -1453,7 +1243,7 @@
 
 		"tradeRequest": "Are you interested in this deal I offer you?",
 
-		"outerColor": [150,150,150],
+		"outerColor": [100,100,100],
 		"innerColor": [0,255,208],
 		"favoredReligion": "Islam",
 		"uniqueName": "Code of Law",
@@ -1462,6 +1252,295 @@
 			"Siasi","Tongkil","Luuk","Hadji Panglima Tahil","Kalingalan Caluang","Pandan","Banguingui","Simunul","Sitangkai","Bongao",
 			"Mapun","Semporna","Sandakan","Lahad Datu","Kunak","Tawau","Taganak","Sibutu","Tandubas","Languyan","South Ubian",
 			"North Ubian","Turtle Islands","Balimbing","Tandu Banak","Bintulan","Likud","Bud Datu","Bud Bongao","Sanga Sanga","Tumbagaan"]
+        },
+	{
+		"name": "the Amazigh",
+		"leaderName": "Dihya",
+		"adjective": ["Amazigh"],
+		"startBias": ["Desert"],
+		"personality": "Dihya",
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": "Dihya, also known as Al-Kahina, meaning 'the Priestess'. You were known to have united various Amazigh tribes under your leadership to fight against the Muslim conquest of the Maghreb, leading the indigenous North African defense of the region then known as Numidia. You fought in multiple battles, notably defeating Umayyad forces in the Battle of Meskiana. Afterwards, you became the uncontested ruler of the whole Maghreb region, and remained so until your decisive defeat at the Battle of El Jem. Oh, Dihya. Your people once again face the threat of conquest. Can you unite those rightfully yours? Can lash back at those who try to subjugate you? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "The ground we walk will no longer tolerate your existance.",
+		"attacked": "Even this will not stop our people.",
+		"defeated": "The war is over... But our people will never bend to your will.",
+		"introduction": "I am Dihya, but my foes call me Al-Kahina. Choose what you call me carefully."
+
+		"neutralHello": "It is a pleasure seeing you.",
+		"hateHello": "Here to grovel?",
+
+		"tradeRequest": "Regardless of our strengths, trade is a mandatory thing.",
+
+		"outerColor": [23,74,56],
+		"innerColor": [217,182,93],
+		"favoredReligion": "Paganism",
+		"uniqueName": "Unconquered",
+		"uniques": ["[+25]% [Production] [in all cities] <upon losing a city> <for [5] turns>", "[+10]% Strength <when fighting in [Hill] tiles>"]
+		"cities":["Arris","Khenchela","Batna","Timgad","Lambèse","Tébessa","Biskra","Guelma","Souk Ahras","Constantine",
+			"Sétif","Cirta","Thamugadi","Madaura","Hippo Regius","Tiddis","Baghaï","Tazoult","Meskiana","Aïn Beïda",
+			"Thala","Thelepte","Tébessa Khalia","Tunis","Siga"]
+        },
+	{
+		"name": "Cimmeria",
+		"leaderName": "Leucon I",
+		"adjective": ["Cimmerian"],
+		"startBias": ["Coast"],
+		"personality": "Leucon I",
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": "Luecon I, king of Cimmeria. You continued your father's war against Theodosia and Chersonesus with the goal of annexing all the Greek colonies in the Bosporus. After that, you managed to make Sindike a vassal upon defeating Octamasades, and in an inscription from Nymphaion you are described as 'archon of the Bosporus, Theodosia, all Sindike'. You also created a foreign and trade policy outside the Black Sea, significantly with Athens, a commercial friend of the Spartocids. Oh, Leucon I, your people miss the economic prosperity you brought. Can you use your sword to strike down your enemies? Can you also use your ploughs to feed the stomachs of your people? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "Surrender at once, it will be better for everyone if you do.",
+		"attacked": "We will stand our ground, for your arrogance knows no bounds!",
+		"defeated": "I can't believe this, what did we do to deserve this?!",
+		"introduction": "The Bosporan Kingdom welcomes you."
+
+		"neutralHello": "Ah yes, I'll bring out the fine wine.",
+		"hateHello": "Our market prices are fair, especially after what you have done.",
+
+		"tradeRequest": "The world never cared for politics when their stomachs are empty.",
+
+		"outerColor": [38,61,112],
+		"innerColor": [40,180,40],
+		"favoredReligion": "Hellenism",
+		"uniqueName": "Breadbasket of the Black Sea",
+		"uniques": ["[+1 Gold] from [Wheat] tiles [in all cities]", "[+2 Gold] in cities on [Wheat] tiles"]
+		"cities":["Panticapaeum","Phanagoria","Theodosia","Nymphaeum","Myrmekion","Tiritaka","Kimmerikon","Tyritake","Hermonassa","Gorgippia",
+			"Kepoi","Tanais","Patraeus","Sindike","Achilleion","Kitey","Zephyrion","Bata","Torikos","Labrys",
+			"Iluraton","Artezian","Kepos","Nikonion","Porthmion"]
+        },
+	{
+		"name": "Finland",
+		"leaderName": "Lalli",
+		"adjective": ["Finnic"],
+		"startBias": ["Tundra"],
+		"personality": "Lalli",
+		"preferredVictoryType": "Cultural",
+
+		"startIntroPart1": "Lalli, a prosperous farmer in medieval Finland. According to the legends, the bishop converting Finland to Christianity known as Henry came to your home and ransacked the residence for food. Henry left payment for the damages, but your wife Kerttu did not mention it. In a murderous rage, you tracked down the bishop and his entourage, before eventually killing bishop Henry. After that, despite your death from supernatural ways and your depiction beneath the bishop Henry in future depictions, you have become a symbol of Finnic resistance against colonization and forced conversion, even being chosen as the 14th best Finn. Oh Lalli, your resistance drives a great fire in many people. Can you lead your people to great independence? Can you strike down those who have wronged you once more? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "The ice shall stain red with your blood!",
+		"attacked": "This transgression will never be forgotten, you will pay!",
+		"defeated": "You've marked yourself a symbol of tyranny and oppression, and me? A martyr of the people who deserve to be free.",
+		"introduction": "Welcome, our hearth burns brightly for your presence."
+
+		"neutralHello": "Is there anything we can help you with?",
+		"hateHello": "Not another step.",
+
+		"tradeRequest": "Ahh, what is better than trade over a warm ale in a cold winter night?",
+
+		"outerColor": [82,78,0],
+		"innerColor": [255,255,255],
+		"favoredReligion": "Paganism",
+		"uniqueName": "Suomenusko",
+		"uniques": ["[+1 Production] from [{Tundra} {Farm}] tiles [in all cities]", "[+1 Culture] from [{Tundra} {Forest}] tiles [in all cities] <starting from the [Renaissance era]>"]
+		"cities":["Turku","Nousiainen","Köyliö","Hämeenlinna","Tampere","Pori","Rauma","Ulvila","Porvoo","Viipuri",
+			"Raseborg","Naantali","Salo","Kokemäki","Helsinki","Espoo","Lahti","Kouvola","Savonlinna","Mikkeli",
+			"Kuopio","Oulu","Vaasa","Kokkola","Kajaani","Joensuu","Lappeenranta","Sortavala","Kemi","Rovaniemi"]
+        },
+	{
+		"name": "Liguria",
+		"leaderName": "Cycnus",
+		"adjective": ["Ligurian"],
+		"startBias": ["Coast"],
+		"personality": "Cycnus",
+		"preferredVictoryType": "Cultural",
+
+		"startIntroPart1": "Cycnus, king of Liguria. According to mythos, you were the lover of Phaeton, the son of the sun god in greek mythology. Upon his death, you fell into a great depression and sat by the river Eridanos where the gods turned you into a swan to relieve you of your misery. Yet, you continued mourning in sorrow from the loss of your lover, with your name becoming the source of the word for Swans in greek. Oh, Cycnus, you have been chosen to lead your people for you are the most known. Can you create mythos that shapes the faith and culture of countries across the seas? Can you stop the tragedy you endured from happening to anyone else? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "It is with a heavy heart that I must do this.",
+		"attacked": "I've faced far worse.",
+		"defeated": "Alas, I finally reunite with my lover...",
+		"introduction": "Greetings, I am Cycnus of Liguria. I hope we can be friends..."
+
+		"neutralHello": "Oh... Hello there.",
+		"hateHello": "Please leave me be.",
+
+		"tradeRequest": "Despite everything, we all continue to march on.",
+
+		"outerColor": [36,77,71],
+		"innerColor": [216,231,232],
+		"favoredReligion": "Hellenism",
+		"uniqueName": "The Shrill Ones",
+		"uniques": ["[+1 Gold, +1 Production] in cities on [{Coastal} {Hill}] tiles", "[+2 Gold, +2 Production] in cities on [{Coastal} {Hill}] tiles <starting from the [Medieval era]>", "[+3 Gold, +2 Culture] in cities on [{Coastal} {Hill}] tiles <starting from the [Renaissance era]>"]
+		"cities":["Genua","Albingaunum","Albintimilium","Vada Sabatia","Luna","Segesta Tigulliorum","Iria","Libarna","Dertona","Aquae Statiellae",
+			"Clastidium","Bodincus","Pollentia","Cemenelum","Nicaea","Albium Ingaunum","Savo","Intimilium","Tigullia","Luni",
+			"Chiavari","Ventimiglia","Savona","Albenga","Sarzana","La Spezia","Imperia","Finale Ligure","Rapallo","Sestri Levante"]
+        },
+	{
+		"name": "Sogdia",
+		"leaderName": "Oxyartes",
+		"adjective": ["Sogdian"],
+		"startBias": ["Oasis"],
+		"personality": "Oxyartes",
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": "Oxyartes, a Sogdian warlord. You reigned in Sogdia during the time of Alexander the Great's successes and placed your daughters and wife in a rock fortress, which was sieged down and taken by Alexander. However, Alexander treated your captured family with respect and fell in love with one of your daughters Roxana. Hearing of this news, you willingly submitted to Alexander, who appointed you the satrap of Paropamisadae where you continued to rule till your death from likely natural causes. Oh, Oxyartes. Your pragmatism is required once more. Can you find reason among a war? Can you befriend those who you once considered an enemy? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "It is human nature to take and conquer, I am sorry my friend.",
+		"attacked": "Aha! You've fallen into my trap!",
+		"defeated": "I submit, please treat my family with kindness.",
+		"introduction": "Hail stranger! I am Oxyartes! Who are you?"
+
+		"neutralHello": "Hail, friend!",
+		"hateHello": "Hello.",
+
+		"tradeRequest": "The coins of Persia, the cash of China, we have them all!",
+
+		"outerColor": [40,125,120],
+		"innerColor": [255,255,58],
+		"favoredReligion": "Zoroastrianism",
+		"uniqueName": "Cities of the Oasis",
+		"uniques": ["[+10]% Strength <when defending> <in [Oasis] tiles> <hidden from users>", "[+25]% Strength <in [Oasis] tiles> <hidden from users>", "Comment [Units and cities have no defense penalty and +25% strength while in oasises]", "[+2 Production] from [Oasis] tiles [in all cities]"]
+		"cities":["Samarkand","Bukhara","Panjikent","Kesh","Paykand","Nautaca","Maracanda","Varakhsha","Kanka","Kish",
+			"Ishtikhan","Nasaf","Zarafshan","Rabinjān","Karmana","Vabkent","Jizzakh","Khujand","Ura-Tyube","Bunjikat",
+			"Chach","Termez","Dushanbe","Kattakurgan","Urgut"]
+        },
+	{
+		"name": "Antartica",
+		"leaderName": "Roald Amundsen",
+		"adjective": ["Antartican"],
+		"startBias": ["Snow"],
+		"personality": "Roald Amundsen",
+		"preferredVictoryType": "Scientific",
+
+		"startIntroPart1": "Roald Amundsen, a Norwegian explorer. From 1903 to 1906, you led the first expedition to successfully traverse the Northwest Passage. You left Norway in June 1910 and reached Antarctica in January 1911. Your party established a camp at the Bay of Whales and a series of supply depots on the Ross Ice Shelf before setting out for the pole in October. The party of five, led by you, became the first to reach the South Pole on 14 December 1911. Following a failed attempt in 1918 to reach the North Pole, you began planning for an aerial expedition, and on 12 May 1926, you and 15 other men became the first explorers verified to have reached the North Pole. Oh, Roald Amundsen, your love for exploration fuels the ambitions of your people. Can you do the impossible once more? Can you do it a whopping second time? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "We will paint the snow red in your blood!",
+		"attacked": "Make sure to bring winter clothes.",
+		"defeated": "How?! Just how?!",
+		"introduction": "I wasn't expecting anyone to be here... Hello!"
+
+		"neutralHello": "Good to see you!",
+		"hateHello": "Oh not again.",
+
+		"tradeRequest": "I wasn't paid for the journey, so we have to make money somehow.",
+
+		"outerColor": [255,255,255],
+		"innerColor": [159,177,218],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Ice Sheet",
+		"uniques": ["[+1 Food, +1 Production] from [Snow] tiles [in all cities] <starting from the [Classical era]>", "[+1 Food, +1 Production] from [Snow] tiles [in all cities] <starting from the [Medieval era]>", "[+1 Food, +1 Production] from [Snow] tiles [in all cities] <starting from the [Renaissance era]>", "[+1 Food, +1 Production, +2 Science] from [Snow] tiles [in all cities] <starting from the [Industrial era]>", "[+2 Science] from [Snow] tiles [in all cities] <starting from the [Modern era]>"]
+		"cities":["Framheim","Amundsen-Scott","McMurdo","Scott Base","Vostok","Mirny","Mawson","Davis","Casey","Dumont d'Urville",
+			"Concordia","Neumayer","Halley","Rothera","Palmer","Esperanza","Marambio","Syowa","Zhongshan","Great Wall",
+			"Bharati","Troll","SANAE IV","Princess Elisabeth","Vernadsky"]
+        },
+	{
+		"name": "Greenland",
+		"leaderName": "Erik the Red",
+		"adjective": ["Greenlandian"],
+		"startBias": ["Coast"],
+		"personality": "Erik the Red",
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": "Erik the Red, the settler of Greenland. When your father was banished from Norway, your family sailed west to Iceland. During your life in Iceland, you married and had four children, including the Icelandic explorer Leif Erikson. Around the year of 982, you were exiled from Iceland for three years, during which time you explored Greenland, eventually culminating in your founding of the first successful European settlement on the island. Oh, Erik Thorvaldsson. Your stories spread curiosity and ambition in many others. Can you find a new home for you and your family? Can you defend it from those who try to pry it from you? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "I must say that you very much deserved this.",
+		"attacked": "And why is this? You're a fool!",
+		"defeated": "Why couldn't you have just left me alone?!",
+		"introduction": "Ahh, a stranger! I am Erik Thorvaldsson, it is nice to meet you."
+
+		"neutralHello": "Hello friend!",
+		"hateHello": "Leave as soon as you are finished!",
+
+		"tradeRequest": "You'd be surprised how many resources I have!",
+
+		"outerColor": [70,124,89],
+		"innerColor": [214,209,196],
+		"favoredReligion": "Paganism",
+		"uniqueName": "World's Largest Island",
+		"uniques": ["[+2 Happiness] in cities on [{Coastal} {Tundra}] tiles", "[+1 Gold] from [Fishing Boats] tiles [in all cities]"]
+		"cities":["Brattahlid","Garðar","Hvalsey","Herjolfsnes","Dyrnæs","Einarsfjord","Eriksfjord","Ketilsfjord","Vestribyggð","Eystibyggð",
+			"Sandnes","Gardar Cathedral","Qassiarsuk","Qaqortoq","Narsaq","Nanortalik","Nuuk","Paamiut","Sisimiut","Ilulissat",
+			"Qeqertarsuaq","Uummannaq","Tasiilaq","Ittoqqortoormiit","Kangerlussuaq"]
+        },
+	{
+		"name": "Zabulistan",
+		"leaderName": "Rutbil",
+		"adjective": ["Zabulistani"],
+		"startBias": ["Hill"],
+		"personality": "Rutbil",
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Rutbil, founder of the Zunbil dynasty. Not much is known about you or your fellow rulers of the Zunbil Dynasty, but what is known is your unique sun-worshipping faith that has gained quite the attention in the modern day. Oh, Rutbil. The sun calls for you once more. Can you show the world its brightness? Can you scorch your foes with its power? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "Your carcasses will be rotten in the blazing heat of our gods!",
+		"attacked": "Ha! Haha! This fool thinks they stand a chance!",
+		"defeated": "No! No! We've been abandoned! Why?!",
+		"introduction": "Praise the sun! A stranger!"
+
+		"neutralHello": "Praise the sun!",
+		"hateHello": "Leave quickly!",
+
+		"tradeRequest": "The source of life itself has blessed us with immense wealth!",
+
+		"outerColor": [156,61,50],
+		"innerColor": [214,182,91],
+		"favoredReligion": "Paganism",
+		"uniqueName": "Church of Zun",
+		"uniques": ["[+1 Faith] from [Mountain] tiles [in all cities]", "Empire enters golden age <after founding a Pantheon>", "Empire enters golden age <after founding a religion>"]
+		"cities":["Ghazni","Zamindawar","Bost","Rakhwad","Sakkawand","Qalat","Gardez","Kandahar","Bust","Zaranj",
+			"Arghandab","Tapa Sardar","Shinkay","Musa Qala","Tirin Kot","Zabulistani Kabul","Kapisa","Bamiyan","Ghor","Uruzgan"]
+        },
+	{
+		"name": "Mzansi",
+		"leaderName": "Hintsa ka-Khawuta",
+		"adjective": ["Mzansi"],
+		"startBias": ["Coast"],
+		"personality": "Hintsa ka-Khawuta",
+		"preferredVictoryType": "Cultural",
+
+		"startIntroPart1": "Hintsa ka-Khawuta. King of the Xhosa Kingdom. Your ancestor, King Tshawe was the founder of this kingdom. During your 15-year reign from 1820 to 1835, your kingdom was at its absolute peak, stretching from the Mbhashe River, south of Mthatha, to the Gamtoos River (Xelexwa in isiXhosa), North East of the Garden Route. Oh, Hintsa ka-Khawuta. Your greatness is required by your people once more. Can you march your armies to crush your foes? Can you spread your kingdom to heights greater than ever before? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "Nihambe kakuhle my friend, it is time for you to go!",
+		"attacked": "Uthetha ukuthini?!",
+		"defeated": "Uxolo! Uxolo!",
+		"introduction": "Molo, I am Hintsa ka-Khawuta. King of the Xhosa. Ngubani igama lakho?"
+
+		"neutralHello": "Ndingakunceda?",
+		"hateHello": "Thetha!",
+
+		"tradeRequest": "It is only natural that we trade!",
+
+		"outerColor": [229,216,190],
+		"innerColor": [36,76,102],
+		"favoredReligion": "Paganism",
+		"uniqueName": "Azania",
+		"uniques": ["[+1 Culture] from [Pasture] tiles [in all cities]", "[+10]% Strength <when defending> <upon being declared war on by [Major] Civilizations> <for [5] turns>"]
+		"cities":["Mapungubwe","Schroda","Thulamela","Thaba Bosiu","Mangaung","Makhado","Tshwane","eMakhosini",
+			"KwaDukuza","Bulawayo","Maseru","Ondini","Nongoma","Dithakong","Kuruman","Taung","Marothodi","Kaditshwene",
+			"Makwassie","Dzata","Mosega","Klipdrift","Makhonjwa"]
+        },
+	{
+		"name": "Imerina",
+		"leaderName": "Andrianampoinimerina",
+		"adjective": ["Imerinan"],
+		"startBias": ["Coast"],
+		"personality": "Andrianampoinimerina",
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Andrianampoinimerina. King of Imerina. Your reign was marked by the reunification of Imerina following 77 years of civil war, and the subsequent expansion of your kingdom into neighboring territories, thereby initiating the unification of Madagascar under Merina rule. After your death and in the modern day, you are considered a cultural hero and holds near mythic status among the Merina people, and is considered one of the greatest military and political leaders in the history of Madagascar. Oh, Andrianampoinimerina. Madagascar raises their swords for you. Can you bring stability to your great nation once more? Can you unite the people you consider yours for the last time? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "Tonga ny fotoana hahafatesanao!",
+		"attacked": "Saha! Ahaha!",
+		"defeated": "Miparitaka... Like the wind...",
+		"introduction": "Faly mihaona aminao! It is good to meet you vahiny!"
+
+		"neutralHello": "Salama!",
+		"hateHello": "Avelao aho!",
+
+		"tradeRequest": "I hope you have money! My goods are not cheap!",
+
+		"outerColor": [242,238,207],
+		"innerColor": [202,82,68],
+		"favoredReligion": "Paganism",
+		"uniqueName": "Madagascar",
+		"uniques": ["[+1 Food] <in cities connected to the capital>", "[5]% Food is carried over after population increases [in all cities]"]
+		"cities":["Antananarivo","Ambohimanga","Alasora","Ilafy","Ambohidratrimo","Ambohitantely","Ambohitrabiby","Ankazobe","Mantasoa",
+			"Antsirabe","Ambatondrazaka","Fianarantsoa","Toamasina","Mahajanga","Toliara","Antsiranana","Morondava","Mananjary","Ambositra",
+			"Vatomandry","Farafangana","Manakara","Sambava","Maroantsetra","Tôlanaro"]
 	},
 	// City-States, continue from above if you want to add new civs, not below!
 	{

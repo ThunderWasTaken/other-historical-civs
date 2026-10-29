@@ -22,5 +22,9 @@
       	{
         	"name": "Tonga Time",
 		"uniques": ["Double movement in [Ocean]", "[+1] Sight"]
+	},
+      	{
+        	"name": "Malagasy Spirit",
+		"uniques": ["[+10]% Strength <when fighting in [Friendly] tiles>", "[+1] Sight <in [Friendly] tiles>", "[+10]% maintenance costs"]
       	},
 ]
