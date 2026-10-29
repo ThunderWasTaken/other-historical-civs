@@ -1857,6 +1857,36 @@
           "Freedom": 9,
           "Autocracy": 1,
           "Order": 5
+    }
+  },
+  {
+        "name": "Andrianampoinimerina",
+      "culture": 8,
+      "faith": 4,
+      "food": 3,
+      "gold": 3,
+      "happiness": 7,
+      "production": 6,
+      "science": 6,
+      "military": 9,
+      "aggressive": 5,
+      "declareWar": 8,
+      "commerce": 6,
+      "diplomacy": 3,
+      "loyal": 5,
+      "expansion": 9,
+
+      "priorities": {
+          "Tradition": 7,
+          "Liberty": 4,
+          "Honor": 8,
+          "Commerce": 4,
+          "Patronage": 4,
+          "Piety": 4,
+          "Rationalism": 7,
+          "Freedom": 5,
+          "Autocracy": 5,
+          "Order": 3
       }
   }
 ]
