@@ -1,17 +1,11 @@
 this mod will add new historical civs into unciv.
 
 
-Finished (in order of being finished first to last): Norway, Mali, Western Rome, Wales, Switzerland, Aragon, Kushan, Pirate Republic, Guarani, Tibet, Funan, Lithuania, Saxony, The Sea People, Bulgaria, Scotland, Burma (formerly Toungoo), Kongo, Akkad, Croatia, Xiongnu, Rashidun, Jerusalem, Seljuk, Brittany, Kanem-Bornu, Bosnia, Kievan Rus, Wallachia, Afghanistan, Khazaria, Georgia, Tonga, Great Moravia, Ryukyu, Dai Viet, Sicily, the Arameans, Ainu Mosir, Dali, the Amazigh, Cimmeria, Finland, Liguria,
+Finished (in order of being finished first to last): Norway, Mali, Western Rome, Wales, Switzerland, Aragon, Kushan, Pirate Republic, Guarani, Tibet, Funan, Lithuania, Saxony, The Sea People, Bulgaria, Scotland, Burma (formerly Toungoo), Kongo, Akkad, Croatia, Xiongnu, Rashidun, Jerusalem, Seljuk, Brittany, Kanem-Bornu, Bosnia, Kievan Rus, Wallachia, Afghanistan, Khazaria, Georgia, Tonga, Great Moravia, Ryukyu, Dai Viet, Sicily, the Arameans, Ainu Mosir, Dali, the Amazigh, Cimmeria, Finland, Liguria, Sogdia, Antartica, Greenland, Zabulistan, Mzansi, Imerina
 
 Removed Civs: Holy Romans, Frisia, Khwarazm, Mapuche, Australia, Colchis, Baktria, The Vandals, Danzig, Mogadishu, Monaco, the Seljuks
 
-To do list:
-- Remove Colchis, Baktria, The Vandals, Danzig, Mogadishu, Monaco, and the Seljuks. (DONE!)
-- Rework Wallachia, Bosnia, Burma, Kushan, Ryukyu, Saxony, the Arameans, Afghanistan, Ainu Mosir, Aragon, Georgia, Great Moravia, Jerusalem, and Khazaria. (DONE!)
-- Improve the icons of Dai Viet, Great Moravia, Kongo, Kushan, Afghanistan, and Sicily. (DONE!)
-- Improve the colors of the Sulu. (DONE!)
-- Nerf Tibet and the Kievan Rus. (DONE!)
-- Add new civs to replace the ones that were removed.
+
 
 
 Credits: 
