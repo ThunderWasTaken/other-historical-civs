@@ -1422,7 +1422,7 @@
 		"innerColor": [159,177,218],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Ice Sheet",
-		"uniques": ["[+1 Food, +1 Production] from [Snow] tiles [in all cities]", "[+1 Food, +1 Production] from [Snow] tiles [in all cities] <starting from the [Classical era]>", "[+1 Food, +1 Production] from [Snow] tiles [in all cities] <starting from the [Medieval era]>", "[+1 Food, +1 Production] from [Snow] tiles [in all cities] <starting from the [Renaissance era]>", "[+1 Food, +1 Production, +2 Science] from [Snow] tiles [in all cities] <starting from the [Industrial era]>", "[+3 Science] from [Snow] tiles [in all cities] <starting from the [Modern era]>"]
+		"uniques": ["[+1 Food, +1 Production] from [Snow] tiles [in all cities] <starting from the [Classical era]>", "[+1 Food, +1 Production] from [Snow] tiles [in all cities] <starting from the [Medieval era]>", "[+1 Food, +1 Production] from [Snow] tiles [in all cities] <starting from the [Renaissance era]>", "[+1 Food, +1 Production, +2 Science] from [Snow] tiles [in all cities] <starting from the [Industrial era]>", "[+2 Science] from [Snow] tiles [in all cities] <starting from the [Modern era]>"]
 		"cities":["Framheim","Amundsen-Scott","McMurdo","Scott Base","Vostok","Mirny","Mawson","Davis","Casey","Dumont d'Urville",
 			"Concordia","Neumayer","Halley","Rothera","Palmer","Esperanza","Marambio","Syowa","Zhongshan","Great Wall",
 			"Bharati","Troll","SANAE IV","Princess Elisabeth","Vernadsky"]
