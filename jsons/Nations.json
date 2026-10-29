@@ -1502,7 +1502,7 @@
 		"neutralHello": "Ndingakunceda?",
 		"hateHello": "Thetha!",
 
-		"tradeRequest": "The source of life itself has blessed us with immense wealth!",
+		"tradeRequest": "It is only natural that we trade!",
 
 		"outerColor": [229,216,190],
 		"innerColor": [36,76,102],
@@ -1512,6 +1512,35 @@
 		"cities":["Mapungubwe","Schroda","Thulamela","Thaba Bosiu","Mangaung","Makhado","Tshwane","eMakhosini",
 			"KwaDukuza","Bulawayo","Maseru","Ondini","Nongoma","Dithakong","Kuruman","Taung","Marothodi","Kaditshwene",
 			"Makwassie","Dzata","Mosega","Klipdrift","Makhonjwa"]
+        },
+	{
+		"name": "Imerina",
+		"leaderName": "Andrianampoinimerina",
+		"adjective": ["Imerinan"],
+		"startBias": ["Coast"],
+		"personality": "Andrianampoinimerina",
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Andrianampoinimerina. King of Imerina. Your reign was marked by the reunification of Imerina following 77 years of civil war, and the subsequent expansion of your kingdom into neighboring territories, thereby initiating the unification of Madagascar under Merina rule. After your death and in the modern day, you are considered a cultural hero and holds near mythic status among the Merina people, and is considered one of the greatest military and political leaders in the history of Madagascar. Oh, Andrianampoinimerina. Madagascar raises their swords for you. Can you bring stability to your great nation once more? Can you unite the people you consider yours for the last time? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "Tonga ny fotoana hahafatesanao!",
+		"attacked": "Saha! Ahaha!",
+		"defeated": "Miparitaka... Like the wind...",
+		"introduction": "Faly mihaona aminao! It is good to meet you vahiny!"
+
+		"neutralHello": "Salama!",
+		"hateHello": "Avelao aho!",
+
+		"tradeRequest": "I hope you have money! My goods are not cheap!",
+
+		"outerColor": [242,238,207],
+		"innerColor": [202,82,68],
+		"favoredReligion": "Paganism",
+		"uniqueName": "Madagascar",
+		"uniques": ["[+1 Food] <in cities connected to the capital>", "[5]% Food is carried over after population increases [in all cities]"]
+		"cities":["Antananarivo","Ambohimanga","Alasora","Ilafy","Ambohidratrimo","Ambohitantely","Ambohitrabiby","Ankazobe","Mantasoa",
+			"Antsirabe","Ambatondrazaka","Fianarantsoa","Toamasina","Mahajanga","Toliara","Antsiranana","Morondava","Mananjary","Ambositra",
+			"Vatomandry","Farafangana","Manakara","Sambava","Maroantsetra","Tôlanaro"]
 	},
 	// City-States, continue from above if you want to add new civs, not below!
 	{
