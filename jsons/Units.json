@@ -688,7 +688,7 @@
 		"name": "Explorer",
 		"unitType": "Scout",
 		"replaces": "Scout",
-		"uniqueTo": "Antartica",
+		"uniqueTo": "Antarctica",
 		"movement": 2,
 		"strength": 6,
 		"cost": 25,
