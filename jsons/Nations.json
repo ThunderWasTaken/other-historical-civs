@@ -1399,9 +1399,9 @@
 			"Chach","Termez","Dushanbe","Kattakurgan","Urgut"]
         },
 	{
-		"name": "Antartica",
+		"name": "Antarctica",
 		"leaderName": "Roald Amundsen",
-		"adjective": ["Antartican"],
+		"adjective": ["Antarctican"],
 		"startBias": ["Snow"],
 		"personality": "Roald Amundsen",
 		"preferredVictoryType": "Scientific",
