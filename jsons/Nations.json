@@ -854,7 +854,7 @@
 		"innerColor": [247, 252, 0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Rurikid Dynasty",
-		"uniques": ["[-25]% unhappiness from the number of cities", "Free [Worker] appears <upon founding a city> <while the empire is happy>"]
+		"uniques": ["[-25]% unhappiness from the number of cities", "Free [Worker] appears <upon founding a city> <while the empire is happy> <starting from the [Classical era]>"]
 		"cities": ["Kiev","Novgorod","Ladoga","Beloozero","Murom","Polotsk","Rostov","Chernigov","Smolensk","Pskov",
 			"Vyshhorod","Izborsk","Staraya Ladoga","Tmutarakan","Suzdal","Pereyaslav","Vitebsk","Yuryev","Kursk",
 			"Bryansk","Galich","Putivl","Koporye","Gorodets","Toropets","Mozhaysk","Zvenigorod","Vyatka","Kolomna",
