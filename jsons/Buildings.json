@@ -519,7 +519,7 @@
 	},
 	{
 		"name": "Research Station",
-		"uniqueTo": "Antartica",
+		"uniqueTo": "Antarctica",
 		"replaces": "Research Lab",
 		"science": 6,
 		"culture": 2,
@@ -568,7 +568,7 @@
 		"requiredTech": "Horseback Riding"
 	},
 	{
-		"name": "Fiaraharmonina",
+		"name": "Fiarahamonina",
 		"uniqueTo": "Imerina",
 		"replaces": "Monument",
 		"culture": 2,
